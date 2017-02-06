@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "andrew-d",
+      "name": "emoji256",
+      "href": "https://github.com/andrew-d/emoji256",
+      "description": "Base256 encoding with emoji",
+      "language": "Rust",
+      "stars": 47,
+      "forks": 1
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 4792,
+      "forks": 127
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 1512,
+      "forks": 67
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 538,
+      "forks": 18
+    },
+    {
+      "author": "jonhoo",
+      "name": "rust-evmap",
+      "href": "https://github.com/jonhoo/rust-evmap",
+      "description": "A lock-free, eventually consistent, concurrent multi-value map.",
+      "language": "Rust",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 20256,
+      "forks": 3848
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 3282,
+      "forks": 107
+    },
+    {
+      "author": "kud1ing",
+      "name": "awesome-rust",
+      "href": "https://github.com/kud1ing/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 3720,
+      "forks": 239
+    },
+    {
+      "author": "redox-os",
+      "name": "redox",
+      "href": "https://github.com/redox-os/redox",
+      "description": "Redox: A Rust Operating System",
+      "language": "Rust",
+      "stars": 5868,
+      "forks": 352
+    },
+    {
+      "author": "das-labor",
+      "name": "panopticon",
+      "href": "https://github.com/das-labor/panopticon",
+      "description": "A libre cross-platform disassembler.",
+      "language": "Rust",
+      "stars": 1089,
+      "forks": 71
+    },
+    {
+      "author": "lloydmeta",
+      "name": "frunk",
+      "href": "https://github.com/lloydmeta/frunk",
+      "description": "Funktional generic programming in Rust: HList, Generic, Validated, Monoid and friends.",
+      "language": "Rust",
+      "stars": 85,
+      "forks": 5
+    },
+    {
+      "author": "iron",
+      "name": "staticfile",
+      "href": "https://github.com/iron/staticfile",
+      "description": "Static file-serving middleware for the Iron web framework.",
+      "language": "Rust",
+      "stars": 49,
+      "forks": 48
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "piston-examples",
+      "href": "https://github.com/PistonDevelopers/piston-examples",
+      "description": "A collection of examples using the Piston game engine",
+      "language": "Rust",
+      "stars": 119,
+      "forks": 55
+    },
+    {
+      "author": "bluss",
+      "name": "petgraph",
+      "href": "https://github.com/bluss/petgraph",
+      "description": "Graph data structure library for Rust.",
+      "language": "Rust",
+      "stars": 185,
+      "forks": 27
+    },
+    {
+      "author": "Gekkio",
+      "name": "imgui-rs",
+      "href": "https://github.com/Gekkio/imgui-rs",
+      "description": "Rust bindings for ImGui",
+      "language": "Rust",
+      "stars": 126,
+      "forks": 22
+    },
+    {
+      "author": "exercism",
+      "name": "xrust",
+      "href": "https://github.com/exercism/xrust",
+      "description": "Exercism Exercises in Rust",
+      "language": "Rust",
+      "stars": 103,
+      "forks": 63
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 5871,
+      "forks": 190
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 4660,
+      "forks": 223
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 3734,
+      "forks": 270
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3198,
+      "forks": 296
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-by-example",
+      "href": "https://github.com/rust-lang/rust-by-example",
+      "description": "Learn Rust with examples (Live code editor included)",
+      "language": "Rust",
+      "stars": 2350,
+      "forks": 333
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2246,
+      "forks": 391
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2053,
+      "forks": 503
+    },
+    {
+      "author": "phildawes",
+      "name": "racer",
+      "href": "https://github.com/phildawes/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 1925,
+      "forks": 193
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 1908,
+      "forks": 228
+    }
+  ]
+}
