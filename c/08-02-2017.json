@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "squeaky-pl",
+      "name": "japronto",
+      "href": "https://github.com/squeaky-pl/japronto",
+      "description": "Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+      "language": "C",
+      "stars": 2861,
+      "forks": 109
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 4199,
+      "forks": 460
+    },
+    {
+      "author": "zserge",
+      "name": "partcl",
+      "href": "https://github.com/zserge/partcl",
+      "description": "ParTcl - a micro Tcl implementation",
+      "language": "C",
+      "stars": 101,
+      "forks": 5
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 41596,
+      "forks": 15947
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 10945,
+      "forks": 3464
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 10930,
+      "forks": 842
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 21673,
+      "forks": 8143
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 18694,
+      "forks": 1424
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 8543,
+      "forks": 1680
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16169,
+      "forks": 9140
+    },
+    {
+      "author": "upx",
+      "name": "upx",
+      "href": "https://github.com/upx/upx",
+      "description": "UPX - the Ultimate Packer for eXecutables",
+      "language": "C",
+      "stars": 491,
+      "forks": 72
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "href": "https://github.com/skywind3000/kcp",
+      "description": "KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": 2186,
+      "forks": 437
+    },
+    {
+      "author": "google",
+      "name": "eddystone",
+      "href": "https://github.com/google/eddystone",
+      "description": "Specification for Eddystone, an open beacon format from Google",
+      "language": "C",
+      "stars": 2308,
+      "forks": 534
+    },
+    {
+      "author": "keepassxreboot",
+      "name": "keepassxc",
+      "href": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross platform community driven port of the windows application “Keepass Password Safe”.",
+      "language": "C",
+      "stars": 853,
+      "forks": 47
+    },
+    {
+      "author": "cyring",
+      "name": "CoreFreq",
+      "href": "https://github.com/cyring/CoreFreq",
+      "description": "CoreFreq is a CPU monitoring software designed for the 64-bits Processors.",
+      "language": "C",
+      "stars": 124,
+      "forks": 6
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 11283,
+      "forks": 3810
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 11476,
+      "forks": 1399
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 4124,
+      "forks": 2192
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11276,
+      "forks": 799
+    },
+    {
+      "author": "RedisLabsModules",
+      "name": "RediSearch",
+      "href": "https://github.com/RedisLabsModules/RediSearch",
+      "description": "FullText Search module for redis",
+      "language": "C",
+      "stars": 183,
+      "forks": 15
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "href": "https://github.com/cesanta/mongoose",
+      "description": "Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.",
+      "language": "C",
+      "stars": 3427,
+      "forks": 1068
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 8319,
+      "forks": 979
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 5733,
+      "forks": 944
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 4665,
+      "forks": 390
+    },
+    {
+      "author": "Tencent",
+      "name": "xLua",
+      "href": "https://github.com/Tencent/xLua",
+      "description": "xLua is a hot-fix solution plugin for Unity, it supports android, ios, windows, osx, etc.",
+      "language": "C",
+      "stars": 1286,
+      "forks": 418
+    }
+  ]
+}
