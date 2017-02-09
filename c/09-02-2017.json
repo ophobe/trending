@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "squeaky-pl",
+      "name": "japronto",
+      "href": "https://github.com/squeaky-pl/japronto",
+      "description": "Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+      "language": "C",
+      "stars": 2910,
+      "forks": 114
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 41632,
+      "forks": 15961
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 10977,
+      "forks": 3470
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 18725,
+      "forks": 1425
+    },
+    {
+      "author": "artkond",
+      "name": "Invoke-Vnc",
+      "href": "https://github.com/artkond/Invoke-Vnc",
+      "description": "Powershell VNC injector",
+      "language": "C",
+      "stars": 39,
+      "forks": 6
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 21692,
+      "forks": 8150
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16183,
+      "forks": 9156
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 8560,
+      "forks": 1688
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 10954,
+      "forks": 842
+    },
+    {
+      "author": "google",
+      "name": "fuzzer-test-suite",
+      "href": "https://github.com/google/fuzzer-test-suite",
+      "description": "Set of tests for fuzzing engines",
+      "language": "C",
+      "stars": 144,
+      "forks": 27
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 4218,
+      "forks": 462
+    },
+    {
+      "author": "deepmind",
+      "name": "lab",
+      "href": "https://github.com/deepmind/lab",
+      "description": "A customisable 3D platform for agent-based AI research",
+      "language": "C",
+      "stars": 3301,
+      "forks": 598
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 1788,
+      "forks": 752
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6165,
+      "forks": 3095
+    },
+    {
+      "author": "Tencent",
+      "name": "xLua",
+      "href": "https://github.com/Tencent/xLua",
+      "description": "xLua is a hot-fix solution plugin for Unity, it supports android, ios, windows, osx, etc.",
+      "language": "C",
+      "stars": 1298,
+      "forks": 420
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "href": "https://github.com/cesanta/mongoose",
+      "description": "Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.",
+      "language": "C",
+      "stars": 3438,
+      "forks": 1069
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 5742,
+      "forks": 946
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "href": "https://github.com/skywind3000/kcp",
+      "description": "KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": 2196,
+      "forks": 440
+    },
+    {
+      "author": "upx",
+      "name": "upx",
+      "href": "https://github.com/upx/upx",
+      "description": "UPX - the Ultimate Packer for eXecutables",
+      "language": "C",
+      "stars": 502,
+      "forks": 73
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 8219,
+      "forks": 464
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 4707,
+      "forks": 343
+    },
+    {
+      "author": "WhisperSystems",
+      "name": "Signal-Android",
+      "href": "https://github.com/WhisperSystems/Signal-Android",
+      "description": "A private messenger for Android.",
+      "language": "C",
+      "stars": 7371,
+      "forks": 1989
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 4890,
+      "forks": 649
+    },
+    {
+      "author": "torch",
+      "name": "torch7",
+      "href": "https://github.com/torch/torch7",
+      "description": "http://torch.ch",
+      "language": "C",
+      "stars": 6333,
+      "forks": 1854
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 8327,
+      "forks": 980
+    }
+  ]
+}
