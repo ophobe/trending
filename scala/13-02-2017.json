@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 6537,
+      "forks": 3678
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 11664,
+      "forks": 10932
+    },
+    {
+      "author": "intel-analytics",
+      "name": "BigDL",
+      "href": "https://github.com/intel-analytics/BigDL",
+      "description": "BigDL: Distributed Deep Learning Library for Apache Spark",
+      "language": "Scala",
+      "stars": 1437,
+      "forks": 231
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Akka Project",
+      "language": "Scala",
+      "stars": 6675,
+      "forks": 2118
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 7679,
+      "forks": 1958
+    },
+    {
+      "author": "47deg",
+      "name": "nine-cards-v2",
+      "href": "https://github.com/47deg/nine-cards-v2",
+      "description": "An Open Source Android Launcher built with Scala on Android",
+      "language": "Scala",
+      "stars": 108,
+      "forks": 4
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 228,
+      "forks": 93
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & github API compatibility",
+      "language": "Scala",
+      "stars": 6168,
+      "forks": 783
+    },
+    {
+      "author": "pathikrit",
+      "name": "better-files",
+      "href": "https://github.com/pathikrit/better-files",
+      "description": "Simple, safe and intuitive Scala I/O",
+      "language": "Scala",
+      "stars": 762,
+      "forks": 51
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 1458,
+      "forks": 214
+    },
+    {
+      "author": "agourlay",
+      "name": "cornichon",
+      "href": "https://github.com/agourlay/cornichon",
+      "description": "Scala DSL for testing HTTP JSON API",
+      "language": "Scala",
+      "stars": 102,
+      "forks": 9
+    },
+    {
+      "author": "databricks",
+      "name": "spark-avro",
+      "href": "https://github.com/databricks/spark-avro",
+      "description": "Avro support for Spark, SQL, and DataFrames",
+      "language": "Scala",
+      "stars": 309,
+      "forks": 171
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "lichess.org: the forever free, adless and open source chess server.",
+      "language": "Scala",
+      "stars": 2890,
+      "forks": 494
+    },
+    {
+      "author": "whisklabs",
+      "name": "docker-it-scala",
+      "href": "https://github.com/whisklabs/docker-it-scala",
+      "description": "Docker integration testing kit with Scala",
+      "language": "Scala",
+      "stars": 166,
+      "forks": 44
+    },
+    {
+      "author": "ShapeNet",
+      "name": "shapenet-viewer",
+      "href": "https://github.com/ShapeNet/shapenet-viewer",
+      "description": "ShapeNet Viewer",
+      "language": "Scala",
+      "stars": 25,
+      "forks": 9
+    },
+    {
+      "author": "actionml",
+      "name": "universal-recommender",
+      "href": "https://github.com/actionml/universal-recommender",
+      "description": "Highly configurable recommender based on PredictionIO and Mahout's Correlated Cross-Occurrence algorithm",
+      "language": "Scala",
+      "stars": 207,
+      "forks": 81
+    },
+    {
+      "author": "gzoller",
+      "name": "ScalaJack",
+      "href": "https://github.com/gzoller/ScalaJack",
+      "description": "Fast JSON parser/generator for Scala",
+      "language": "Scala",
+      "stars": 79,
+      "forks": 7
+    },
+    {
+      "author": "vert-x3",
+      "name": "vertx-lang-scala",
+      "href": "https://github.com/vert-x3/vertx-lang-scala",
+      "description": "Vert.x for Scala",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 12
+    },
+    {
+      "author": "ucb-bar",
+      "name": "firrtl",
+      "href": "https://github.com/ucb-bar/firrtl",
+      "description": "Flexible Intermediate Representation for RTL",
+      "language": "Scala",
+      "stars": 36,
+      "forks": 21
+    },
+    {
+      "author": "wartremover",
+      "name": "wartremover",
+      "href": "https://github.com/wartremover/wartremover",
+      "description": "Flexible Scala code linting tool",
+      "language": "Scala",
+      "stars": 633,
+      "forks": 66
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-release",
+      "href": "https://github.com/sbt/sbt-release",
+      "description": "A release plugin for sbt (>= 0.11.0)",
+      "language": "Scala",
+      "stars": 363,
+      "forks": 97
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 9970,
+      "forks": 1595
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 8920,
+      "forks": 3090
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 5441,
+      "forks": 1039
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 4771,
+      "forks": 260
+    }
+  ]
+}
