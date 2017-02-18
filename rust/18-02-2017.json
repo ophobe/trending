@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 20480,
+      "forks": 3892
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 1665,
+      "forks": 77
+    },
+    {
+      "author": "BurntSushi",
+      "name": "fst",
+      "href": "https://github.com/BurntSushi/fst",
+      "description": "Represents large sets and maps compactly with finite state transducers.",
+      "language": "Rust",
+      "stars": 232,
+      "forks": 19
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 4942,
+      "forks": 131
+    },
+    {
+      "author": "pcwalton",
+      "name": "pathfinder",
+      "href": "https://github.com/pcwalton/pathfinder",
+      "description": "A fast, practical GPU rasterizer for OpenType fonts",
+      "language": "Rust",
+      "stars": 377,
+      "forks": 13
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 3358,
+      "forks": 111
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 1389,
+      "forks": 116
+    },
+    {
+      "author": "alexcrichton",
+      "name": "tar-rs",
+      "href": "https://github.com/alexcrichton/tar-rs",
+      "description": "Tar file reading/writing for Rust",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 34
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-core",
+      "href": "https://github.com/tokio-rs/tokio-core",
+      "description": "I/O primitives and event loop for async I/O in Rust",
+      "language": "Rust",
+      "stars": 288,
+      "forks": 69
+    },
+    {
+      "author": "exercism",
+      "name": "xrust",
+      "href": "https://github.com/exercism/xrust",
+      "description": "Exercism Exercises in Rust",
+      "language": "Rust",
+      "stars": 103,
+      "forks": 64
+    },
+    {
+      "author": "dtolnay",
+      "name": "syn",
+      "href": "https://github.com/dtolnay/syn",
+      "description": "Nom parser for Rust source code",
+      "language": "Rust",
+      "stars": 100,
+      "forks": 11
+    },
+    {
+      "author": "rust-lang-deprecated",
+      "name": "time",
+      "href": "https://github.com/rust-lang-deprecated/time",
+      "description": "Simple time handling in Rust",
+      "language": "Rust",
+      "stars": 81,
+      "forks": 58
+    },
+    {
+      "author": "serde-rs",
+      "name": "syntex",
+      "href": "https://github.com/serde-rs/syntex",
+      "description": null,
+      "language": "Rust",
+      "stars": 105,
+      "forks": 29
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-proto",
+      "href": "https://github.com/tokio-rs/tokio-proto",
+      "description": "A network application framework for Rust",
+      "language": "Rust",
+      "stars": 622,
+      "forks": 54
+    },
+    {
+      "author": "mozilla",
+      "name": "geckodriver",
+      "href": "https://github.com/mozilla/geckodriver",
+      "description": "WebDriver <-> Marionette proxy",
+      "language": "Rust",
+      "stars": 528,
+      "forks": 103
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2279,
+      "forks": 400
+    },
+    {
+      "author": "phildawes",
+      "name": "racer",
+      "href": "https://github.com/phildawes/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 1937,
+      "forks": 197
+    },
+    {
+      "author": "japaric",
+      "name": "steed",
+      "href": "https://github.com/japaric/steed",
+      "description": "[WIP] Rust's standard library, free of C dependencies, for Linux systems",
+      "language": "Rust",
+      "stars": 301,
+      "forks": 13
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-postgres",
+      "href": "https://github.com/sfackler/rust-postgres",
+      "description": "Native PostgreSQL driver for the Rust programming language",
+      "language": "Rust",
+      "stars": 675,
+      "forks": 71
+    },
+    {
+      "author": "redox-os",
+      "name": "redox",
+      "href": "https://github.com/redox-os/redox",
+      "description": "Redox: A Rust Operating System",
+      "language": "Rust",
+      "stars": 5928,
+      "forks": 354
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 5918,
+      "forks": 190
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 4690,
+      "forks": 225
+    },
+    {
+      "author": "kud1ing",
+      "name": "awesome-rust",
+      "href": "https://github.com/kud1ing/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 3791,
+      "forks": 243
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 3784,
+      "forks": 271
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3217,
+      "forks": 298
+    }
+  ]
+}
