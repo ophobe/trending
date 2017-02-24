@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cr-marcstevens",
+      "name": "sha1collisiondetection",
+      "href": "https://github.com/cr-marcstevens/sha1collisiondetection",
+      "description": "Library and command line tool to detect SHA-1 collision in a file",
+      "language": "C",
+      "stars": 421,
+      "forks": 33
+    },
+    {
+      "author": "awslabs",
+      "name": "s2n",
+      "href": "https://github.com/awslabs/s2n",
+      "description": "s2n : an implementation of the TLS/SSL protocols",
+      "language": "C",
+      "stars": 2621,
+      "forks": 225
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 42132,
+      "forks": 16128
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 11390,
+      "forks": 3580
+    },
+    {
+      "author": "haodynasty",
+      "name": "AndroidLuaExample",
+      "href": "https://github.com/haodynasty/AndroidLuaExample",
+      "description": "Lua 5.3.3 and LuaJava ported to Android example",
+      "language": "C",
+      "stars": 36,
+      "forks": 2
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 19101,
+      "forks": 1464
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16376,
+      "forks": 9247
+    },
+    {
+      "author": "boazsegev",
+      "name": "iodine",
+      "href": "https://github.com/boazsegev/iodine",
+      "description": "Iodine - HTTP / Websocket Server & EventMachine alternative for Ruby MRI - a kqueue/epoll C extension",
+      "language": "C",
+      "stars": 130,
+      "forks": 9
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 21896,
+      "forks": 8242
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 8703,
+      "forks": 1729
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern and easy-to-use crypto library.",
+      "language": "C",
+      "stars": 3780,
+      "forks": 519
+    },
+    {
+      "author": "MinhasKamal",
+      "name": "CreepyCodeCollection",
+      "href": "https://github.com/MinhasKamal/CreepyCodeCollection",
+      "description": "A Nonsense Collection of Disgusting Codes (code-golf-golfing-quine-obfuscated-signature-polyglot-amazing-interesting-strange-weird-mysterious-absurd-spooky-program-funny-fun-language)",
+      "language": "C",
+      "stars": 1539,
+      "forks": 66
+    },
+    {
+      "author": "octalmage",
+      "name": "robotjs",
+      "href": "https://github.com/octalmage/robotjs",
+      "description": "Node.js Desktop Automation.",
+      "language": "C",
+      "stars": 5670,
+      "forks": 268
+    },
+    {
+      "author": "Tencent",
+      "name": "xLua",
+      "href": "https://github.com/Tencent/xLua",
+      "description": "xLua is a hot-fix solution plugin for Unity and C#, it supports android, ios, windows, osx, etc.",
+      "language": "C",
+      "stars": 1405,
+      "forks": 463
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 3960,
+      "forks": 1916
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 5428,
+      "forks": 1319
+    },
+    {
+      "author": "guillaumechereau",
+      "name": "goxel",
+      "href": "https://github.com/guillaumechereau/goxel",
+      "description": "Open source 3D voxel editor",
+      "language": "C",
+      "stars": 843,
+      "forks": 56
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6303,
+      "forks": 3138
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11414,
+      "forks": 807
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 2939,
+      "forks": 1345
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 6622,
+      "forks": 3014
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 8303,
+      "forks": 468
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4318,
+      "forks": 2999
+    },
+    {
+      "author": "RandyGaul",
+      "name": "tinyheaders",
+      "href": "https://github.com/RandyGaul/tinyheaders",
+      "description": "Collection of one-file C/C++ libraries with no dependencies, primarily used for games",
+      "language": "C",
+      "stars": 667,
+      "forks": 30
+    },
+    {
+      "author": "openresty",
+      "name": "lua-nginx-module",
+      "href": "https://github.com/openresty/lua-nginx-module",
+      "description": "Embed the Power of Lua into NGINX HTTP servers",
+      "language": "C",
+      "stars": 4140,
+      "forks": 952
+    }
+  ]
+}
