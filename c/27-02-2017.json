@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "networkprotocol",
+      "name": "netcode.io",
+      "href": "https://github.com/networkprotocol/netcode.io",
+      "description": "Reference implementation of netcode.io",
+      "language": "C",
+      "stars": 304,
+      "forks": 13
+    },
+    {
+      "author": "xairy",
+      "name": "kernel-exploits",
+      "href": "https://github.com/xairy/kernel-exploits",
+      "description": "A bunch of proof-of-concept exploits for the Linux kernel",
+      "language": "C",
+      "stars": 189,
+      "forks": 62
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 11458,
+      "forks": 3593
+    },
+    {
+      "author": "ands",
+      "name": "seamoptimizer",
+      "href": "https://github.com/ands/seamoptimizer",
+      "description": "A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.",
+      "language": "C",
+      "stars": 50,
+      "forks": 2
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 42230,
+      "forks": 16150
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 21949,
+      "forks": 8255
+    },
+    {
+      "author": "cr-marcstevens",
+      "name": "sha1collisiondetection",
+      "href": "https://github.com/cr-marcstevens/sha1collisiondetection",
+      "description": "Library and command line tool to detect SHA-1 collision in a file",
+      "language": "C",
+      "stars": 560,
+      "forks": 51
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16426,
+      "forks": 9258
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern and easy-to-use crypto library.",
+      "language": "C",
+      "stars": 3814,
+      "forks": 522
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 19143,
+      "forks": 1473
+    },
+    {
+      "author": "dmlc",
+      "name": "dlpack",
+      "href": "https://github.com/dmlc/dlpack",
+      "description": "RFC for common tensor and operator guideline in deep learning system",
+      "language": "C",
+      "stars": 44,
+      "forks": 2
+    },
+    {
+      "author": "memcached",
+      "name": "memcached",
+      "href": "https://github.com/memcached/memcached",
+      "description": "memcached development tree",
+      "language": "C",
+      "stars": 5874,
+      "forks": 2008
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6325,
+      "forks": 3148
+    },
+    {
+      "author": "WhisperSystems",
+      "name": "Signal-Android",
+      "href": "https://github.com/WhisperSystems/Signal-Android",
+      "description": "A private messenger for Android.",
+      "language": "C",
+      "stars": 7541,
+      "forks": 2019
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo,Go Native cross-platform system automation",
+      "language": "C",
+      "stars": 1425,
+      "forks": 82
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 1923,
+      "forks": 833
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "href": "https://github.com/libevent/libevent",
+      "description": "A public libevent repository. The official repository is at https://github.com/libevent/libevent",
+      "language": "C",
+      "stars": 2159,
+      "forks": 1446
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 5038,
+      "forks": 659
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 8721,
+      "forks": 1733
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 5976,
+      "forks": 393
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 4443,
+      "forks": 1523
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4336,
+      "forks": 3003
+    },
+    {
+      "author": "DaveDavenport",
+      "name": "rofi",
+      "href": "https://github.com/DaveDavenport/rofi",
+      "description": "Rofi: A window switcher, run dialog and dmenu replacement",
+      "language": "C",
+      "stars": 1313,
+      "forks": 89
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11441,
+      "forks": 808
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 5842,
+      "forks": 972
+    }
+  ]
+}
