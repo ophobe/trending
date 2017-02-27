@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 11817,
+      "forks": 11112
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 6705,
+      "forks": 3720
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 7764,
+      "forks": 1980
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "lichess.org: the forever free, adless and open source chess server.",
+      "language": "Scala",
+      "stars": 2929,
+      "forks": 497
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 250,
+      "forks": 98
+    },
+    {
+      "author": "milessabin",
+      "name": "shapeless",
+      "href": "https://github.com/milessabin/shapeless",
+      "description": "Generic programming for Scala",
+      "language": "Scala",
+      "stars": 1935,
+      "forks": 324
+    },
+    {
+      "author": "spray",
+      "name": "spray",
+      "href": "https://github.com/spray/spray",
+      "description": "A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable",
+      "language": "Scala",
+      "stars": 2494,
+      "forks": 603
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 2931,
+      "forks": 546
+    },
+    {
+      "author": "apache",
+      "name": "incubator-gearpump",
+      "href": "https://github.com/apache/incubator-gearpump",
+      "description": "Mirror of Apache Gearpump (Incubating)",
+      "language": "Scala",
+      "stars": 140,
+      "forks": 52
+    },
+    {
+      "author": "locationtech",
+      "name": "geomesa",
+      "href": "https://github.com/locationtech/geomesa",
+      "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+      "language": "Scala",
+      "stars": 236,
+      "forks": 128
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Non blocking, type safe DSL and Scala client for Elasticsearch",
+      "language": "Scala",
+      "stars": 824,
+      "forks": 288
+    },
+    {
+      "author": "pauldijou",
+      "name": "jwt-scala",
+      "href": "https://github.com/pauldijou/jwt-scala",
+      "description": "JWT support for Scala. Bonus extensions for Play JSON and Json4s",
+      "language": "Scala",
+      "stars": 197,
+      "forks": 33
+    },
+    {
+      "author": "pawelkaczor",
+      "name": "akka-ddd",
+      "href": "https://github.com/pawelkaczor/akka-ddd",
+      "description": "Akka/EventStore DDD framework",
+      "language": "Scala",
+      "stars": 180,
+      "forks": 40
+    },
+    {
+      "author": "finagle",
+      "name": "finch",
+      "href": "https://github.com/finagle/finch",
+      "description": "Scala combinator library for building Finagle HTTP services",
+      "language": "Scala",
+      "stars": 968,
+      "forks": 152
+    },
+    {
+      "author": "playframework",
+      "name": "play-rest-api",
+      "href": "https://github.com/playframework/play-rest-api",
+      "description": "Example Play Scala application showing REST API",
+      "language": "Scala",
+      "stars": 49,
+      "forks": 16
+    },
+    {
+      "author": "scalacenter",
+      "name": "scalafix",
+      "href": "https://github.com/scalacenter/scalafix",
+      "description": "Refactoring library and tool for Scala",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 13
+    },
+    {
+      "author": "lihaoyi",
+      "name": "Ammonite",
+      "href": "https://github.com/lihaoyi/Ammonite",
+      "description": "Scala Scripting",
+      "language": "Scala",
+      "stars": 1139,
+      "forks": 168
+    },
+    {
+      "author": "lihaoyi",
+      "name": "sourcecode",
+      "href": "https://github.com/lihaoyi/sourcecode",
+      "description": "Scala library providing \"source\" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__.",
+      "language": "Scala",
+      "stars": 223,
+      "forks": 17
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 9989,
+      "forks": 1600
+    },
+    {
+      "author": "agemooij",
+      "name": "riak-scala-client",
+      "href": "https://github.com/agemooij/riak-scala-client",
+      "description": "An easy to use, non-blocking, fast Scala client library for interacting with Riak.",
+      "language": "Scala",
+      "stars": 87,
+      "forks": 27
+    },
+    {
+      "author": "deeplearning4j",
+      "name": "nd4s",
+      "href": "https://github.com/deeplearning4j/nd4s",
+      "description": "ND4S: N-Dimensional Arrays for Scala. Scientific Computing a la Numpy. Based on ND4J.",
+      "language": "Scala",
+      "stars": 184,
+      "forks": 33
+    },
+    {
+      "author": "antonkulaga",
+      "name": "threejs-facade",
+      "href": "https://github.com/antonkulaga/threejs-facade",
+      "description": "ScalaJS facade for threejs",
+      "language": "Scala",
+      "stars": 30,
+      "forks": 18
+    },
+    {
+      "author": "apache-spark-on-k8s",
+      "name": "spark",
+      "href": "https://github.com/apache-spark-on-k8s/spark",
+      "description": "Apache Spark enhanced with native Kubernetes scheduler back-end",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 11112
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle-pprint",
+      "href": "https://github.com/lihaoyi/upickle-pprint",
+      "description": "Combined repository for uPickle/PPrint",
+      "language": "Scala",
+      "stars": 275,
+      "forks": 74
+    },
+    {
+      "author": "kamon-io",
+      "name": "Kamon",
+      "href": "https://github.com/kamon-io/Kamon",
+      "description": "The Open Source tool for monitoring applications running on the JVM",
+      "language": "Scala",
+      "stars": 810,
+      "forks": 183
+    }
+  ]
+}
