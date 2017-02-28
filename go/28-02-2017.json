@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40127,
+      "forks": 12060
+    },
+    {
+      "author": "henrylee2cn",
+      "name": "faygo",
+      "href": "https://github.com/henrylee2cn/faygo",
+      "description": "Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.",
+      "language": "Go",
+      "stars": 471,
+      "forks": 79
+    },
+    {
+      "author": "lucas-clemente",
+      "name": "quic-go",
+      "href": "https://github.com/lucas-clemente/quic-go",
+      "description": "A QUIC implementation in pure go",
+      "language": "Go",
+      "stars": 648,
+      "forks": 24
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 2781,
+      "forks": 100
+    },
+    {
+      "author": "src-d",
+      "name": "proteus",
+      "href": "https://github.com/src-d/proteus",
+      "description": "Generate .proto files from Go source code.",
+      "language": "Go",
+      "stars": 96,
+      "forks": 3
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15245,
+      "forks": 2242
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 25379,
+      "forks": 3426
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 5681,
+      "forks": 389
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21014,
+      "forks": 7173
+    },
+    {
+      "author": "liangdas",
+      "name": "mqant",
+      "href": "https://github.com/liangdas/mqant",
+      "description": "mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架",
+      "language": "Go",
+      "stars": 43,
+      "forks": 9
+    },
+    {
+      "author": "asciimoo",
+      "name": "wuzz",
+      "href": "https://github.com/asciimoo/wuzz",
+      "description": "Interactive cli tool for HTTP inspection",
+      "language": "Go",
+      "stars": 5430,
+      "forks": 179
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 17926,
+      "forks": 2035
+    },
+    {
+      "author": "chewxy",
+      "name": "gorgonia",
+      "href": "https://github.com/chewxy/gorgonia",
+      "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
+      "language": "Go",
+      "stars": 897,
+      "forks": 79
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 8851,
+      "forks": 1025
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 8335,
+      "forks": 834
+    },
+    {
+      "author": "mendersoftware",
+      "name": "mender",
+      "href": "https://github.com/mendersoftware/mender",
+      "description": "Mender over-the-air software updater client.",
+      "language": "Go",
+      "stars": 126,
+      "forks": 17
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 18595,
+      "forks": 2319
+    },
+    {
+      "author": "tmrts",
+      "name": "boilr",
+      "href": "https://github.com/tmrts/boilr",
+      "description": "⚡️ boilerplate template manager that generate files or directories from template repositories",
+      "language": "Go",
+      "stars": 340,
+      "forks": 16
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14296,
+      "forks": 4557
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 10336,
+      "forks": 685
+    },
+    {
+      "author": "wallix",
+      "name": "awless",
+      "href": "https://github.com/wallix/awless",
+      "description": "A Mighty CLI for AWS",
+      "language": "Go",
+      "stars": 2447,
+      "forks": 79
+    },
+    {
+      "author": "mitchellh",
+      "name": "go-sat",
+      "href": "https://github.com/mitchellh/go-sat",
+      "description": "SAT solver written in Go (golang).",
+      "language": "Go",
+      "stars": 28,
+      "forks": 0
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Open, Cloud Native, and Universal Distributed Storage",
+      "language": "Go",
+      "stars": 996,
+      "forks": 44
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 9037,
+      "forks": 1031
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 7001,
+      "forks": 883
+    }
+  ]
+}
