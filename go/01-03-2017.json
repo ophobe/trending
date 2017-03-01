@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gchaincl",
+      "name": "httplab",
+      "href": "https://github.com/gchaincl/httplab",
+      "description": "An interactive web server",
+      "language": "Go",
+      "stars": 943,
+      "forks": 20
+    },
+    {
+      "author": "asciimoo",
+      "name": "wuzz",
+      "href": "https://github.com/asciimoo/wuzz",
+      "description": "Interactive cli tool for HTTP inspection",
+      "language": "Go",
+      "stars": 5548,
+      "forks": 184
+    },
+    {
+      "author": "teambition",
+      "name": "gear",
+      "href": "https://github.com/teambition/gear",
+      "description": "A lightweight, composable and high performance web service framework for Go.",
+      "language": "Go",
+      "stars": 140,
+      "forks": 17
+    },
+    {
+      "author": "rakyll",
+      "name": "hey",
+      "href": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom",
+      "language": "Go",
+      "stars": 939,
+      "forks": 76
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40166,
+      "forks": 12078
+    },
+    {
+      "author": "philchia",
+      "name": "zen",
+      "href": "https://github.com/philchia/zen",
+      "description": "zen is a elegant and lightweight web framework for go",
+      "language": "Go",
+      "stars": 118,
+      "forks": 14
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 5731,
+      "forks": 393
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 25424,
+      "forks": 3430
+    },
+    {
+      "author": "henrylee2cn",
+      "name": "faygo",
+      "href": "https://github.com/henrylee2cn/faygo",
+      "description": "Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.",
+      "language": "Go",
+      "stars": 511,
+      "forks": 86
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21047,
+      "forks": 7186
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 2820,
+      "forks": 102
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "href": "https://github.com/go-task/task",
+      "description": "Simple \"Make\" alternative",
+      "language": "Go",
+      "stars": 54,
+      "forks": 3
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 7033,
+      "forks": 886
+    },
+    {
+      "author": "xtaci",
+      "name": "kcptun",
+      "href": "https://github.com/xtaci/kcptun",
+      "description": "A Secure Tunnel Based On KCP with N:M Multiplexing",
+      "language": "Go",
+      "stars": 4464,
+      "forks": 871
+    },
+    {
+      "author": "chewxy",
+      "name": "gorgonia",
+      "href": "https://github.com/chewxy/gorgonia",
+      "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
+      "language": "Go",
+      "stars": 921,
+      "forks": 80
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7307,
+      "forks": 2634
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 18622,
+      "forks": 2321
+    },
+    {
+      "author": "lucas-clemente",
+      "name": "quic-go",
+      "href": "https://github.com/lucas-clemente/quic-go",
+      "description": "A QUIC implementation in pure go",
+      "language": "Go",
+      "stars": 670,
+      "forks": 24
+    },
+    {
+      "author": "liangdas",
+      "name": "mqant",
+      "href": "https://github.com/liangdas/mqant",
+      "description": "mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架",
+      "language": "Go",
+      "stars": 65,
+      "forks": 11
+    },
+    {
+      "author": "codesenberg",
+      "name": "bombardier",
+      "href": "https://github.com/codesenberg/bombardier",
+      "description": "Fast cross-platform HTTP benchmarking tool written in Go",
+      "language": "Go",
+      "stars": 486,
+      "forks": 18
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL client library for Go",
+      "language": "Go",
+      "stars": 825,
+      "forks": 95
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15266,
+      "forks": 2242
+    },
+    {
+      "author": "gislu",
+      "name": "gochat",
+      "href": "https://github.com/gislu/gochat",
+      "description": "A open-source WeChat Official Account server framework",
+      "language": "Go",
+      "stars": 59,
+      "forks": 19
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14314,
+      "forks": 4566
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 17946,
+      "forks": 2037
+    }
+  ]
+}
