@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gchaincl",
+      "name": "httplab",
+      "href": "https://github.com/gchaincl/httplab",
+      "description": "An interactive web server",
+      "language": "Go",
+      "stars": 1356,
+      "forks": 33
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL client library for Go",
+      "language": "Go",
+      "stars": 893,
+      "forks": 95
+    },
+    {
+      "author": "rakyll",
+      "name": "hey",
+      "href": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom",
+      "language": "Go",
+      "stars": 992,
+      "forks": 76
+    },
+    {
+      "author": "asciimoo",
+      "name": "wuzz",
+      "href": "https://github.com/asciimoo/wuzz",
+      "description": "Interactive cli tool for HTTP inspection",
+      "language": "Go",
+      "stars": 5594,
+      "forks": 187
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21087,
+      "forks": 7201
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40203,
+      "forks": 12087
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 5771,
+      "forks": 397
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 25463,
+      "forks": 3434
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15298,
+      "forks": 2246
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "href": "https://github.com/go-task/task",
+      "description": "Simple \"Make\" alternative",
+      "language": "Go",
+      "stars": 87,
+      "forks": 3
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 18649,
+      "forks": 2324
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 2843,
+      "forks": 102
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14331,
+      "forks": 4572
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfɪk, a modern reverse proxy",
+      "language": "Go",
+      "stars": 6708,
+      "forks": 577
+    },
+    {
+      "author": "anaskhan96",
+      "name": "soup",
+      "href": "https://github.com/anaskhan96/soup",
+      "description": "Web Scraper in Go, similar to BeautifulSoup",
+      "language": "Go",
+      "stars": 173,
+      "forks": 10
+    },
+    {
+      "author": "teambition",
+      "name": "gear",
+      "href": "https://github.com/teambition/gear",
+      "description": "A lightweight, composable and high performance web service framework for Go.",
+      "language": "Go",
+      "stars": 163,
+      "forks": 17
+    },
+    {
+      "author": "securitywithoutborders",
+      "name": "hardentools",
+      "href": "https://github.com/securitywithoutborders/hardentools",
+      "description": null,
+      "language": "Go",
+      "stars": 441,
+      "forks": 34
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7323,
+      "forks": 2644
+    },
+    {
+      "author": "xtaci",
+      "name": "kcptun",
+      "href": "https://github.com/xtaci/kcptun",
+      "description": "A Secure Tunnel Based On KCP with N:M Multiplexing",
+      "language": "Go",
+      "stars": 4484,
+      "forks": 873
+    },
+    {
+      "author": "Netflix",
+      "name": "chaosmonkey",
+      "href": "https://github.com/Netflix/chaosmonkey",
+      "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "language": "Go",
+      "stars": 1941,
+      "forks": 90
+    },
+    {
+      "author": "buger",
+      "name": "goreplay",
+      "href": "https://github.com/buger/goreplay",
+      "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+      "language": "Go",
+      "stars": 6890,
+      "forks": 612
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 17963,
+      "forks": 2039
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 6589,
+      "forks": 564
+    },
+    {
+      "author": "henrylee2cn",
+      "name": "faygo",
+      "href": "https://github.com/henrylee2cn/faygo",
+      "description": "Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.",
+      "language": "Go",
+      "stars": 536,
+      "forks": 86
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 14787,
+      "forks": 2331
+    }
+  ]
+}
