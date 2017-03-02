@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 3489,
+      "forks": 119
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rls",
+      "href": "https://github.com/rust-lang-nursery/rls",
+      "description": "Repository for the Rust Language Server (aka RLS)",
+      "language": "Rust",
+      "stars": 621,
+      "forks": 26
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 20656,
+      "forks": 3912
+    },
+    {
+      "author": "redox-os",
+      "name": "redox",
+      "href": "https://github.com/redox-os/redox",
+      "description": "Redox: A Rust Operating System",
+      "language": "Rust",
+      "stars": 6067,
+      "forks": 371
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 5138,
+      "forks": 142
+    },
+    {
+      "author": "bluss",
+      "name": "ordermap",
+      "href": "https://github.com/bluss/ordermap",
+      "description": "WIP / Explore consistent order robin hood hash map similar to Python 3.6’s dict",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 5
+    },
+    {
+      "author": "kud1ing",
+      "name": "awesome-rust",
+      "href": "https://github.com/kud1ing/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 3879,
+      "forks": 251
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 5949,
+      "forks": 196
+    },
+    {
+      "author": "PumpkinDB",
+      "name": "PumpkinDB",
+      "href": "https://github.com/PumpkinDB/PumpkinDB",
+      "description": "Event Sourcing Database Engine",
+      "language": "Rust",
+      "stars": 470,
+      "forks": 11
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 1009,
+      "forks": 43
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 1724,
+      "forks": 85
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 1604,
+      "forks": 143
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 1424,
+      "forks": 124
+    },
+    {
+      "author": "mozilla",
+      "name": "geckodriver",
+      "href": "https://github.com/mozilla/geckodriver",
+      "description": "WebDriver <-> Marionette proxy",
+      "language": "Rust",
+      "stars": 565,
+      "forks": 110
+    },
+    {
+      "author": "sebcrozet",
+      "name": "nalgebra",
+      "href": "https://github.com/sebcrozet/nalgebra",
+      "description": "Linear algebra library for Rust.",
+      "language": "Rust",
+      "stars": 397,
+      "forks": 71
+    },
+    {
+      "author": "jtomschroeder",
+      "name": "cedar",
+      "href": "https://github.com/jtomschroeder/cedar",
+      "description": "functional-reactive library for creating GUI applications",
+      "language": "Rust",
+      "stars": 72,
+      "forks": 0
+    },
+    {
+      "author": "andrew-lucker",
+      "name": "rust-openai",
+      "href": "https://github.com/andrew-lucker/rust-openai",
+      "description": "Bindings to OpenAI Gym for Rust language",
+      "language": "Rust",
+      "stars": 25,
+      "forks": 3
+    },
+    {
+      "author": "mattnenterprise",
+      "name": "rust-imap",
+      "href": "https://github.com/mattnenterprise/rust-imap",
+      "description": "IMAP client for Rust",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 18
+    },
+    {
+      "author": "lfairy",
+      "name": "maud",
+      "href": "https://github.com/lfairy/maud",
+      "description": "📝 Compile-time HTML templates for Rust",
+      "language": "Rust",
+      "stars": 252,
+      "forks": 16
+    },
+    {
+      "author": "emu-rs",
+      "name": "rustual-boy",
+      "href": "https://github.com/emu-rs/rustual-boy",
+      "description": "Rustual Boy - A Virtual Boy emulator.",
+      "language": "Rust",
+      "stars": 64,
+      "forks": 11
+    },
+    {
+      "author": "isislovecruft",
+      "name": "curve25519-dalek",
+      "href": "https://github.com/isislovecruft/curve25519-dalek",
+      "description": "A low-level cryptographic library for point, group, field, and scalar operations on a curve isomorphic to the twisted Edwards curve defined by -x²+y² = 1 - 121665/121666 x²y² over GF(2²⁵⁵ - 19).",
+      "language": "Rust",
+      "stars": 69,
+      "forks": 10
+    },
+    {
+      "author": "cyderize",
+      "name": "rust-websocket",
+      "href": "https://github.com/cyderize/rust-websocket",
+      "description": "A WebSocket (RFC6455) library written in Rust",
+      "language": "Rust",
+      "stars": 280,
+      "forks": 63
+    },
+    {
+      "author": "cobalt-org",
+      "name": "cobalt.rs",
+      "href": "https://github.com/cobalt-org/cobalt.rs",
+      "description": "Static site generator written in Rust",
+      "language": "Rust",
+      "stars": 248,
+      "forks": 46
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 4716,
+      "forks": 232
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 3827,
+      "forks": 277
+    }
+  ]
+}
