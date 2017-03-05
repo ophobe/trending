@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 42512,
+      "forks": 16229
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 19296,
+      "forks": 1481
+    },
+    {
+      "author": "XadillaX",
+      "name": "byakuren",
+      "href": "https://github.com/XadillaX/byakuren",
+      "description": "🎭 A theme color extracting library implemented by C.",
+      "language": "C",
+      "stars": 55,
+      "forks": 0
+    },
+    {
+      "author": "cksystemsteaching",
+      "name": "selfie",
+      "href": "https://github.com/cksystemsteaching/selfie",
+      "description": "An educational software system of a tiny self-compiling C compiler, a tiny self-executing MIPS emulator, and a tiny self-hosting MIPS hypervisor.",
+      "language": "C",
+      "stars": 426,
+      "forks": 53
+    },
+    {
+      "author": "MarilynDafa",
+      "name": "Bulllord-Engine",
+      "href": "https://github.com/MarilynDafa/Bulllord-Engine",
+      "description": "lightspeed lightweight elegant game engine in pure c",
+      "language": "C",
+      "stars": 98,
+      "forks": 3
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 22091,
+      "forks": 8306
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 201,
+      "forks": 65
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16492,
+      "forks": 9315
+    },
+    {
+      "author": "torch",
+      "name": "torch7",
+      "href": "https://github.com/torch/torch7",
+      "description": "http://torch.ch",
+      "language": "C",
+      "stars": 6474,
+      "forks": 1901
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4379,
+      "forks": 3008
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 11619,
+      "forks": 3638
+    },
+    {
+      "author": "Murii",
+      "name": "CLove",
+      "href": "https://github.com/Murii/CLove",
+      "description": "CLove, a 2D game framework that allows for rapid development written in C and using Lua.",
+      "language": "C",
+      "stars": 46,
+      "forks": 5
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 5537,
+      "forks": 1341
+    },
+    {
+      "author": "tboox",
+      "name": "xmake",
+      "href": "https://github.com/tboox/xmake",
+      "description": "A make-like build utility based on Lua",
+      "language": "C",
+      "stars": 430,
+      "forks": 84
+    },
+    {
+      "author": "InsomniacGames",
+      "name": "ig-cachesim",
+      "href": "https://github.com/InsomniacGames/ig-cachesim",
+      "description": null,
+      "language": "C",
+      "stars": 187,
+      "forks": 9
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6383,
+      "forks": 3175
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 8524,
+      "forks": 1012
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 8810,
+      "forks": 1752
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 5107,
+      "forks": 666
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 6020,
+      "forks": 394
+    },
+    {
+      "author": "awslabs",
+      "name": "s2n",
+      "href": "https://github.com/awslabs/s2n",
+      "description": "s2n : an implementation of the TLS/SSL protocols",
+      "language": "C",
+      "stars": 2710,
+      "forks": 230
+    },
+    {
+      "author": "cr-marcstevens",
+      "name": "sha1collisiondetection",
+      "href": "https://github.com/cr-marcstevens/sha1collisiondetection",
+      "description": "Library and command line tool to detect SHA-1 collision in a file",
+      "language": "C",
+      "stars": 605,
+      "forks": 55
+    },
+    {
+      "author": "Qihoo360",
+      "name": "mysql-sniffer",
+      "href": "https://github.com/Qihoo360/mysql-sniffer",
+      "description": "mysql-sniffer is a network traffic analyzer tool for mysql, it is developed by Qihoo DBA and infrastructure team",
+      "language": "C",
+      "stars": 200,
+      "forks": 58
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 4131,
+      "forks": 896
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 4004,
+      "forks": 1928
+    }
+  ]
+}
