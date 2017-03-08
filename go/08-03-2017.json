@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gchaincl",
+      "name": "httplab",
+      "href": "https://github.com/gchaincl/httplab",
+      "description": "An interactive web server",
+      "language": "Go",
+      "stars": 2297,
+      "forks": 58
+    },
+    {
+      "author": "asciimoo",
+      "name": "wuzz",
+      "href": "https://github.com/asciimoo/wuzz",
+      "description": "Interactive cli tool for HTTP inspection",
+      "language": "Go",
+      "stars": 5780,
+      "forks": 198
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40406,
+      "forks": 12159
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21249,
+      "forks": 7277
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 25635,
+      "forks": 3456
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "href": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": 139,
+      "forks": 8
+    },
+    {
+      "author": "knq",
+      "name": "usql",
+      "href": "https://github.com/knq/usql",
+      "description": "usql is a universal command-line interface for SQL databases",
+      "language": "Go",
+      "stars": 1509,
+      "forks": 38
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency tool",
+      "language": "Go",
+      "stars": 2298,
+      "forks": 75
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 18812,
+      "forks": 2349
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 790,
+      "forks": 865
+    },
+    {
+      "author": "google",
+      "name": "syzkaller",
+      "href": "https://github.com/google/syzkaller",
+      "description": "syzkaller is an unsupervised, coverage-guided Linux system call fuzzer",
+      "language": "Go",
+      "stars": 747,
+      "forks": 116
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 5903,
+      "forks": 405
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 7721,
+      "forks": 320
+    },
+    {
+      "author": "tarent",
+      "name": "loginsrv",
+      "href": "https://github.com/tarent/loginsrv",
+      "description": "Login server providing a JWT login for multiple login backends",
+      "language": "Go",
+      "stars": 64,
+      "forks": 2
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 18060,
+      "forks": 2048
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15451,
+      "forks": 2259
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 8472,
+      "forks": 849
+    },
+    {
+      "author": "cossacklabs",
+      "name": "acra",
+      "href": "https://github.com/cossacklabs/acra",
+      "description": "Acra database protection suite",
+      "language": "Go",
+      "stars": 29,
+      "forks": 1
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 9967,
+      "forks": 2339
+    },
+    {
+      "author": "gammons",
+      "name": "todolist",
+      "href": "https://github.com/gammons/todolist",
+      "description": "Simple GTD-style todo list for the command line.",
+      "language": "Go",
+      "stars": 139,
+      "forks": 15
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7395,
+      "forks": 2672
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14417,
+      "forks": 4596
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go入门指南》",
+      "language": "Go",
+      "stars": 4475,
+      "forks": 1677
+    },
+    {
+      "author": "albertito",
+      "name": "chasquid",
+      "href": "https://github.com/albertito/chasquid",
+      "description": "[mirror] SMTP (email) server",
+      "language": "Go",
+      "stars": 40,
+      "forks": 3
+    },
+    {
+      "author": "xtaci",
+      "name": "kcptun",
+      "href": "https://github.com/xtaci/kcptun",
+      "description": "A Secure Tunnel Based On KCP with N:M Multiplexing",
+      "language": "Go",
+      "stars": 4579,
+      "forks": 886
+    }
+  ]
+}
