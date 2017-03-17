@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 10822,
+      "forks": 710
+    },
+    {
+      "author": "bcicen",
+      "name": "ctop",
+      "href": "https://github.com/bcicen/ctop",
+      "description": "Top-like interface for container metrics",
+      "language": "Go",
+      "stars": 4573,
+      "forks": 111
+    },
+    {
+      "author": "knq",
+      "name": "chromedp",
+      "href": "https://github.com/knq/chromedp",
+      "description": "Package chromedp is a faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.",
+      "language": "Go",
+      "stars": 1006,
+      "forks": 32
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40754,
+      "forks": 12284
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15700,
+      "forks": 2285
+    },
+    {
+      "author": "knq",
+      "name": "xo",
+      "href": "https://github.com/knq/xo",
+      "description": "Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server",
+      "language": "Go",
+      "stars": 984,
+      "forks": 73
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 25937,
+      "forks": 3488
+    },
+    {
+      "author": "fogleman",
+      "name": "ribbon",
+      "href": "https://github.com/fogleman/ribbon",
+      "description": "Ribbon diagrams of proteins in #golang. WIP.",
+      "language": "Go",
+      "stars": 65,
+      "forks": 3
+    },
+    {
+      "author": "couchbaselabs",
+      "name": "vellum",
+      "href": "https://github.com/couchbaselabs/vellum",
+      "description": "A Go library implementing an FST (finite state transducer)",
+      "language": "Go",
+      "stars": 219,
+      "forks": 4
+    },
+    {
+      "author": "netlify",
+      "name": "gocommerce",
+      "href": "https://github.com/netlify/gocommerce",
+      "description": "A headless e-commerce for JAMstack sites",
+      "language": "Go",
+      "stars": 48,
+      "forks": 2
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21536,
+      "forks": 7409
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 19039,
+      "forks": 2381
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 12729,
+      "forks": 2355
+    },
+    {
+      "author": "knq",
+      "name": "usql",
+      "href": "https://github.com/knq/usql",
+      "description": "usql is a universal command-line interface for SQL databases",
+      "language": "Go",
+      "stars": 1715,
+      "forks": 49
+    },
+    {
+      "author": "josephyzhou",
+      "name": "github-trending",
+      "href": "https://github.com/josephyzhou/github-trending",
+      "description": "Tracking the most popular Github repos, updated daily",
+      "language": "Go",
+      "stars": 1477,
+      "forks": 97
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7494,
+      "forks": 2727
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfɪk, a modern reverse proxy",
+      "language": "Go",
+      "stars": 6942,
+      "forks": 609
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15084,
+      "forks": 2394
+    },
+    {
+      "author": "knqyf263",
+      "name": "pet",
+      "href": "https://github.com/knqyf263/pet",
+      "description": "Simple command-line snippet manager, written in Go.",
+      "language": "Go",
+      "stars": 1146,
+      "forks": 29
+    },
+    {
+      "author": "cockroachdb",
+      "name": "apd",
+      "href": "https://github.com/cockroachdb/apd",
+      "description": "Arbitrary-precision decimals for Go",
+      "language": "Go",
+      "stars": 74,
+      "forks": 5
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 7335,
+      "forks": 953
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 9296,
+      "forks": 1063
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14599,
+      "forks": 4658
+    },
+    {
+      "author": "future-architect",
+      "name": "vuls",
+      "href": "https://github.com/future-architect/vuls",
+      "description": "Vulnerability scanner for Linux/FreeBSD, agentless, written in Go",
+      "language": "Go",
+      "stars": 3846,
+      "forks": 300
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10126,
+      "forks": 2370
+    }
+  ]
+}
