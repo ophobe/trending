@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "vvanders",
+      "name": "wasm_lua",
+      "href": "https://github.com/vvanders/wasm_lua",
+      "description": "Lua VM running in a WASM environment",
+      "language": "C",
+      "stars": 291,
+      "forks": 9
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16724,
+      "forks": 9427
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 43081,
+      "forks": 16391
+    },
+    {
+      "author": "ScottyBauer",
+      "name": "Android_Kernel_CVE_POCs",
+      "href": "https://github.com/ScottyBauer/Android_Kernel_CVE_POCs",
+      "description": "A list of my CVE's with POCs",
+      "language": "C",
+      "stars": 237,
+      "forks": 86
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd",
+      "href": "https://github.com/freebsd/freebsd",
+      "description": "FreeBSD src tree (read-only mirror)",
+      "language": "C",
+      "stars": 2762,
+      "forks": 1100
+    },
+    {
+      "author": "cyrus-and",
+      "name": "mysql-unsha1",
+      "href": "https://github.com/cyrus-and/mysql-unsha1",
+      "description": "Authenticate against a MySQL server without knowing the cleartext password",
+      "language": "C",
+      "stars": 68,
+      "forks": 7
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 19614,
+      "forks": 1518
+    },
+    {
+      "author": "pipelinedb",
+      "name": "pipelinedb",
+      "href": "https://github.com/pipelinedb/pipelinedb",
+      "description": "SQL on streams, backed by PostgreSQL",
+      "language": "C",
+      "stars": 1210,
+      "forks": 94
+    },
+    {
+      "author": "RUB-SysSec",
+      "name": "OMEN",
+      "href": "https://github.com/RUB-SysSec/OMEN",
+      "description": "OMEN: Ordered Markov ENumerator - Password Guesser",
+      "language": "C",
+      "stars": 125,
+      "forks": 3
+    },
+    {
+      "author": "dekuNukem",
+      "name": "Nintendo_Switch_Reverse_Engineering",
+      "href": "https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering",
+      "description": "A look at inner workings of Joycon and Nintendo Switch",
+      "language": "C",
+      "stars": 596,
+      "forks": 20
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 22371,
+      "forks": 8396
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 369,
+      "forks": 92
+    },
+    {
+      "author": "eduard-permyakov",
+      "name": "BitFiend",
+      "href": "https://github.com/eduard-permyakov/BitFiend",
+      "description": "BitTorrent client written in C",
+      "language": "C",
+      "stars": 44,
+      "forks": 1
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 5117,
+      "forks": 1047
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 12017,
+      "forks": 3726
+    },
+    {
+      "author": "mozilla",
+      "name": "mozjpeg",
+      "href": "https://github.com/mozilla/mozjpeg",
+      "description": "Improved JPEG encoder.",
+      "language": "C",
+      "stars": 2441,
+      "forks": 207
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 11798,
+      "forks": 1435
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11626,
+      "forks": 813
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 8633,
+      "forks": 1021
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 4218,
+      "forks": 915
+    },
+    {
+      "author": "marcobambini",
+      "name": "gravity",
+      "href": "https://github.com/marcobambini/gravity",
+      "description": "Gravity Programming Language",
+      "language": "C",
+      "stars": 2171,
+      "forks": 81
+    },
+    {
+      "author": "TheOfficialFloW",
+      "name": "VitaShell",
+      "href": "https://github.com/TheOfficialFloW/VitaShell",
+      "description": "VitaShell is a file manager for PS Vita HENkaku",
+      "language": "C",
+      "stars": 286,
+      "forks": 82
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6141,
+      "forks": 474
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 11563,
+      "forks": 3903
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 5679,
+      "forks": 1374
+    }
+  ]
+}
