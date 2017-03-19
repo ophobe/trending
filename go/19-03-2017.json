@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ory",
+      "name": "ladon",
+      "href": "https://github.com/ory/ladon",
+      "description": "A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.",
+      "language": "Go",
+      "stars": 670,
+      "forks": 49
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 10951,
+      "forks": 717
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfɪk, a modern reverse proxy",
+      "language": "Go",
+      "stars": 6998,
+      "forks": 618
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40806,
+      "forks": 12302
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15779,
+      "forks": 2292
+    },
+    {
+      "author": "bcicen",
+      "name": "ctop",
+      "href": "https://github.com/bcicen/ctop",
+      "description": "Top-like interface for container metrics",
+      "language": "Go",
+      "stars": 4641,
+      "forks": 114
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21580,
+      "forks": 7423
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the scalable, survivable, strongly-consistent SQL database",
+      "language": "Go",
+      "stars": 9014,
+      "forks": 889
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 25977,
+      "forks": 3494
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 19080,
+      "forks": 2384
+    },
+    {
+      "author": "Masterminds",
+      "name": "sprig",
+      "href": "https://github.com/Masterminds/sprig",
+      "description": "Useful template functions for Go templates.",
+      "language": "Go",
+      "stars": 218,
+      "forks": 26
+    },
+    {
+      "author": "UnnoTed",
+      "name": "fileb0x",
+      "href": "https://github.com/UnnoTed/fileb0x",
+      "description": "simple customizable tool to embed files in go",
+      "language": "Go",
+      "stars": 137,
+      "forks": 5
+    },
+    {
+      "author": "ory",
+      "name": "hydra",
+      "href": "https://github.com/ory/hydra",
+      "description": "A security-first open source OAuth2 and OpenID Connect server for new and existing infrastructures. Written in Go.",
+      "language": "Go",
+      "stars": 2406,
+      "forks": 129
+    },
+    {
+      "author": "raff",
+      "name": "godet",
+      "href": "https://github.com/raff/godet",
+      "description": "Remote client for Chrome DevTools",
+      "language": "Go",
+      "stars": 44,
+      "forks": 2
+    },
+    {
+      "author": "netlify",
+      "name": "gocommerce",
+      "href": "https://github.com/netlify/gocommerce",
+      "description": "A headless e-commerce for JAMstack sites",
+      "language": "Go",
+      "stars": 91,
+      "forks": 4
+    },
+    {
+      "author": "Masterminds",
+      "name": "glide",
+      "href": "https://github.com/Masterminds/glide",
+      "description": "Package Management for Golang",
+      "language": "Go",
+      "stars": 4061,
+      "forks": 252
+    },
+    {
+      "author": "beeker1121",
+      "name": "goque",
+      "href": "https://github.com/beeker1121/goque",
+      "description": "Persistent stacks and queues for Go backed by LevelDB",
+      "language": "Go",
+      "stars": 376,
+      "forks": 16
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 3241,
+      "forks": 1135
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 9056,
+      "forks": 1044
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14625,
+      "forks": 4668
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 6051,
+      "forks": 417
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7532,
+      "forks": 2732
+    },
+    {
+      "author": "knqyf263",
+      "name": "pet",
+      "href": "https://github.com/knqyf263/pet",
+      "description": "Simple command-line snippet manager, written in Go.",
+      "language": "Go",
+      "stars": 1176,
+      "forks": 29
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 18246,
+      "forks": 2081
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 4386,
+      "forks": 615
+    }
+  ]
+}
