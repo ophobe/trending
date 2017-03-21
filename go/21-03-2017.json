@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 40908,
+      "forks": 12335
+    },
+    {
+      "author": "bcicen",
+      "name": "ctop",
+      "href": "https://github.com/bcicen/ctop",
+      "description": "Top-like interface for container metrics",
+      "language": "Go",
+      "stars": 4810,
+      "forks": 115
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 11036,
+      "forks": 723
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 26056,
+      "forks": 3502
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 19139,
+      "forks": 2393
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 15859,
+      "forks": 2299
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21640,
+      "forks": 7457
+    },
+    {
+      "author": "kshvmdn",
+      "name": "shorten",
+      "href": "https://github.com/kshvmdn/shorten",
+      "description": "A personal URL shortener with GitHub Pages.",
+      "language": "Go",
+      "stars": 89,
+      "forks": 1
+    },
+    {
+      "author": "ExpansiveWorlds",
+      "name": "instrumentedsql",
+      "href": "https://github.com/ExpansiveWorlds/instrumentedsql",
+      "description": "A sql driver that will wrap any other driver and log/trace all its calls",
+      "language": "Go",
+      "stars": 67,
+      "forks": 3
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.",
+      "language": "Go",
+      "stars": 6507,
+      "forks": 422
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfɪk, a modern reverse proxy",
+      "language": "Go",
+      "stars": 7064,
+      "forks": 630
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 899,
+      "forks": 932
+    },
+    {
+      "author": "ory",
+      "name": "ladon",
+      "href": "https://github.com/ory/ladon",
+      "description": "A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.",
+      "language": "Go",
+      "stars": 775,
+      "forks": 52
+    },
+    {
+      "author": "BurntSushi",
+      "name": "go-sumtype",
+      "href": "https://github.com/BurntSushi/go-sumtype",
+      "description": "A simple utility for running exhaustiveness checks on Go \"sum types.\"",
+      "language": "Go",
+      "stars": 87,
+      "forks": 3
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 3112,
+      "forks": 124
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15136,
+      "forks": 2406
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7566,
+      "forks": 2746
+    },
+    {
+      "author": "ZhenhangTung",
+      "name": "GoGym",
+      "href": "https://github.com/ZhenhangTung/GoGym",
+      "description": "Get some \"REST\" after you \"GoGym\"",
+      "language": "Go",
+      "stars": 34,
+      "forks": 6
+    },
+    {
+      "author": "StackExchange",
+      "name": "dnscontrol",
+      "href": "https://github.com/StackExchange/dnscontrol",
+      "description": "Synchronize your DNS to multiple providers from a simple DSL",
+      "language": "Go",
+      "stars": 190,
+      "forks": 10
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 5573,
+      "forks": 335
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 6081,
+      "forks": 422
+    },
+    {
+      "author": "jtolds",
+      "name": "sheepda",
+      "href": "https://github.com/jtolds/sheepda",
+      "description": "GET IT?",
+      "language": "Go",
+      "stars": 42,
+      "forks": 0
+    },
+    {
+      "author": "schollz",
+      "name": "linkcrawler",
+      "href": "https://github.com/schollz/linkcrawler",
+      "description": "Cross-platform persistent and distributed web crawler 🔗",
+      "language": "Go",
+      "stars": 58,
+      "forks": 1
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 8633,
+      "forks": 880
+    },
+    {
+      "author": "vmware",
+      "name": "harbor",
+      "href": "https://github.com/vmware/harbor",
+      "description": "An enterprise-class container registry server based on Docker Distribution",
+      "language": "Go",
+      "stars": 1928,
+      "forks": 515
+    }
+  ]
+}
