@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cr-marcstevens",
+      "name": "sha1collisiondetection",
+      "href": "https://github.com/cr-marcstevens/sha1collisiondetection",
+      "description": "Library and command line tool to detect SHA-1 collision in a file",
+      "language": "C",
+      "stars": 758,
+      "forks": 63
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 19749,
+      "forks": 1525
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 2796,
+      "forks": 384
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 43178,
+      "forks": 16414
+    },
+    {
+      "author": "tobbelobb",
+      "name": "hangprinter",
+      "href": "https://github.com/tobbelobb/hangprinter",
+      "description": "A RepRap hanging from the ceiling",
+      "language": "C",
+      "stars": 116,
+      "forks": 7
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 22415,
+      "forks": 8407
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 16800,
+      "forks": 9440
+    },
+    {
+      "author": "vvanders",
+      "name": "wasm_lua",
+      "href": "https://github.com/vvanders/wasm_lua",
+      "description": "Lua VM running in a WASM environment",
+      "language": "C",
+      "stars": 380,
+      "forks": 12
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 12063,
+      "forks": 3738
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6564,
+      "forks": 3231
+    },
+    {
+      "author": "dekuNukem",
+      "name": "Nintendo_Switch_Reverse_Engineering",
+      "href": "https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering",
+      "description": "A look at inner workings of Joycon and Nintendo Switch",
+      "language": "C",
+      "stars": 625,
+      "forks": 20
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9006,
+      "forks": 1800
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6158,
+      "forks": 475
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 11469,
+      "forks": 894
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 4361,
+      "forks": 2284
+    },
+    {
+      "author": "squeaky-pl",
+      "name": "japronto",
+      "href": "https://github.com/squeaky-pl/japronto",
+      "description": "Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+      "language": "C",
+      "stars": 3478,
+      "forks": 154
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 5705,
+      "forks": 1379
+    },
+    {
+      "author": "ScottyBauer",
+      "name": "Android_Kernel_CVE_POCs",
+      "href": "https://github.com/ScottyBauer/Android_Kernel_CVE_POCs",
+      "description": "A list of my CVE's with POCs",
+      "language": "C",
+      "stars": 263,
+      "forks": 98
+    },
+    {
+      "author": "mozilla",
+      "name": "mozjpeg",
+      "href": "https://github.com/mozilla/mozjpeg",
+      "description": "Improved JPEG encoder.",
+      "language": "C",
+      "stars": 2464,
+      "forks": 208
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6025,
+      "forks": 1001
+    },
+    {
+      "author": "cyrus-and",
+      "name": "mysql-unsha1",
+      "href": "https://github.com/cyrus-and/mysql-unsha1",
+      "description": "Authenticate against a MySQL server without knowing the cleartext password",
+      "language": "C",
+      "stars": 99,
+      "forks": 19
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 3168,
+      "forks": 520
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11646,
+      "forks": 814
+    },
+    {
+      "author": "RUB-SysSec",
+      "name": "OMEN",
+      "href": "https://github.com/RUB-SysSec/OMEN",
+      "description": "OMEN: Ordered Markov ENumerator - Password Guesser",
+      "language": "C",
+      "stars": 148,
+      "forks": 6
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 3239,
+      "forks": 794
+    }
+  ]
+}
