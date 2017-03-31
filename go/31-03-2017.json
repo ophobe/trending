@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "immortal",
+      "name": "immortal",
+      "href": "https://github.com/immortal/immortal",
+      "description": "⭕ A *nix cross-platform (OS agnostic) supervisor",
+      "language": "Go",
+      "stars": 243,
+      "forks": 7
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 41284,
+      "forks": 12469
+    },
+    {
+      "author": "cenkalti",
+      "name": "backoff",
+      "href": "https://github.com/cenkalti/backoff",
+      "description": "The exponential backoff algorithm in Go (Golang).",
+      "language": "Go",
+      "stars": 651,
+      "forks": 43
+    },
+    {
+      "author": "imroc",
+      "name": "req",
+      "href": "https://github.com/imroc/req",
+      "description": "req is a super light weight and super easy-to-use golang http request library.",
+      "language": "Go",
+      "stars": 142,
+      "forks": 15
+    },
+    {
+      "author": "myntra",
+      "name": "pipeline",
+      "href": "https://github.com/myntra/pipeline",
+      "description": "Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.",
+      "language": "Go",
+      "stars": 144,
+      "forks": 10
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 26399,
+      "forks": 3556
+    },
+    {
+      "author": "henson",
+      "name": "ProxyPool",
+      "href": "https://github.com/henson/ProxyPool",
+      "description": "Golang实现的IP代理池",
+      "language": "Go",
+      "stars": 42,
+      "forks": 12
+    },
+    {
+      "author": "bcicen",
+      "name": "ctop",
+      "href": "https://github.com/bcicen/ctop",
+      "description": "Top-like interface for container metrics",
+      "language": "Go",
+      "stars": 5140,
+      "forks": 129
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "Functions as a Service (on Docker Swarm)",
+      "language": "Go",
+      "stars": 905,
+      "forks": 65
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 16114,
+      "forks": 2325
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 21995,
+      "forks": 7588
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 14856,
+      "forks": 4736
+    },
+    {
+      "author": "juju",
+      "name": "juju",
+      "href": "https://github.com/juju/juju",
+      "description": "juju is devops distilled",
+      "language": "Go",
+      "stars": 866,
+      "forks": 198
+    },
+    {
+      "author": "chuhades",
+      "name": "dnsbrute",
+      "href": "https://github.com/chuhades/dnsbrute",
+      "description": "a fast domain brute tool",
+      "language": "Go",
+      "stars": 59,
+      "forks": 15
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15324,
+      "forks": 2450
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7726,
+      "forks": 2829
+    },
+    {
+      "author": "hlandau",
+      "name": "acme",
+      "href": "https://github.com/hlandau/acme",
+      "description": "🔒 acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)",
+      "language": "Go",
+      "stars": 1193,
+      "forks": 57
+    },
+    {
+      "author": "aelsabbahy",
+      "name": "goss",
+      "href": "https://github.com/aelsabbahy/goss",
+      "description": "Quick and Easy server testing/validation",
+      "language": "Go",
+      "stars": 1095,
+      "forks": 65
+    },
+    {
+      "author": "muesli",
+      "name": "beehive",
+      "href": "https://github.com/muesli/beehive",
+      "description": "A flexible event and agent system with lots of bees 🐝",
+      "language": "Go",
+      "stars": 2408,
+      "forks": 91
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 19412,
+      "forks": 2428
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 2655,
+      "forks": 229
+    },
+    {
+      "author": "KyleBanks",
+      "name": "goggles",
+      "href": "https://github.com/KyleBanks/goggles",
+      "description": "🔭 Goggles is a cross-platform GUI for your $GOPATH!",
+      "language": "Go",
+      "stars": 451,
+      "forks": 7
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 9234,
+      "forks": 1058
+    },
+    {
+      "author": "future-architect",
+      "name": "vuls",
+      "href": "https://github.com/future-architect/vuls",
+      "description": "Vulnerability scanner for Linux/FreeBSD, agentless, written in Go",
+      "language": "Go",
+      "stars": 3949,
+      "forks": 313
+    },
+    {
+      "author": "gmarik",
+      "name": "go-erd",
+      "href": "https://github.com/gmarik/go-erd",
+      "description": "Go-ERD (Entity Relationship Diagrams) for Golang with Graphviz [WIP]",
+      "language": "Go",
+      "stars": 116,
+      "forks": 2
+    }
+  ]
+}
