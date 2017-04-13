@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Modern SSH server for clusters and teams.",
+      "language": "Go",
+      "stars": 4515,
+      "forks": 200
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 7524,
+      "forks": 680
+    },
+    {
+      "author": "StackExchange",
+      "name": "dnscontrol",
+      "href": "https://github.com/StackExchange/dnscontrol",
+      "description": "Synchronize your DNS to multiple providers from a simple DSL",
+      "language": "Go",
+      "stars": 470,
+      "forks": 26
+    },
+    {
+      "author": "ponzu-cms",
+      "name": "ponzu",
+      "href": "https://github.com/ponzu-cms/ponzu",
+      "description": "Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.",
+      "language": "Go",
+      "stars": 2317,
+      "forks": 92
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 22361,
+      "forks": 7757
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10502,
+      "forks": 2447
+    },
+    {
+      "author": "eBay",
+      "name": "fabio",
+      "href": "https://github.com/eBay/fabio",
+      "description": "A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul.",
+      "language": "Go",
+      "stars": 3529,
+      "forks": 256
+    },
+    {
+      "author": "docker",
+      "name": "docker",
+      "href": "https://github.com/docker/docker",
+      "description": "Docker - the open-source application container engine",
+      "language": "Go",
+      "stars": 41742,
+      "forks": 12617
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 26825,
+      "forks": 3600
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 15077,
+      "forks": 4781
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 19701,
+      "forks": 2472
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 5707,
+      "forks": 549
+    },
+    {
+      "author": "box",
+      "name": "kube-applier",
+      "href": "https://github.com/box/kube-applier",
+      "description": "kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.",
+      "language": "Go",
+      "stars": 46,
+      "forks": 2
+    },
+    {
+      "author": "centrifugal",
+      "name": "centrifugo",
+      "href": "https://github.com/centrifugal/centrifugo",
+      "description": "Language-agnostic real-time messaging (Websocket or SockJS) server in Go",
+      "language": "Go",
+      "stars": 1747,
+      "forks": 130
+    },
+    {
+      "author": "wgliang",
+      "name": "goreporter",
+      "href": "https://github.com/wgliang/goreporter",
+      "description": "A Golang tool that does static analysis, unit testing, code review and generate code quality report.",
+      "language": "Go",
+      "stars": 815,
+      "forks": 40
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7907,
+      "forks": 2917
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "Functions as a Service (on Docker Swarm)",
+      "language": "Go",
+      "stars": 1069,
+      "forks": 70
+    },
+    {
+      "author": "goruby",
+      "name": "goruby",
+      "href": "https://github.com/goruby/goruby",
+      "description": "GoRuby, an implementation of Ruby written in Go",
+      "language": "Go",
+      "stars": 141,
+      "forks": 5
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 16396,
+      "forks": 2364
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 8997,
+      "forks": 940
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15505,
+      "forks": 2493
+    },
+    {
+      "author": "rancher",
+      "name": "os",
+      "href": "https://github.com/rancher/os",
+      "description": "Tiny Linux distro that runs the entire OS as Docker containers",
+      "language": "Go",
+      "stars": 3213,
+      "forks": 346
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13018,
+      "forks": 2450
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 11556,
+      "forks": 760
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 8626,
+      "forks": 1147
+    }
+  ]
+}
