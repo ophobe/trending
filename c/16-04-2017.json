@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "froggey",
+      "name": "Iota",
+      "href": "https://github.com/froggey/Iota",
+      "description": "LLVM to Common Lisp transpiler.",
+      "language": "C",
+      "stars": 95,
+      "forks": 5
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 44079,
+      "forks": 16742
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 20412,
+      "forks": 1595
+    },
+    {
+      "author": "soveran",
+      "name": "clac",
+      "href": "https://github.com/soveran/clac",
+      "description": "A command line, stack-based calculator with postfix notation",
+      "language": "C",
+      "stars": 155,
+      "forks": 8
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17120,
+      "forks": 9640
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 4481,
+      "forks": 955
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 1042,
+      "forks": 231
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 12607,
+      "forks": 3866
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4663,
+      "forks": 3102
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2325,
+      "forks": 1048
+    },
+    {
+      "author": "klaxa",
+      "name": "mkvserver_mk2",
+      "href": "https://github.com/klaxa/mkvserver_mk2",
+      "description": "The streaming solution to end all streaming problems",
+      "language": "C",
+      "stars": 99,
+      "forks": 5
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 4805,
+      "forks": 1630
+    },
+    {
+      "author": "adsr",
+      "name": "mle",
+      "href": "https://github.com/adsr/mle",
+      "description": "a small, flexible console text editor (C)",
+      "language": "C",
+      "stars": 78,
+      "forks": 8
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 7144,
+      "forks": 3143
+    },
+    {
+      "author": "i3",
+      "name": "i3",
+      "href": "https://github.com/i3/i3",
+      "description": "A better tiling and dynamic window manager",
+      "language": "C",
+      "stars": 2000,
+      "forks": 243
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "The missing terminal file browser for X",
+      "language": "C",
+      "stars": 71,
+      "forks": 4
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6838,
+      "forks": 3320
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 8853,
+      "forks": 1061
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 22899,
+      "forks": 8617
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9308,
+      "forks": 1880
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 11979,
+      "forks": 1461
+    },
+    {
+      "author": "arduino",
+      "name": "Arduino",
+      "href": "https://github.com/arduino/Arduino",
+      "description": "open-source electronics prototyping platform",
+      "language": "C",
+      "stars": 6621,
+      "forks": 5357
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 11765,
+      "forks": 928
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11876,
+      "forks": 826
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 5339,
+      "forks": 704
+    }
+  ]
+}
