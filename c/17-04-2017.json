@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 44124,
+      "forks": 16751
+    },
+    {
+      "author": "lmatteis",
+      "name": "torrent-peek",
+      "href": "https://github.com/lmatteis/torrent-peek",
+      "description": "Distributed search engines using BitTorrent and SQLite",
+      "language": "C",
+      "stars": 132,
+      "forks": 2
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 12633,
+      "forks": 3882
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 22919,
+      "forks": 8624
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 1062,
+      "forks": 237
+    },
+    {
+      "author": "froggey",
+      "name": "Iota",
+      "href": "https://github.com/froggey/Iota",
+      "description": "LLVM to Common Lisp transpiler.",
+      "language": "C",
+      "stars": 107,
+      "forks": 5
+    },
+    {
+      "author": "networkprotocol",
+      "name": "netcode.io",
+      "href": "https://github.com/networkprotocol/netcode.io",
+      "description": "A simple protocol for creating secure client/server connections over UDP",
+      "language": "C",
+      "stars": 704,
+      "forks": 34
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 20426,
+      "forks": 1597
+    },
+    {
+      "author": "soveran",
+      "name": "clac",
+      "href": "https://github.com/soveran/clac",
+      "description": "A command line, stack-based calculator with postfix notation",
+      "language": "C",
+      "stars": 174,
+      "forks": 9
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 11749,
+      "forks": 3959
+    },
+    {
+      "author": "SL-RU",
+      "name": "MakiseGUI",
+      "href": "https://github.com/SL-RU/MakiseGUI",
+      "description": "Graphics and GUI library for embed systems.",
+      "language": "C",
+      "stars": 33,
+      "forks": 3
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 5980,
+      "forks": 1428
+    },
+    {
+      "author": "TheOfficialFloW",
+      "name": "Adrenaline",
+      "href": "https://github.com/TheOfficialFloW/Adrenaline",
+      "description": "Custom Firmware 6.61 Adrenaline for 3.60 HENkaku",
+      "language": "C",
+      "stars": 67,
+      "forks": 7
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9318,
+      "forks": 1884
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6850,
+      "forks": 3328
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17127,
+      "forks": 9644
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 11885,
+      "forks": 826
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "systemd System and Service Manager",
+      "language": "C",
+      "stars": 1789,
+      "forks": 761
+    },
+    {
+      "author": "martanne",
+      "name": "vis",
+      "href": "https://github.com/martanne/vis",
+      "description": "A vi-like editor based on Plan 9's structural regular expressions",
+      "language": "C",
+      "stars": 2417,
+      "forks": 112
+    },
+    {
+      "author": "liudf0716",
+      "name": "xkcptun",
+      "href": "https://github.com/liudf0716/xkcptun",
+      "description": "xkcptun是用c语言实现的kcptun，专为openwrt，lede平台开发",
+      "language": "C",
+      "stars": 23,
+      "forks": 2
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4671,
+      "forks": 3104
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 5348,
+      "forks": 705
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 7151,
+      "forks": 3146
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd",
+      "href": "https://github.com/freebsd/freebsd",
+      "description": "FreeBSD src tree (read-only mirror)",
+      "language": "C",
+      "stars": 2856,
+      "forks": 1129
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 4812,
+      "forks": 1637
+    }
+  ]
+}
