@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 7259,
+      "forks": 236
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 21370,
+      "forks": 4011
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rls",
+      "href": "https://github.com/rust-lang-nursery/rls",
+      "description": "Repository for the Rust Language Server (aka RLS)",
+      "language": "Rust",
+      "stars": 737,
+      "forks": 40
+    },
+    {
+      "author": "dpc",
+      "name": "rdedup",
+      "href": "https://github.com/dpc/rdedup",
+      "description": "Data deduplication engine, supporting optional compression and public key encryption.",
+      "language": "Rust",
+      "stars": 359,
+      "forks": 12
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 4235,
+      "forks": 148
+    },
+    {
+      "author": "kud1ing",
+      "name": "awesome-rust",
+      "href": "https://github.com/kud1ing/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4193,
+      "forks": 266
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 3988,
+      "forks": 291
+    },
+    {
+      "author": "nikomatsakis",
+      "name": "rayon",
+      "href": "https://github.com/nikomatsakis/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 956,
+      "forks": 73
+    },
+    {
+      "author": "redox-os",
+      "name": "redox",
+      "href": "https://github.com/redox-os/redox",
+      "description": "Redox: A Rust Operating System",
+      "language": "Rust",
+      "stars": 6523,
+      "forks": 420
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rustup.rs",
+      "href": "https://github.com/rust-lang-nursery/rustup.rs",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 1127,
+      "forks": 159
+    },
+    {
+      "author": "way-cooler",
+      "name": "way-cooler",
+      "href": "https://github.com/way-cooler/way-cooler",
+      "description": "Customizable Wayland compositor (window manager)",
+      "language": "Rust",
+      "stars": 583,
+      "forks": 24
+    },
+    {
+      "author": "antoyo",
+      "name": "relm",
+      "href": "https://github.com/antoyo/relm",
+      "description": "Asynchronous, GTK+-based, GUI library, inspired by Elm, written in Rust",
+      "language": "Rust",
+      "stars": 260,
+      "forks": 2
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 2017,
+      "forks": 233
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2454,
+      "forks": 426
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 1990,
+      "forks": 101
+    },
+    {
+      "author": "gyscos",
+      "name": "Cursive",
+      "href": "https://github.com/gyscos/Cursive",
+      "description": "A Text User Interface library for rust",
+      "language": "Rust",
+      "stars": 263,
+      "forks": 20
+    },
+    {
+      "author": "clux",
+      "name": "muslrust",
+      "href": "https://github.com/clux/muslrust",
+      "description": "Docker environment for building musl based static rust binaries",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 7
+    },
+    {
+      "author": "redox-os",
+      "name": "ion",
+      "href": "https://github.com/redox-os/ion",
+      "description": "The Ion Shell. Compatible with Redox and Linux.",
+      "language": "Rust",
+      "stars": 143,
+      "forks": 33
+    },
+    {
+      "author": "brson",
+      "name": "error-chain",
+      "href": "https://github.com/brson/error-chain",
+      "description": "Error boilerplate for Rust",
+      "language": "Rust",
+      "stars": 240,
+      "forks": 38
+    },
+    {
+      "author": "azerupi",
+      "name": "mdBook",
+      "href": "https://github.com/azerupi/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 462,
+      "forks": 64
+    },
+    {
+      "author": "Marwes",
+      "name": "combine",
+      "href": "https://github.com/Marwes/combine",
+      "description": "A parser combinator library for Rust",
+      "language": "Rust",
+      "stars": 286,
+      "forks": 21
+    },
+    {
+      "author": "erickt",
+      "name": "rust-zmq",
+      "href": "https://github.com/erickt/rust-zmq",
+      "description": "Rust zeromq bindings.",
+      "language": "Rust",
+      "stars": 235,
+      "forks": 77
+    },
+    {
+      "author": "servo",
+      "name": "html5ever",
+      "href": "https://github.com/servo/html5ever",
+      "description": "High-performance browser-grade HTML5 parser",
+      "language": "Rust",
+      "stars": 422,
+      "forks": 73
+    },
+    {
+      "author": "mongodb-labs",
+      "name": "mongo-rust-driver-prototype",
+      "href": "https://github.com/mongodb-labs/mongo-rust-driver-prototype",
+      "description": null,
+      "language": "Rust",
+      "stars": 166,
+      "forks": 34
+    },
+    {
+      "author": "AngryLawyer",
+      "name": "rust-sdl2",
+      "href": "https://github.com/AngryLawyer/rust-sdl2",
+      "description": "SDL2 bindings for Rust",
+      "language": "Rust",
+      "stars": 490,
+      "forks": 182
+    }
+  ]
+}
