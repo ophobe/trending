@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 42183,
+      "forks": 12695
+    },
+    {
+      "author": "google",
+      "name": "periph",
+      "href": "https://github.com/google/periph",
+      "description": "periph - Peripherals I/O in Go",
+      "language": "Go",
+      "stars": 181,
+      "forks": 10
+    },
+    {
+      "author": "hsluoyz",
+      "name": "casbin",
+      "href": "https://github.com/hsluoyz/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC",
+      "language": "Go",
+      "stars": 161,
+      "forks": 17
+    },
+    {
+      "author": "quilt",
+      "name": "quilt",
+      "href": "https://github.com/quilt/quilt",
+      "description": "Deploy and manage containers with JavaScript",
+      "language": "Go",
+      "stars": 283,
+      "forks": 27
+    },
+    {
+      "author": "docker",
+      "name": "cli",
+      "href": "https://github.com/docker/cli",
+      "description": "The Docker CLI",
+      "language": "Go",
+      "stars": 69,
+      "forks": 4
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 27058,
+      "forks": 3631
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "Linux Native, HTTP Aware Network Security for Containers",
+      "language": "Go",
+      "stars": 455,
+      "forks": 38
+    },
+    {
+      "author": "docker",
+      "name": "infrakit",
+      "href": "https://github.com/docker/infrakit",
+      "description": "A toolkit for creating and managing declarative, self-healing infrastructure.",
+      "language": "Go",
+      "stars": 1385,
+      "forks": 128
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 15226,
+      "forks": 4820
+    },
+    {
+      "author": "uber",
+      "name": "jaeger",
+      "href": "https://github.com/uber/jaeger",
+      "description": "Jaeger - Uber's Distributed Tracing System",
+      "language": "Go",
+      "stars": 438,
+      "forks": 48
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 16533,
+      "forks": 2375
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 19858,
+      "forks": 2487
+    },
+    {
+      "author": "ponzu-cms",
+      "name": "ponzu",
+      "href": "https://github.com/ponzu-cms/ponzu",
+      "description": "Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.",
+      "language": "Go",
+      "stars": 2542,
+      "forks": 101
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 7982,
+      "forks": 2956
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 22486,
+      "forks": 7833
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 9130,
+      "forks": 954
+    },
+    {
+      "author": "m-reda",
+      "name": "pipeline",
+      "href": "https://github.com/m-reda/pipeline",
+      "description": "Node-based automation server",
+      "language": "Go",
+      "stars": 132,
+      "forks": 5
+    },
+    {
+      "author": "ChrisRx",
+      "name": "dungeonfs",
+      "href": "https://github.com/ChrisRx/dungeonfs",
+      "description": "A FUSE filesystem and dungeon crawling adventure game engine",
+      "language": "Go",
+      "stars": 766,
+      "forks": 19
+    },
+    {
+      "author": "movio",
+      "name": "kasper",
+      "href": "https://github.com/movio/kasper",
+      "description": "Kasper is a lightweight library for processing Kafka topics.",
+      "language": "Go",
+      "stars": 41,
+      "forks": 1
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13129,
+      "forks": 2467
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 7713,
+      "forks": 1015
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15605,
+      "forks": 2516
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 7615,
+      "forks": 688
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10573,
+      "forks": 2467
+    },
+    {
+      "author": "tigrawap",
+      "name": "slit",
+      "href": "https://github.com/tigrawap/slit",
+      "description": "slit - a modern PAGER for viewing logs, get more than most in less time",
+      "language": "Go",
+      "stars": 30,
+      "forks": 2
+    }
+  ]
+}
