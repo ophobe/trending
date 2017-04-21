@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 12539,
+      "forks": 11774
+    },
+    {
+      "author": "monadless",
+      "name": "monadless",
+      "href": "https://github.com/monadless/monadless",
+      "description": "Syntactic sugar for monad composition in Scala",
+      "language": "Scala",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8078,
+      "forks": 2070
+    },
+    {
+      "author": "scala-exercises",
+      "name": "scala-exercises",
+      "href": "https://github.com/scala-exercises/scala-exercises",
+      "description": "The easy way to learn Scala.",
+      "language": "Scala",
+      "stars": 934,
+      "forks": 285
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 6987,
+      "forks": 2215
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 7280,
+      "forks": 3898
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 2936,
+      "forks": 604
+    },
+    {
+      "author": "openwhisk",
+      "name": "openwhisk",
+      "href": "https://github.com/openwhisk/openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 1352,
+      "forks": 274
+    },
+    {
+      "author": "suzaku-io",
+      "name": "diode",
+      "href": "https://github.com/suzaku-io/diode",
+      "description": "Scala library for managing immutable application model",
+      "language": "Scala",
+      "stars": 381,
+      "forks": 56
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9235,
+      "forks": 3179
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 3537,
+      "forks": 942
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-rest-api-example",
+      "href": "https://github.com/playframework/play-scala-rest-api-example",
+      "description": "Example Play Scala application showing REST API",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 24
+    },
+    {
+      "author": "kamon-io",
+      "name": "Kamon",
+      "href": "https://github.com/kamon-io/Kamon",
+      "description": "The Open Source tool for monitoring applications running on the JVM",
+      "language": "Scala",
+      "stars": 831,
+      "forks": 184
+    },
+    {
+      "author": "storm-enroute",
+      "name": "macrogl",
+      "href": "https://github.com/storm-enroute/macrogl",
+      "description": "Scala macro-based frontend for OpenGL for structured and efficient graphics code.",
+      "language": "Scala",
+      "stars": 77,
+      "forks": 18
+    },
+    {
+      "author": "ua-parser",
+      "name": "uap-scala",
+      "href": "https://github.com/ua-parser/uap-scala",
+      "description": "Scala port of ua-parser",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 32
+    },
+    {
+      "author": "mukel",
+      "name": "telegrambot4s",
+      "href": "https://github.com/mukel/telegrambot4s",
+      "description": "Telegram Bot API Wrapper for Scala",
+      "language": "Scala",
+      "stars": 109,
+      "forks": 26
+    },
+    {
+      "author": "hseeberger",
+      "name": "akka-http-json",
+      "href": "https://github.com/hseeberger/akka-http-json",
+      "description": "Integrate some of the best JSON libs in Scala with Akka HTTP",
+      "language": "Scala",
+      "stars": 254,
+      "forks": 46
+    },
+    {
+      "author": "akka",
+      "name": "akka-persistence-cassandra",
+      "href": "https://github.com/akka/akka-persistence-cassandra",
+      "description": "A replicated Akka Persistence journal backed by Apache Cassandra",
+      "language": "Scala",
+      "stars": 153,
+      "forks": 104
+    },
+    {
+      "author": "akka-js",
+      "name": "akka.js",
+      "href": "https://github.com/akka-js/akka.js",
+      "description": "Akka, in Scala.js",
+      "language": "Scala",
+      "stars": 256,
+      "forks": 20
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Non blocking, type safe DSL and Scala client for Elasticsearch",
+      "language": "Scala",
+      "stars": 864,
+      "forks": 309
+    },
+    {
+      "author": "scoverage",
+      "name": "scalac-scoverage-plugin",
+      "href": "https://github.com/scoverage/scalac-scoverage-plugin",
+      "description": "Scoverage Scala Code Coverage Core Libs",
+      "language": "Scala",
+      "stars": 268,
+      "forks": 73
+    },
+    {
+      "author": "stew",
+      "name": "dogs",
+      "href": "https://github.com/stew/dogs",
+      "description": "data structures for pure functional programming in scala. see the completely incomplete documentation website:",
+      "language": "Scala",
+      "stars": 207,
+      "forks": 37
+    },
+    {
+      "author": "scalapb",
+      "name": "ScalaPB",
+      "href": "https://github.com/scalapb/ScalaPB",
+      "description": "Protocol buffer compiler for Scala.",
+      "language": "Scala",
+      "stars": 378,
+      "forks": 65
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 732,
+      "forks": 184
+    },
+    {
+      "author": "PredictionIO",
+      "name": "template-scala-parallel-universal-recommendation",
+      "href": "https://github.com/PredictionIO/template-scala-parallel-universal-recommendation",
+      "description": "PredictiionIO Template for Universal Recommender",
+      "language": "Scala",
+      "stars": 109,
+      "forks": 98
+    }
+  ]
+}
