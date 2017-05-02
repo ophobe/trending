@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 12661,
+      "forks": 11922
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for cats",
+      "language": "Scala",
+      "stars": 86,
+      "forks": 10
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10138,
+      "forks": 1646
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 1979,
+      "forks": 154
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 7353,
+      "forks": 3924
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9272,
+      "forks": 3185
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7025,
+      "forks": 2226
+    },
+    {
+      "author": "openwhisk",
+      "name": "openwhisk",
+      "href": "https://github.com/openwhisk/openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 1392,
+      "forks": 288
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8134,
+      "forks": 2079
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 2757,
+      "forks": 156
+    },
+    {
+      "author": "sangria-graphql",
+      "name": "sangria",
+      "href": "https://github.com/sangria-graphql/sangria",
+      "description": "Scala GraphQL implementation",
+      "language": "Scala",
+      "stars": 691,
+      "forks": 42
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 558,
+      "forks": 180
+    },
+    {
+      "author": "json4s",
+      "name": "json4s",
+      "href": "https://github.com/json4s/json4s",
+      "description": "A single AST to be used by other scala json libraries",
+      "language": "Scala",
+      "stars": 883,
+      "forks": 230
+    },
+    {
+      "author": "Hydrospheredata",
+      "name": "mist",
+      "href": "https://github.com/Hydrospheredata/mist",
+      "description": "Model serving (scoring) middleware on top of Apache Spark",
+      "language": "Scala",
+      "stars": 73,
+      "forks": 24
+    },
+    {
+      "author": "MrTJP",
+      "name": "ProjectRed",
+      "href": "https://github.com/MrTJP/ProjectRed",
+      "description": "Extending redstone functionality to FMP",
+      "language": "Scala",
+      "stars": 287,
+      "forks": 128
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-protobuf",
+      "href": "https://github.com/sbt/sbt-protobuf",
+      "description": "sbt plugin for compiling protobuf files",
+      "language": "Scala",
+      "stars": 117,
+      "forks": 27
+    },
+    {
+      "author": "Kanaka-io",
+      "name": "play-monadic-actions",
+      "href": "https://github.com/Kanaka-io/play-monadic-actions",
+      "description": "A simple scala DSL to allow clean and monadic style for Play! Actions",
+      "language": "Scala",
+      "stars": 58,
+      "forks": 16
+    },
+    {
+      "author": "propensive",
+      "name": "contextual",
+      "href": "https://github.com/propensive/contextual",
+      "description": "Contextual",
+      "language": "Scala",
+      "stars": 95,
+      "forks": 7
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 317,
+      "forks": 144
+    },
+    {
+      "author": "guardian",
+      "name": "scanamo",
+      "href": "https://github.com/guardian/scanamo",
+      "description": "Simpler DynamoDB access for Scala",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 23
+    },
+    {
+      "author": "Verizon",
+      "name": "knobs",
+      "href": "https://github.com/Verizon/knobs",
+      "description": "A reasonable configuration library for Scala",
+      "language": "Scala",
+      "stars": 157,
+      "forks": 40
+    },
+    {
+      "author": "scalameter",
+      "name": "scalameter",
+      "href": "https://github.com/scalameter/scalameter",
+      "description": "Microbenchmarking and performance regression testing framework for the JVM platform.",
+      "language": "Scala",
+      "stars": 324,
+      "forks": 50
+    },
+    {
+      "author": "p2t2",
+      "name": "figaro",
+      "href": "https://github.com/p2t2/figaro",
+      "description": "Figaro Programming Language and Core Libraries",
+      "language": "Scala",
+      "stars": 465,
+      "forks": 94
+    },
+    {
+      "author": "lucidworks",
+      "name": "spark-solr",
+      "href": "https://github.com/lucidworks/spark-solr",
+      "description": "Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.",
+      "language": "Scala",
+      "stars": 230,
+      "forks": 137
+    },
+    {
+      "author": "eltimn",
+      "name": "lift-mongo.g8",
+      "href": "https://github.com/eltimn/lift-mongo.g8",
+      "description": "giter8 template for a Lift-MongoDB application",
+      "language": "Scala",
+      "stars": 30,
+      "forks": 17
+    }
+  ]
+}
