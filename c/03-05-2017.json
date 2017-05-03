@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 44657,
+      "forks": 16918
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12017,
+      "forks": 839
+    },
+    {
+      "author": "jonas",
+      "name": "tig",
+      "href": "https://github.com/jonas/tig",
+      "description": "Text-mode interface for git",
+      "language": "C",
+      "stars": 4276,
+      "forks": 305
+    },
+    {
+      "author": "s0lst1c3",
+      "name": "eaphammer",
+      "href": "https://github.com/s0lst1c3/eaphammer",
+      "description": "Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.",
+      "language": "C",
+      "stars": 122,
+      "forks": 20
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17343,
+      "forks": 9774
+    },
+    {
+      "author": "julycoding",
+      "name": "The-Art-Of-Programming-By-July",
+      "href": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+      "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+      "language": "C",
+      "stars": 10413,
+      "forks": 4842
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 20790,
+      "forks": 1624
+    },
+    {
+      "author": "starnight",
+      "name": "DriverPractice",
+      "href": "https://github.com/starnight/DriverPractice",
+      "description": "Linux driver practices",
+      "language": "C",
+      "stars": 34,
+      "forks": 8
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 6985,
+      "forks": 3380
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 8722,
+      "forks": 487
+    },
+    {
+      "author": "tarantool",
+      "name": "tarantool",
+      "href": "https://github.com/tarantool/tarantool",
+      "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+      "language": "C",
+      "stars": 1475,
+      "forks": 154
+    },
+    {
+      "author": "transceptor-technology",
+      "name": "siridb-server",
+      "href": "https://github.com/transceptor-technology/siridb-server",
+      "description": "SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without indexes and allows server resources to be added on the fly. SiriDB's unique query language includes dynamic grouping of time series for easy analysis over large amount's of time series.",
+      "language": "C",
+      "stars": 131,
+      "forks": 12
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9551,
+      "forks": 1929
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23215,
+      "forks": 8752
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 831,
+      "forks": 199
+    },
+    {
+      "author": "mozilla",
+      "name": "DeepSpeech",
+      "href": "https://github.com/mozilla/DeepSpeech",
+      "description": "A TensorFlow implementation of Baidu's DeepSpeech architecture",
+      "language": "C",
+      "stars": 466,
+      "forks": 119
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6450,
+      "forks": 518
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6378,
+      "forks": 1064
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 8997,
+      "forks": 1073
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 5353,
+      "forks": 1136
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6135,
+      "forks": 1458
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 11862,
+      "forks": 3990
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2482,
+      "forks": 1123
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4769,
+      "forks": 3149
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 5242,
+      "forks": 383
+    }
+  ]
+}
