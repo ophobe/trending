@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "facebook",
+      "name": "prepack",
+      "href": "https://github.com/facebook/prepack",
+      "description": "Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.",
+      "language": "JavaScript",
+      "stars": 6171,
+      "forks": 117
+    },
+    {
+      "author": "zeit",
+      "name": "pkg",
+      "href": "https://github.com/zeit/pkg",
+      "description": "Package your Node.js project into an executable",
+      "language": "JavaScript",
+      "stars": 4762,
+      "forks": 82
+    },
+    {
+      "author": "gajus",
+      "name": "prepack-webpack-plugin",
+      "href": "https://github.com/gajus/prepack-webpack-plugin",
+      "description": "A webpack plugin for prepack.",
+      "language": "JavaScript",
+      "stars": 500,
+      "forks": 11
+    },
+    {
+      "author": "FormidableLabs",
+      "name": "freactal",
+      "href": "https://github.com/FormidableLabs/freactal",
+      "description": "Clean and robust state management for React and React-like libs.",
+      "language": "JavaScript",
+      "stars": 876,
+      "forks": 17
+    },
+    {
+      "author": "kitze",
+      "name": "sizzy",
+      "href": "https://github.com/kitze/sizzy",
+      "description": "A tool for developing responsive websites crazy-fast",
+      "language": "JavaScript",
+      "stars": 3309,
+      "forks": 100
+    },
+    {
+      "author": "vuejs",
+      "name": "vue",
+      "href": "https://github.com/vuejs/vue",
+      "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "language": "JavaScript",
+      "stars": 52532,
+      "forks": 7057
+    },
+    {
+      "author": "totaljs",
+      "name": "framework",
+      "href": "https://github.com/totaljs/framework",
+      "description": "Node.js framework",
+      "language": "JavaScript",
+      "stars": 2514,
+      "forks": 312
+    },
+    {
+      "author": "vadimdemedes",
+      "name": "mongorito",
+      "href": "https://github.com/vadimdemedes/mongorito",
+      "description": "🍹 MongoDB ODM for modern Node.js apps.",
+      "language": "JavaScript",
+      "stars": 989,
+      "forks": 75
+    },
+    {
+      "author": "facebook",
+      "name": "react",
+      "href": "https://github.com/facebook/react",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "JavaScript",
+      "stars": 65998,
+      "forks": 12242
+    },
+    {
+      "author": "airbnb",
+      "name": "react-sketchapp",
+      "href": "https://github.com/airbnb/react-sketchapp",
+      "description": "render React components to Sketch ⚛️💎",
+      "language": "JavaScript",
+      "stars": 6824,
+      "forks": 237
+    },
+    {
+      "author": "ryanmcdermott",
+      "name": "clean-code-javascript",
+      "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "description": "🛁 Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 13956,
+      "forks": 1205
+    },
+    {
+      "author": "mzabriskie",
+      "name": "axios",
+      "href": "https://github.com/mzabriskie/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "stars": 18898,
+      "forks": 1096
+    },
+    {
+      "author": "facebookincubator",
+      "name": "create-react-app",
+      "href": "https://github.com/facebookincubator/create-react-app",
+      "description": "Create React apps with no build configuration.",
+      "language": "JavaScript",
+      "stars": 25799,
+      "forks": 3489
+    },
+    {
+      "author": "getify",
+      "name": "You-Dont-Know-JS",
+      "href": "https://github.com/getify/You-Dont-Know-JS",
+      "description": "A book series on JavaScript. @YDKJS on twitter.",
+      "language": "JavaScript",
+      "stars": 57945,
+      "forks": 9414
+    },
+    {
+      "author": "twbs",
+      "name": "bootstrap",
+      "href": "https://github.com/twbs/bootstrap",
+      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "language": "JavaScript",
+      "stars": 110196,
+      "forks": 50716
+    },
+    {
+      "author": "airbnb",
+      "name": "javascript",
+      "href": "https://github.com/airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "language": "JavaScript",
+      "stars": 51629,
+      "forks": 9902
+    },
+    {
+      "author": "ngryman",
+      "name": "speedracer",
+      "href": "https://github.com/ngryman/speedracer",
+      "description": "🏎 Collect performance metrics for your library/application.",
+      "language": "JavaScript",
+      "stars": 361,
+      "forks": 3
+    },
+    {
+      "author": "brh55",
+      "name": "react-native-masonry",
+      "href": "https://github.com/brh55/react-native-masonry",
+      "description": "🙌 A react-native component to render a masonry~ish layout for images with support for dynamic columns, progressive image loading, device rotation, and on-press handlers",
+      "language": "JavaScript",
+      "stars": 157,
+      "forks": 6
+    },
+    {
+      "author": "segmentio",
+      "name": "create-next-app",
+      "href": "https://github.com/segmentio/create-next-app",
+      "description": "Create Next.js apps in one command",
+      "language": "JavaScript",
+      "stars": 596,
+      "forks": 17
+    },
+    {
+      "author": "webpack",
+      "name": "webpack",
+      "href": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "language": "JavaScript",
+      "stars": 27333,
+      "forks": 3360
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "href": "https://github.com/facebook/react-native",
+      "description": "A framework for building native apps with React.",
+      "language": "JavaScript",
+      "stars": 47923,
+      "forks": 11168
+    },
+    {
+      "author": "zenorocha",
+      "name": "codecopy",
+      "href": "https://github.com/zenorocha/codecopy",
+      "description": "A browser extension that adds copy to clipboard buttons on every code block",
+      "language": "JavaScript",
+      "stars": 342,
+      "forks": 20
+    },
+    {
+      "author": "callemall",
+      "name": "material-ui",
+      "href": "https://github.com/callemall/material-ui",
+      "description": "React Components that Implement Google's Material Design.",
+      "language": "JavaScript",
+      "stars": 25338,
+      "forks": 4534
+    },
+    {
+      "author": "reactjs",
+      "name": "redux",
+      "href": "https://github.com/reactjs/redux",
+      "description": "Predictable state container for JavaScript apps",
+      "language": "JavaScript",
+      "stars": 30667,
+      "forks": 6172
+    },
+    {
+      "author": "styled-components",
+      "name": "styled-components",
+      "href": "https://github.com/styled-components/styled-components",
+      "description": "Visual primitives for the component age 💅",
+      "language": "JavaScript",
+      "stars": 6865,
+      "forks": 360
+    }
+  ]
+}
