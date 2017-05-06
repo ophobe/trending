@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 44730,
+      "forks": 16939
+    },
+    {
+      "author": "zerotier",
+      "name": "toss",
+      "href": "https://github.com/zerotier/toss",
+      "description": "Dead simple LAN file transfers from the command line",
+      "language": "C",
+      "stars": 66,
+      "forks": 3
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17374,
+      "forks": 9793
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 20848,
+      "forks": 1626
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "href": "https://github.com/jemalloc/jemalloc",
+      "description": null,
+      "language": "C",
+      "stars": 2074,
+      "forks": 458
+    },
+    {
+      "author": "pytorch",
+      "name": "audio",
+      "href": "https://github.com/pytorch/audio",
+      "description": "simple audio I/O for pytorch",
+      "language": "C",
+      "stars": 59,
+      "forks": 2
+    },
+    {
+      "author": "hfiref0x",
+      "name": "UACME",
+      "href": "https://github.com/hfiref0x/UACME",
+      "description": "Defeating Windows User Account Control",
+      "language": "C",
+      "stars": 702,
+      "forks": 279
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6479,
+      "forks": 518
+    },
+    {
+      "author": "jonas",
+      "name": "tig",
+      "href": "https://github.com/jonas/tig",
+      "description": "Text-mode interface for git",
+      "language": "C",
+      "stars": 4327,
+      "forks": 309
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6150,
+      "forks": 1465
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9591,
+      "forks": 1934
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6407,
+      "forks": 1065
+    },
+    {
+      "author": "iwasrobbed",
+      "name": "Down",
+      "href": "https://github.com/iwasrobbed/Down",
+      "description": "Blazing fast Markdown rendering in Swift, built upon cmark.",
+      "language": "C",
+      "stars": 350,
+      "forks": 25
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12096,
+      "forks": 841
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23272,
+      "forks": 8769
+    },
+    {
+      "author": "peperunas",
+      "name": "injectopi",
+      "href": "https://github.com/peperunas/injectopi",
+      "description": "A set of tutorials about code injection for Windows.",
+      "language": "C",
+      "stars": 85,
+      "forks": 17
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9020,
+      "forks": 1079
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2505,
+      "forks": 1135
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 8750,
+      "forks": 489
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 5465,
+      "forks": 720
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7014,
+      "forks": 3393
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 5277,
+      "forks": 670
+    },
+    {
+      "author": "OpenRCT2",
+      "name": "OpenRCT2",
+      "href": "https://github.com/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+      "language": "C",
+      "stars": 2687,
+      "forks": 444
+    },
+    {
+      "author": "mozilla",
+      "name": "DeepSpeech",
+      "href": "https://github.com/mozilla/DeepSpeech",
+      "description": "A TensorFlow implementation of Baidu's DeepSpeech architecture",
+      "language": "C",
+      "stars": 503,
+      "forks": 122
+    },
+    {
+      "author": "SirCmpwn",
+      "name": "sway",
+      "href": "https://github.com/SirCmpwn/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 2381,
+      "forks": 147
+    }
+  ]
+}
