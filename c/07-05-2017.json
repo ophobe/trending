@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "nsjail",
+      "href": "https://github.com/google/nsjail",
+      "description": "A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)",
+      "language": "C",
+      "stars": 462,
+      "forks": 66
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 44753,
+      "forks": 16954
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 12068,
+      "forks": 954
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12110,
+      "forks": 841
+    },
+    {
+      "author": "OpenRCT2",
+      "name": "OpenRCT2",
+      "href": "https://github.com/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+      "language": "C",
+      "stars": 2700,
+      "forks": 445
+    },
+    {
+      "author": "zerotier",
+      "name": "toss",
+      "href": "https://github.com/zerotier/toss",
+      "description": "Dead simple LAN file transfers from the command line",
+      "language": "C",
+      "stars": 80,
+      "forks": 3
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17379,
+      "forks": 9796
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 20858,
+      "forks": 1627
+    },
+    {
+      "author": "zserge",
+      "name": "jsmn",
+      "href": "https://github.com/zserge/jsmn",
+      "description": "Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket",
+      "language": "C",
+      "stars": 674,
+      "forks": 178
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23280,
+      "forks": 8775
+    },
+    {
+      "author": "madcowswe",
+      "name": "ODriveFirmware",
+      "href": "https://github.com/madcowswe/ODriveFirmware",
+      "description": "High performance motor control",
+      "language": "C",
+      "stars": 65,
+      "forks": 25
+    },
+    {
+      "author": "HandBrake",
+      "name": "HandBrake",
+      "href": "https://github.com/HandBrake/HandBrake",
+      "description": "HandBrake's main development repository",
+      "language": "C",
+      "stars": 1995,
+      "forks": 274
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 857,
+      "forks": 207
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 5377,
+      "forks": 1146
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 4941,
+      "forks": 1679
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4796,
+      "forks": 3158
+    },
+    {
+      "author": "hfiref0x",
+      "name": "UACME",
+      "href": "https://github.com/hfiref0x/UACME",
+      "description": "Defeating Windows User Account Control",
+      "language": "C",
+      "stars": 710,
+      "forks": 280
+    },
+    {
+      "author": "rofl0r",
+      "name": "proxychains-ng",
+      "href": "https://github.com/rofl0r/proxychains-ng",
+      "description": "proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.",
+      "language": "C",
+      "stars": 2477,
+      "forks": 278
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6156,
+      "forks": 1468
+    },
+    {
+      "author": "SirCmpwn",
+      "name": "sway",
+      "href": "https://github.com/SirCmpwn/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 2388,
+      "forks": 145
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9598,
+      "forks": 1935
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 3184,
+      "forks": 418
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 7293,
+      "forks": 3186
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2511,
+      "forks": 1139
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3412,
+      "forks": 1503
+    }
+  ]
+}
