@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "loadimpact",
+      "name": "k6",
+      "href": "https://github.com/loadimpact/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": 454,
+      "forks": 14
+    },
+    {
+      "author": "ewhal",
+      "name": "nyaa",
+      "href": "https://github.com/ewhal/nyaa",
+      "description": "Nyaa.se replacement written in golang",
+      "language": "Go",
+      "stars": 278,
+      "forks": 60
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 4394,
+      "forks": 709
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 16883,
+      "forks": 2404
+    },
+    {
+      "author": "42wim",
+      "name": "dt",
+      "href": "https://github.com/42wim/dt",
+      "description": "DNS tool - display information about your domain",
+      "language": "Go",
+      "stars": 53,
+      "forks": 0
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 27690,
+      "forks": 3702
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43407,
+      "forks": 12873
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 20326,
+      "forks": 2550
+    },
+    {
+      "author": "inconshreveable",
+      "name": "ngrok",
+      "href": "https://github.com/inconshreveable/ngrok",
+      "description": "Introspected tunnels to localhost",
+      "language": "Go",
+      "stars": 9830,
+      "forks": 1465
+    },
+    {
+      "author": "pilosa",
+      "name": "pilosa",
+      "href": "https://github.com/pilosa/pilosa",
+      "description": "Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.",
+      "language": "Go",
+      "stars": 797,
+      "forks": 34
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 8787,
+      "forks": 350
+    },
+    {
+      "author": "kryptco",
+      "name": "kr",
+      "href": "https://github.com/kryptco/kr",
+      "description": "kr | SSH using a key stored in Kryptonite.",
+      "language": "Go",
+      "stars": 506,
+      "forks": 26
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 15625,
+      "forks": 4926
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 15891,
+      "forks": 1250
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12086,
+      "forks": 789
+    },
+    {
+      "author": "yanc0",
+      "name": "beeping",
+      "href": "https://github.com/yanc0/beeping",
+      "description": "HTTP Monitoring via API - Measure the performance of you servers",
+      "language": "Go",
+      "stars": 80,
+      "forks": 4
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10760,
+      "forks": 2518
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 22949,
+      "forks": 8049
+    },
+    {
+      "author": "esemplastic",
+      "name": "unis",
+      "href": "https://github.com/esemplastic/unis",
+      "description": "UNIS: A Common Architecture for String Utilities within the Go Programming Language.",
+      "language": "Go",
+      "stars": 27,
+      "forks": 1
+    },
+    {
+      "author": "dweidenfeld",
+      "name": "plexdrive",
+      "href": "https://github.com/dweidenfeld/plexdrive",
+      "description": null,
+      "language": "Go",
+      "stars": 28,
+      "forks": 2
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 6717,
+      "forks": 484
+    },
+    {
+      "author": "disintegration",
+      "name": "bebop",
+      "href": "https://github.com/disintegration/bebop",
+      "description": "Bebop is a simple discussion board / forum web application.",
+      "language": "Go",
+      "stars": 171,
+      "forks": 10
+    },
+    {
+      "author": "joshbetz",
+      "name": "config",
+      "href": "https://github.com/joshbetz/config",
+      "description": "A small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP",
+      "language": "Go",
+      "stars": 97,
+      "forks": 5
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 7917,
+      "forks": 726
+    },
+    {
+      "author": "adtac",
+      "name": "commento",
+      "href": "https://github.com/adtac/commento",
+      "description": "A lightweight, open source, tracking-free comment engine alternative to Disqus",
+      "language": "Go",
+      "stars": 1810,
+      "forks": 55
+    }
+  ]
+}
