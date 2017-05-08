@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "loadimpact",
+      "name": "k6",
+      "href": "https://github.com/loadimpact/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": 1102,
+      "forks": 32
+    },
+    {
+      "author": "ewhal",
+      "name": "nyaa",
+      "href": "https://github.com/ewhal/nyaa",
+      "description": "Nyaa.se replacement written in golang",
+      "language": "Go",
+      "stars": 368,
+      "forks": 69
+    },
+    {
+      "author": "yanc0",
+      "name": "beeping",
+      "href": "https://github.com/yanc0/beeping",
+      "description": "HTTP Monitoring via API - Measure the performance of you servers",
+      "language": "Go",
+      "stars": 144,
+      "forks": 4
+    },
+    {
+      "author": "42wim",
+      "name": "dt",
+      "href": "https://github.com/42wim/dt",
+      "description": "DNS tool - display information about your domain",
+      "language": "Go",
+      "stars": 110,
+      "forks": 0
+    },
+    {
+      "author": "remind101",
+      "name": "empire",
+      "href": "https://github.com/remind101/empire",
+      "description": "A PaaS built on top of Amazon EC2 Container Service (ECS)",
+      "language": "Go",
+      "stars": 2185,
+      "forks": 111
+    },
+    {
+      "author": "tarent",
+      "name": "loginsrv",
+      "href": "https://github.com/tarent/loginsrv",
+      "description": "JWT login microservice with plugable backends such as OAuth2, Github, htpasswd, osiam",
+      "language": "Go",
+      "stars": 194,
+      "forks": 8
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 4432,
+      "forks": 714
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 22981,
+      "forks": 8064
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43439,
+      "forks": 12879
+    },
+    {
+      "author": "inconshreveable",
+      "name": "ngrok",
+      "href": "https://github.com/inconshreveable/ngrok",
+      "description": "Introspected tunnels to localhost",
+      "language": "Go",
+      "stars": 9866,
+      "forks": 1469
+    },
+    {
+      "author": "pilosa",
+      "name": "pilosa",
+      "href": "https://github.com/pilosa/pilosa",
+      "description": "Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.",
+      "language": "Go",
+      "stars": 828,
+      "forks": 34
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 20358,
+      "forks": 2552
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 16912,
+      "forks": 2408
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 27713,
+      "forks": 3707
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 15643,
+      "forks": 4934
+    },
+    {
+      "author": "kryptco",
+      "name": "kr",
+      "href": "https://github.com/kryptco/kr",
+      "description": "kr | SSH using a key stored in Kryptonite.",
+      "language": "Go",
+      "stars": 530,
+      "forks": 26
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10781,
+      "forks": 2519
+    },
+    {
+      "author": "kshvmdn",
+      "name": "rdrp",
+      "href": "https://github.com/kshvmdn/rdrp",
+      "description": "A cross-platform command line tool for sending and receiving files over your local network, inspired by AirDrop.",
+      "language": "Go",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "author": "apprenda",
+      "name": "kismatic",
+      "href": "https://github.com/apprenda/kismatic",
+      "description": "Kismatic Enterprise Toolkit: Fully-Automated, Production-Grade Kubernetes Operations",
+      "language": "Go",
+      "stars": 372,
+      "forks": 55
+    },
+    {
+      "author": "dweidenfeld",
+      "name": "plexdrive",
+      "href": "https://github.com/dweidenfeld/plexdrive",
+      "description": null,
+      "language": "Go",
+      "stars": 49,
+      "forks": 3
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12108,
+      "forks": 790
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 7956,
+      "forks": 1062
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Gitea: Git with a cup of tea",
+      "language": "Go",
+      "stars": 2801,
+      "forks": 263
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 18995,
+      "forks": 2156
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 6736,
+      "forks": 486
+    }
+  ]
+}
