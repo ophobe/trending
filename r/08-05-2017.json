@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "goldingn",
+      "name": "greta",
+      "href": "https://github.com/goldingn/greta",
+      "description": "fast and easy statistical modelling in R",
+      "language": "R",
+      "stars": 94,
+      "forks": 4
+    },
+    {
+      "author": "trinker",
+      "name": "pacman",
+      "href": "https://github.com/trinker/pacman",
+      "description": "A package management tools for R",
+      "language": "R",
+      "stars": 61,
+      "forks": 8
+    },
+    {
+      "author": "wch",
+      "name": "r-source",
+      "href": "https://github.com/wch/r-source",
+      "description": "Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.",
+      "language": "R",
+      "stars": 380,
+      "forks": 118
+    },
+    {
+      "author": "radiant-rstats",
+      "name": "radiant",
+      "href": "https://github.com/radiant-rstats/radiant",
+      "description": "Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.",
+      "language": "R",
+      "stars": 89,
+      "forks": 25
+    },
+    {
+      "author": "hadley",
+      "name": "devtools",
+      "href": "https://github.com/hadley/devtools",
+      "description": "Tools to make an R developer's life easier",
+      "language": "R",
+      "stars": 1450,
+      "forks": 515
+    },
+    {
+      "author": "stnava",
+      "name": "ANTsR",
+      "href": "https://github.com/stnava/ANTsR",
+      "description": "...",
+      "language": "R",
+      "stars": 34,
+      "forks": 16
+    },
+    {
+      "author": "rOpenHealth",
+      "name": "rpubmed",
+      "href": "https://github.com/rOpenHealth/rpubmed",
+      "description": "Tools for extracting and processing Pubmed and Pubmed Central records.",
+      "language": "R",
+      "stars": 25,
+      "forks": 18
+    },
+    {
+      "author": "robjhyndman",
+      "name": "forecast",
+      "href": "https://github.com/robjhyndman/forecast",
+      "description": "forecast package for R",
+      "language": "R",
+      "stars": 414,
+      "forks": 151
+    },
+    {
+      "author": "klutometis",
+      "name": "roxygen",
+      "href": "https://github.com/klutometis/roxygen",
+      "description": null,
+      "language": "R",
+      "stars": 218,
+      "forks": 117
+    },
+    {
+      "author": "johnmyleswhite",
+      "name": "ML_for_Hackers",
+      "href": "https://github.com/johnmyleswhite/ML_for_Hackers",
+      "description": "Code accompanying the book \"Machine Learning for Hackers\"",
+      "language": "R",
+      "stars": 2962,
+      "forks": 2003
+    },
+    {
+      "author": "tidyverse",
+      "name": "ggplot2",
+      "href": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "stars": 2387,
+      "forks": 891
+    },
+    {
+      "author": "rstudio",
+      "name": "shiny",
+      "href": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "stars": 2267,
+      "forks": 1202
+    },
+    {
+      "author": "swirldev",
+      "name": "swirl_courses",
+      "href": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "stars": 2186,
+      "forks": 5194
+    },
+    {
+      "author": "qinwf",
+      "name": "awesome-R",
+      "href": "https://github.com/qinwf/awesome-R",
+      "description": "A curated list of awesome R packages, frameworks and software.",
+      "language": "R",
+      "stars": 2114,
+      "forks": 794
+    },
+    {
+      "author": "twitter",
+      "name": "AnomalyDetection",
+      "href": "https://github.com/twitter/AnomalyDetection",
+      "description": "Anomaly Detection with R",
+      "language": "R",
+      "stars": 1974,
+      "forks": 436
+    },
+    {
+      "author": "tidyverse",
+      "name": "dplyr",
+      "href": "https://github.com/tidyverse/dplyr",
+      "description": "Dplyr: A grammar of data manipulation",
+      "language": "R",
+      "stars": 1755,
+      "forks": 700
+    },
+    {
+      "author": "zonination",
+      "name": "investing",
+      "href": "https://github.com/zonination/investing",
+      "description": "Investing Returns on the Market as a Whole",
+      "language": "R",
+      "stars": 1577,
+      "forks": 89
+    },
+    {
+      "author": "yihui",
+      "name": "knitr",
+      "href": "https://github.com/yihui/knitr",
+      "description": "A general-purpose tool for dynamic report generation in R",
+      "language": "R",
+      "stars": 1359,
+      "forks": 623
+    },
+    {
+      "author": "szilard",
+      "name": "benchm-ml",
+      "href": "https://github.com/szilard/benchm-ml",
+      "description": "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).",
+      "language": "R",
+      "stars": 1190,
+      "forks": 202
+    },
+    {
+      "author": "toddwschneider",
+      "name": "nyc-taxi-data",
+      "href": "https://github.com/toddwschneider/nyc-taxi-data",
+      "description": "Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R",
+      "language": "R",
+      "stars": 955,
+      "forks": 284
+    },
+    {
+      "author": "ropensci",
+      "name": "plotly",
+      "href": "https://github.com/ropensci/plotly",
+      "description": "An interactive graphing library for R",
+      "language": "R",
+      "stars": 923,
+      "forks": 338
+    },
+    {
+      "author": "rstudio",
+      "name": "rmarkdown",
+      "href": "https://github.com/rstudio/rmarkdown",
+      "description": "Dynamic Documents for R",
+      "language": "R",
+      "stars": 797,
+      "forks": 416
+    },
+    {
+      "author": "rich-iannone",
+      "name": "DiagrammeR",
+      "href": "https://github.com/rich-iannone/DiagrammeR",
+      "description": "Graph and network visualization using tabular data in R",
+      "language": "R",
+      "stars": 781,
+      "forks": 116
+    },
+    {
+      "author": "hadley",
+      "name": "rvest",
+      "href": "https://github.com/hadley/rvest",
+      "description": "Simple web scraping for R",
+      "language": "R",
+      "stars": 764,
+      "forks": 207
+    },
+    {
+      "author": "ramnathv",
+      "name": "slidify",
+      "href": "https://github.com/ramnathv/slidify",
+      "description": "Generate reproducible html5 slides from R markdown",
+      "language": "R",
+      "stars": 762,
+      "forks": 330
+    }
+  ]
+}
