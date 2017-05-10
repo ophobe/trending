@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "loadimpact",
+      "name": "k6",
+      "href": "https://github.com/loadimpact/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": 1884,
+      "forks": 50
+    },
+    {
+      "author": "open-falcon",
+      "name": "falcon-plus",
+      "href": "https://github.com/open-falcon/falcon-plus",
+      "description": "An open-source and enterprise-level monitoring system.",
+      "language": "Go",
+      "stars": 537,
+      "forks": 144
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON Parser for Go",
+      "language": "Go",
+      "stars": 1242,
+      "forks": 62
+    },
+    {
+      "author": "ewhal",
+      "name": "nyaa",
+      "href": "https://github.com/ewhal/nyaa",
+      "description": "Nyaa.se replacement written in golang",
+      "language": "Go",
+      "stars": 446,
+      "forks": 96
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A pluggable RPC framework for microservices",
+      "language": "Go",
+      "stars": 1845,
+      "forks": 178
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the scalable, survivable, strongly-consistent SQL database",
+      "language": "Go",
+      "stars": 9547,
+      "forks": 947
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 27777,
+      "forks": 3712
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 23038,
+      "forks": 8097
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 9893,
+      "forks": 1162
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15875,
+      "forks": 2591
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 20421,
+      "forks": 2559
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43478,
+      "forks": 12887
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 3838,
+      "forks": 1321
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 15691,
+      "forks": 4942
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "Linux Native, HTTP Aware Networking and Security for Containers",
+      "language": "Go",
+      "stars": 555,
+      "forks": 57
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 16970,
+      "forks": 2409
+    },
+    {
+      "author": "derekparker",
+      "name": "delve",
+      "href": "https://github.com/derekparker/delve",
+      "description": "Delve is a debugger for the Go programming language.",
+      "language": "Go",
+      "stars": 5530,
+      "forks": 397
+    },
+    {
+      "author": "hsluoyz",
+      "name": "casbin",
+      "href": "https://github.com/hsluoyz/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC",
+      "language": "Go",
+      "stars": 382,
+      "forks": 30
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13331,
+      "forks": 2534
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 8236,
+      "forks": 3082
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 4474,
+      "forks": 722
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 9434,
+      "forks": 998
+    },
+    {
+      "author": "aerth",
+      "name": "markdownd",
+      "href": "https://github.com/aerth/markdownd",
+      "description": "markdown server (no symlinks, no indexing)",
+      "language": "Go",
+      "stars": 31,
+      "forks": 0
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10813,
+      "forks": 2523
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 8838,
+      "forks": 351
+    }
+  ]
+}
