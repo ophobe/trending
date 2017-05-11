@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the scalable, survivable, strongly-consistent SQL database",
+      "language": "Go",
+      "stars": 9790,
+      "forks": 958
+    },
+    {
+      "author": "open-falcon",
+      "name": "falcon-plus",
+      "href": "https://github.com/open-falcon/falcon-plus",
+      "description": "An open-source and enterprise-level monitoring system.",
+      "language": "Go",
+      "stars": 760,
+      "forks": 151
+    },
+    {
+      "author": "loadimpact",
+      "name": "k6",
+      "href": "https://github.com/loadimpact/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": 2066,
+      "forks": 52
+    },
+    {
+      "author": "rootsongjc",
+      "name": "kubernetes-handbook",
+      "href": "https://github.com/rootsongjc/kubernetes-handbook",
+      "description": "For kubernetes users and fans, let's rock it!",
+      "language": "Go",
+      "stars": 82,
+      "forks": 17
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 23082,
+      "forks": 8115
+    },
+    {
+      "author": "google",
+      "name": "syzkaller",
+      "href": "https://github.com/google/syzkaller",
+      "description": "syzkaller is an unsupervised, coverage-guided Linux system call fuzzer",
+      "language": "Go",
+      "stars": 921,
+      "forks": 158
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 27813,
+      "forks": 3713
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON Parser for Go",
+      "language": "Go",
+      "stars": 1288,
+      "forks": 64
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43507,
+      "forks": 12900
+    },
+    {
+      "author": "ewhal",
+      "name": "nyaa",
+      "href": "https://github.com/ewhal/nyaa",
+      "description": "Nyaa.se replacement written in golang",
+      "language": "Go",
+      "stars": 477,
+      "forks": 105
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 17000,
+      "forks": 2410
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 15714,
+      "forks": 4952
+    },
+    {
+      "author": "uber",
+      "name": "jaeger",
+      "href": "https://github.com/uber/jaeger",
+      "description": "Jaeger, a Distributed Tracing System",
+      "language": "Go",
+      "stars": 688,
+      "forks": 66
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 20445,
+      "forks": 2561
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 8254,
+      "forks": 3093
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A pluggable RPC framework for microservices",
+      "language": "Go",
+      "stars": 1869,
+      "forks": 180
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 15895,
+      "forks": 2595
+    },
+    {
+      "author": "hybridgroup",
+      "name": "gobot",
+      "href": "https://github.com/hybridgroup/gobot",
+      "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+      "language": "Go",
+      "stars": 3084,
+      "forks": 355
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 3861,
+      "forks": 1322
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13350,
+      "forks": 2539
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 9453,
+      "forks": 1002
+    },
+    {
+      "author": "hsluoyz",
+      "name": "casbin",
+      "href": "https://github.com/hsluoyz/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC",
+      "language": "Go",
+      "stars": 408,
+      "forks": 31
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 10830,
+      "forks": 2527
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 7974,
+      "forks": 727
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 8851,
+      "forks": 352
+    }
+  ]
+}
