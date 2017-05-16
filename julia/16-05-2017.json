@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 8624,
+      "forks": 1973
+    },
+    {
+      "author": "JuliaStats",
+      "name": "DataFrames.jl",
+      "href": "https://github.com/JuliaStats/DataFrames.jl",
+      "description": "Library for working with tabular data in Julia",
+      "language": "Julia",
+      "stars": 363,
+      "forks": 180
+    },
+    {
+      "author": "johnmyleswhite",
+      "name": "Calculus.jl",
+      "href": "https://github.com/johnmyleswhite/Calculus.jl",
+      "description": "Calculus functions in Julia",
+      "language": "Julia",
+      "stars": 82,
+      "forks": 47
+    },
+    {
+      "author": "JuliaArrays",
+      "name": "StaticArrays.jl",
+      "href": "https://github.com/JuliaArrays/StaticArrays.jl",
+      "description": "Statically sized arrays for Julia",
+      "language": "Julia",
+      "stars": 54,
+      "forks": 17
+    },
+    {
+      "author": "JuliaData",
+      "name": "DataTables.jl",
+      "href": "https://github.com/JuliaData/DataTables.jl",
+      "description": "The future of working with tabular data in Julia",
+      "language": "Julia",
+      "stars": 24,
+      "forks": 9
+    },
+    {
+      "author": "JuliaLang",
+      "name": "METADATA.jl",
+      "href": "https://github.com/JuliaLang/METADATA.jl",
+      "description": "Metadata for registered Julia packages.",
+      "language": "Julia",
+      "stars": 147,
+      "forks": 643
+    },
+    {
+      "author": "mpastell",
+      "name": "Weave.jl",
+      "href": "https://github.com/mpastell/Weave.jl",
+      "description": "Scientific reports/literate programming for Julia",
+      "language": "Julia",
+      "stars": 99,
+      "forks": 14
+    },
+    {
+      "author": "JuliaIntervals",
+      "name": "ValidatedNumerics.jl",
+      "href": "https://github.com/JuliaIntervals/ValidatedNumerics.jl",
+      "description": "Rigorous floating-point calculations with interval arithmetic in Julia",
+      "language": "Julia",
+      "stars": 29,
+      "forks": 10
+    },
+    {
+      "author": "ajkeller34",
+      "name": "Unitful.jl",
+      "href": "https://github.com/ajkeller34/Unitful.jl",
+      "description": "Physical quantities with arbitrary units",
+      "language": "Julia",
+      "stars": 43,
+      "forks": 11
+    },
+    {
+      "author": "JuliaStats",
+      "name": "TimeSeries.jl",
+      "href": "https://github.com/JuliaStats/TimeSeries.jl",
+      "description": "Time series toolkit for Julia",
+      "language": "Julia",
+      "stars": 76,
+      "forks": 30
+    },
+    {
+      "author": "JuliaPy",
+      "name": "SymPy.jl",
+      "href": "https://github.com/JuliaPy/SymPy.jl",
+      "description": "Julia interface to SymPy via PyCall",
+      "language": "Julia",
+      "stars": 57,
+      "forks": 23
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "Sundials.jl",
+      "href": "https://github.com/JuliaDiffEq/Sundials.jl",
+      "description": "Julia interface to Sundials, including a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).",
+      "language": "Julia",
+      "stars": 56,
+      "forks": 38
+    },
+    {
+      "author": "JuliaStats",
+      "name": "StatsBase.jl",
+      "href": "https://github.com/JuliaStats/StatsBase.jl",
+      "description": "Basic statistics for Julia",
+      "language": "Julia",
+      "stars": 112,
+      "forks": 65
+    },
+    {
+      "author": "goedman",
+      "name": "Stan.jl",
+      "href": "https://github.com/goedman/Stan.jl",
+      "description": "Julia package to use Stan as an external program",
+      "language": "Julia",
+      "stars": 76,
+      "forks": 17
+    },
+    {
+      "author": "cstjean",
+      "name": "ScikitLearn.jl",
+      "href": "https://github.com/cstjean/ScikitLearn.jl",
+      "description": "Julia implementation of the scikit-learn API",
+      "language": "Julia",
+      "stars": 110,
+      "forks": 12
+    },
+    {
+      "author": "JuliaGizmos",
+      "name": "Reactive.jl",
+      "href": "https://github.com/JuliaGizmos/Reactive.jl",
+      "description": "Reactive programming primitives for Julia",
+      "language": "Julia",
+      "stars": 107,
+      "forks": 33
+    },
+    {
+      "author": "davidanthoff",
+      "name": "Query.jl",
+      "href": "https://github.com/davidanthoff/Query.jl",
+      "description": "Query almost anything in julia",
+      "language": "Julia",
+      "stars": 43,
+      "forks": 6
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 343,
+      "forks": 74
+    },
+    {
+      "author": "JuliaPOMDP",
+      "name": "POMDPs.jl",
+      "href": "https://github.com/JuliaPOMDP/POMDPs.jl",
+      "description": "MDPs and POMDPs in Julia - An interface for working with discrete and continuous, fully and partially observable Markov decision processes.",
+      "language": "Julia",
+      "stars": 30,
+      "forks": 12
+    },
+    {
+      "author": "rofinn",
+      "name": "Playground.jl",
+      "href": "https://github.com/rofinn/Playground.jl",
+      "description": "A julialang environment builder (like python's virtualenv)",
+      "language": "Julia",
+      "stars": 42,
+      "forks": 9
+    },
+    {
+      "author": "sisl",
+      "name": "PGFPlots.jl",
+      "href": "https://github.com/sisl/PGFPlots.jl",
+      "description": "This library uses the LaTeX package pgfplots to produce plots.",
+      "language": "Julia",
+      "stars": 39,
+      "forks": 15
+    },
+    {
+      "author": "IntelLabs",
+      "name": "ParallelAccelerator.jl",
+      "href": "https://github.com/IntelLabs/ParallelAccelerator.jl",
+      "description": "The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs",
+      "language": "Julia",
+      "stars": 208,
+      "forks": 24
+    },
+    {
+      "author": "JuliaPy",
+      "name": "Pandas.jl",
+      "href": "https://github.com/JuliaPy/Pandas.jl",
+      "description": "A Julia front-end to Python's Pandas package.",
+      "language": "Julia",
+      "stars": 28,
+      "forks": 9
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "ODE.jl",
+      "href": "https://github.com/JuliaDiffEq/ODE.jl",
+      "description": "Assorted basic Ordinary Differential Equation solvers",
+      "language": "Julia",
+      "stars": 65,
+      "forks": 43
+    },
+    {
+      "author": "JuliaStats",
+      "name": "NullableArrays.jl",
+      "href": "https://github.com/JuliaStats/NullableArrays.jl",
+      "description": "Prototype of the new JuliaStats NullableArrays package",
+      "language": "Julia",
+      "stars": 30,
+      "forks": 21
+    }
+  ]
+}
