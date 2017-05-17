@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 45142,
+      "forks": 17061
+    },
+    {
+      "author": "ufoym",
+      "name": "RecursiveBF",
+      "href": "https://github.com/ufoym/RecursiveBF",
+      "description": "A lightweight C++ library for recursive bilateral filtering.",
+      "language": "C",
+      "stars": 154,
+      "forks": 17
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 13222,
+      "forks": 4033
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23436,
+      "forks": 8843
+    },
+    {
+      "author": "diracdeltas",
+      "name": "FastestWebsiteEver",
+      "href": "https://github.com/diracdeltas/FastestWebsiteEver",
+      "description": "ultrafast single TCP packet audio/visual experience",
+      "language": "C",
+      "stars": 117,
+      "forks": 8
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9752,
+      "forks": 1979
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 21045,
+      "forks": 1643
+    },
+    {
+      "author": "fuchsia-mirror",
+      "name": "magenta",
+      "href": "https://github.com/fuchsia-mirror/magenta",
+      "description": "Magenta Kernel, Core Drivers, and Services",
+      "language": "C",
+      "stars": 2770,
+      "forks": 362
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7127,
+      "forks": 3432
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17555,
+      "forks": 9884
+    },
+    {
+      "author": "linuxkit",
+      "name": "linuxkit",
+      "href": "https://github.com/linuxkit/linuxkit",
+      "description": "A toolkit for building secure, portable and lean operating systems for containers",
+      "language": "C",
+      "stars": 2568,
+      "forks": 236
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2596,
+      "forks": 1180
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 5840,
+      "forks": 1670
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6498,
+      "forks": 1076
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 937,
+      "forks": 242
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12227,
+      "forks": 851
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 8861,
+      "forks": 496
+    },
+    {
+      "author": "Microsoft",
+      "name": "react-native-code-push",
+      "href": "https://github.com/Microsoft/react-native-code-push",
+      "description": "React Native module for CodePush",
+      "language": "C",
+      "stars": 2852,
+      "forks": 361
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 11945,
+      "forks": 4027
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "wanadecrypt",
+      "href": "https://github.com/gentilkiwi/wanadecrypt",
+      "description": "A decryptor for Wanacry (you need the private key!)",
+      "language": "C",
+      "stars": 55,
+      "forks": 19
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3482,
+      "forks": 1535
+    },
+    {
+      "author": "phpredis",
+      "name": "phpredis",
+      "href": "https://github.com/phpredis/phpredis",
+      "description": "A PHP extension for Redis",
+      "language": "C",
+      "stars": 5103,
+      "forks": 1453
+    },
+    {
+      "author": "mjg59",
+      "name": "mei-amt-check",
+      "href": "https://github.com/mjg59/mei-amt-check",
+      "description": "Check whether AMT is enabled and provisioned under Linux",
+      "language": "C",
+      "stars": 260,
+      "forks": 22
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4845,
+      "forks": 3167
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 3425,
+      "forks": 571
+    }
+  ]
+}
