@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 12849,
+      "forks": 12147
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8222,
+      "forks": 2089
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 7503,
+      "forks": 3965
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7108,
+      "forks": 2255
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9335,
+      "forks": 3207
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2102,
+      "forks": 175
+    },
+    {
+      "author": "tensorflow",
+      "name": "ecosystem",
+      "href": "https://github.com/tensorflow/ecosystem",
+      "description": "Integration of TensorFlow with other open-source frameworks",
+      "language": "Scala",
+      "stars": 273,
+      "forks": 84
+    },
+    {
+      "author": "airbnb",
+      "name": "aerosolve",
+      "href": "https://github.com/airbnb/aerosolve",
+      "description": "A machine learning package built for humans.",
+      "language": "Scala",
+      "stars": 3859,
+      "forks": 477
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch",
+      "language": "Scala",
+      "stars": 3330,
+      "forks": 770
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-native-packager",
+      "href": "https://github.com/sbt/sbt-native-packager",
+      "description": "SBT Native Packager",
+      "language": "Scala",
+      "stars": 823,
+      "forks": 283
+    },
+    {
+      "author": "apache",
+      "name": "bahir",
+      "href": "https://github.com/apache/bahir",
+      "description": "Mirror of Apache Bahir",
+      "language": "Scala",
+      "stars": 113,
+      "forks": 55
+    },
+    {
+      "author": "databricks",
+      "name": "tensorframes",
+      "href": "https://github.com/databricks/tensorframes",
+      "description": "Tensorflow wrapper for DataFrames on Apache Spark",
+      "language": "Scala",
+      "stars": 459,
+      "forks": 101
+    },
+    {
+      "author": "twosigma",
+      "name": "flint",
+      "href": "https://github.com/twosigma/flint",
+      "description": "A Time Series Library for Apache Spark",
+      "language": "Scala",
+      "stars": 207,
+      "forks": 43
+    },
+    {
+      "author": "dnvriend",
+      "name": "akka-persistence-jdbc",
+      "href": "https://github.com/dnvriend/akka-persistence-jdbc",
+      "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+      "language": "Scala",
+      "stars": 118,
+      "forks": 59
+    },
+    {
+      "author": "alexarchambault",
+      "name": "scalacheck-shapeless",
+      "href": "https://github.com/alexarchambault/scalacheck-shapeless",
+      "description": "Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless",
+      "language": "Scala",
+      "stars": 98,
+      "forks": 15
+    },
+    {
+      "author": "FasterXML",
+      "name": "jackson-module-scala",
+      "href": "https://github.com/FasterXML/jackson-module-scala",
+      "description": "Add-on module for Jackson (http://wiki.fasterxml.com/JacksonHome) to support Scala-specific datatypes",
+      "language": "Scala",
+      "stars": 317,
+      "forks": 87
+    },
+    {
+      "author": "findify",
+      "name": "s3mock",
+      "href": "https://github.com/findify/s3mock",
+      "description": "Embedded S3 server for easy mocking",
+      "language": "Scala",
+      "stars": 48,
+      "forks": 21
+    },
+    {
+      "author": "databricks",
+      "name": "spark-sql-perf",
+      "href": "https://github.com/databricks/spark-sql-perf",
+      "description": null,
+      "language": "Scala",
+      "stars": 132,
+      "forks": 116
+    },
+    {
+      "author": "Sagacify",
+      "name": "sonar-scala",
+      "href": "https://github.com/Sagacify/sonar-scala",
+      "description": "Sonarqube plugin for scala analysis",
+      "language": "Scala",
+      "stars": 28,
+      "forks": 15
+    },
+    {
+      "author": "scalameter",
+      "name": "scalameter",
+      "href": "https://github.com/scalameter/scalameter",
+      "description": "Microbenchmarking and performance regression testing framework for the JVM platform.",
+      "language": "Scala",
+      "stars": 333,
+      "forks": 52
+    },
+    {
+      "author": "kxbmap",
+      "name": "configs",
+      "href": "https://github.com/kxbmap/configs",
+      "description": "Scala wrapper for Typesafe config",
+      "language": "Scala",
+      "stars": 133,
+      "forks": 13
+    },
+    {
+      "author": "ACINQ",
+      "name": "eclair",
+      "href": "https://github.com/ACINQ/eclair",
+      "description": "A scala implementation of the Lightning Network.",
+      "language": "Scala",
+      "stars": 67,
+      "forks": 20
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Workflow Execution Engine using WDL",
+      "language": "Scala",
+      "stars": 137,
+      "forks": 31
+    },
+    {
+      "author": "fomkin",
+      "name": "korolev",
+      "href": "https://github.com/fomkin/korolev",
+      "description": "Single-page applications running on the server side",
+      "language": "Scala",
+      "stars": 122,
+      "forks": 12
+    },
+    {
+      "author": "gatling-cql",
+      "name": "GatlingCql",
+      "href": "https://github.com/gatling-cql/GatlingCql",
+      "description": "Gatling support for Apache Cassandra CQL",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 14
+    }
+  ]
+}
