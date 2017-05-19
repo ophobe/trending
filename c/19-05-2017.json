@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "flang-compiler",
+      "name": "flang",
+      "href": "https://github.com/flang-compiler/flang",
+      "description": null,
+      "language": "C",
+      "stars": 149,
+      "forks": 8
+    },
+    {
+      "author": "bloomberg",
+      "name": "comdb2",
+      "href": "https://github.com/bloomberg/comdb2",
+      "description": "Bloomberg's distributed RDBMS",
+      "language": "C",
+      "stars": 160,
+      "forks": 32
+    },
+    {
+      "author": "odzhan",
+      "name": "wanafork",
+      "href": "https://github.com/odzhan/wanafork",
+      "description": "WanaCryptor file encryption/decryption",
+      "language": "C",
+      "stars": 75,
+      "forks": 16
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 45203,
+      "forks": 17096
+    },
+    {
+      "author": "F-Stack",
+      "name": "f-stack",
+      "href": "https://github.com/F-Stack/f-stack",
+      "description": "F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.",
+      "language": "C",
+      "stars": 610,
+      "forks": 89
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/",
+      "language": "C",
+      "stars": 21100,
+      "forks": 1658
+    },
+    {
+      "author": "S-March",
+      "name": "dEEbugger_PUBLIC",
+      "href": "https://github.com/S-March/dEEbugger_PUBLIC",
+      "description": "The dEEbugger is an ESP8266 based keychain swiss army knife for electronics",
+      "language": "C",
+      "stars": 52,
+      "forks": 4
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 8897,
+      "forks": 499
+    },
+    {
+      "author": "ring-lang",
+      "name": "ring",
+      "href": "https://github.com/ring-lang/ring",
+      "description": "The Ring Programming Language",
+      "language": "C",
+      "stars": 112,
+      "forks": 67
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9786,
+      "forks": 1989
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23473,
+      "forks": 8850
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "wanadecrypt",
+      "href": "https://github.com/gentilkiwi/wanadecrypt",
+      "description": "A decryptor for Wanacry (you need the private key!)",
+      "language": "C",
+      "stars": 97,
+      "forks": 28
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 13259,
+      "forks": 4042
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17593,
+      "forks": 9908
+    },
+    {
+      "author": "urbit",
+      "name": "urbit",
+      "href": "https://github.com/urbit/urbit",
+      "description": "An operating function.",
+      "language": "C",
+      "stars": 1232,
+      "forks": 109
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7152,
+      "forks": 3444
+    },
+    {
+      "author": "jcupitt",
+      "name": "libvips",
+      "href": "https://github.com/jcupitt/libvips",
+      "description": "A fast image processing library with low memory needs.",
+      "language": "C",
+      "stars": 1134,
+      "forks": 103
+    },
+    {
+      "author": "linuxkit",
+      "name": "linuxkit",
+      "href": "https://github.com/linuxkit/linuxkit",
+      "description": "A toolkit for building secure, portable and lean operating systems for containers",
+      "language": "C",
+      "stars": 2598,
+      "forks": 239
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6522,
+      "forks": 1080
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5015,
+      "forks": 1690
+    },
+    {
+      "author": "ufoym",
+      "name": "RecursiveBF",
+      "href": "https://github.com/ufoym/RecursiveBF",
+      "description": "A lightweight C++ library for recursive bilateral filtering.",
+      "language": "C",
+      "stars": 181,
+      "forks": 20
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9108,
+      "forks": 1094
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 4718,
+      "forks": 2444
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12166,
+      "forks": 1487
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6250,
+      "forks": 1482
+    }
+  ]
+}
