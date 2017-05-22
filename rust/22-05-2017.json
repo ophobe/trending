@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 1584,
+      "forks": 62
+    },
+    {
+      "author": "vmware",
+      "name": "haret",
+      "href": "https://github.com/vmware/haret",
+      "description": "A strongly consistent distributed coordination system, built using proven protocols & implemented in Rust.",
+      "language": "Rust",
+      "stars": 352,
+      "forks": 9
+    },
+    {
+      "author": "alexcrichton",
+      "name": "futures-await",
+      "href": "https://github.com/alexcrichton/futures-await",
+      "description": null,
+      "language": "Rust",
+      "stars": 119,
+      "forks": 2
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1087,
+      "forks": 240
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 21911,
+      "forks": 4071
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 4582,
+      "forks": 167
+    },
+    {
+      "author": "japaric",
+      "name": "nvptx",
+      "href": "https://github.com/japaric/nvptx",
+      "description": "How to: Run Rust code on your NVIDIA GPU",
+      "language": "Rust",
+      "stars": 111,
+      "forks": 5
+    },
+    {
+      "author": "redox-os",
+      "name": "kernel",
+      "href": "https://github.com/redox-os/kernel",
+      "description": "The Redox microkernel",
+      "language": "Rust",
+      "stars": 62,
+      "forks": 18
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 7889,
+      "forks": 260
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 905,
+      "forks": 232
+    },
+    {
+      "author": "redox-os",
+      "name": "coreutils",
+      "href": "https://github.com/redox-os/coreutils",
+      "description": "The Redox coreutils.",
+      "language": "Rust",
+      "stars": 104,
+      "forks": 41
+    },
+    {
+      "author": "alexcrichton",
+      "name": "futures-rs",
+      "href": "https://github.com/alexcrichton/futures-rs",
+      "description": "Zero-cost futures and streams in Rust",
+      "language": "Rust",
+      "stars": 1476,
+      "forks": 139
+    },
+    {
+      "author": "sozu-proxy",
+      "name": "sozu",
+      "href": "https://github.com/sozu-proxy/sozu",
+      "description": "Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more",
+      "language": "Rust",
+      "stars": 261,
+      "forks": 19
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "piston_window",
+      "href": "https://github.com/PistonDevelopers/piston_window",
+      "description": "The official Piston convenience window wrapper for the Piston game engine",
+      "language": "Rust",
+      "stars": 41,
+      "forks": 28
+    },
+    {
+      "author": "zeyla",
+      "name": "serenity",
+      "href": "https://github.com/zeyla/serenity",
+      "description": "A Rust library for the Discord API.",
+      "language": "Rust",
+      "stars": 79,
+      "forks": 15
+    },
+    {
+      "author": "servo",
+      "name": "webrender",
+      "href": "https://github.com/servo/webrender",
+      "description": "A GPU-based renderer for the web",
+      "language": "Rust",
+      "stars": 596,
+      "forks": 101
+    },
+    {
+      "author": "tailhook",
+      "name": "vagga",
+      "href": "https://github.com/tailhook/vagga",
+      "description": "Vagga is a containerization tool without daemons",
+      "language": "Rust",
+      "stars": 1146,
+      "forks": 67
+    },
+    {
+      "author": "isislovecruft",
+      "name": "curve25519-dalek",
+      "href": "https://github.com/isislovecruft/curve25519-dalek",
+      "description": "A low-level cryptographic library for point, group, field, and scalar operations on a curve isomorphic to the twisted Edwards curve defined by -x²+y² = 1 - 121665/121666 x²y² over GF(2²⁵⁵ - 19).",
+      "language": "Rust",
+      "stars": 75,
+      "forks": 15
+    },
+    {
+      "author": "retep998",
+      "name": "winapi-rs",
+      "href": "https://github.com/retep998/winapi-rs",
+      "description": "Rust bindings to Windows API",
+      "language": "Rust",
+      "stars": 280,
+      "forks": 131
+    },
+    {
+      "author": "frankmcsherry",
+      "name": "differential-dataflow",
+      "href": "https://github.com/frankmcsherry/differential-dataflow",
+      "description": "An implementation of differential dataflow using timely dataflow on Rust.",
+      "language": "Rust",
+      "stars": 198,
+      "forks": 16
+    },
+    {
+      "author": "lipanski",
+      "name": "mockito",
+      "href": "https://github.com/lipanski/mockito",
+      "description": "HTTP mocking for Rust!",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 5
+    },
+    {
+      "author": "onur",
+      "name": "letsencrypt-rs",
+      "href": "https://github.com/onur/letsencrypt-rs",
+      "description": "Yet another Let's Encrypt client and library written in Rust.",
+      "language": "Rust",
+      "stars": 83,
+      "forks": 11
+    },
+    {
+      "author": "softprops",
+      "name": "shiplift",
+      "href": "https://github.com/softprops/shiplift",
+      "description": "rust interface for maneuvering docker containers",
+      "language": "Rust",
+      "stars": 60,
+      "forks": 17
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-service",
+      "href": "https://github.com/tokio-rs/tokio-service",
+      "description": "The core `Service` trait in Tokio and support",
+      "language": "Rust",
+      "stars": 67,
+      "forks": 13
+    },
+    {
+      "author": "servo",
+      "name": "string-cache",
+      "href": "https://github.com/servo/string-cache",
+      "description": "String interning for Rust",
+      "language": "Rust",
+      "stars": 24,
+      "forks": 41
+    }
+  ]
+}
