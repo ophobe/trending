@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 1862,
+      "forks": 68
+    },
+    {
+      "author": "vmware",
+      "name": "haret",
+      "href": "https://github.com/vmware/haret",
+      "description": "A strongly consistent distributed coordination system, built using proven protocols & implemented in Rust.",
+      "language": "Rust",
+      "stars": 375,
+      "forks": 9
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 1140,
+      "forks": 57
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 21926,
+      "forks": 4072
+    },
+    {
+      "author": "alexcrichton",
+      "name": "futures-await",
+      "href": "https://github.com/alexcrichton/futures-await",
+      "description": null,
+      "language": "Rust",
+      "stars": 132,
+      "forks": 2
+    },
+    {
+      "author": "NishanthSpShetty",
+      "name": "crust",
+      "href": "https://github.com/NishanthSpShetty/crust",
+      "description": null,
+      "language": "Rust",
+      "stars": 45,
+      "forks": 0
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1097,
+      "forks": 242
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 5936,
+      "forks": 192
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4410,
+      "forks": 276
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 4591,
+      "forks": 167
+    },
+    {
+      "author": "BurntSushi",
+      "name": "rust-csv",
+      "href": "https://github.com/BurntSushi/rust-csv",
+      "description": "A CSV parser with type based decoding for Rust.",
+      "language": "Rust",
+      "stars": 277,
+      "forks": 42
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 7892,
+      "forks": 260
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 1830,
+      "forks": 181
+    },
+    {
+      "author": "imazen",
+      "name": "imageflow",
+      "href": "https://github.com/imazen/imageflow",
+      "description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow",
+      "language": "Rust",
+      "stars": 650,
+      "forks": 21
+    },
+    {
+      "author": "solson",
+      "name": "miri",
+      "href": "https://github.com/solson/miri",
+      "description": "An interpreter for Rust's mid-level intermediate representation",
+      "language": "Rust",
+      "stars": 235,
+      "forks": 35
+    },
+    {
+      "author": "killercup",
+      "name": "trpl-ebook",
+      "href": "https://github.com/killercup/trpl-ebook",
+      "description": "\"The Rust Programming Language\" as ebook",
+      "language": "Rust",
+      "stars": 377,
+      "forks": 42
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "log",
+      "href": "https://github.com/rust-lang-nursery/log",
+      "description": "Logging implementation for Rust",
+      "language": "Rust",
+      "stars": 193,
+      "forks": 60
+    },
+    {
+      "author": "greshake",
+      "name": "i3status-rust",
+      "href": "https://github.com/greshake/i3status-rust",
+      "description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust",
+      "language": "Rust",
+      "stars": 55,
+      "forks": 6
+    },
+    {
+      "author": "gchp",
+      "name": "iota",
+      "href": "https://github.com/gchp/iota",
+      "description": "A terminal-based text editor written in Rust",
+      "language": "Rust",
+      "stars": 972,
+      "forks": 53
+    },
+    {
+      "author": "rust-lang",
+      "name": "libc",
+      "href": "https://github.com/rust-lang/libc",
+      "description": "Raw bindings to platform APIs for Rust",
+      "language": "Rust",
+      "stars": 205,
+      "forks": 173
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-core",
+      "href": "https://github.com/tokio-rs/tokio-core",
+      "description": "I/O primitives and event loop for async I/O in Rust",
+      "language": "Rust",
+      "stars": 386,
+      "forks": 82
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-proto",
+      "href": "https://github.com/tokio-rs/tokio-proto",
+      "description": "A network application framework for Rust",
+      "language": "Rust",
+      "stars": 671,
+      "forks": 66
+    },
+    {
+      "author": "bsteinb",
+      "name": "rsmpi",
+      "href": "https://github.com/bsteinb/rsmpi",
+      "description": "MPI bindings for Rust",
+      "language": "Rust",
+      "stars": 49,
+      "forks": 8
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-native-tls",
+      "href": "https://github.com/sfackler/rust-native-tls",
+      "description": null,
+      "language": "Rust",
+      "stars": 59,
+      "forks": 24
+    },
+    {
+      "author": "carllerche",
+      "name": "bytes",
+      "href": "https://github.com/carllerche/bytes",
+      "description": "Utilities for working with bytes",
+      "language": "Rust",
+      "stars": 101,
+      "forks": 31
+    }
+  ]
+}
