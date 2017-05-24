@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 12938,
+      "forks": 12207
+    },
+    {
+      "author": "pedrovgs",
+      "name": "Kuronometer",
+      "href": "https://github.com/pedrovgs/Kuronometer",
+      "description": "Gradle plugin to measure build times. Let's measure how long developers around the world are compiling software.",
+      "language": "Scala",
+      "stars": 41,
+      "forks": 2
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 5714,
+      "forks": 1078
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2137,
+      "forks": 180
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 7560,
+      "forks": 3977
+    },
+    {
+      "author": "twitter",
+      "name": "scalding",
+      "href": "https://github.com/twitter/scalding",
+      "description": "A Scala API for Cascading",
+      "language": "Scala",
+      "stars": 2812,
+      "forks": 634
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7144,
+      "forks": 2263
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 2991,
+      "forks": 613
+    },
+    {
+      "author": "hdinsight",
+      "name": "spark-eventhubs",
+      "href": "https://github.com/hdinsight/spark-eventhubs",
+      "description": "Achieving Real-time Data Analytics with Spark and EventHubs",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 22
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 567,
+      "forks": 185
+    },
+    {
+      "author": "doriordan",
+      "name": "skuber",
+      "href": "https://github.com/doriordan/skuber",
+      "description": "A Scala Kubernetes client library",
+      "language": "Scala",
+      "stars": 37,
+      "forks": 25
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Your favorite language gets closer to bare meta.",
+      "language": "Scala",
+      "stars": 473,
+      "forks": 84
+    },
+    {
+      "author": "akka",
+      "name": "reactive-kafka",
+      "href": "https://github.com/akka/reactive-kafka",
+      "description": "Reactive Streams API for Apache Kafka",
+      "language": "Scala",
+      "stars": 775,
+      "forks": 188
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & github API compatibility",
+      "language": "Scala",
+      "stars": 6351,
+      "forks": 821
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle-pprint",
+      "href": "https://github.com/lihaoyi/upickle-pprint",
+      "description": "Combined repository for uPickle/PPrint",
+      "language": "Scala",
+      "stars": 287,
+      "forks": 77
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10187,
+      "forks": 1648
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9355,
+      "forks": 3216
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8256,
+      "forks": 2093
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 4928,
+      "forks": 268
+    },
+    {
+      "author": "airbnb",
+      "name": "aerosolve",
+      "href": "https://github.com/airbnb/aerosolve",
+      "description": "A machine learning package built for humans.",
+      "language": "Scala",
+      "stars": 3871,
+      "forks": 481
+    },
+    {
+      "author": "mesos",
+      "name": "chronos",
+      "href": "https://github.com/mesos/chronos",
+      "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules",
+      "language": "Scala",
+      "stars": 3705,
+      "forks": 500
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 3649,
+      "forks": 972
+    },
+    {
+      "author": "twitter",
+      "name": "snowflake",
+      "href": "https://github.com/twitter/snowflake",
+      "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+      "language": "Scala",
+      "stars": 3422,
+      "forks": 577
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch",
+      "language": "Scala",
+      "stars": 3340,
+      "forks": 775
+    },
+    {
+      "author": "mesosphere",
+      "name": "marathon",
+      "href": "https://github.com/mesosphere/marathon",
+      "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+      "language": "Scala",
+      "stars": 3256,
+      "forks": 746
+    }
+  ]
+}
