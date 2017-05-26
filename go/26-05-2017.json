@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Sample code, build and tests and governance material for the Istio project.",
+      "language": "Go",
+      "stars": 1165,
+      "forks": 86
+    },
+    {
+      "author": "elliotchance",
+      "name": "c2go",
+      "href": "https://github.com/elliotchance/c2go",
+      "description": "⚖️ A tool for converting C to Go.",
+      "language": "Go",
+      "stars": 680,
+      "forks": 35
+    },
+    {
+      "author": "minio",
+      "name": "c2goasm",
+      "href": "https://github.com/minio/c2goasm",
+      "description": "C to Go Assembly",
+      "language": "Go",
+      "stars": 299,
+      "forks": 13
+    },
+    {
+      "author": "kshvmdn",
+      "name": "fsql",
+      "href": "https://github.com/kshvmdn/fsql",
+      "description": "Search through your filesystem with SQL-esque queries.",
+      "language": "Go",
+      "stars": 3053,
+      "forks": 86
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 20877,
+      "forks": 2615
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 28304,
+      "forks": 3783
+    },
+    {
+      "author": "kevinburke",
+      "name": "ssh_config",
+      "href": "https://github.com/kevinburke/ssh_config",
+      "description": "Go parser for ssh_config files",
+      "language": "Go",
+      "stars": 49,
+      "forks": 2
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 4230,
+      "forks": 1408
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 23522,
+      "forks": 8300
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12412,
+      "forks": 822
+    },
+    {
+      "author": "libeclipse",
+      "name": "memguard",
+      "href": "https://github.com/libeclipse/memguard",
+      "description": "A pure Go library for handling sensitive values in memory.",
+      "language": "Go",
+      "stars": 434,
+      "forks": 7
+    },
+    {
+      "author": "huanglizhuo",
+      "name": "kotlin-in-chinese",
+      "href": "https://github.com/huanglizhuo/kotlin-in-chinese",
+      "description": "kotlin 官方文档翻译",
+      "language": "Go",
+      "stars": 1729,
+      "forks": 291
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43804,
+      "forks": 12997
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16109,
+      "forks": 2655
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 17301,
+      "forks": 2442
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 9729,
+      "forks": 1046
+    },
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 2224,
+      "forks": 604
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16028,
+      "forks": 5056
+    },
+    {
+      "author": "tidwall",
+      "name": "pinhole",
+      "href": "https://github.com/tidwall/pinhole",
+      "description": "3D Wireframe Drawing Library for Go",
+      "language": "Go",
+      "stars": 112,
+      "forks": 0
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 9761,
+      "forks": 1109
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 10118,
+      "forks": 1186
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 8404,
+      "forks": 3175
+    },
+    {
+      "author": "ory",
+      "name": "hydra",
+      "href": "https://github.com/ory/hydra",
+      "description": "OAuth 2.0 server with OpenID Connect support - cloud native, security-first, open source API security for your infrastructure. Written in Go.",
+      "language": "Go",
+      "stars": 2600,
+      "forks": 157
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 3964,
+      "forks": 488
+    },
+    {
+      "author": "ponzu-cms",
+      "name": "ponzu",
+      "href": "https://github.com/ponzu-cms/ponzu",
+      "description": "Headless CMS with automatic JSON API. Featuring auto HTTPS, HTTP/2 Server Push, and flexible server framework written in Go.",
+      "language": "Go",
+      "stars": 2829,
+      "forks": 111
+    }
+  ]
+}
