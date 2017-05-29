@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "DhavalKapil",
+      "name": "heap-exploitation",
+      "href": "https://github.com/DhavalKapil/heap-exploitation",
+      "description": "This book on heap exploitation is a guide to understanding the internals of glibc's heap. It also describes, in detail, various attacks possible on the heap structure. https://heap-exploitation.dhavalkapil.com/",
+      "language": "C",
+      "stars": 126,
+      "forks": 9
+    },
+    {
+      "author": "taviso",
+      "name": "loadlibrary",
+      "href": "https://github.com/taviso/loadlibrary",
+      "description": "Porting Windows Dynamic Link Libraries to Linux",
+      "language": "C",
+      "stars": 1804,
+      "forks": 100
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform system automation",
+      "language": "C",
+      "stars": 1755,
+      "forks": 112
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 45475,
+      "forks": 17208
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21383,
+      "forks": 1679
+    },
+    {
+      "author": "bitnine-oss",
+      "name": "agensgraph",
+      "href": "https://github.com/bitnine-oss/agensgraph",
+      "description": "AgensGraph, a transactional graph database based on PostgreSQL",
+      "language": "C",
+      "stars": 300,
+      "forks": 16
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17714,
+      "forks": 9981
+    },
+    {
+      "author": "diracdeltas",
+      "name": "FastestWebsiteEver",
+      "href": "https://github.com/diracdeltas/FastestWebsiteEver",
+      "description": "ultrafast single TCP packet audio/visual experience",
+      "language": "C",
+      "stars": 294,
+      "forks": 13
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9926,
+      "forks": 2020
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7232,
+      "forks": 3473
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23599,
+      "forks": 8911
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9193,
+      "forks": 1108
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 5916,
+      "forks": 1683
+    },
+    {
+      "author": "xerub",
+      "name": "extra_recipe",
+      "href": "https://github.com/xerub/extra_recipe",
+      "description": "Exception-oriented exploitation by Ian Beer",
+      "language": "C",
+      "stars": 64,
+      "forks": 20
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "href": "https://github.com/cesanta/mongoose",
+      "description": "Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.",
+      "language": "C",
+      "stars": 3705,
+      "forks": 1131
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5066,
+      "forks": 1700
+    },
+    {
+      "author": "FireyFly",
+      "name": "pixd",
+      "href": "https://github.com/FireyFly/pixd",
+      "description": "Colourful visualization tool for binary files",
+      "language": "C",
+      "stars": 151,
+      "forks": 7
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6585,
+      "forks": 1092
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 4782,
+      "forks": 2468
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12327,
+      "forks": 855
+    },
+    {
+      "author": "Screetsec",
+      "name": "TheFatRat",
+      "href": "https://github.com/Screetsec/TheFatRat",
+      "description": "Thefatrat a massive exploiting tool revealed >> An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most…",
+      "language": "C",
+      "stars": 907,
+      "forks": 355
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern and easy-to-use crypto library.",
+      "language": "C",
+      "stars": 4196,
+      "forks": 565
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1013,
+      "forks": 265
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 4690,
+      "forks": 1123
+    },
+    {
+      "author": "yourtion",
+      "name": "LearningMasteringAlgorithms-C",
+      "href": "https://github.com/yourtion/LearningMasteringAlgorithms-C",
+      "description": "Mastering Algorithms in C 《算法精解：C语言描述》源码及Xcode工程、Linux工程",
+      "language": "C",
+      "stars": 48,
+      "forks": 13
+    }
+  ]
+}
