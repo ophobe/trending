@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22019,
+      "forks": 4086
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 4650,
+      "forks": 175
+    },
+    {
+      "author": "pipedown",
+      "name": "noise",
+      "href": "https://github.com/pipedown/noise",
+      "description": "Nested Object Inverted Search Engine",
+      "language": "Rust",
+      "stars": 154,
+      "forks": 8
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1159,
+      "forks": 247
+    },
+    {
+      "author": "redox-os",
+      "name": "redox",
+      "href": "https://github.com/redox-os/redox",
+      "description": "Redox: A Rust Operating System",
+      "language": "Rust",
+      "stars": 6934,
+      "forks": 450
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4458,
+      "forks": 279
+    },
+    {
+      "author": "stoklund",
+      "name": "cretonne",
+      "href": "https://github.com/stoklund/cretonne",
+      "description": "Cretonne code generator",
+      "language": "Rust",
+      "stars": 264,
+      "forks": 22
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 1183,
+      "forks": 59
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2098,
+      "forks": 78
+    },
+    {
+      "author": "TheWaWaR",
+      "name": "simple-http-server",
+      "href": "https://github.com/TheWaWaR/simple-http-server",
+      "description": "SimpleHTTPServer in Rust",
+      "language": "Rust",
+      "stars": 41,
+      "forks": 1
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "piston",
+      "href": "https://github.com/PistonDevelopers/piston",
+      "description": "A modular game engine written in Rust",
+      "language": "Rust",
+      "stars": 1808,
+      "forks": 140
+    },
+    {
+      "author": "debris",
+      "name": "tiny-keccak",
+      "href": "https://github.com/debris/tiny-keccak",
+      "description": "A tiny implementation of SHA-3, SHAKE, Keccak, and sha3sum in rust",
+      "language": "Rust",
+      "stars": 34,
+      "forks": 6
+    },
+    {
+      "author": "laumann",
+      "name": "compiletest-rs",
+      "href": "https://github.com/laumann/compiletest-rs",
+      "description": "An extraction of the compiletest utility from the Rust compiler",
+      "language": "Rust",
+      "stars": 56,
+      "forks": 13
+    },
+    {
+      "author": "frankmcsherry",
+      "name": "differential-dataflow",
+      "href": "https://github.com/frankmcsherry/differential-dataflow",
+      "description": "An implementation of differential dataflow using timely dataflow on Rust.",
+      "language": "Rust",
+      "stars": 201,
+      "forks": 17
+    },
+    {
+      "author": "blackbeam",
+      "name": "rust-mysql-simple",
+      "href": "https://github.com/blackbeam/rust-mysql-simple",
+      "description": "Mysql client library implemented in rust.",
+      "language": "Rust",
+      "stars": 152,
+      "forks": 41
+    },
+    {
+      "author": "Stebalien",
+      "name": "term",
+      "href": "https://github.com/Stebalien/term",
+      "description": "A Rust library for terminfo parsing and terminal colors.",
+      "language": "Rust",
+      "stars": 69,
+      "forks": 31
+    },
+    {
+      "author": "rust-lang",
+      "name": "sublime-rust",
+      "href": "https://github.com/rust-lang/sublime-rust",
+      "description": "The official Sublime Text 3 package for the Rust Programming Language",
+      "language": "Rust",
+      "stars": 232,
+      "forks": 69
+    },
+    {
+      "author": "TyOverby",
+      "name": "bincode",
+      "href": "https://github.com/TyOverby/bincode",
+      "description": "A binary encoder / decoder implementation in Rust.",
+      "language": "Rust",
+      "stars": 221,
+      "forks": 54
+    },
+    {
+      "author": "docopt",
+      "name": "docopt.rs",
+      "href": "https://github.com/docopt/docopt.rs",
+      "description": "Docopt for Rust (command line argument parser).",
+      "language": "Rust",
+      "stars": 470,
+      "forks": 72
+    },
+    {
+      "author": "SpaceManiac",
+      "name": "discord-rs",
+      "href": "https://github.com/SpaceManiac/discord-rs",
+      "description": "Rust library for the Discord chat client API",
+      "language": "Rust",
+      "stars": 123,
+      "forks": 35
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-openssl",
+      "href": "https://github.com/sfackler/rust-openssl",
+      "description": "OpenSSL bindings for Rust",
+      "language": "Rust",
+      "stars": 273,
+      "forks": 192
+    },
+    {
+      "author": "Amanieu",
+      "name": "parking_lot",
+      "href": "https://github.com/Amanieu/parking_lot",
+      "description": "Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.",
+      "language": "Rust",
+      "stars": 260,
+      "forks": 17
+    },
+    {
+      "author": "alexcrichton",
+      "name": "toml-rs",
+      "href": "https://github.com/alexcrichton/toml-rs",
+      "description": "A TOML encoding/decoding library for Rust",
+      "language": "Rust",
+      "stars": 250,
+      "forks": 63
+    },
+    {
+      "author": "servo",
+      "name": "rust-url",
+      "href": "https://github.com/servo/rust-url",
+      "description": "URL parser for Rust",
+      "language": "Rust",
+      "stars": 239,
+      "forks": 112
+    },
+    {
+      "author": "weld-project",
+      "name": "weld",
+      "href": "https://github.com/weld-project/weld",
+      "description": "Weld is a runtime and language for accelerating data analytics frameworks",
+      "language": "Rust",
+      "stars": 497,
+      "forks": 49
+    }
+  ]
+}
