@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tectonic-typesetting",
+      "name": "tectonic",
+      "href": "https://github.com/tectonic-typesetting/tectonic",
+      "description": "A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.",
+      "language": "C",
+      "stars": 868,
+      "forks": 15
+    },
+    {
+      "author": "pmem",
+      "name": "syscall_intercept",
+      "href": "https://github.com/pmem/syscall_intercept",
+      "description": "The system call intercepting library",
+      "language": "C",
+      "stars": 66,
+      "forks": 13
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 45612,
+      "forks": 17254
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21505,
+      "forks": 1685
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23670,
+      "forks": 8934
+    },
+    {
+      "author": "DhavalKapil",
+      "name": "heap-exploitation",
+      "href": "https://github.com/DhavalKapil/heap-exploitation",
+      "description": "This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. https://heap-exploitation.dhavalkapil.com/",
+      "language": "C",
+      "stars": 535,
+      "forks": 31
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 9994,
+      "forks": 2039
+    },
+    {
+      "author": "illinoisjackson",
+      "name": "even-better-ls",
+      "href": "https://github.com/illinoisjackson/even-better-ls",
+      "description": "LS + Icons + Formatting",
+      "language": "C",
+      "stars": 170,
+      "forks": 5
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17762,
+      "forks": 10025
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6617,
+      "forks": 1100
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 3509,
+      "forks": 582
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9231,
+      "forks": 1115
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 4820,
+      "forks": 2472
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform system automation",
+      "language": "C",
+      "stars": 1791,
+      "forks": 119
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12359,
+      "forks": 855
+    },
+    {
+      "author": "videolan",
+      "name": "vlc",
+      "href": "https://github.com/videolan/vlc",
+      "description": "VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",
+      "language": "C",
+      "stars": 2835,
+      "forks": 1290
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7267,
+      "forks": 3486
+    },
+    {
+      "author": "bloomberg",
+      "name": "comdb2",
+      "href": "https://github.com/bloomberg/comdb2",
+      "description": "Bloomberg's distributed RDBMS",
+      "language": "C",
+      "stars": 229,
+      "forks": 41
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12039,
+      "forks": 4058
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 4748,
+      "forks": 1000
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12234,
+      "forks": 1492
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6654,
+      "forks": 534
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6355,
+      "forks": 1496
+    },
+    {
+      "author": "torch",
+      "name": "torch7",
+      "href": "https://github.com/torch/torch7",
+      "description": "http://torch.ch",
+      "language": "C",
+      "stars": 6932,
+      "forks": 2060
+    },
+    {
+      "author": "symless",
+      "name": "synergy",
+      "href": "https://github.com/symless/synergy",
+      "description": "Share one mouse and keyboard between multiple computers",
+      "language": "C",
+      "stars": 4795,
+      "forks": 1079
+    }
+  ]
+}
