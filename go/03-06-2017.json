@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Azure",
+      "name": "draft",
+      "href": "https://github.com/Azure/draft",
+      "description": "A tool for developers to create cloud-native applications on Kubernetes.",
+      "language": "Go",
+      "stars": 633,
+      "forks": 37
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 9441,
+      "forks": 1210
+    },
+    {
+      "author": "tj",
+      "name": "mmake",
+      "href": "https://github.com/tj/mmake",
+      "description": "Modern Make",
+      "language": "Go",
+      "stars": 1057,
+      "forks": 20
+    },
+    {
+      "author": "dzhou121",
+      "name": "gonvim",
+      "href": "https://github.com/dzhou121/gonvim",
+      "description": null,
+      "language": "Go",
+      "stars": 686,
+      "forks": 15
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 4875,
+      "forks": 788
+    },
+    {
+      "author": "tj",
+      "name": "es",
+      "href": "https://github.com/tj/es",
+      "description": "Go DSL for Elasticsearch queries",
+      "language": "Go",
+      "stars": 149,
+      "forks": 5
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 4462,
+      "forks": 1462
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 1628,
+      "forks": 151
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go",
+      "language": "Go",
+      "stars": 503,
+      "forks": 41
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21101,
+      "forks": 2644
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Sample code, build and tests and governance material for the Istio project.",
+      "language": "Go",
+      "stars": 1856,
+      "forks": 126
+    },
+    {
+      "author": "ikruglov",
+      "name": "slapper",
+      "href": "https://github.com/ikruglov/slapper",
+      "description": "Simple load testing tool with real-time updated histogram of request timings",
+      "language": "Go",
+      "stars": 27,
+      "forks": 1
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 17468,
+      "forks": 2464
+    },
+    {
+      "author": "Netflix",
+      "name": "chaosmonkey",
+      "href": "https://github.com/Netflix/chaosmonkey",
+      "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "language": "Go",
+      "stars": 2392,
+      "forks": 134
+    },
+    {
+      "author": "wallix",
+      "name": "awless",
+      "href": "https://github.com/wallix/awless",
+      "description": "A Mighty CLI for AWS",
+      "language": "Go",
+      "stars": 2805,
+      "forks": 94
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 23696,
+      "forks": 8381
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 28519,
+      "forks": 3815
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16156,
+      "forks": 5090
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16213,
+      "forks": 2671
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 16196,
+      "forks": 1273
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43933,
+      "forks": 13050
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19347,
+      "forks": 2204
+    },
+    {
+      "author": "radicalmind",
+      "name": "xeon",
+      "href": "https://github.com/radicalmind/xeon",
+      "description": "A Fully-featured HTTP/1.x and HTTP/2 fast backend web framework written entirely in Google’s Go Language.",
+      "language": "Go",
+      "stars": 33,
+      "forks": 2
+    },
+    {
+      "author": "tarent",
+      "name": "loginsrv",
+      "href": "https://github.com/tarent/loginsrv",
+      "description": "JWT login microservice with plugable backends such as OAuth2, Github, htpasswd, osiam",
+      "language": "Go",
+      "stars": 320,
+      "forks": 16
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 10729,
+      "forks": 1515
+    }
+  ]
+}
