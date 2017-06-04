@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "spolu",
+      "name": "warp",
+      "href": "https://github.com/spolu/warp",
+      "description": "Secure and simple terminal sharing",
+      "language": "Go",
+      "stars": 560,
+      "forks": 11
+    },
+    {
+      "author": "tj",
+      "name": "mmake",
+      "href": "https://github.com/tj/mmake",
+      "description": "Modern Make",
+      "language": "Go",
+      "stars": 1119,
+      "forks": 21
+    },
+    {
+      "author": "dzhou121",
+      "name": "gonvim",
+      "href": "https://github.com/dzhou121/gonvim",
+      "description": null,
+      "language": "Go",
+      "stars": 713,
+      "forks": 16
+    },
+    {
+      "author": "Azure",
+      "name": "draft",
+      "href": "https://github.com/Azure/draft",
+      "description": "A tool for developers to create cloud-native applications on Kubernetes.",
+      "language": "Go",
+      "stars": 676,
+      "forks": 38
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Sample code, build and tests and governance material for the Istio project.",
+      "language": "Go",
+      "stars": 1893,
+      "forks": 127
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 4490,
+      "forks": 1471
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 28541,
+      "forks": 3818
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21121,
+      "forks": 2646
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go",
+      "language": "Go",
+      "stars": 527,
+      "forks": 42
+    },
+    {
+      "author": "orcaman",
+      "name": "financial",
+      "href": "https://github.com/orcaman/financial",
+      "description": "think numpy's financial (npv, irr, etc.) but in go",
+      "language": "Go",
+      "stars": 26,
+      "forks": 4
+    },
+    {
+      "author": "spf13",
+      "name": "hugo",
+      "href": "https://github.com/spf13/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang",
+      "language": "Go",
+      "stars": 17486,
+      "forks": 2469
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 9452,
+      "forks": 1209
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 4891,
+      "forks": 789
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 23707,
+      "forks": 8387
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 1650,
+      "forks": 151
+    },
+    {
+      "author": "ikruglov",
+      "name": "slapper",
+      "href": "https://github.com/ikruglov/slapper",
+      "description": "Simple load testing tool with real-time updated histogram of request timings",
+      "language": "Go",
+      "stars": 46,
+      "forks": 1
+    },
+    {
+      "author": "wallix",
+      "name": "awless",
+      "href": "https://github.com/wallix/awless",
+      "description": "A Mighty CLI for AWS",
+      "language": "Go",
+      "stars": 2825,
+      "forks": 97
+    },
+    {
+      "author": "segmentio",
+      "name": "kafka-go",
+      "href": "https://github.com/segmentio/kafka-go",
+      "description": "Kafka library in Go",
+      "language": "Go",
+      "stars": 43,
+      "forks": 0
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 43942,
+      "forks": 13051
+    },
+    {
+      "author": "radicalmind",
+      "name": "xeon",
+      "href": "https://github.com/radicalmind/xeon",
+      "description": "A Fully-featured HTTP/1.x and HTTP/2 fast backend web framework written entirely in Google’s Go Language.",
+      "language": "Go",
+      "stars": 44,
+      "forks": 2
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 10204,
+      "forks": 1198
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 16207,
+      "forks": 1274
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 9121,
+      "forks": 360
+    },
+    {
+      "author": "faiface",
+      "name": "pixel",
+      "href": "https://github.com/faiface/pixel",
+      "description": "A hand-crafted 2D game library in Go",
+      "language": "Go",
+      "stars": 543,
+      "forks": 22
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16167,
+      "forks": 5094
+    }
+  ]
+}
