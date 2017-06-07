@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dcodeIO",
+      "name": "webassembly",
+      "href": "https://github.com/dcodeIO/webassembly",
+      "description": "A minimal toolkit and runtime to produce and run WebAssembly modules.",
+      "language": "C",
+      "stars": 205,
+      "forks": 8
+    },
+    {
+      "author": "dcodeIO",
+      "name": "AssemblyScript",
+      "href": "https://github.com/dcodeIO/AssemblyScript",
+      "description": "A subset of TypeScript that compiles to WebAssembly.",
+      "language": "C",
+      "stars": 136,
+      "forks": 7
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 45751,
+      "forks": 17318
+    },
+    {
+      "author": "kennyalive",
+      "name": "Quake-III-Arena-Kenny-Edition",
+      "href": "https://github.com/kennyalive/Quake-III-Arena-Kenny-Edition",
+      "description": "Quake III Arena with Vulkan support",
+      "language": "C",
+      "stars": 65,
+      "forks": 5
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23751,
+      "forks": 8966
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17831,
+      "forks": 10065
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 13570,
+      "forks": 4111
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9284,
+      "forks": 1125
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21581,
+      "forks": 1693
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10052,
+      "forks": 2050
+    },
+    {
+      "author": "SecWiki",
+      "name": "linux-kernel-exploits",
+      "href": "https://github.com/SecWiki/linux-kernel-exploits",
+      "description": "linux-kernel-exploits Linux平台提取漏洞集合",
+      "language": "C",
+      "stars": 36,
+      "forks": 13
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 6587,
+      "forks": 444
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7308,
+      "forks": 3502
+    },
+    {
+      "author": "AuroraWright",
+      "name": "Luma3DS",
+      "href": "https://github.com/AuroraWright/Luma3DS",
+      "description": "Noob-proof (N)3DS \"Custom Firmware\"",
+      "language": "C",
+      "stars": 963,
+      "forks": 180
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2758,
+      "forks": 1273
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6696,
+      "forks": 538
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6651,
+      "forks": 1103
+    },
+    {
+      "author": "arut",
+      "name": "nginx-rtmp-module",
+      "href": "https://github.com/arut/nginx-rtmp-module",
+      "description": "NGINX-based Media Streaming Server",
+      "language": "C",
+      "stars": 4983,
+      "forks": 1515
+    },
+    {
+      "author": "torch",
+      "name": "torch7",
+      "href": "https://github.com/torch/torch7",
+      "description": "http://torch.ch",
+      "language": "C",
+      "stars": 6957,
+      "forks": 2062
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 4699,
+      "forks": 512
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 5523,
+      "forks": 1194
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12068,
+      "forks": 4069
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6380,
+      "forks": 1504
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1054,
+      "forks": 284
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3610,
+      "forks": 1585
+    }
+  ]
+}
