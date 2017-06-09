@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "href": "https://github.com/tensorflow/tensorflow",
+      "description": "Computation using data flow graphs for scalable machine learning",
+      "language": "C++",
+      "stars": 60108,
+      "forks": 28862
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 46700,
+      "forks": 5799
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "href": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 16126,
+      "forks": 12330
+    },
+    {
+      "author": "BVLC",
+      "name": "caffe",
+      "href": "https://github.com/BVLC/caffe",
+      "description": "Caffe: a fast open framework for deep learning.",
+      "language": "C++",
+      "stars": 18377,
+      "forks": 11291
+    },
+    {
+      "author": "Microsoft",
+      "name": "CNTK",
+      "href": "https://github.com/Microsoft/CNTK",
+      "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+      "language": "C++",
+      "stars": 11275,
+      "forks": 2827
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "href": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": 13268,
+      "forks": 8491
+    },
+    {
+      "author": "google",
+      "name": "protobuf",
+      "href": "https://github.com/google/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 17880,
+      "forks": 5296
+    },
+    {
+      "author": "apple",
+      "name": "swift",
+      "href": "https://github.com/apple/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": 38801,
+      "forks": 5807
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "href": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": 10918,
+      "forks": 2450
+    },
+    {
+      "author": "CMU-Perceptual-Computing-Lab",
+      "name": "openpose",
+      "href": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+      "description": "OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library",
+      "language": "C++",
+      "stars": 1520,
+      "forks": 298
+    },
+    {
+      "author": "AnyRTC",
+      "name": "AnyRTC-RTMP",
+      "href": "https://github.com/AnyRTC/AnyRTC-RTMP",
+      "description": "RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android）开源代码",
+      "language": "C++",
+      "stars": 1607,
+      "forks": 579
+    },
+    {
+      "author": "HKUST-Aerial-Robotics",
+      "name": "VINS-Mono",
+      "href": "https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
+      "description": "A Robust and Versatile Monocular Visual-Inertial State Estimator",
+      "language": "C++",
+      "stars": 254,
+      "forks": 158
+    },
+    {
+      "author": "google",
+      "name": "guetzli",
+      "href": "https://github.com/google/guetzli",
+      "description": "Perceptual JPEG encoder",
+      "language": "C++",
+      "stars": 9813,
+      "forks": 774
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "href": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",
+      "language": "C++",
+      "stars": 7476,
+      "forks": 3756
+    },
+    {
+      "author": "facebookincubator",
+      "name": "gloo",
+      "href": "https://github.com/facebookincubator/gloo",
+      "description": "Collective communications library with various primitives for multi-machine training.",
+      "language": "C++",
+      "stars": 166,
+      "forks": 23
+    },
+    {
+      "author": "Tencent",
+      "name": "mars",
+      "href": "https://github.com/Tencent/mars",
+      "description": "Mars is a cross-platform network component developed by WeChat.",
+      "language": "C++",
+      "stars": 8901,
+      "forks": 1664
+    },
+    {
+      "author": "HKUST-Aerial-Robotics",
+      "name": "VINS-Mobile",
+      "href": "https://github.com/HKUST-Aerial-Robotics/VINS-Mobile",
+      "description": "Monocular Visual-Inertial State Estimator on Mobile Phones",
+      "language": "C++",
+      "stars": 372,
+      "forks": 223
+    },
+    {
+      "author": "v8",
+      "name": "v8",
+      "href": "https://github.com/v8/v8",
+      "description": "The official mirror of the V8 git repository",
+      "language": "C++",
+      "stars": 5714,
+      "forks": 1334
+    },
+    {
+      "author": "DGA-MI-SSI",
+      "name": "YaCo",
+      "href": "https://github.com/DGA-MI-SSI/YaCo",
+      "description": "YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.",
+      "language": "C++",
+      "stars": 44,
+      "forks": 5
+    },
+    {
+      "author": "tekezo",
+      "name": "Karabiner-Elements",
+      "href": "https://github.com/tekezo/Karabiner-Elements",
+      "description": "The next generation Karabiner for macOS Sierra",
+      "language": "C++",
+      "stars": 4180,
+      "forks": 334
+    },
+    {
+      "author": "nwjs",
+      "name": "nw.js",
+      "href": "https://github.com/nwjs/nw.js",
+      "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+      "language": "C++",
+      "stars": 31661,
+      "forks": 3535
+    },
+    {
+      "author": "Genoil",
+      "name": "cpp-ethereum",
+      "href": "https://github.com/Genoil/cpp-ethereum",
+      "description": "Ethereum miner with CUDA and stratum support",
+      "language": "C++",
+      "stars": 399,
+      "forks": 727
+    },
+    {
+      "author": "Microsoft",
+      "name": "LightGBM",
+      "href": "https://github.com/Microsoft/LightGBM",
+      "description": "A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.",
+      "language": "C++",
+      "stars": 3120,
+      "forks": 730
+    },
+    {
+      "author": "dmlc",
+      "name": "mxnet",
+      "href": "https://github.com/dmlc/mxnet",
+      "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+      "language": "C++",
+      "stars": 9960,
+      "forks": 3733
+    },
+    {
+      "author": "facebookresearch",
+      "name": "fastText",
+      "href": "https://github.com/facebookresearch/fastText",
+      "description": "Library for fast text representation and classification.",
+      "language": "C++",
+      "stars": 9630,
+      "forks": 1392
+    }
+  ]
+}
