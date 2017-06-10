@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "Multi-platform database framework from WeChat application",
+      "language": "C",
+      "stars": 1302,
+      "forks": 144
+    },
+    {
+      "author": "bloomberg",
+      "name": "comdb2",
+      "href": "https://github.com/bloomberg/comdb2",
+      "description": "Bloomberg's distributed RDBMS",
+      "language": "C",
+      "stars": 435,
+      "forks": 52
+    },
+    {
+      "author": "SecWiki",
+      "name": "linux-kernel-exploits",
+      "href": "https://github.com/SecWiki/linux-kernel-exploits",
+      "description": "linux-kernel-exploits Linux平台提权漏洞集合",
+      "language": "C",
+      "stars": 388,
+      "forks": 118
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 45860,
+      "forks": 17342
+    },
+    {
+      "author": "airbus-seclab",
+      "name": "crashos",
+      "href": "https://github.com/airbus-seclab/crashos",
+      "description": null,
+      "language": "C",
+      "stars": 62,
+      "forks": 5
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17871,
+      "forks": 10086
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21654,
+      "forks": 1702
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23784,
+      "forks": 8987
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 4507,
+      "forks": 2086
+    },
+    {
+      "author": "google",
+      "name": "nsjail",
+      "href": "https://github.com/google/nsjail",
+      "description": "A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)",
+      "language": "C",
+      "stars": 571,
+      "forks": 75
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10097,
+      "forks": 2064
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6723,
+      "forks": 539
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 4956,
+      "forks": 3208
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3634,
+      "forks": 1592
+    },
+    {
+      "author": "arduino",
+      "name": "Arduino",
+      "href": "https://github.com/arduino/Arduino",
+      "description": "open-source electronics prototyping platform",
+      "language": "C",
+      "stars": 6838,
+      "forks": 5503
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 5994,
+      "forks": 1700
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2787,
+      "forks": 1285
+    },
+    {
+      "author": "systemd",
+      "name": "casync",
+      "href": "https://github.com/systemd/casync",
+      "description": "Content-Addressable Data Synchronization Tool",
+      "language": "C",
+      "stars": 27,
+      "forks": 7
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 3721,
+      "forks": 907
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 2874,
+      "forks": 523
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1071,
+      "forks": 291
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 6607,
+      "forks": 445
+    },
+    {
+      "author": "Harvey-OS",
+      "name": "harvey",
+      "href": "https://github.com/Harvey-OS/harvey",
+      "description": "A distributed operating system",
+      "language": "C",
+      "stars": 561,
+      "forks": 58
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "href": "https://github.com/skywind3000/kcp",
+      "description": "KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": 2714,
+      "forks": 563
+    },
+    {
+      "author": "tpruvot",
+      "name": "ccminer",
+      "href": "https://github.com/tpruvot/ccminer",
+      "description": "CUDA miner project, compatible with most nvidia cards",
+      "language": "C",
+      "stars": 196,
+      "forks": 262
+    }
+  ]
+}
