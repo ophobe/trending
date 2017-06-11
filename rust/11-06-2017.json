@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "m4b",
+      "name": "bingrep",
+      "href": "https://github.com/m4b/bingrep",
+      "description": "like grep, but for binaries",
+      "language": "Rust",
+      "stars": 474,
+      "forks": 26
+    },
+    {
+      "author": "dwrensha",
+      "name": "seer",
+      "href": "https://github.com/dwrensha/seer",
+      "description": "symbolic execution engine for Rust",
+      "language": "Rust",
+      "stars": 132,
+      "forks": 1
+    },
+    {
+      "author": "liranringel",
+      "name": "structure",
+      "href": "https://github.com/liranringel/structure",
+      "description": "Use format strings to create strongly-typed data pack/unpack interfaces",
+      "language": "Rust",
+      "stars": 22,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22151,
+      "forks": 4098
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1259,
+      "forks": 264
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 1055,
+      "forks": 53
+    },
+    {
+      "author": "BurntSushi",
+      "name": "rust-csv",
+      "href": "https://github.com/BurntSushi/rust-csv",
+      "description": "A CSV parser with type based decoding for Rust.",
+      "language": "Rust",
+      "stars": 302,
+      "forks": 44
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 229,
+      "forks": 1
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 2261,
+      "forks": 121
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 6051,
+      "forks": 195
+    },
+    {
+      "author": "Ogeon",
+      "name": "palette",
+      "href": "https://github.com/Ogeon/palette",
+      "description": "A Rust library for linear color calculations and conversion",
+      "language": "Rust",
+      "stars": 73,
+      "forks": 7
+    },
+    {
+      "author": "rust-num",
+      "name": "num",
+      "href": "https://github.com/rust-num/num",
+      "description": "A collection of numeric types and traits for Rust.",
+      "language": "Rust",
+      "stars": 199,
+      "forks": 117
+    },
+    {
+      "author": "paritytech",
+      "name": "jsonrpc",
+      "href": "https://github.com/paritytech/jsonrpc",
+      "description": "Rust JSON-RPC implementation",
+      "language": "Rust",
+      "stars": 27,
+      "forks": 10
+    },
+    {
+      "author": "bluss",
+      "name": "arrayvec",
+      "href": "https://github.com/bluss/arrayvec",
+      "description": "A vector with a fixed capacity. (Rust)",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 11
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2146,
+      "forks": 82
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-bitcoin",
+      "href": "https://github.com/paritytech/parity-bitcoin",
+      "description": "The Parity Bitcoin client",
+      "language": "Rust",
+      "stars": 186,
+      "forks": 25
+    },
+    {
+      "author": "NetSys",
+      "name": "NetBricks",
+      "href": "https://github.com/NetSys/NetBricks",
+      "description": "NetBricks: A new network function framework based on Rust.",
+      "language": "Rust",
+      "stars": 184,
+      "forks": 26
+    },
+    {
+      "author": "alicemaz",
+      "name": "rust-base64",
+      "href": "https://github.com/alicemaz/rust-base64",
+      "description": "base64, in rust",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 9
+    },
+    {
+      "author": "dtolnay",
+      "name": "serde-yaml",
+      "href": "https://github.com/dtolnay/serde-yaml",
+      "description": "YAML support for Serde",
+      "language": "Rust",
+      "stars": 49,
+      "forks": 13
+    },
+    {
+      "author": "alexcrichton",
+      "name": "futures-rs",
+      "href": "https://github.com/alexcrichton/futures-rs",
+      "description": "Zero-cost futures and streams in Rust",
+      "language": "Rust",
+      "stars": 1501,
+      "forks": 146
+    },
+    {
+      "author": "redox-os",
+      "name": "kernel",
+      "href": "https://github.com/redox-os/kernel",
+      "description": "The Redox microkernel",
+      "language": "Rust",
+      "stars": 67,
+      "forks": 20
+    },
+    {
+      "author": "rust-embedded",
+      "name": "rust-sysfs-gpio",
+      "href": "https://github.com/rust-embedded/rust-sysfs-gpio",
+      "description": "A Rust Interface to the Linux sysfs GPIO interface (https://www.kernel.org/doc/Documentation/gpio/sysfs.txt)",
+      "language": "Rust",
+      "stars": 102,
+      "forks": 15
+    },
+    {
+      "author": "utkarshkukreti",
+      "name": "select.rs",
+      "href": "https://github.com/utkarshkukreti/select.rs",
+      "description": "A Rust library to extract useful data from HTML documents, suitable for web scraping.",
+      "language": "Rust",
+      "stars": 157,
+      "forks": 14
+    },
+    {
+      "author": "mgattozzi",
+      "name": "github-rs",
+      "href": "https://github.com/mgattozzi/github-rs",
+      "description": "Pure Rust bindings to the Github API",
+      "language": "Rust",
+      "stars": 63,
+      "forks": 12
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-openssl",
+      "href": "https://github.com/sfackler/rust-openssl",
+      "description": "OpenSSL bindings for Rust",
+      "language": "Rust",
+      "stars": 276,
+      "forks": 196
+    }
+  ]
+}
