@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "m4b",
+      "name": "bingrep",
+      "href": "https://github.com/m4b/bingrep",
+      "description": "like ~~grep~~ UBER, but for binaries",
+      "language": "Rust",
+      "stars": 699,
+      "forks": 32
+    },
+    {
+      "author": "osa1",
+      "name": "tiny",
+      "href": "https://github.com/osa1/tiny",
+      "description": "A console IRC client",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22162,
+      "forks": 4103
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 244,
+      "forks": 3
+    },
+    {
+      "author": "dwrensha",
+      "name": "seer",
+      "href": "https://github.com/dwrensha/seer",
+      "description": "symbolic execution engine for Rust",
+      "language": "Rust",
+      "stars": 147,
+      "forks": 1
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1273,
+      "forks": 266
+    },
+    {
+      "author": "bluss",
+      "name": "rust-ndarray",
+      "href": "https://github.com/bluss/rust-ndarray",
+      "description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+      "language": "Rust",
+      "stars": 288,
+      "forks": 29
+    },
+    {
+      "author": "liranringel",
+      "name": "structure",
+      "href": "https://github.com/liranringel/structure",
+      "description": "Use format strings to create strongly-typed data pack/unpack interfaces",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 2
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 4728,
+      "forks": 176
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4534,
+      "forks": 287
+    },
+    {
+      "author": "slide-rs",
+      "name": "specs",
+      "href": "https://github.com/slide-rs/specs",
+      "description": "Specs - Parallel ECS",
+      "language": "Rust",
+      "stars": 306,
+      "forks": 29
+    },
+    {
+      "author": "ANSSI-FR",
+      "name": "Binacle",
+      "href": "https://github.com/ANSSI-FR/Binacle",
+      "description": "Full-bin indexation of binary files",
+      "language": "Rust",
+      "stars": 53,
+      "forks": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 991,
+      "forks": 251
+    },
+    {
+      "author": "tomaka",
+      "name": "vulkano",
+      "href": "https://github.com/tomaka/vulkano",
+      "description": "Safe and rich Rust wrapper around the Vulkan API",
+      "language": "Rust",
+      "stars": 812,
+      "forks": 63
+    },
+    {
+      "author": "alexcrichton",
+      "name": "futures-rs",
+      "href": "https://github.com/alexcrichton/futures-rs",
+      "description": "Zero-cost futures and streams in Rust",
+      "language": "Rust",
+      "stars": 1502,
+      "forks": 148
+    },
+    {
+      "author": "mitsuhiko",
+      "name": "redis-rs",
+      "href": "https://github.com/mitsuhiko/redis-rs",
+      "description": "Redis library for rust",
+      "language": "Rust",
+      "stars": 609,
+      "forks": 95
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 539,
+      "forks": 150
+    },
+    {
+      "author": "servo",
+      "name": "rust-url",
+      "href": "https://github.com/servo/rust-url",
+      "description": "URL parser for Rust",
+      "language": "Rust",
+      "stars": 241,
+      "forks": 117
+    },
+    {
+      "author": "rust-bio",
+      "name": "rust-htslib",
+      "href": "https://github.com/rust-bio/rust-htslib",
+      "description": "This library provides HTSlib bindings and a high level Rust API for reading and writing BAM files.",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 11
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-core",
+      "href": "https://github.com/tokio-rs/tokio-core",
+      "description": "I/O primitives and event loop for async I/O in Rust",
+      "language": "Rust",
+      "stars": 399,
+      "forks": 86
+    },
+    {
+      "author": "bluejekyll",
+      "name": "trust-dns",
+      "href": "https://github.com/bluejekyll/trust-dns",
+      "description": "A Rust based DNS client and server",
+      "language": "Rust",
+      "stars": 499,
+      "forks": 32
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "uuid",
+      "href": "https://github.com/rust-lang-nursery/uuid",
+      "description": "Generate and parse UUIDs.",
+      "language": "Rust",
+      "stars": 79,
+      "forks": 55
+    },
+    {
+      "author": "nrc",
+      "name": "xmas-elf",
+      "href": "https://github.com/nrc/xmas-elf",
+      "description": "elf parser and navigation tool, pure Rust",
+      "language": "Rust",
+      "stars": 52,
+      "forks": 14
+    },
+    {
+      "author": "AlexPikalov",
+      "name": "cdrs",
+      "href": "https://github.com/AlexPikalov/cdrs",
+      "description": "Cassandra DB native client written in Rust language",
+      "language": "Rust",
+      "stars": 76,
+      "forks": 14
+    },
+    {
+      "author": "diwic",
+      "name": "dbus-rs",
+      "href": "https://github.com/diwic/dbus-rs",
+      "description": "D-Bus binding for the Rust language",
+      "language": "Rust",
+      "stars": 78,
+      "forks": 27
+    }
+  ]
+}
