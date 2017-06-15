@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mattn",
+      "name": "sudo",
+      "href": "https://github.com/mattn/sudo",
+      "description": "sudo for windows",
+      "language": "Go",
+      "stars": 201,
+      "forks": 6
+    },
+    {
+      "author": "ivoras",
+      "name": "daisy",
+      "href": "https://github.com/ivoras/daisy",
+      "description": "A private blockchain where blocks are SQLite databases, in Go",
+      "language": "Go",
+      "stars": 395,
+      "forks": 19
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 28901,
+      "forks": 3877
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 4958,
+      "forks": 1571
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24034,
+      "forks": 8516
+    },
+    {
+      "author": "achilleasa",
+      "name": "gopher-os",
+      "href": "https://github.com/achilleasa/gopher-os",
+      "description": "A proof of concept OS written in Go",
+      "language": "Go",
+      "stars": 782,
+      "forks": 30
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13752,
+      "forks": 2624
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 7113,
+      "forks": 521
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44141,
+      "forks": 13103
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10058,
+      "forks": 1100
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 8589,
+      "forks": 1140
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 17731,
+      "forks": 2485
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 5085,
+      "forks": 822
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21402,
+      "forks": 2687
+    },
+    {
+      "author": "NebulousLabs",
+      "name": "Sia",
+      "href": "https://github.com/NebulousLabs/Sia",
+      "description": "Blockchain-based marketplace for file storage",
+      "language": "Go",
+      "stars": 1013,
+      "forks": 130
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 23607,
+      "forks": 5960
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 8445,
+      "forks": 765
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16371,
+      "forks": 2716
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 6991,
+      "forks": 678
+    },
+    {
+      "author": "google",
+      "name": "go-microservice-helpers",
+      "href": "https://github.com/google/go-microservice-helpers",
+      "description": "A collection of handy snippets that simplify creation of GRPC servers and clients",
+      "language": "Go",
+      "stars": 214,
+      "forks": 6
+    },
+    {
+      "author": "thoas",
+      "name": "go-funk",
+      "href": "https://github.com/thoas/go-funk",
+      "description": "A modern Go utility library which provides helpers (map, find, contains, filter, ...)",
+      "language": "Go",
+      "stars": 241,
+      "forks": 8
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12635,
+      "forks": 849
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 16303,
+      "forks": 1282
+    },
+    {
+      "author": "segmentio",
+      "name": "ksuid",
+      "href": "https://github.com/segmentio/ksuid",
+      "description": "K-Sortable Globally Unique IDs",
+      "language": "Go",
+      "stars": 541,
+      "forks": 17
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19537,
+      "forks": 2226
+    }
+  ]
+}
