@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22233,
+      "forks": 4116
+    },
+    {
+      "author": "fcsonline",
+      "name": "drill",
+      "href": "https://github.com/fcsonline/drill",
+      "description": "Drill is a HTTP load testing application written in Rust inspired by Ansible syntax",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 1
+    },
+    {
+      "author": "TeXitoi",
+      "name": "structopt",
+      "href": "https://github.com/TeXitoi/structopt",
+      "description": "Parse command line argument by defining a struct.",
+      "language": "Rust",
+      "stars": 144,
+      "forks": 1
+    },
+    {
+      "author": "hsivonen",
+      "name": "encoding_rs",
+      "href": "https://github.com/hsivonen/encoding_rs",
+      "description": "A Gecko-oriented implementation of the Encoding Standard in Rust",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 7
+    },
+    {
+      "author": "m4b",
+      "name": "bingrep",
+      "href": "https://github.com/m4b/bingrep",
+      "description": "like ~~grep~~ UBER, but for binaries",
+      "language": "Rust",
+      "stars": 829,
+      "forks": 36
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 4767,
+      "forks": 178
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1023,
+      "forks": 256
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1307,
+      "forks": 272
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 6076,
+      "forks": 201
+    },
+    {
+      "author": "adevore",
+      "name": "rudy",
+      "href": "https://github.com/adevore/rudy",
+      "description": "Judy array implementation in pure Rust",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 2
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 1903,
+      "forks": 192
+    },
+    {
+      "author": "brson",
+      "name": "stdx",
+      "href": "https://github.com/brson/stdx",
+      "description": "The missing batteries of Rust",
+      "language": "Rust",
+      "stars": 690,
+      "forks": 13
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4556,
+      "forks": 290
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 296,
+      "forks": 3
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 7976,
+      "forks": 268
+    },
+    {
+      "author": "pipedown",
+      "name": "noise",
+      "href": "https://github.com/pipedown/noise",
+      "description": "Nested Object Inverted Search Engine",
+      "language": "Rust",
+      "stars": 184,
+      "forks": 7
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count code, quickly.",
+      "language": "Rust",
+      "stars": 303,
+      "forks": 36
+    },
+    {
+      "author": "rust-num",
+      "name": "num",
+      "href": "https://github.com/rust-num/num",
+      "description": "A collection of numeric types and traits for Rust.",
+      "language": "Rust",
+      "stars": 202,
+      "forks": 119
+    },
+    {
+      "author": "alicemaz",
+      "name": "rust-base64",
+      "href": "https://github.com/alicemaz/rust-base64",
+      "description": "base64, in rust",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 10
+    },
+    {
+      "author": "honeypotio",
+      "name": "searchspot",
+      "href": "https://github.com/honeypotio/searchspot",
+      "description": "The service responsible for Honeypot's ElasticSearch data",
+      "language": "Rust",
+      "stars": 58,
+      "forks": 6
+    },
+    {
+      "author": "mackwic",
+      "name": "colored",
+      "href": "https://github.com/mackwic/colored",
+      "description": "(Rust) Coloring terminal so simple you already know how to do it !",
+      "language": "Rust",
+      "stars": 71,
+      "forks": 6
+    },
+    {
+      "author": "BurntSushi",
+      "name": "walkdir",
+      "href": "https://github.com/BurntSushi/walkdir",
+      "description": "Rust library for walking directories recursively.",
+      "language": "Rust",
+      "stars": 133,
+      "forks": 18
+    },
+    {
+      "author": "servo",
+      "name": "gleam",
+      "href": "https://github.com/servo/gleam",
+      "description": "Generated OpenGL bindings and wrapper for Servo.",
+      "language": "Rust",
+      "stars": 22,
+      "forks": 37
+    },
+    {
+      "author": "servo",
+      "name": "cocoa-rs",
+      "href": "https://github.com/servo/cocoa-rs",
+      "description": "Cocoa/Objective-C bindings for the Rust programming language",
+      "language": "Rust",
+      "stars": 240,
+      "forks": 61
+    },
+    {
+      "author": "pyfisch",
+      "name": "cbor",
+      "href": "https://github.com/pyfisch/cbor",
+      "description": "CBOR serialization and deserialization using serde.",
+      "language": "Rust",
+      "stars": 30,
+      "forks": 11
+    }
+  ]
+}
