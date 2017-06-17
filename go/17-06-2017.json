@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5023,
+      "forks": 1582
+    },
+    {
+      "author": "mattn",
+      "name": "sudo",
+      "href": "https://github.com/mattn/sudo",
+      "description": "sudo for windows",
+      "language": "Go",
+      "stars": 347,
+      "forks": 9
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 28967,
+      "forks": 3892
+    },
+    {
+      "author": "alecthomas",
+      "name": "kingpin",
+      "href": "https://github.com/alecthomas/kingpin",
+      "description": "A Go (golang) command line and flag parser",
+      "language": "Go",
+      "stars": 1217,
+      "forks": 79
+    },
+    {
+      "author": "casbin",
+      "name": "casbin",
+      "href": "https://github.com/casbin/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC",
+      "language": "Go",
+      "stars": 871,
+      "forks": 69
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24093,
+      "forks": 8539
+    },
+    {
+      "author": "spolu",
+      "name": "warp",
+      "href": "https://github.com/spolu/warp",
+      "description": "Secure and simple terminal sharing",
+      "language": "Go",
+      "stars": 1075,
+      "forks": 18
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 17767,
+      "forks": 2488
+    },
+    {
+      "author": "achilleasa",
+      "name": "gopher-os",
+      "href": "https://github.com/achilleasa/gopher-os",
+      "description": "A proof of concept OS written in Go",
+      "language": "Go",
+      "stars": 851,
+      "forks": 33
+    },
+    {
+      "author": "ivoras",
+      "name": "daisy",
+      "href": "https://github.com/ivoras/daisy",
+      "description": "A private blockchain where blocks are SQLite databases, in Go",
+      "language": "Go",
+      "stars": 450,
+      "forks": 19
+    },
+    {
+      "author": "NebulousLabs",
+      "name": "Sia",
+      "href": "https://github.com/NebulousLabs/Sia",
+      "description": "Blockchain-based marketplace for file storage",
+      "language": "Go",
+      "stars": 1055,
+      "forks": 131
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 9256,
+      "forks": 368
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 23635,
+      "forks": 5973
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21442,
+      "forks": 2692
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Sample code, build and tests and governance material for the Istio project.",
+      "language": "Go",
+      "stars": 2113,
+      "forks": 152
+    },
+    {
+      "author": "open-falcon",
+      "name": "falcon-plus",
+      "href": "https://github.com/open-falcon/falcon-plus",
+      "description": "An open-source and enterprise-level monitoring system.",
+      "language": "Go",
+      "stars": 1188,
+      "forks": 218
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16394,
+      "forks": 5144
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 8479,
+      "forks": 768
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 16324,
+      "forks": 1283
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Gitea: Git with a cup of tea",
+      "language": "Go",
+      "stars": 3018,
+      "forks": 307
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19566,
+      "forks": 2231
+    },
+    {
+      "author": "Azure",
+      "name": "draft",
+      "href": "https://github.com/Azure/draft",
+      "description": "A tool for developers to create cloud-native applications on Kubernetes.",
+      "language": "Go",
+      "stars": 928,
+      "forks": 55
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44169,
+      "forks": 13112
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12669,
+      "forks": 853
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 7020,
+      "forks": 681
+    }
+  ]
+}
