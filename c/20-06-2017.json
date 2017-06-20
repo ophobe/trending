@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "kovidgoyal",
+      "name": "html5-parser",
+      "href": "https://github.com/kovidgoyal/html5-parser",
+      "description": "Fast C based HTML 5 parsing for python",
+      "language": "C",
+      "stars": 376,
+      "forks": 8
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 2791,
+      "forks": 287
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12407,
+      "forks": 1501
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 46139,
+      "forks": 17421
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7440,
+      "forks": 3543
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 13777,
+      "forks": 4176
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 17984,
+      "forks": 10170
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21839,
+      "forks": 1730
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23909,
+      "forks": 9044
+    },
+    {
+      "author": "RandyGaul",
+      "name": "tinyheaders",
+      "href": "https://github.com/RandyGaul/tinyheaders",
+      "description": "Collection of one-file C/C++ libraries with no dependencies, primarily used for games",
+      "language": "C",
+      "stars": 968,
+      "forks": 50
+    },
+    {
+      "author": "systemd",
+      "name": "casync",
+      "href": "https://github.com/systemd/casync",
+      "description": "Content-Addressable Data Synchronization Tool",
+      "language": "C",
+      "stars": 80,
+      "forks": 8
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6841,
+      "forks": 539
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6085,
+      "forks": 1713
+    },
+    {
+      "author": "SamyPesse",
+      "name": "How-to-Make-a-Computer-Operating-System",
+      "href": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "description": "How to Make a Computer Operating System in C++",
+      "language": "C",
+      "stars": 15453,
+      "forks": 2771
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 9092,
+      "forks": 511
+    },
+    {
+      "author": "zfsonlinux",
+      "name": "zfs",
+      "href": "https://github.com/zfsonlinux/zfs",
+      "description": "ZFS on Linux - the official OpenZFS implementation for Linux.",
+      "language": "C",
+      "stars": 2479,
+      "forks": 599
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12542,
+      "forks": 863
+    },
+    {
+      "author": "symless",
+      "name": "synergy",
+      "href": "https://github.com/symless/synergy",
+      "description": "Share one mouse and keyboard between multiple computers",
+      "language": "C",
+      "stars": 4892,
+      "forks": 1098
+    },
+    {
+      "author": "randrew",
+      "name": "layout",
+      "href": "https://github.com/randrew/layout",
+      "description": "Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.",
+      "language": "C",
+      "stars": 138,
+      "forks": 5
+    },
+    {
+      "author": "mruby",
+      "name": "mruby",
+      "href": "https://github.com/mruby/mruby",
+      "description": "Lightweight Ruby",
+      "language": "C",
+      "stars": 3834,
+      "forks": 592
+    },
+    {
+      "author": "taviso",
+      "name": "loadlibrary",
+      "href": "https://github.com/taviso/loadlibrary",
+      "description": "Porting Windows Dynamic Link Libraries to Linux",
+      "language": "C",
+      "stars": 2027,
+      "forks": 123
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10194,
+      "forks": 2085
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3695,
+      "forks": 1620
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 7466,
+      "forks": 3244
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2880,
+      "forks": 1327
+    }
+  ]
+}
