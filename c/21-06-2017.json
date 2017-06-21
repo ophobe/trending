@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "systemd",
+      "name": "casync",
+      "href": "https://github.com/systemd/casync",
+      "description": "Content-Addressable Data Synchronization Tool",
+      "language": "C",
+      "stars": 210,
+      "forks": 16
+    },
+    {
+      "author": "DhavalKapil",
+      "name": "libdheap",
+      "href": "https://github.com/DhavalKapil/libdheap",
+      "description": "A shared (dynamic) library that can be transparently injected into different processes to detect memory corruption in glibc heap",
+      "language": "C",
+      "stars": 78,
+      "forks": 8
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "html5-parser",
+      "href": "https://github.com/kovidgoyal/html5-parser",
+      "description": "Fast C based HTML 5 parsing for python",
+      "language": "C",
+      "stars": 424,
+      "forks": 10
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 46177,
+      "forks": 17431
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 2827,
+      "forks": 294
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18002,
+      "forks": 10185
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10210,
+      "forks": 2091
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21859,
+      "forks": 1733
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7457,
+      "forks": 3550
+    },
+    {
+      "author": "cisco",
+      "name": "joy",
+      "href": "https://github.com/cisco/joy",
+      "description": "A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring.",
+      "language": "C",
+      "stars": 279,
+      "forks": 62
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23921,
+      "forks": 9055
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 4765,
+      "forks": 515
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6856,
+      "forks": 541
+    },
+    {
+      "author": "nodejs",
+      "name": "http-parser",
+      "href": "https://github.com/nodejs/http-parser",
+      "description": "http request/response parser for c",
+      "language": "C",
+      "stars": 3305,
+      "forks": 913
+    },
+    {
+      "author": "wtay",
+      "name": "pipewire",
+      "href": "https://github.com/wtay/pipewire",
+      "description": null,
+      "language": "C",
+      "stars": 24,
+      "forks": 0
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2892,
+      "forks": 1332
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12421,
+      "forks": 1503
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6097,
+      "forks": 1715
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12165,
+      "forks": 4104
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6762,
+      "forks": 1121
+    },
+    {
+      "author": "arut",
+      "name": "nginx-rtmp-module",
+      "href": "https://github.com/arut/nginx-rtmp-module",
+      "description": "NGINX-based Media Streaming Server",
+      "language": "C",
+      "stars": 5048,
+      "forks": 1539
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 9102,
+      "forks": 511
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9366,
+      "forks": 1143
+    },
+    {
+      "author": "youzan",
+      "name": "zan",
+      "href": "https://github.com/youzan/zan",
+      "description": "高效稳定、安全易用、线上实时验证的全异步高性能网络库，通过PHP扩展方式使用。",
+      "language": "C",
+      "stars": 138,
+      "forks": 9
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 3596,
+      "forks": 588
+    }
+  ]
+}
