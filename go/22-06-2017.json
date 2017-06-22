@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 17945,
+      "forks": 2501
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 1923,
+      "forks": 163
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 3627,
+      "forks": 207
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24244,
+      "forks": 8597
+    },
+    {
+      "author": "farmerx",
+      "name": "ElasticHD",
+      "href": "https://github.com/farmerx/ElasticHD",
+      "description": "Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等",
+      "language": "Go",
+      "stars": 350,
+      "forks": 68
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5215,
+      "forks": 1621
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go",
+      "language": "Go",
+      "stars": 705,
+      "forks": 61
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29132,
+      "forks": 3914
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21555,
+      "forks": 2711
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 23726,
+      "forks": 5991
+    },
+    {
+      "author": "open-falcon",
+      "name": "falcon-plus",
+      "href": "https://github.com/open-falcon/falcon-plus",
+      "description": "An open-source and enterprise-level monitoring system.",
+      "language": "Go",
+      "stars": 1239,
+      "forks": 231
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44246,
+      "forks": 13131
+    },
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "href": "https://github.com/aquasecurity/kube-bench",
+      "description": "The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices",
+      "language": "Go",
+      "stars": 60,
+      "forks": 1
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 5231,
+      "forks": 841
+    },
+    {
+      "author": "lafikl",
+      "name": "liblb",
+      "href": "https://github.com/lafikl/liblb",
+      "description": "A golang library that implements load balancing algorithms.",
+      "language": "Go",
+      "stars": 163,
+      "forks": 7
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16483,
+      "forks": 5169
+    },
+    {
+      "author": "gobuffalo",
+      "name": "packr",
+      "href": "https://github.com/gobuffalo/packr",
+      "description": "The simple and easy way to embed static files into Go binaries.",
+      "language": "Go",
+      "stars": 57,
+      "forks": 5
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19640,
+      "forks": 2240
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13833,
+      "forks": 2650
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 8670,
+      "forks": 1158
+    },
+    {
+      "author": "apex",
+      "name": "apex",
+      "href": "https://github.com/apex/apex",
+      "description": "Build, deploy, and manage AWS Lambda functions with ease (with Go support!).",
+      "language": "Go",
+      "stars": 5565,
+      "forks": 331
+    },
+    {
+      "author": "go-macaron",
+      "name": "macaron",
+      "href": "https://github.com/go-macaron/macaron",
+      "description": "Package macaron is a high productive and modular web framework in Go.",
+      "language": "Go",
+      "stars": 1816,
+      "forks": 169
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 8695,
+      "forks": 3303
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16475,
+      "forks": 2748
+    },
+    {
+      "author": "rqlite",
+      "name": "rqlite",
+      "href": "https://github.com/rqlite/rqlite",
+      "description": "The lightweight, distributed relational database built on SQLite.",
+      "language": "Go",
+      "stars": 2870,
+      "forks": 138
+    }
+  ]
+}
