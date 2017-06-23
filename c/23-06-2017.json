@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 46242,
+      "forks": 17442
+    },
+    {
+      "author": "NationalSecurityAgency",
+      "name": "DCP",
+      "href": "https://github.com/NationalSecurityAgency/DCP",
+      "description": "Digest, stat, and copy files from one location to another in the same read pass",
+      "language": "C",
+      "stars": 120,
+      "forks": 40
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 21902,
+      "forks": 1733
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18029,
+      "forks": 10208
+    },
+    {
+      "author": "youzan",
+      "name": "zan",
+      "href": "https://github.com/youzan/zan",
+      "description": "高效稳定、安全易用、线上实时验证的全异步高性能网络库，通过PHP扩展方式使用。",
+      "language": "C",
+      "stars": 183,
+      "forks": 17
+    },
+    {
+      "author": "Morgan-Stanley",
+      "name": "hobbes",
+      "href": "https://github.com/Morgan-Stanley/hobbes",
+      "description": "A language and an embedded JIT compiler",
+      "language": "C",
+      "stars": 59,
+      "forks": 4
+    },
+    {
+      "author": "lh3",
+      "name": "ksw2",
+      "href": "https://github.com/lh3/ksw2",
+      "description": "Global alignment and alignment extension",
+      "language": "C",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 23952,
+      "forks": 9071
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6125,
+      "forks": 1721
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12195,
+      "forks": 4110
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "html5-parser",
+      "href": "https://github.com/kovidgoyal/html5-parser",
+      "description": "Fast C based HTML 5 parsing for python",
+      "language": "C",
+      "stars": 462,
+      "forks": 10
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 2875,
+      "forks": 301
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10240,
+      "forks": 2102
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12574,
+      "forks": 866
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 13829,
+      "forks": 4187
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2913,
+      "forks": 1345
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9388,
+      "forks": 1141
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7477,
+      "forks": 3556
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 1370,
+      "forks": 67
+    },
+    {
+      "author": "systemd",
+      "name": "casync",
+      "href": "https://github.com/systemd/casync",
+      "description": "Content-Addressable Data Synchronization Tool",
+      "language": "C",
+      "stars": 281,
+      "forks": 22
+    },
+    {
+      "author": "OpenVPN",
+      "name": "openvpn",
+      "href": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "stars": 1690,
+      "forks": 698
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 9127,
+      "forks": 513
+    },
+    {
+      "author": "zdevito",
+      "name": "ATen",
+      "href": "https://github.com/zdevito/ATen",
+      "description": "ATen: A TENsor library for C++11",
+      "language": "C",
+      "stars": 24,
+      "forks": 5
+    },
+    {
+      "author": "symless",
+      "name": "synergy",
+      "href": "https://github.com/symless/synergy",
+      "description": "Share one mouse and keyboard between multiple computers",
+      "language": "C",
+      "stars": 4917,
+      "forks": 1101
+    },
+    {
+      "author": "mabeijianxi",
+      "name": "small-video-record",
+      "href": "https://github.com/mabeijianxi/small-video-record",
+      "description": "利用FFmpeg视频录制微信小视频与其压缩处理",
+      "language": "C",
+      "stars": 712,
+      "forks": 160
+    }
+  ]
+}
