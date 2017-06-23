@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "fogleman",
+      "name": "pack3d",
+      "href": "https://github.com/fogleman/pack3d",
+      "description": "Tightly pack 3D models.",
+      "language": "Go",
+      "stars": 113,
+      "forks": 2
+    },
+    {
+      "author": "bradfitz",
+      "name": "tcpproxy",
+      "href": "https://github.com/bradfitz/tcpproxy",
+      "description": "Go package for writing TCP proxies, routing based on HTTP Host headers and SNI server names.",
+      "language": "Go",
+      "stars": 73,
+      "forks": 3
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 3670,
+      "forks": 207
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24277,
+      "forks": 8609
+    },
+    {
+      "author": "farmerx",
+      "name": "ElasticHD",
+      "href": "https://github.com/farmerx/ElasticHD",
+      "description": "Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等",
+      "language": "Go",
+      "stars": 389,
+      "forks": 70
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29164,
+      "forks": 3918
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 3552,
+      "forks": 139
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 17980,
+      "forks": 2505
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5248,
+      "forks": 1627
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 1949,
+      "forks": 167
+    },
+    {
+      "author": "jcmturner",
+      "name": "gokrb5",
+      "href": "https://github.com/jcmturner/gokrb5",
+      "description": "Native golang library for clients and services to work with Kerberos authentication",
+      "language": "Go",
+      "stars": 64,
+      "forks": 6
+    },
+    {
+      "author": "gobuffalo",
+      "name": "packr",
+      "href": "https://github.com/gobuffalo/packr",
+      "description": "The simple and easy way to embed static files into Go binaries.",
+      "language": "Go",
+      "stars": 85,
+      "forks": 5
+    },
+    {
+      "author": "rs",
+      "name": "zerolog",
+      "href": "https://github.com/rs/zerolog",
+      "description": "Zero Allocation JSON Logger",
+      "language": "Go",
+      "stars": 303,
+      "forks": 10
+    },
+    {
+      "author": "go-macaron",
+      "name": "macaron",
+      "href": "https://github.com/go-macaron/macaron",
+      "description": "Package macaron is a high productive and modular web framework in Go.",
+      "language": "Go",
+      "stars": 1840,
+      "forks": 169
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10020,
+      "forks": 1140
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44264,
+      "forks": 13136
+    },
+    {
+      "author": "kshvmdn",
+      "name": "fsql",
+      "href": "https://github.com/kshvmdn/fsql",
+      "description": "Search through your filesystem with SQL-esque queries.",
+      "language": "Go",
+      "stars": 3362,
+      "forks": 96
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21578,
+      "forks": 2712
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go",
+      "language": "Go",
+      "stars": 727,
+      "forks": 62
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16499,
+      "forks": 5177
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19660,
+      "forks": 2243
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10166,
+      "forks": 1116
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 3710,
+      "forks": 640
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Sample code, build and tests and governance material for the Istio project.",
+      "language": "Go",
+      "stars": 2179,
+      "forks": 163
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go入门指南》",
+      "language": "Go",
+      "stars": 5406,
+      "forks": 1937
+    }
+  ]
+}
