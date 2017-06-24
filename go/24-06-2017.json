@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nuveo",
+      "name": "prest",
+      "href": "https://github.com/nuveo/prest",
+      "description": "A fully RESTful API from any existing PostgreSQL database written in Go",
+      "language": "Go",
+      "stars": 901,
+      "forks": 29
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5289,
+      "forks": 1636
+    },
+    {
+      "author": "bradfitz",
+      "name": "tcpproxy",
+      "href": "https://github.com/bradfitz/tcpproxy",
+      "description": "Go package for writing TCP proxies, routing based on HTTP Host headers and SNI server names.",
+      "language": "Go",
+      "stars": 115,
+      "forks": 3
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24295,
+      "forks": 8620
+    },
+    {
+      "author": "rqlite",
+      "name": "rqlite",
+      "href": "https://github.com/rqlite/rqlite",
+      "description": "The lightweight, distributed relational database built on SQLite.",
+      "language": "Go",
+      "stars": 2907,
+      "forks": 141
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 3687,
+      "forks": 208
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21591,
+      "forks": 2717
+    },
+    {
+      "author": "lafikl",
+      "name": "liblb",
+      "href": "https://github.com/lafikl/liblb",
+      "description": "A golang library that implements load balancing algorithms.",
+      "language": "Go",
+      "stars": 191,
+      "forks": 7
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29180,
+      "forks": 3920
+    },
+    {
+      "author": "fogleman",
+      "name": "pack3d",
+      "href": "https://github.com/fogleman/pack3d",
+      "description": "Tightly pack 3D models.",
+      "language": "Go",
+      "stars": 131,
+      "forks": 4
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44276,
+      "forks": 13139
+    },
+    {
+      "author": "gobuffalo",
+      "name": "packr",
+      "href": "https://github.com/gobuffalo/packr",
+      "description": "The simple and easy way to embed static files into Go binaries.",
+      "language": "Go",
+      "stars": 101,
+      "forks": 6
+    },
+    {
+      "author": "fogleman",
+      "name": "pt",
+      "href": "https://github.com/fogleman/pt",
+      "description": "A path tracer written in Go.",
+      "language": "Go",
+      "stars": 1401,
+      "forks": 66
+    },
+    {
+      "author": "hajimehoshi",
+      "name": "go-mp3",
+      "href": "https://github.com/hajimehoshi/go-mp3",
+      "description": "An MP3 decoder in pure Go",
+      "language": "Go",
+      "stars": 162,
+      "forks": 4
+    },
+    {
+      "author": "go-macaron",
+      "name": "macaron",
+      "href": "https://github.com/go-macaron/macaron",
+      "description": "Package macaron is a high productive and modular web framework in Go.",
+      "language": "Go",
+      "stars": 1857,
+      "forks": 171
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 3566,
+      "forks": 139
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 17993,
+      "forks": 2505
+    },
+    {
+      "author": "rs",
+      "name": "zerolog",
+      "href": "https://github.com/rs/zerolog",
+      "description": "Zero Allocation JSON Logger",
+      "language": "Go",
+      "stars": 316,
+      "forks": 10
+    },
+    {
+      "author": "bitnami",
+      "name": "sealed-secrets",
+      "href": "https://github.com/bitnami/sealed-secrets",
+      "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+      "language": "Go",
+      "stars": 31,
+      "forks": 4
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 5254,
+      "forks": 846
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 10887,
+      "forks": 1549
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "href": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP and REST client for Go inspired by Ruby rest-client",
+      "language": "Go",
+      "stars": 519,
+      "forks": 54
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12745,
+      "forks": 858
+    },
+    {
+      "author": "apex",
+      "name": "apex",
+      "href": "https://github.com/apex/apex",
+      "description": "Build, deploy, and manage AWS Lambda functions with ease (with Go support!).",
+      "language": "Go",
+      "stars": 5587,
+      "forks": 332
+    },
+    {
+      "author": "NebulousLabs",
+      "name": "Sia",
+      "href": "https://github.com/NebulousLabs/Sia",
+      "description": "Blockchain-based marketplace for file storage",
+      "language": "Go",
+      "stars": 1163,
+      "forks": 148
+    }
+  ]
+}
