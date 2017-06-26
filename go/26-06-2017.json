@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fastest key-value store in Go.",
+      "language": "Go",
+      "stars": 1890,
+      "forks": 73
+    },
+    {
+      "author": "axiomhq",
+      "name": "hyperloglog",
+      "href": "https://github.com/axiomhq/hyperloglog",
+      "description": "HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction)",
+      "language": "Go",
+      "stars": 189,
+      "forks": 4
+    },
+    {
+      "author": "nuveo",
+      "name": "prest",
+      "href": "https://github.com/nuveo/prest",
+      "description": "A fully RESTful API from any existing PostgreSQL database written in Go",
+      "language": "Go",
+      "stars": 1143,
+      "forks": 37
+    },
+    {
+      "author": "manifoldco",
+      "name": "torus-cli",
+      "href": "https://github.com/manifoldco/torus-cli",
+      "description": "A secure, shared workspace for secrets",
+      "language": "Go",
+      "stars": 356,
+      "forks": 22
+    },
+    {
+      "author": "qiniu",
+      "name": "logkit",
+      "href": "https://github.com/qiniu/logkit",
+      "description": null,
+      "language": "Go",
+      "stars": 57,
+      "forks": 11
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5352,
+      "forks": 1650
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29230,
+      "forks": 3933
+    },
+    {
+      "author": "bradfitz",
+      "name": "tcpproxy",
+      "href": "https://github.com/bradfitz/tcpproxy",
+      "description": "Go package for writing TCP proxies, routing based on HTTP Host headers and SNI server names.",
+      "language": "Go",
+      "stars": 166,
+      "forks": 3
+    },
+    {
+      "author": "fortytw2",
+      "name": "leaktest",
+      "href": "https://github.com/fortytw2/leaktest",
+      "description": "Goroutine Leak Detector",
+      "language": "Go",
+      "stars": 384,
+      "forks": 11
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24333,
+      "forks": 8640
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21638,
+      "forks": 2722
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 3372,
+      "forks": 169
+    },
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "href": "https://github.com/aquasecurity/kube-bench",
+      "description": "The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices",
+      "language": "Go",
+      "stars": 107,
+      "forks": 1
+    },
+    {
+      "author": "casbin",
+      "name": "casbin",
+      "href": "https://github.com/casbin/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC",
+      "language": "Go",
+      "stars": 934,
+      "forks": 82
+    },
+    {
+      "author": "docker-slim",
+      "name": "docker-slim",
+      "href": "https://github.com/docker-slim/docker-slim",
+      "description": "DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)",
+      "language": "Go",
+      "stars": 923,
+      "forks": 37
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 9646,
+      "forks": 1239
+    },
+    {
+      "author": "lafikl",
+      "name": "liblb",
+      "href": "https://github.com/lafikl/liblb",
+      "description": "A golang library that implements load balancing algorithms.",
+      "language": "Go",
+      "stars": 228,
+      "forks": 9
+    },
+    {
+      "author": "gopherchina",
+      "name": "meetup",
+      "href": "https://github.com/gopherchina/meetup",
+      "description": "meetup in China",
+      "language": "Go",
+      "stars": 183,
+      "forks": 51
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18039,
+      "forks": 2508
+    },
+    {
+      "author": "bitnami",
+      "name": "sealed-secrets",
+      "href": "https://github.com/bitnami/sealed-secrets",
+      "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+      "language": "Go",
+      "stars": 79,
+      "forks": 4
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19694,
+      "forks": 2248
+    },
+    {
+      "author": "farmerx",
+      "name": "ElasticHD",
+      "href": "https://github.com/farmerx/ElasticHD",
+      "description": "Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等",
+      "language": "Go",
+      "stars": 421,
+      "forks": 77
+    },
+    {
+      "author": "mundipagg",
+      "name": "boleto-api",
+      "href": "https://github.com/mundipagg/boleto-api",
+      "description": "Uma API de Boletos para todos os boletos dominar !",
+      "language": "Go",
+      "stars": 51,
+      "forks": 3
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 5282,
+      "forks": 852
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "[ACQUIRED] The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.",
+      "language": "Go",
+      "stars": 7030,
+      "forks": 652
+    }
+  ]
+}
