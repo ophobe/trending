@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24404,
+      "forks": 8672
+    },
+    {
+      "author": "axiomhq",
+      "name": "hyperloglog",
+      "href": "https://github.com/axiomhq/hyperloglog",
+      "description": "HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction)",
+      "language": "Go",
+      "stars": 415,
+      "forks": 11
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29288,
+      "forks": 3943
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5423,
+      "forks": 1668
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 9382,
+      "forks": 375
+    },
+    {
+      "author": "google",
+      "name": "trillian",
+      "href": "https://github.com/google/trillian",
+      "description": "Trillian implements a Merkle tree whose contents are served from a data storage layer, to allow scalability to extremely large trees.",
+      "language": "Go",
+      "stars": 520,
+      "forks": 78
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 16440,
+      "forks": 1289
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18085,
+      "forks": 2519
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21690,
+      "forks": 2727
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44339,
+      "forks": 13157
+    },
+    {
+      "author": "github",
+      "name": "gh-ost",
+      "href": "https://github.com/github/gh-ost",
+      "description": "GitHub's Online Schema Migrations for MySQL",
+      "language": "Go",
+      "stars": 2639,
+      "forks": 186
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 5324,
+      "forks": 862
+    },
+    {
+      "author": "nuveo",
+      "name": "prest",
+      "href": "https://github.com/nuveo/prest",
+      "description": "A fully RESTful API from any existing PostgreSQL database written in Go",
+      "language": "Go",
+      "stars": 1203,
+      "forks": 38
+    },
+    {
+      "author": "christophberger",
+      "name": "goman",
+      "href": "https://github.com/christophberger/goman",
+      "description": null,
+      "language": "Go",
+      "stars": 38,
+      "forks": 0
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19746,
+      "forks": 2256
+    },
+    {
+      "author": "unixpickle",
+      "name": "muniverse",
+      "href": "https://github.com/unixpickle/muniverse",
+      "description": "µniverse: RL environments for HTML5 games",
+      "language": "Go",
+      "stars": 195,
+      "forks": 5
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 9691,
+      "forks": 1242
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10237,
+      "forks": 1120
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13887,
+      "forks": 2674
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16563,
+      "forks": 2759
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A pluggable RPC framework for microservices",
+      "language": "Go",
+      "stars": 2103,
+      "forks": 212
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "govanityurls",
+      "href": "https://github.com/GoogleCloudPlatform/govanityurls",
+      "description": "Use a custom domain in your Go import path",
+      "language": "Go",
+      "stars": 52,
+      "forks": 3
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fastest key-value store in Go.",
+      "language": "Go",
+      "stars": 1981,
+      "forks": 77
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 4598,
+      "forks": 371
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10066,
+      "forks": 1146
+    }
+  ]
+}
