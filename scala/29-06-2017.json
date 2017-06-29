@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 13325,
+      "forks": 12577
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 1620,
+      "forks": 354
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch",
+      "language": "Scala",
+      "stars": 3422,
+      "forks": 799
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7294,
+      "forks": 2307
+    },
+    {
+      "author": "mdedetrich",
+      "name": "scalajson",
+      "href": "https://github.com/mdedetrich/scalajson",
+      "description": "ScalaJSON - JSON for Scala, currently contains minimal AST",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 4
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-native-packager",
+      "href": "https://github.com/sbt/sbt-native-packager",
+      "description": "SBT Native Packager",
+      "language": "Scala",
+      "stars": 842,
+      "forks": 291
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-rest-api-example",
+      "href": "https://github.com/playframework/play-scala-rest-api-example",
+      "description": "Example Play Scala application showing REST API",
+      "language": "Scala",
+      "stars": 83,
+      "forks": 36
+    },
+    {
+      "author": "aishfenton",
+      "name": "Argus",
+      "href": "https://github.com/aishfenton/Argus",
+      "description": "Builds models from JSON Schemas",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 8
+    },
+    {
+      "author": "sbt",
+      "name": "zinc",
+      "href": "https://github.com/sbt/zinc",
+      "description": "Scala incremental compiler library, originally part of sbt",
+      "language": "Scala",
+      "stars": 76,
+      "forks": 33
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1397,
+      "forks": 268
+    },
+    {
+      "author": "monix",
+      "name": "monix",
+      "href": "https://github.com/monix/monix",
+      "description": "Asynchronous, Reactive Programming for Scala and Scala.js.",
+      "language": "Scala",
+      "stars": 805,
+      "forks": 77
+    },
+    {
+      "author": "Stratio",
+      "name": "common-utils",
+      "href": "https://github.com/Stratio/common-utils",
+      "description": "Stratio's common utlities",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 13
+    },
+    {
+      "author": "vkostyukov",
+      "name": "scalacaster",
+      "href": "https://github.com/vkostyukov/scalacaster",
+      "description": "Purely Functional Algorithms and Data Structures in Scala",
+      "language": "Scala",
+      "stars": 847,
+      "forks": 217
+    },
+    {
+      "author": "pureconfig",
+      "name": "pureconfig",
+      "href": "https://github.com/pureconfig/pureconfig",
+      "description": "A boilerplate-free library for loading configuration files",
+      "language": "Scala",
+      "stars": 388,
+      "forks": 47
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle-pprint",
+      "href": "https://github.com/lihaoyi/upickle-pprint",
+      "description": "Combined repository for uPickle/PPrint",
+      "language": "Scala",
+      "stars": 288,
+      "forks": 78
+    },
+    {
+      "author": "sramirez",
+      "name": "spark-infotheoretic-feature-selection",
+      "href": "https://github.com/sramirez/spark-infotheoretic-feature-selection",
+      "description": "This package contains a generic implementation of greedy Information Theoretic Feature Selection (FS) methods. The implementation is based on the common theoretic framework presented by Gavin Brown. Implementations of mRMR, InfoGain, JMI and other commonly used FS filters are provided.",
+      "language": "Scala",
+      "stars": 61,
+      "forks": 20
+    },
+    {
+      "author": "alexarchambault",
+      "name": "jupyter-scala",
+      "href": "https://github.com/alexarchambault/jupyter-scala",
+      "description": "Lightweight Scala kernel for Jupyter / IPython 3",
+      "language": "Scala",
+      "stars": 544,
+      "forks": 68
+    },
+    {
+      "author": "typesafehub",
+      "name": "scala-logging",
+      "href": "https://github.com/typesafehub/scala-logging",
+      "description": "Convenient and performant logging library for Scala wrapping SLF4J.",
+      "language": "Scala",
+      "stars": 426,
+      "forks": 65
+    },
+    {
+      "author": "saurfang",
+      "name": "spark-knn",
+      "href": "https://github.com/saurfang/spark-knn",
+      "description": "k-Nearest Neighbors algorithm on Spark",
+      "language": "Scala",
+      "stars": 67,
+      "forks": 36
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10254,
+      "forks": 1671
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9482,
+      "forks": 3261
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8447,
+      "forks": 2124
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 7914,
+      "forks": 4085
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 6417,
+      "forks": 824
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 5790,
+      "forks": 1085
+    }
+  ]
+}
