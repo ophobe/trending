@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "campoy",
+      "name": "go-tooling-workshop",
+      "href": "https://github.com/campoy/go-tooling-workshop",
+      "description": "A workshop covering all the tools gophers use in their day to day life",
+      "language": "Go",
+      "stars": 449,
+      "forks": 21
+    },
+    {
+      "author": "volatiletech",
+      "name": "abcweb",
+      "href": "https://github.com/volatiletech/abcweb",
+      "description": "Go web app framework and generator. Inspired by Rails.",
+      "language": "Go",
+      "stars": 148,
+      "forks": 5
+    },
+    {
+      "author": "galeone",
+      "name": "tfgo",
+      "href": "https://github.com/galeone/tfgo",
+      "description": "Tensorflow + Go, the gopher way",
+      "language": "Go",
+      "stars": 348,
+      "forks": 11
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fastest key-value store in Go.",
+      "language": "Go",
+      "stars": 2048,
+      "forks": 78
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5508,
+      "forks": 1695
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29389,
+      "forks": 3958
+    },
+    {
+      "author": "goreleaser",
+      "name": "goreleaser",
+      "href": "https://github.com/goreleaser/goreleaser",
+      "description": "Deliver Go binaries as fast and easily as possible",
+      "language": "Go",
+      "stars": 993,
+      "forks": 44
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 23948,
+      "forks": 6027
+    },
+    {
+      "author": "marianogappa",
+      "name": "chart",
+      "href": "https://github.com/marianogappa/chart",
+      "description": "Quick & smart charting for STDIN",
+      "language": "Go",
+      "stars": 192,
+      "forks": 5
+    },
+    {
+      "author": "teambition",
+      "name": "gear",
+      "href": "https://github.com/teambition/gear",
+      "description": "A lightweight, composable and high performance web service framework for Go.",
+      "language": "Go",
+      "stars": 330,
+      "forks": 36
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24496,
+      "forks": 8696
+    },
+    {
+      "author": "kubeless",
+      "name": "kubeless",
+      "href": "https://github.com/kubeless/kubeless",
+      "description": "Kubernetes Native Serverless Framework",
+      "language": "Go",
+      "stars": 533,
+      "forks": 51
+    },
+    {
+      "author": "garethr",
+      "name": "kubeval",
+      "href": "https://github.com/garethr/kubeval",
+      "description": "Validate your Kubernetes configuration files, supports multiple Kubernetes versions",
+      "language": "Go",
+      "stars": 76,
+      "forks": 4
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 10538,
+      "forks": 1226
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 786,
+      "forks": 72
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21752,
+      "forks": 2734
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19796,
+      "forks": 2264
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 8648,
+      "forks": 785
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "href": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go 1.7+ HTTP services",
+      "language": "Go",
+      "stars": 2123,
+      "forks": 135
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 7303,
+      "forks": 541
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16613,
+      "forks": 5198
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18141,
+      "forks": 2522
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16607,
+      "forks": 2766
+    },
+    {
+      "author": "gobuffalo",
+      "name": "buffalo",
+      "href": "https://github.com/gobuffalo/buffalo",
+      "description": "Rapid Web Development w/ Go",
+      "language": "Go",
+      "stars": 1387,
+      "forks": 92
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12829,
+      "forks": 868
+    }
+  ]
+}
