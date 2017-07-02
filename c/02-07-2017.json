@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mortdeus",
+      "name": "legacy-cc",
+      "href": "https://github.com/mortdeus/legacy-cc",
+      "description": "The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.",
+      "language": "C",
+      "stars": 1748,
+      "forks": 201
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 46474,
+      "forks": 17544
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12263,
+      "forks": 4133
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 4838,
+      "forks": 1163
+    },
+    {
+      "author": "metal-crow",
+      "name": "Dark-Souls-PvP-AI",
+      "href": "https://github.com/metal-crow/Dark-Souls-PvP-AI",
+      "description": "AI for playing (and winning) in dark souls pvp",
+      "language": "C",
+      "stars": 161,
+      "forks": 16
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24092,
+      "forks": 9125
+    },
+    {
+      "author": "travisgoodspeed",
+      "name": "md380tools",
+      "href": "https://github.com/travisgoodspeed/md380tools",
+      "description": "Python tools and patched firmware for the TYT-MD380",
+      "language": "C",
+      "stars": 401,
+      "forks": 139
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 1542,
+      "forks": 75
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 22056,
+      "forks": 1755
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18127,
+      "forks": 10268
+    },
+    {
+      "author": "tobegit3hub",
+      "name": "miniflow",
+      "href": "https://github.com/tobegit3hub/miniflow",
+      "description": "Minimal numerical computation library with TensorFlow APIs",
+      "language": "C",
+      "stars": 45,
+      "forks": 4
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6953,
+      "forks": 549
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 5729,
+      "forks": 763
+    },
+    {
+      "author": "SirCmpwn",
+      "name": "sway",
+      "href": "https://github.com/SirCmpwn/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 2548,
+      "forks": 153
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10339,
+      "forks": 2121
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 12671,
+      "forks": 1000
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 3079,
+      "forks": 333
+    },
+    {
+      "author": "symless",
+      "name": "synergy",
+      "href": "https://github.com/symless/synergy",
+      "description": "Share one mouse and keyboard between multiple computers",
+      "language": "C",
+      "stars": 4957,
+      "forks": 1115
+    },
+    {
+      "author": "torch",
+      "name": "torch7",
+      "href": "https://github.com/torch/torch7",
+      "description": "http://torch.ch",
+      "language": "C",
+      "stars": 7045,
+      "forks": 2095
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6563,
+      "forks": 1557
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5070,
+      "forks": 3249
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5277,
+      "forks": 1745
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 3888,
+      "forks": 939
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform system automation",
+      "language": "C",
+      "stars": 1859,
+      "forks": 131
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 1254,
+      "forks": 1800
+    }
+  ]
+}
