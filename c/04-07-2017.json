@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 46546,
+      "forks": 17565
+    },
+    {
+      "author": "m3liot",
+      "name": "filewatcher",
+      "href": "https://github.com/m3liot/filewatcher",
+      "description": "A simple auditing utility for macOS",
+      "language": "C",
+      "stars": 55,
+      "forks": 11
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 22112,
+      "forks": 1762
+    },
+    {
+      "author": "dryman",
+      "name": "opic",
+      "href": "https://github.com/dryman/opic",
+      "description": "Fast serialization framework for C",
+      "language": "C",
+      "stars": 138,
+      "forks": 12
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18150,
+      "forks": 10283
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 3112,
+      "forks": 342
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24117,
+      "forks": 9138
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 12707,
+      "forks": 1002
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 1576,
+      "forks": 78
+    },
+    {
+      "author": "julycoding",
+      "name": "The-Art-Of-Programming-By-July",
+      "href": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+      "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+      "language": "C",
+      "stars": 10874,
+      "forks": 4960
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 4866,
+      "forks": 1169
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "systemd System and Service Manager",
+      "language": "C",
+      "stars": 2003,
+      "forks": 853
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 6866,
+      "forks": 1143
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10356,
+      "forks": 2129
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 6976,
+      "forks": 548
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 2994,
+      "forks": 1399
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 4977,
+      "forks": 2556
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 5518,
+      "forks": 741
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12664,
+      "forks": 866
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6587,
+      "forks": 1560
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12321,
+      "forks": 4138
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7586,
+      "forks": 3591
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 3652,
+      "forks": 604
+    },
+    {
+      "author": "mortdeus",
+      "name": "legacy-cc",
+      "href": "https://github.com/mortdeus/legacy-cc",
+      "description": "The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.",
+      "language": "C",
+      "stars": 1845,
+      "forks": 209
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3775,
+      "forks": 1657
+    }
+  ]
+}
