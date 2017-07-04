@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tj",
+      "name": "gh-polls",
+      "href": "https://github.com/tj/gh-polls",
+      "description": "Polls for GitHub issues and readmes",
+      "language": "Go",
+      "stars": 548,
+      "forks": 24
+    },
+    {
+      "author": "elves",
+      "name": "elvish",
+      "href": "https://github.com/elves/elvish",
+      "description": "Friendly and expressive Unix shell",
+      "language": "Go",
+      "stars": 2033,
+      "forks": 117
+    },
+    {
+      "author": "evilsocket",
+      "name": "dnssearch",
+      "href": "https://github.com/evilsocket/dnssearch",
+      "description": "A subdomain enumeration tool.",
+      "language": "Go",
+      "stars": 529,
+      "forks": 57
+    },
+    {
+      "author": "malisit",
+      "name": "kolpa",
+      "href": "https://github.com/malisit/kolpa",
+      "description": "A fake data generator written in and for Go",
+      "language": "Go",
+      "stars": 132,
+      "forks": 2
+    },
+    {
+      "author": "campoy",
+      "name": "go-tooling-workshop",
+      "href": "https://github.com/campoy/go-tooling-workshop",
+      "description": "A workshop covering all the tools gophers use in their day to day life",
+      "language": "Go",
+      "stars": 863,
+      "forks": 35
+    },
+    {
+      "author": "mvdan",
+      "name": "goreduce",
+      "href": "https://github.com/mvdan/goreduce",
+      "description": "Reduce Go programs",
+      "language": "Go",
+      "stars": 97,
+      "forks": 1
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29493,
+      "forks": 3965
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24581,
+      "forks": 8727
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5595,
+      "forks": 1716
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19855,
+      "forks": 2273
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 24025,
+      "forks": 6037
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21815,
+      "forks": 2744
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16675,
+      "forks": 5203
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10348,
+      "forks": 1135
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18190,
+      "forks": 2529
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44422,
+      "forks": 13168
+    },
+    {
+      "author": "goreleaser",
+      "name": "goreleaser",
+      "href": "https://github.com/goreleaser/goreleaser",
+      "description": "Deliver Go binaries as fast and easily as possible",
+      "language": "Go",
+      "stars": 1100,
+      "forks": 46
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 9458,
+      "forks": 375
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16646,
+      "forks": 2775
+    },
+    {
+      "author": "oracle",
+      "name": "smith",
+      "href": "https://github.com/oracle/smith",
+      "description": "Smith: A microcontainer builder",
+      "language": "Go",
+      "stars": 83,
+      "forks": 4
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10162,
+      "forks": 1157
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 8683,
+      "forks": 788
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 11454,
+      "forks": 2655
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 10594,
+      "forks": 1230
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 7334,
+      "forks": 545
+    }
+  ]
+}
