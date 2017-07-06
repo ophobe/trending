@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "campoy",
+      "name": "go-tooling-workshop",
+      "href": "https://github.com/campoy/go-tooling-workshop",
+      "description": "A workshop covering all the tools gophers use in their day to day life",
+      "language": "Go",
+      "stars": 1040,
+      "forks": 41
+    },
+    {
+      "author": "elves",
+      "name": "elvish",
+      "href": "https://github.com/elves/elvish",
+      "description": "Friendly and expressive Unix shell",
+      "language": "Go",
+      "stars": 2364,
+      "forks": 126
+    },
+    {
+      "author": "tidwall",
+      "name": "shiny",
+      "href": "https://github.com/tidwall/shiny",
+      "description": "Alternative server framework for Go using I/O multiplexing",
+      "language": "Go",
+      "stars": 186,
+      "forks": 6
+    },
+    {
+      "author": "tj",
+      "name": "gh-polls",
+      "href": "https://github.com/tj/gh-polls",
+      "description": "Polls for GitHub issues and readmes",
+      "language": "Go",
+      "stars": 824,
+      "forks": 32
+    },
+    {
+      "author": "malisit",
+      "name": "kolpa",
+      "href": "https://github.com/malisit/kolpa",
+      "description": "A fake data generator written in and for Go",
+      "language": "Go",
+      "stars": 399,
+      "forks": 14
+    },
+    {
+      "author": "oracle",
+      "name": "smith",
+      "href": "https://github.com/oracle/smith",
+      "description": "Smith: A microcontainer builder",
+      "language": "Go",
+      "stars": 156,
+      "forks": 6
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29581,
+      "forks": 3979
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24662,
+      "forks": 8747
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fastest key-value store in Go.",
+      "language": "Go",
+      "stars": 2139,
+      "forks": 80
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5678,
+      "forks": 1737
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 24095,
+      "forks": 6044
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16721,
+      "forks": 5216
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 21863,
+      "forks": 2752
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 12895,
+      "forks": 877
+    },
+    {
+      "author": "goreleaser",
+      "name": "goreleaser",
+      "href": "https://github.com/goreleaser/goreleaser",
+      "description": "Deliver Go binaries as fast and easily as possible",
+      "language": "Go",
+      "stars": 1152,
+      "forks": 48
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 10641,
+      "forks": 1237
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 13975,
+      "forks": 2698
+    },
+    {
+      "author": "vmware",
+      "name": "harbor",
+      "href": "https://github.com/vmware/harbor",
+      "description": "An enterprise-class container registry server based on Docker Distribution",
+      "language": "Go",
+      "stars": 2393,
+      "forks": 680
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10402,
+      "forks": 1141
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44464,
+      "forks": 13176
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19894,
+      "forks": 2275
+    },
+    {
+      "author": "marianogappa",
+      "name": "chart",
+      "href": "https://github.com/marianogappa/chart",
+      "description": "Quick & smart charting for STDIN",
+      "language": "Go",
+      "stars": 246,
+      "forks": 10
+    },
+    {
+      "author": "fatih",
+      "name": "gomodifytags",
+      "href": "https://github.com/fatih/gomodifytags",
+      "description": "Go tool to modify struct field tags",
+      "language": "Go",
+      "stars": 193,
+      "forks": 8
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16684,
+      "forks": 2783
+    },
+    {
+      "author": "galeone",
+      "name": "tfgo",
+      "href": "https://github.com/galeone/tfgo",
+      "description": "Tensorflow + Go, the gopher way",
+      "language": "Go",
+      "stars": 424,
+      "forks": 16
+    }
+  ]
+}
