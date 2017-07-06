@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 13413,
+      "forks": 12670
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7317,
+      "forks": 2317
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 1659,
+      "forks": 713
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9503,
+      "forks": 3265
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8490,
+      "forks": 2129
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2327,
+      "forks": 204
+    },
+    {
+      "author": "manub",
+      "name": "scalatest-embedded-kafka",
+      "href": "https://github.com/manub/scalatest-embedded-kafka",
+      "description": "A library that provides an in-memory Kafka instance to run your ScalaTest specs against.",
+      "language": "Scala",
+      "stars": 142,
+      "forks": 42
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-stdlib",
+      "href": "https://github.com/scala-exercises/exercises-stdlib",
+      "description": "Scala Exercises' lessons for the standard library",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 118
+    },
+    {
+      "author": "apache",
+      "name": "bahir",
+      "href": "https://github.com/apache/bahir",
+      "description": "Mirror of Apache Bahir",
+      "language": "Scala",
+      "stars": 121,
+      "forks": 59
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 383,
+      "forks": 174
+    },
+    {
+      "author": "Jacoby6000",
+      "name": "scoobie",
+      "href": "https://github.com/Jacoby6000/scoobie",
+      "description": "Querying Doobie, without raw sql.",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 6
+    },
+    {
+      "author": "wasted",
+      "name": "netflow",
+      "href": "https://github.com/wasted/netflow",
+      "description": "Scala/Netty Netflow Collector used at wasted.io",
+      "language": "Scala",
+      "stars": 66,
+      "forks": 22
+    },
+    {
+      "author": "jroper",
+      "name": "play-geojson",
+      "href": "https://github.com/jroper/play-geojson",
+      "description": "GeoJSON support for Play's JSON library",
+      "language": "Scala",
+      "stars": 54,
+      "forks": 16
+    },
+    {
+      "author": "lihaoyi",
+      "name": "sourcecode",
+      "href": "https://github.com/lihaoyi/sourcecode",
+      "description": "Scala library providing \"source\" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__.",
+      "language": "Scala",
+      "stars": 244,
+      "forks": 23
+    },
+    {
+      "author": "twosigma",
+      "name": "flint",
+      "href": "https://github.com/twosigma/flint",
+      "description": "A Time Series Library for Apache Spark",
+      "language": "Scala",
+      "stars": 228,
+      "forks": 51
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3118,
+      "forks": 580
+    },
+    {
+      "author": "foundweekends",
+      "name": "conscript",
+      "href": "https://github.com/foundweekends/conscript",
+      "description": "Scala at your command",
+      "language": "Scala",
+      "stars": 464,
+      "forks": 66
+    },
+    {
+      "author": "IBMSparkGPU",
+      "name": "GPUEnabler",
+      "href": "https://github.com/IBMSparkGPU/GPUEnabler",
+      "description": "Provides GPU awareness to Spark, Contact: @kmadhugit and @kiszk",
+      "language": "Scala",
+      "stars": 70,
+      "forks": 30
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 2887,
+      "forks": 171
+    },
+    {
+      "author": "scala",
+      "name": "compiler-benchmark",
+      "href": "https://github.com/scala/compiler-benchmark",
+      "description": "Benchmarks for scalac",
+      "language": "Scala",
+      "stars": 28,
+      "forks": 12
+    },
+    {
+      "author": "krux",
+      "name": "hyperion",
+      "href": "https://github.com/krux/hyperion",
+      "description": "Scala library and abstractions for AWS DataPipeline",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 18
+    },
+    {
+      "author": "non",
+      "name": "jawn",
+      "href": "https://github.com/non/jawn",
+      "description": "Jawn is for parsing jay-sawn (JSON)",
+      "language": "Scala",
+      "stars": 262,
+      "forks": 35
+    },
+    {
+      "author": "kamon-io",
+      "name": "Kamon",
+      "href": "https://github.com/kamon-io/Kamon",
+      "description": "The Open Source tool for monitoring applications running on the JVM",
+      "language": "Scala",
+      "stars": 859,
+      "forks": 193
+    },
+    {
+      "author": "Morningstar",
+      "name": "kafka-offset-monitor",
+      "href": "https://github.com/Morningstar/kafka-offset-monitor",
+      "description": "A small web app to monitor the progress of kafka consumers and their lag wrt the log.",
+      "language": "Scala",
+      "stars": 24,
+      "forks": 416
+    },
+    {
+      "author": "potigol",
+      "name": "Potigol",
+      "href": "https://github.com/potigol/Potigol",
+      "description": "Linguagem Potigol",
+      "language": "Scala",
+      "stars": 52,
+      "forks": 6
+    }
+  ]
+}
