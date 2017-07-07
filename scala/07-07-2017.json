@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 13431,
+      "forks": 12675
+    },
+    {
+      "author": "Duhemm",
+      "name": "sbt-errors-summary",
+      "href": "https://github.com/Duhemm/sbt-errors-summary",
+      "description": "sbt plugin to show a summary of compilation messages.",
+      "language": "Scala",
+      "stars": 87,
+      "forks": 5
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8493,
+      "forks": 2127
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9506,
+      "forks": 3267
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 148,
+      "forks": 36
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow",
+      "language": "Scala",
+      "stars": 603,
+      "forks": 84
+    },
+    {
+      "author": "intel-analytics",
+      "name": "BigDL",
+      "href": "https://github.com/intel-analytics/BigDL",
+      "description": "BigDL: Distributed Deep Learning Library for Apache Spark",
+      "language": "Scala",
+      "stars": 1840,
+      "forks": 353
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2332,
+      "forks": 205
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10275,
+      "forks": 1676
+    },
+    {
+      "author": "propensive",
+      "name": "contextual",
+      "href": "https://github.com/propensive/contextual",
+      "description": "Contextual",
+      "language": "Scala",
+      "stars": 117,
+      "forks": 14
+    },
+    {
+      "author": "databricks",
+      "name": "Spark-The-Definitive-Guide",
+      "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+      "description": "Spark: The Definitive Guide's Code Repository",
+      "language": "Scala",
+      "stars": 27,
+      "forks": 8
+    },
+    {
+      "author": "ThoughtWorksInc",
+      "name": "DeepLearning.scala",
+      "href": "https://github.com/ThoughtWorksInc/DeepLearning.scala",
+      "description": "A simple language for creating complex neural networks",
+      "language": "Scala",
+      "stars": 306,
+      "forks": 32
+    },
+    {
+      "author": "hrj",
+      "name": "abandon",
+      "href": "https://github.com/hrj/abandon",
+      "description": "😌 Simple and Robust Accounting",
+      "language": "Scala",
+      "stars": 117,
+      "forks": 24
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Enterprise Integration Done Right — Alpakka",
+      "language": "Scala",
+      "stars": 362,
+      "forks": 137
+    },
+    {
+      "author": "eHarmony",
+      "name": "aloha",
+      "href": "https://github.com/eHarmony/aloha",
+      "description": "A scala-based feature generation and modeling framework",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 10
+    },
+    {
+      "author": "alexarchambault",
+      "name": "scalacheck-shapeless",
+      "href": "https://github.com/alexarchambault/scalacheck-shapeless",
+      "description": "Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless",
+      "language": "Scala",
+      "stars": 105,
+      "forks": 17
+    },
+    {
+      "author": "apache",
+      "name": "bahir",
+      "href": "https://github.com/apache/bahir",
+      "description": "Mirror of Apache Bahir",
+      "language": "Scala",
+      "stars": 121,
+      "forks": 60
+    },
+    {
+      "author": "lucidworks",
+      "name": "spark-solr",
+      "href": "https://github.com/lucidworks/spark-solr",
+      "description": "Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.",
+      "language": "Scala",
+      "stars": 248,
+      "forks": 146
+    },
+    {
+      "author": "strongtyped",
+      "name": "fun-cqrs",
+      "href": "https://github.com/strongtyped/fun-cqrs",
+      "description": "Fun.CQRS is a Scala CQRS/ES framework. It provides the basic blocks to build event driven aggregates with Event Sourcing.",
+      "language": "Scala",
+      "stars": 241,
+      "forks": 32
+    },
+    {
+      "author": "sryza",
+      "name": "aas",
+      "href": "https://github.com/sryza/aas",
+      "description": "Code to accompany Advanced Analytics with Spark from O'Reilly Media",
+      "language": "Scala",
+      "stars": 817,
+      "forks": 662
+    },
+    {
+      "author": "twitter",
+      "name": "finatra",
+      "href": "https://github.com/twitter/finatra",
+      "description": "Fast, testable, Scala services built on Twitter-Server and Finagle",
+      "language": "Scala",
+      "stars": 1607,
+      "forks": 297
+    },
+    {
+      "author": "scala",
+      "name": "scala-parser-combinators",
+      "href": "https://github.com/scala/scala-parser-combinators",
+      "description": "simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module",
+      "language": "Scala",
+      "stars": 238,
+      "forks": 70
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves node application",
+      "language": "Scala",
+      "stars": 154,
+      "forks": 43
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 6427,
+      "forks": 833
+    },
+    {
+      "author": "underscoreio",
+      "name": "essential-scala",
+      "href": "https://github.com/underscoreio/essential-scala",
+      "description": "Source code for Underscore's Essential Scala",
+      "language": "Scala",
+      "stars": 45,
+      "forks": 10
+    }
+  ]
+}
