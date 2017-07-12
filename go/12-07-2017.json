@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gobwas",
+      "name": "ws",
+      "href": "https://github.com/gobwas/ws",
+      "description": "Tiny WebSocket library for Go.",
+      "language": "Go",
+      "stars": 332,
+      "forks": 7
+    },
+    {
+      "author": "evilsocket",
+      "name": "xray",
+      "href": "https://github.com/evilsocket/xray",
+      "description": "XRay is a tool for recon, mapping and OSINT gathering from public networks.",
+      "language": "Go",
+      "stars": 529,
+      "forks": 62
+    },
+    {
+      "author": "d4l3k",
+      "name": "go-pry",
+      "href": "https://github.com/d4l3k/go-pry",
+      "description": "An interactive REPL for Go that allows you to drop into your code at any point.",
+      "language": "Go",
+      "stars": 401,
+      "forks": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 24850,
+      "forks": 8834
+    },
+    {
+      "author": "campoy",
+      "name": "go-tooling-workshop",
+      "href": "https://github.com/campoy/go-tooling-workshop",
+      "description": "A workshop covering all the tools gophers use in their day to day life",
+      "language": "Go",
+      "stars": 1446,
+      "forks": 62
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 1558,
+      "forks": 1442
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 29763,
+      "forks": 4006
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 13002,
+      "forks": 885
+    },
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 2398,
+      "forks": 651
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 16828,
+      "forks": 5244
+    },
+    {
+      "author": "mmcloughlin",
+      "name": "globe",
+      "href": "https://github.com/mmcloughlin/globe",
+      "description": "Globe wireframe visualizations in Golang",
+      "language": "Go",
+      "stars": 1212,
+      "forks": 35
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44543,
+      "forks": 13200
+    },
+    {
+      "author": "tj",
+      "name": "gh-polls",
+      "href": "https://github.com/tj/gh-polls",
+      "description": "Polls for GitHub issues and readmes",
+      "language": "Go",
+      "stars": 973,
+      "forks": 37
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 5837,
+      "forks": 1768
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 10742,
+      "forks": 1253
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14070,
+      "forks": 2719
+    },
+    {
+      "author": "google",
+      "name": "go-cmp",
+      "href": "https://github.com/google/go-cmp",
+      "description": "Package for comparing Go values in tests",
+      "language": "Go",
+      "stars": 84,
+      "forks": 1
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22022,
+      "forks": 2783
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18340,
+      "forks": 2541
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10478,
+      "forks": 1156
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 8787,
+      "forks": 804
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 19985,
+      "forks": 2294
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 16755,
+      "forks": 2800
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder written in Go",
+      "language": "Go",
+      "stars": 9544,
+      "forks": 379
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.",
+      "language": "Go",
+      "stars": 7097,
+      "forks": 748
+    }
+  ]
+}
