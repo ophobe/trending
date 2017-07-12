@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ubnt-intrepid",
+      "name": "susanoo",
+      "href": "https://github.com/ubnt-intrepid/susanoo",
+      "description": "A micro Web framework for Rust, based on Hyper and Tokio",
+      "language": "Rust",
+      "stars": 43,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22558,
+      "forks": 4152
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1533,
+      "forks": 310
+    },
+    {
+      "author": "ggez",
+      "name": "ggez",
+      "href": "https://github.com/ggez/ggez",
+      "description": "Rust library to create a Good Game Easily",
+      "language": "Rust",
+      "stars": 173,
+      "forks": 21
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8070,
+      "forks": 273
+    },
+    {
+      "author": "oracle",
+      "name": "railcar",
+      "href": "https://github.com/oracle/railcar",
+      "description": "RailCar: Rust implementation of oci-runtime",
+      "language": "Rust",
+      "stars": 522,
+      "forks": 19
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4781,
+      "forks": 296
+    },
+    {
+      "author": "EbTech",
+      "name": "rust-algorithms",
+      "href": "https://github.com/EbTech/rust-algorithms",
+      "description": "Common data structures and algorithms in Rust",
+      "language": "Rust",
+      "stars": 1505,
+      "forks": 60
+    },
+    {
+      "author": "dtolnay",
+      "name": "semver-trick",
+      "href": "https://github.com/dtolnay/semver-trick",
+      "description": "How to avoid complicated coordinated upgrades",
+      "language": "Rust",
+      "stars": 21,
+      "forks": 1
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 5040,
+      "forks": 191
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1080,
+      "forks": 286
+    },
+    {
+      "author": "PumpkinDB",
+      "name": "PumpkinDB",
+      "href": "https://github.com/PumpkinDB/PumpkinDB",
+      "description": "Event Sourcing Database Engine",
+      "language": "Rust",
+      "stars": 828,
+      "forks": 36
+    },
+    {
+      "author": "redox-os",
+      "name": "ion",
+      "href": "https://github.com/redox-os/ion",
+      "description": "The Ion Shell. Compatible with Redox and Linux.",
+      "language": "Rust",
+      "stars": 326,
+      "forks": 44
+    },
+    {
+      "author": "Spotifyd",
+      "name": "spotifyd",
+      "href": "https://github.com/Spotifyd/spotifyd",
+      "description": "A spotify playing daemon",
+      "language": "Rust",
+      "stars": 182,
+      "forks": 21
+    },
+    {
+      "author": "ctz",
+      "name": "hyper-rustls",
+      "href": "https://github.com/ctz/hyper-rustls",
+      "description": "Integration between hyper HTTP library and rustls TLS stack",
+      "language": "Rust",
+      "stars": 25,
+      "forks": 16
+    },
+    {
+      "author": "serde-rs",
+      "name": "json",
+      "href": "https://github.com/serde-rs/json",
+      "description": "JSON Serialization for Rust",
+      "language": "Rust",
+      "stars": 257,
+      "forks": 79
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rustup.rs",
+      "href": "https://github.com/rust-lang-nursery/rustup.rs",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 1261,
+      "forks": 197
+    },
+    {
+      "author": "lise-henry",
+      "name": "crowbook",
+      "href": "https://github.com/lise-henry/crowbook",
+      "description": "Converts books written in Markdown to HTML, LaTeX/PDF and EPUB",
+      "language": "Rust",
+      "stars": 111,
+      "forks": 6
+    },
+    {
+      "author": "dtolnay",
+      "name": "syn",
+      "href": "https://github.com/dtolnay/syn",
+      "description": "Nom parser for Rust source code",
+      "language": "Rust",
+      "stars": 141,
+      "forks": 19
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-io",
+      "href": "https://github.com/tokio-rs/tokio-io",
+      "description": "Core I/O primitives for asynchronous I/O in Rust.",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 20
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 989,
+      "forks": 133
+    },
+    {
+      "author": "brson",
+      "name": "stdx",
+      "href": "https://github.com/brson/stdx",
+      "description": "The missing batteries of Rust",
+      "language": "Rust",
+      "stars": 720,
+      "forks": 17
+    },
+    {
+      "author": "cobalt-org",
+      "name": "cobalt.rs",
+      "href": "https://github.com/cobalt-org/cobalt.rs",
+      "description": "Static site generator written in Rust",
+      "language": "Rust",
+      "stars": 334,
+      "forks": 58
+    },
+    {
+      "author": "tomaka",
+      "name": "glutin",
+      "href": "https://github.com/tomaka/glutin",
+      "description": "Pure Rust alternative to GLFW",
+      "language": "Rust",
+      "stars": 685,
+      "forks": 203
+    },
+    {
+      "author": "servo",
+      "name": "core-foundation-rs",
+      "href": "https://github.com/servo/core-foundation-rs",
+      "description": "Rust bindings to the Core Foundation library on Mac OS X and iOS",
+      "language": "Rust",
+      "stars": 21,
+      "forks": 33
+    }
+  ]
+}
