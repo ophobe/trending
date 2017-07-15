@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 46916,
+      "forks": 17689
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24262,
+      "forks": 9205
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 22427,
+      "forks": 1789
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18268,
+      "forks": 10377
+    },
+    {
+      "author": "google",
+      "name": "clspv",
+      "href": "https://github.com/google/clspv",
+      "description": null,
+      "language": "C",
+      "stars": 32,
+      "forks": 2
+    },
+    {
+      "author": "RKX1209",
+      "name": "kernel_exploit_world",
+      "href": "https://github.com/RKX1209/kernel_exploit_world",
+      "description": "Tutorial for writing kernel exploits",
+      "language": "C",
+      "stars": 26,
+      "forks": 1
+    },
+    {
+      "author": "julycoding",
+      "name": "The-Art-Of-Programming-By-July",
+      "href": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+      "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+      "language": "C",
+      "stars": 11011,
+      "forks": 4984
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 14191,
+      "forks": 4285
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 12759,
+      "forks": 871
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10500,
+      "forks": 2181
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 7713,
+      "forks": 3627
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5026,
+      "forks": 2585
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 7620,
+      "forks": 3301
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "href": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 2075,
+      "forks": 373
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 5562,
+      "forks": 760
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12394,
+      "forks": 4170
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 12830,
+      "forks": 1016
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7093,
+      "forks": 558
+    },
+    {
+      "author": "RedisLabsModules",
+      "name": "RediSearch",
+      "href": "https://github.com/RedisLabsModules/RediSearch",
+      "description": "FullText Search module for redis",
+      "language": "C",
+      "stars": 483,
+      "forks": 58
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5158,
+      "forks": 3289
+    },
+    {
+      "author": "SirCmpwn",
+      "name": "sway",
+      "href": "https://github.com/SirCmpwn/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 2579,
+      "forks": 157
+    },
+    {
+      "author": "mabeijianxi",
+      "name": "small-video-record",
+      "href": "https://github.com/mabeijianxi/small-video-record",
+      "description": "利用FFmpeg视频录制微信小视频与其压缩处理",
+      "language": "C",
+      "stars": 967,
+      "forks": 209
+    },
+    {
+      "author": "h2o",
+      "name": "quicly",
+      "href": "https://github.com/h2o/quicly",
+      "description": "Our own QUIC implementation",
+      "language": "C",
+      "stars": 52,
+      "forks": 0
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6678,
+      "forks": 1589
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5349,
+      "forks": 1761
+    }
+  ]
+}
