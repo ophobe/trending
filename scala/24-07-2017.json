@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 13648,
+      "forks": 12873
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 8280,
+      "forks": 4349
+    },
+    {
+      "author": "qingmang-team",
+      "name": "chanamq",
+      "href": "https://github.com/qingmang-team/chanamq",
+      "description": "Open source AMQP messaging broker based on Akka",
+      "language": "Scala",
+      "stars": 63,
+      "forks": 10
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The HTTP client for Scala that you always wanted!",
+      "language": "Scala",
+      "stars": 109,
+      "forks": 3
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 3904,
+      "forks": 1035
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7402,
+      "forks": 2351
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9540,
+      "forks": 3291
+    },
+    {
+      "author": "deeplearning4j",
+      "name": "ScalNet",
+      "href": "https://github.com/deeplearning4j/ScalNet",
+      "description": "A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs",
+      "language": "Scala",
+      "stars": 213,
+      "forks": 48
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2404,
+      "forks": 213
+    },
+    {
+      "author": "databricks",
+      "name": "tensorframes",
+      "href": "https://github.com/databricks/tensorframes",
+      "description": "Tensorflow wrapper for DataFrames on Apache Spark",
+      "language": "Scala",
+      "stars": 505,
+      "forks": 103
+    },
+    {
+      "author": "apache",
+      "name": "incubator-gearpump",
+      "href": "https://github.com/apache/incubator-gearpump",
+      "description": "Mirror of Apache Gearpump (Incubating)",
+      "language": "Scala",
+      "stars": 197,
+      "forks": 75
+    },
+    {
+      "author": "julianpeeters",
+      "name": "avro-scala-macro-annotations",
+      "href": "https://github.com/julianpeeters/avro-scala-macro-annotations",
+      "description": "Compile-time tools for working with Avros in Scala",
+      "language": "Scala",
+      "stars": 57,
+      "forks": 18
+    },
+    {
+      "author": "freechipsproject",
+      "name": "firrtl",
+      "href": "https://github.com/freechipsproject/firrtl",
+      "description": "Flexible Intermediate Representation for RTL",
+      "language": "Scala",
+      "stars": 51,
+      "forks": 28
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 397,
+      "forks": 184
+    },
+    {
+      "author": "iheartradio",
+      "name": "play-swagger",
+      "href": "https://github.com/iheartradio/play-swagger",
+      "description": "Swagger spec generator for play framework",
+      "language": "Scala",
+      "stars": 185,
+      "forks": 55
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-release",
+      "href": "https://github.com/sbt/sbt-release",
+      "description": "A release plugin for sbt",
+      "language": "Scala",
+      "stars": 390,
+      "forks": 112
+    },
+    {
+      "author": "guardian",
+      "name": "content-api-scala-client",
+      "href": "https://github.com/guardian/content-api-scala-client",
+      "description": "A Scala client library for the Guardian's Content API",
+      "language": "Scala",
+      "stars": 30,
+      "forks": 17
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Enterprise Integration Done Right — Alpakka",
+      "language": "Scala",
+      "stars": 370,
+      "forks": 147
+    },
+    {
+      "author": "martincooper",
+      "name": "scala-datatable",
+      "href": "https://github.com/martincooper/scala-datatable",
+      "description": "Immutable DataTable implementation in Scala",
+      "language": "Scala",
+      "stars": 52,
+      "forks": 6
+    },
+    {
+      "author": "bigdatagenomics",
+      "name": "adam",
+      "href": "https://github.com/bigdatagenomics/adam",
+      "description": "ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.",
+      "language": "Scala",
+      "stars": 639,
+      "forks": 235
+    },
+    {
+      "author": "scoverage",
+      "name": "sbt-scoverage",
+      "href": "https://github.com/scoverage/sbt-scoverage",
+      "description": "sbt plugin for scoverage",
+      "language": "Scala",
+      "stars": 334,
+      "forks": 88
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-tls-example",
+      "href": "https://github.com/playframework/play-scala-tls-example",
+      "description": "A Play application using HTTPS and WS with optional client authentication",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 21
+    },
+    {
+      "author": "playframework",
+      "name": "play-ws",
+      "href": "https://github.com/playframework/play-ws",
+      "description": "Standalone Play WS, an async HTTP client with fluent API",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 17
+    },
+    {
+      "author": "tototoshi",
+      "name": "scala-csv",
+      "href": "https://github.com/tototoshi/scala-csv",
+      "description": "CSV Reader/Writer for Scala",
+      "language": "Scala",
+      "stars": 391,
+      "forks": 93
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz",
+      "href": "https://github.com/scalaz/scalaz",
+      "description": "An extension to the core Scala library for functional programming.",
+      "language": "Scala",
+      "stars": 3158,
+      "forks": 510
+    }
+  ]
+}
