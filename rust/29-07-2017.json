@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22810,
+      "forks": 4193
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 5159,
+      "forks": 192
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 6498,
+      "forks": 222
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 325,
+      "forks": 5
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4879,
+      "forks": 297
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 2558,
+      "forks": 151
+    },
+    {
+      "author": "steveklabnik",
+      "name": "rustdoc",
+      "href": "https://github.com/steveklabnik/rustdoc",
+      "description": "A documentation tool for Rust.",
+      "language": "Rust",
+      "stars": 63,
+      "forks": 25
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rustup.rs",
+      "href": "https://github.com/rust-lang-nursery/rustup.rs",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 1285,
+      "forks": 205
+    },
+    {
+      "author": "rust-lang",
+      "name": "libc",
+      "href": "https://github.com/rust-lang/libc",
+      "description": "Raw bindings to platform APIs for Rust",
+      "language": "Rust",
+      "stars": 229,
+      "forks": 196
+    },
+    {
+      "author": "nix-rust",
+      "name": "nix",
+      "href": "https://github.com/nix-rust/nix",
+      "description": "Rust friendly bindings to *nix APIs",
+      "language": "Rust",
+      "stars": 513,
+      "forks": 180
+    },
+    {
+      "author": "tomaka",
+      "name": "android-rs-glue",
+      "href": "https://github.com/tomaka/android-rs-glue",
+      "description": "Glue between Rust and Android",
+      "language": "Rust",
+      "stars": 487,
+      "forks": 52
+    },
+    {
+      "author": "brson",
+      "name": "basic-http-server",
+      "href": "https://github.com/brson/basic-http-server",
+      "description": "A static file server in Rust",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 7
+    },
+    {
+      "author": "briansmith",
+      "name": "webpki",
+      "href": "https://github.com/briansmith/webpki",
+      "description": "WebPKI X.509 Certificate Validation in Rust",
+      "language": "Rust",
+      "stars": 92,
+      "forks": 25
+    },
+    {
+      "author": "japaric",
+      "name": "f3",
+      "href": "https://github.com/japaric/f3",
+      "description": "Board Support Crate for the STM32F3DISCOVERY",
+      "language": "Rust",
+      "stars": 35,
+      "forks": 7
+    },
+    {
+      "author": "exercism",
+      "name": "rust",
+      "href": "https://github.com/exercism/rust",
+      "description": "Exercism exercises in Rust.",
+      "language": "Rust",
+      "stars": 132,
+      "forks": 74
+    },
+    {
+      "author": "mozilla",
+      "name": "sccache",
+      "href": "https://github.com/mozilla/sccache",
+      "description": "sccache is ccache with cloud storage",
+      "language": "Rust",
+      "stars": 213,
+      "forks": 30
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8146,
+      "forks": 282
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 4977,
+      "forks": 248
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 4344,
+      "forks": 311
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3490,
+      "forks": 309
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2695,
+      "forks": 469
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-by-example",
+      "href": "https://github.com/rust-lang/rust-by-example",
+      "description": "Learn Rust with examples (Live code editor included)",
+      "language": "Rust",
+      "stars": 2493,
+      "forks": 377
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2365,
+      "forks": 604
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2223,
+      "forks": 84
+    },
+    {
+      "author": "racer-rust",
+      "name": "racer",
+      "href": "https://github.com/racer-rust/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 2156,
+      "forks": 209
+    }
+  ]
+}
