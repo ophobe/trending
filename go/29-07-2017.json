@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "matryer",
+      "name": "vice",
+      "href": "https://github.com/matryer/vice",
+      "description": "Go channels at horizontal scale (powered by message queues)",
+      "language": "Go",
+      "stars": 269,
+      "forks": 7
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS delivers storage and storage services to containerized environments. OpenEBS allows stateful workloads to be managed more like stateless containers. OpenEBS storage services include: per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance. OpenEBS is EBS API comp…",
+      "language": "Go",
+      "stars": 731,
+      "forks": 52
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 4423,
+      "forks": 808
+    },
+    {
+      "author": "gophercon",
+      "name": "2017-talks",
+      "href": "https://github.com/gophercon/2017-talks",
+      "description": "Slides and links for 2017 talks",
+      "language": "Go",
+      "stars": 785,
+      "forks": 72
+    },
+    {
+      "author": "gonum",
+      "name": "gonum",
+      "href": "https://github.com/gonum/gonum",
+      "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+      "language": "Go",
+      "stars": 228,
+      "forks": 19
+    },
+    {
+      "author": "tj",
+      "name": "go-progress",
+      "href": "https://github.com/tj/go-progress",
+      "description": "Another Go progress bar",
+      "language": "Go",
+      "stars": 118,
+      "forks": 1
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 30444,
+      "forks": 4110
+    },
+    {
+      "author": "hacdias",
+      "name": "filemanager",
+      "href": "https://github.com/hacdias/filemanager",
+      "description": "📁 Web File Manager which can be used as a middleware or standalone app.",
+      "language": "Go",
+      "stars": 835,
+      "forks": 49
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 25368,
+      "forks": 9058
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18660,
+      "forks": 2575
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6227,
+      "forks": 1902
+    },
+    {
+      "author": "ExaScience",
+      "name": "pargo",
+      "href": "https://github.com/ExaScience/pargo",
+      "description": "A library for parallel programming in Go",
+      "language": "Go",
+      "stars": 70,
+      "forks": 3
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14297,
+      "forks": 2765
+    },
+    {
+      "author": "kudelskisecurity",
+      "name": "cdf",
+      "href": "https://github.com/kudelskisecurity/cdf",
+      "description": null,
+      "language": "Go",
+      "stars": 80,
+      "forks": 9
+    },
+    {
+      "author": "k8sdb",
+      "name": "cli",
+      "href": "https://github.com/k8sdb/cli",
+      "description": "KubeDB CLI",
+      "language": "Go",
+      "stars": 58,
+      "forks": 2
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 20213,
+      "forks": 2313
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44776,
+      "forks": 13285
+    },
+    {
+      "author": "yext",
+      "name": "edward",
+      "href": "https://github.com/yext/edward",
+      "description": "A tool for managing local microservice instances",
+      "language": "Go",
+      "stars": 52,
+      "forks": 13
+    },
+    {
+      "author": "sandia-minimega",
+      "name": "minimega",
+      "href": "https://github.com/sandia-minimega/minimega",
+      "description": "minimega",
+      "language": "Go",
+      "stars": 55,
+      "forks": 29
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22377,
+      "forks": 2830
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 2343,
+      "forks": 614
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 3834,
+      "forks": 224
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10435,
+      "forks": 1183
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17159,
+      "forks": 5333
+    },
+    {
+      "author": "h2non",
+      "name": "gentleman",
+      "href": "https://github.com/h2non/gentleman",
+      "description": "Full-featured, plugin-oriented, composable HTTP client toolkit for Go",
+      "language": "Go",
+      "stars": 430,
+      "forks": 11
+    }
+  ]
+}
