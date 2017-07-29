@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 47408,
+      "forks": 17837
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5503,
+      "forks": 3713
+    },
+    {
+      "author": "shadowsocksr-backup",
+      "name": "shadowsocksr-libev",
+      "href": "https://github.com/shadowsocksr-backup/shadowsocksr-libev",
+      "description": "libev port of ShadowsocksR",
+      "language": "C",
+      "stars": 31,
+      "forks": 151
+    },
+    {
+      "author": "yadutaf",
+      "name": "tracepkt",
+      "href": "https://github.com/yadutaf/tracepkt",
+      "description": "Trace a ping packet journey across network interfaces and namespace on recent Linux. Supports IPv4 and IPv6.",
+      "language": "C",
+      "stars": 31,
+      "forks": 4
+    },
+    {
+      "author": "kosua20",
+      "name": "herebedragons",
+      "href": "https://github.com/kosua20/herebedragons",
+      "description": "A basic 3D scene implemented with various engines, frameworks or APIs.",
+      "language": "C",
+      "stars": 1090,
+      "forks": 37
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24492,
+      "forks": 9310
+    },
+    {
+      "author": "sklivvz",
+      "name": "cthulhu",
+      "href": "https://github.com/sklivvz/cthulhu",
+      "description": "Extend Redis with JavaScript modules",
+      "language": "C",
+      "stars": 45,
+      "forks": 1
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18444,
+      "forks": 10516
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6782,
+      "forks": 1618
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 22892,
+      "forks": 1821
+    },
+    {
+      "author": "zyantific",
+      "name": "zydis",
+      "href": "https://github.com/zyantific/zydis",
+      "description": "Fast and lightweight x86/x86-64 disassembler library",
+      "language": "C",
+      "stars": 441,
+      "forks": 46
+    },
+    {
+      "author": "simply-jos",
+      "name": "darwintiler",
+      "href": "https://github.com/simply-jos/darwintiler",
+      "description": "No frills, super easy tiling \"window manager\" for MacOS",
+      "language": "C",
+      "stars": 22,
+      "forks": 1
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 5996,
+      "forks": 1330
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 14432,
+      "forks": 4332
+    },
+    {
+      "author": "shadowsocks",
+      "name": "simple-obfs",
+      "href": "https://github.com/shadowsocks/simple-obfs",
+      "description": "A simple obfuscating tool",
+      "language": "C",
+      "stars": 274,
+      "forks": 82
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7245,
+      "forks": 565
+    },
+    {
+      "author": "symless",
+      "name": "synergy",
+      "href": "https://github.com/symless/synergy",
+      "description": "Share one mouse and keyboard between multiple computers",
+      "language": "C",
+      "stars": 5090,
+      "forks": 1141
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 3917,
+      "forks": 1722
+    },
+    {
+      "author": "SoftEtherVPN",
+      "name": "SoftEtherVPN",
+      "href": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+      "description": "A Free Cross-platform Multi-protocol VPN Software. * For support, troubleshooting and feature requests we have http://www.vpnusers.com/. For critical vulnerability please email us. (mail address is on the header.)",
+      "language": "C",
+      "stars": 3745,
+      "forks": 1216
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1392,
+      "forks": 365
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 5644,
+      "forks": 782
+    },
+    {
+      "author": "mabeijianxi",
+      "name": "small-video-record",
+      "href": "https://github.com/mabeijianxi/small-video-record",
+      "description": "利用FFmpeg视频录制微信小视频与其压缩处理",
+      "language": "C",
+      "stars": 1063,
+      "forks": 234
+    },
+    {
+      "author": "Microsoft",
+      "name": "react-native-code-push",
+      "href": "https://github.com/Microsoft/react-native-code-push",
+      "description": "React Native module for CodePush",
+      "language": "C",
+      "stars": 3208,
+      "forks": 416
+    },
+    {
+      "author": "linw7",
+      "name": "Skill-Tree",
+      "href": "https://github.com/linw7/Skill-Tree",
+      "description": "准备秋招，欢迎来树上取果实。",
+      "language": "C",
+      "stars": 25,
+      "forks": 16
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5051,
+      "forks": 1057
+    }
+  ]
+}
