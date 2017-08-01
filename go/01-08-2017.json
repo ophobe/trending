@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 25471,
+      "forks": 9095
+    },
+    {
+      "author": "matryer",
+      "name": "vice",
+      "href": "https://github.com/matryer/vice",
+      "description": "Go channels at horizontal scale (powered by message queues)",
+      "language": "Go",
+      "stars": 566,
+      "forks": 14
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 30559,
+      "forks": 4120
+    },
+    {
+      "author": "dominikh",
+      "name": "go-tools",
+      "href": "https://github.com/dominikh/go-tools",
+      "description": "A collection of tools and libraries for working with Go code, including linters and static analysis",
+      "language": "Go",
+      "stars": 945,
+      "forks": 42
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 4535,
+      "forks": 836
+    },
+    {
+      "author": "made2591",
+      "name": "go-perceptron-go",
+      "href": "https://github.com/made2591/go-perceptron-go",
+      "description": "A single level perceptron classifier with weights estimated from sonar training data set using stochastic gradient descent.",
+      "language": "Go",
+      "stars": 98,
+      "forks": 3
+    },
+    {
+      "author": "camptocamp",
+      "name": "terraboard",
+      "href": "https://github.com/camptocamp/terraboard",
+      "description": "Web Dashboard to inspect Terraform States",
+      "language": "Go",
+      "stars": 99,
+      "forks": 7
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22452,
+      "forks": 2835
+    },
+    {
+      "author": "GetStream",
+      "name": "vg",
+      "href": "https://github.com/GetStream/vg",
+      "description": "Virtualgo: Easy and powerful workspace based development for go",
+      "language": "Go",
+      "stars": 242,
+      "forks": 5
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10794,
+      "forks": 1207
+    },
+    {
+      "author": "gophercon",
+      "name": "2017-talks",
+      "href": "https://github.com/gophercon/2017-talks",
+      "description": "Slides and links for 2017 talks",
+      "language": "Go",
+      "stars": 851,
+      "forks": 77
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44810,
+      "forks": 13296
+    },
+    {
+      "author": "gonum",
+      "name": "gonum",
+      "href": "https://github.com/gonum/gonum",
+      "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+      "language": "Go",
+      "stars": 293,
+      "forks": 23
+    },
+    {
+      "author": "jdkato",
+      "name": "prose",
+      "href": "https://github.com/jdkato/prose",
+      "description": "📖 A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.",
+      "language": "Go",
+      "stars": 158,
+      "forks": 5
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 20254,
+      "forks": 2322
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18718,
+      "forks": 2583
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6281,
+      "forks": 1919
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 11794,
+      "forks": 2728
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 9050,
+      "forks": 838
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 2386,
+      "forks": 625
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 3876,
+      "forks": 225
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17194,
+      "forks": 5345
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 1733,
+      "forks": 1540
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 9945,
+      "forks": 1291
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 4580,
+      "forks": 583
+    }
+  ]
+}
