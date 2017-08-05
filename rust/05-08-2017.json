@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 2482,
+      "forks": 77
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 22908,
+      "forks": 4211
+    },
+    {
+      "author": "mrmekon",
+      "name": "toucHNews",
+      "href": "https://github.com/mrmekon/toucHNews",
+      "description": "Hacker News (YCombinator) news feed for the Mac Touch Bar",
+      "language": "Rust",
+      "stars": 157,
+      "forks": 6
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 6564,
+      "forks": 224
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 5223,
+      "forks": 193
+    },
+    {
+      "author": "mmstick",
+      "name": "cargo-deb",
+      "href": "https://github.com/mmstick/cargo-deb",
+      "description": "A cargo subcommand that generates Debian packages from information in Cargo.toml",
+      "language": "Rust",
+      "stars": 148,
+      "forks": 11
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 1754,
+      "forks": 354
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 4914,
+      "forks": 296
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 2587,
+      "forks": 156
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8167,
+      "forks": 284
+    },
+    {
+      "author": "fitzgen",
+      "name": "scrapmetal",
+      "href": "https://github.com/fitzgen/scrapmetal",
+      "description": "Scrap Your Rust Boilerplate",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2386,
+      "forks": 608
+    },
+    {
+      "author": "ron-rs",
+      "name": "ron",
+      "href": "https://github.com/ron-rs/ron",
+      "description": "Rusty Object Notation",
+      "language": "Rust",
+      "stars": 95,
+      "forks": 4
+    },
+    {
+      "author": "Smithay",
+      "name": "wayland-rs",
+      "href": "https://github.com/Smithay/wayland-rs",
+      "description": "Rust bindings to the wayland C libraries (client and server).",
+      "language": "Rust",
+      "stars": 73,
+      "forks": 18
+    },
+    {
+      "author": "danburkert",
+      "name": "memmap-rs",
+      "href": "https://github.com/danburkert/memmap-rs",
+      "description": "cross-platform Rust API for memory-mapped IO",
+      "language": "Rust",
+      "stars": 140,
+      "forks": 30
+    },
+    {
+      "author": "Rust-SDL2",
+      "name": "rust-sdl2",
+      "href": "https://github.com/Rust-SDL2/rust-sdl2",
+      "description": "SDL2 bindings for Rust",
+      "language": "Rust",
+      "stars": 569,
+      "forks": 187
+    },
+    {
+      "author": "alexcrichton",
+      "name": "cargo-vendor",
+      "href": "https://github.com/alexcrichton/cargo-vendor",
+      "description": "Cargo subcommand to vendor crates.io dependencies",
+      "language": "Rust",
+      "stars": 95,
+      "forks": 19
+    },
+    {
+      "author": "nix-rust",
+      "name": "nix",
+      "href": "https://github.com/nix-rust/nix",
+      "description": "Rust friendly bindings to *nix APIs",
+      "language": "Rust",
+      "stars": 517,
+      "forks": 181
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 1023,
+      "forks": 136
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 4990,
+      "forks": 250
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 4358,
+      "forks": 312
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3502,
+      "forks": 308
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2710,
+      "forks": 472
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-by-example",
+      "href": "https://github.com/rust-lang/rust-by-example",
+      "description": "Learn Rust with examples (Live code editor included)",
+      "language": "Rust",
+      "stars": 2500,
+      "forks": 379
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2243,
+      "forks": 84
+    }
+  ]
+}
