@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "hootsuite",
+      "name": "atlantis",
+      "href": "https://github.com/hootsuite/atlantis",
+      "description": "A unified workflow for collaborating on Terraform through GitHub",
+      "language": "Go",
+      "stars": 237,
+      "forks": 7
+    },
+    {
+      "author": "ashleymcnamara",
+      "name": "gophers",
+      "href": "https://github.com/ashleymcnamara/gophers",
+      "description": "Gopher Artwork by Ashley McNamara",
+      "language": "Go",
+      "stars": 475,
+      "forks": 17
+    },
+    {
+      "author": "rapidloop",
+      "name": "vlan-nats",
+      "href": "https://github.com/rapidloop/vlan-nats",
+      "description": "Virtual LAN over NATS",
+      "language": "Go",
+      "stars": 240,
+      "forks": 4
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 30761,
+      "forks": 4144
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is storage for cloud native and other environments delivered via a cloud native architecture. OpenEBS allows stateful workloads to be managed more like stateless containers in part thanks to being itself composed of containerized micro services. Capabilities include: per container (or pod) QoS SLAs, tiering and replica policies across AZ…",
+      "language": "Go",
+      "stars": 863,
+      "forks": 56
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 25648,
+      "forks": 9154
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 7809,
+      "forks": 598
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22576,
+      "forks": 2856
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11150,
+      "forks": 1302
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "href": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": 586,
+      "forks": 46
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17282,
+      "forks": 5370
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6420,
+      "forks": 1955
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14402,
+      "forks": 2782
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 16892,
+      "forks": 1351
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4010,
+      "forks": 232
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 13408,
+      "forks": 914
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18824,
+      "forks": 2584
+    },
+    {
+      "author": "graphql-go",
+      "name": "graphql",
+      "href": "https://github.com/graphql-go/graphql",
+      "description": "An implementation of GraphQL for Go / Golang",
+      "language": "Go",
+      "stars": 1740,
+      "forks": 176
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 4621,
+      "forks": 865
+    },
+    {
+      "author": "heptio",
+      "name": "ark",
+      "href": "https://github.com/heptio/ark",
+      "description": "Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.",
+      "language": "Go",
+      "stars": 262,
+      "forks": 16
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44879,
+      "forks": 13311
+    },
+    {
+      "author": "lonnng",
+      "name": "nano",
+      "href": "https://github.com/lonnng/nano",
+      "description": "Lightweight, facility, high performance golang based game server framework",
+      "language": "Go",
+      "stars": 111,
+      "forks": 5
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 11853,
+      "forks": 2745
+    },
+    {
+      "author": "matryer",
+      "name": "vice",
+      "href": "https://github.com/matryer/vice",
+      "description": "Go channels at horizontal scale (powered by message queues)",
+      "language": "Go",
+      "stars": 755,
+      "forks": 21
+    },
+    {
+      "author": "camptocamp",
+      "name": "terraboard",
+      "href": "https://github.com/camptocamp/terraboard",
+      "description": "🌍 📋 A web dashboard to inspect Terraform States",
+      "language": "Go",
+      "stars": 175,
+      "forks": 10
+    }
+  ]
+}
