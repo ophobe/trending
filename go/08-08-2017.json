@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 954,
+      "forks": 58
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10949,
+      "forks": 1221
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 30793,
+      "forks": 4150
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 25681,
+      "forks": 9162
+    },
+    {
+      "author": "ashleymcnamara",
+      "name": "gophers",
+      "href": "https://github.com/ashleymcnamara/gophers",
+      "description": "Gopher Artwork by Ashley McNamara",
+      "language": "Go",
+      "stars": 511,
+      "forks": 17
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6450,
+      "forks": 1962
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22602,
+      "forks": 2864
+    },
+    {
+      "author": "geiltonxavier",
+      "name": "aprenda-go",
+      "href": "https://github.com/geiltonxavier/aprenda-go",
+      "description": "📚 Central de conhecimento sobre Go",
+      "language": "Go",
+      "stars": 50,
+      "forks": 14
+    },
+    {
+      "author": "kris-nova",
+      "name": "kubicorn",
+      "href": "https://github.com/kris-nova/kubicorn",
+      "description": "Simple. Kubernetes. Infrastructure.",
+      "language": "Go",
+      "stars": 428,
+      "forks": 39
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44899,
+      "forks": 13313
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18853,
+      "forks": 2588
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4029,
+      "forks": 232
+    },
+    {
+      "author": "camptocamp",
+      "name": "terraboard",
+      "href": "https://github.com/camptocamp/terraboard",
+      "description": "🌍 📋 A web dashboard to inspect Terraform States",
+      "language": "Go",
+      "stars": 192,
+      "forks": 10
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 7829,
+      "forks": 601
+    },
+    {
+      "author": "awnumar",
+      "name": "memguard",
+      "href": "https://github.com/awnumar/memguard",
+      "description": "A pure Go library for handling sensitive values in memory.",
+      "language": "Go",
+      "stars": 513,
+      "forks": 9
+    },
+    {
+      "author": "casbin",
+      "name": "casbin",
+      "href": "https://github.com/casbin/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC",
+      "language": "Go",
+      "stars": 943,
+      "forks": 115
+    },
+    {
+      "author": "hootsuite",
+      "name": "atlantis",
+      "href": "https://github.com/hootsuite/atlantis",
+      "description": "A unified workflow for collaborating on Terraform through GitHub",
+      "language": "Go",
+      "stars": 260,
+      "forks": 8
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17099,
+      "forks": 2881
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17298,
+      "forks": 5376
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Service Discovery and Configuration Made Easy",
+      "language": "Go",
+      "stars": 9844,
+      "forks": 1752
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 4640,
+      "forks": 866
+    },
+    {
+      "author": "muesli",
+      "name": "sticker",
+      "href": "https://github.com/muesli/sticker",
+      "description": "A Golang lib to generate placeholder images with text",
+      "language": "Go",
+      "stars": 44,
+      "forks": 0
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14419,
+      "forks": 2786
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10559,
+      "forks": 1193
+    },
+    {
+      "author": "lonnng",
+      "name": "nano",
+      "href": "https://github.com/lonnng/nano",
+      "description": "Lightweight, facility, high performance golang based game server framework",
+      "language": "Go",
+      "stars": 130,
+      "forks": 5
+    }
+  ]
+}
