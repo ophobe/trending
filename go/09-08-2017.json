@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 998,
+      "forks": 58
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 25729,
+      "forks": 9178
+    },
+    {
+      "author": "tockins",
+      "name": "realize",
+      "href": "https://github.com/tockins/realize",
+      "description": "Go build system with file watcher, live reload and output streams. Run, build and watch file changes with custom paths",
+      "language": "Go",
+      "stars": 1404,
+      "forks": 50
+    },
+    {
+      "author": "joho",
+      "name": "godotenv",
+      "href": "https://github.com/joho/godotenv",
+      "description": "A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)",
+      "language": "Go",
+      "stars": 620,
+      "forks": 42
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 30837,
+      "forks": 4154
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 2545,
+      "forks": 157
+    },
+    {
+      "author": "muesli",
+      "name": "smartcrop",
+      "href": "https://github.com/muesli/smartcrop",
+      "description": "smartcrop finds good image crops for arbitrary crop sizes",
+      "language": "Go",
+      "stars": 438,
+      "forks": 40
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 44931,
+      "forks": 13327
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17133,
+      "forks": 2891
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 1731,
+      "forks": 44
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 18885,
+      "forks": 2590
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 10976,
+      "forks": 1225
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22624,
+      "forks": 2870
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6475,
+      "forks": 1970
+    },
+    {
+      "author": "alexkappa",
+      "name": "mustache",
+      "href": "https://github.com/alexkappa/mustache",
+      "description": "Mustache templating language in Go",
+      "language": "Go",
+      "stars": 32,
+      "forks": 0
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4053,
+      "forks": 233
+    },
+    {
+      "author": "raphamorim",
+      "name": "go-rainbow",
+      "href": "https://github.com/raphamorim/go-rainbow",
+      "description": "Golang Helper for beautiful CLI Applications",
+      "language": "Go",
+      "stars": 37,
+      "forks": 3
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17312,
+      "forks": 5385
+    },
+    {
+      "author": "geiltonxavier",
+      "name": "aprenda-go",
+      "href": "https://github.com/geiltonxavier/aprenda-go",
+      "description": "📚 Central de conhecimento sobre Go",
+      "language": "Go",
+      "stars": 65,
+      "forks": 15
+    },
+    {
+      "author": "awnumar",
+      "name": "memguard",
+      "href": "https://github.com/awnumar/memguard",
+      "description": "A pure Go library for handling sensitive values in memory.",
+      "language": "Go",
+      "stars": 532,
+      "forks": 10
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for managing secrets.",
+      "language": "Go",
+      "stars": 7344,
+      "forks": 978
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11182,
+      "forks": 1307
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 9106,
+      "forks": 3415
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 9157,
+      "forks": 1249
+    },
+    {
+      "author": "hootsuite",
+      "name": "atlantis",
+      "href": "https://github.com/hootsuite/atlantis",
+      "description": "A unified workflow for collaborating on Terraform through GitHub",
+      "language": "Go",
+      "stars": 277,
+      "forks": 8
+    }
+  ]
+}
