@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 2819,
+      "forks": 166
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 2381,
+      "forks": 65
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-sam-local",
+      "href": "https://github.com/awslabs/aws-sam-local",
+      "description": "AWS SAM Local 🐿 is a CLI tool for local development and testing of Serverless applications",
+      "language": "Go",
+      "stars": 374,
+      "forks": 18
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 1361,
+      "forks": 60
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 30999,
+      "forks": 4175
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 25866,
+      "forks": 9218
+    },
+    {
+      "author": "muesli",
+      "name": "smartcrop",
+      "href": "https://github.com/muesli/smartcrop",
+      "description": "smartcrop finds good image crops for arbitrary crop sizes",
+      "language": "Go",
+      "stars": 845,
+      "forks": 46
+    },
+    {
+      "author": "google",
+      "name": "cloudprober",
+      "href": "https://github.com/google/cloudprober",
+      "description": "An active monitoring software to detect failures before your customers do.",
+      "language": "Go",
+      "stars": 85,
+      "forks": 6
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6570,
+      "forks": 1996
+    },
+    {
+      "author": "matroskin13",
+      "name": "grizzly",
+      "href": "https://github.com/matroskin13/grizzly",
+      "description": "Collections generator for Golang",
+      "language": "Go",
+      "stars": 63,
+      "forks": 3
+    },
+    {
+      "author": "xiaonanln",
+      "name": "goworld",
+      "href": "https://github.com/xiaonanln/goworld",
+      "description": "Scalable Distributed Game Server Engine with Hot Swapping in Golang",
+      "language": "Go",
+      "stars": 155,
+      "forks": 15
+    },
+    {
+      "author": "segmentio",
+      "name": "chamber",
+      "href": "https://github.com/segmentio/chamber",
+      "description": "CLI for managing secrets",
+      "language": "Go",
+      "stars": 76,
+      "forks": 0
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 1281,
+      "forks": 107
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22727,
+      "forks": 2880
+    },
+    {
+      "author": "oakmound",
+      "name": "oak",
+      "href": "https://github.com/oakmound/oak",
+      "description": "A game engine in Go",
+      "language": "Go",
+      "stars": 335,
+      "forks": 10
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17197,
+      "forks": 2900
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45001,
+      "forks": 13340
+    },
+    {
+      "author": "workanator",
+      "name": "go-floc",
+      "href": "https://github.com/workanator/go-floc",
+      "description": "Floc: Orchestrate goroutines with ease.",
+      "language": "Go",
+      "stars": 57,
+      "forks": 0
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14481,
+      "forks": 2801
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 11267,
+      "forks": 1604
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4113,
+      "forks": 236
+    },
+    {
+      "author": "42wim",
+      "name": "matterbridge",
+      "href": "https://github.com/42wim/matterbridge",
+      "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocket.chat,hipchat (via xmpp), steam and matrix with REST API",
+      "language": "Go",
+      "stars": 359,
+      "forks": 46
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11056,
+      "forks": 1238
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11254,
+      "forks": 1311
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 7916,
+      "forks": 609
+    }
+  ]
+}
