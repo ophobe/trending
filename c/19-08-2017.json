@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 3535,
+      "forks": 1654
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 48158,
+      "forks": 18097
+    },
+    {
+      "author": "roecrew",
+      "name": "nymph",
+      "href": "https://github.com/roecrew/nymph",
+      "description": "A slightly different version of C.",
+      "language": "C",
+      "stars": 50,
+      "forks": 2
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24840,
+      "forks": 9445
+    },
+    {
+      "author": "RedisLabsModules",
+      "name": "RediSearch",
+      "href": "https://github.com/RedisLabsModules/RediSearch",
+      "description": "FullText Search module for redis",
+      "language": "C",
+      "stars": 622,
+      "forks": 76
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 23327,
+      "forks": 1864
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18721,
+      "forks": 10708
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12656,
+      "forks": 4272
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 5295,
+      "forks": 482
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13004,
+      "forks": 884
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 6997,
+      "forks": 1667
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui_club",
+      "href": "https://github.com/ocornut/imgui_club",
+      "description": "Nice things to use along with dear imgui",
+      "language": "C",
+      "stars": 47,
+      "forks": 5
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1546,
+      "forks": 410
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9818,
+      "forks": 1223
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 4872,
+      "forks": 2210
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7172,
+      "forks": 1211
+    },
+    {
+      "author": "arduino",
+      "name": "Arduino",
+      "href": "https://github.com/arduino/Arduino",
+      "description": "open-source electronics prototyping platform",
+      "language": "C",
+      "stars": 7070,
+      "forks": 5645
+    },
+    {
+      "author": "flatpak",
+      "name": "flatpak",
+      "href": "https://github.com/flatpak/flatpak",
+      "description": "Linux application sandboxing and distribution framework (formerly xdg-app)",
+      "language": "C",
+      "stars": 971,
+      "forks": 108
+    },
+    {
+      "author": "253647445",
+      "name": "Pocket-Ubuntu-kernel",
+      "href": "https://github.com/253647445/Pocket-Ubuntu-kernel",
+      "description": "Pocket-Ubuntu-kernel4.12",
+      "language": "C",
+      "stars": 49,
+      "forks": 9
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8015,
+      "forks": 3704
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10989,
+      "forks": 2309
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6096,
+      "forks": 798
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "href": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
+      "language": "C",
+      "stars": 501,
+      "forks": 53
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7459,
+      "forks": 572
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "href": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": 2903,
+      "forks": 779
+    }
+  ]
+}
