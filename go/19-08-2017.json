@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 3378,
+      "forks": 181
+    },
+    {
+      "author": "wal-g",
+      "name": "wal-g",
+      "href": "https://github.com/wal-g/wal-g",
+      "description": "Archival and Restoration for Postgres",
+      "language": "Go",
+      "stars": 240,
+      "forks": 8
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 1701,
+      "forks": 173
+    },
+    {
+      "author": "serverless",
+      "name": "event-gateway",
+      "href": "https://github.com/serverless/event-gateway",
+      "description": "The Event Gateway combines both API Gateway and Pub/Sub functionality into a single event-driven experience.",
+      "language": "Go",
+      "stars": 315,
+      "forks": 11
+    },
+    {
+      "author": "c-bata",
+      "name": "go-prompt",
+      "href": "https://github.com/c-bata/go-prompt",
+      "description": "Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.",
+      "language": "Go",
+      "stars": 630,
+      "forks": 10
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4245,
+      "forks": 247
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31172,
+      "forks": 4190
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 2608,
+      "forks": 72
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26078,
+      "forks": 9297
+    },
+    {
+      "author": "achilleasa",
+      "name": "gopher-os",
+      "href": "https://github.com/achilleasa/gopher-os",
+      "description": "A proof of concept OS written in Go",
+      "language": "Go",
+      "stars": 1047,
+      "forks": 49
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45079,
+      "forks": 13376
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6696,
+      "forks": 2037
+    },
+    {
+      "author": "google",
+      "name": "cloudprober",
+      "href": "https://github.com/google/cloudprober",
+      "description": "An active monitoring software to detect failures before your customers do.",
+      "language": "Go",
+      "stars": 230,
+      "forks": 9
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19073,
+      "forks": 2607
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-sam-local",
+      "href": "https://github.com/awslabs/aws-sam-local",
+      "description": "AWS SAM Local 🐿 is a CLI tool for local development and testing of Serverless applications",
+      "language": "Go",
+      "stars": 524,
+      "forks": 35
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22866,
+      "forks": 2892
+    },
+    {
+      "author": "esimov",
+      "name": "diagram",
+      "href": "https://github.com/esimov/diagram",
+      "description": "CLI app to convert ascii arts into hand drawn diagrams.",
+      "language": "Go",
+      "stars": 121,
+      "forks": 1
+    },
+    {
+      "author": "alexandres",
+      "name": "poormanscdn",
+      "href": "https://github.com/alexandres/poormanscdn",
+      "description": "poormanscdn is a caching proxy to Amazon S3 built using Go",
+      "language": "Go",
+      "stars": 68,
+      "forks": 2
+    },
+    {
+      "author": "hatstand",
+      "name": "gacertsbot",
+      "href": "https://github.com/hatstand/gacertsbot",
+      "description": "Updates SSL certificates on Google AppEngine",
+      "language": "Go",
+      "stars": 37,
+      "forks": 0
+    },
+    {
+      "author": "buger",
+      "name": "goreplay",
+      "href": "https://github.com/buger/goreplay",
+      "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+      "language": "Go",
+      "stars": 7731,
+      "forks": 685
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.",
+      "language": "Go",
+      "stars": 7317,
+      "forks": 778
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10707,
+      "forks": 1209
+    },
+    {
+      "author": "tarent",
+      "name": "loginsrv",
+      "href": "https://github.com/tarent/loginsrv",
+      "description": "JWT login microservice with plugable backends such as OAuth2, Github, htpasswd, osiam",
+      "language": "Go",
+      "stars": 430,
+      "forks": 26
+    },
+    {
+      "author": "kgretzky",
+      "name": "dcrawl",
+      "href": "https://github.com/kgretzky/dcrawl",
+      "description": "Simple, but smart, multi-threaded web crawler for randomly gathering huge lists of unique domain names.",
+      "language": "Go",
+      "stars": 221,
+      "forks": 15
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11141,
+      "forks": 1248
+    }
+  ]
+}
