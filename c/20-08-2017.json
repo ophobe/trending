@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 3566,
+      "forks": 1664
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 48177,
+      "forks": 18109
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang",
+      "language": "C",
+      "stars": 52,
+      "forks": 2
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18730,
+      "forks": 10711
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24851,
+      "forks": 9445
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 10997,
+      "forks": 2311
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9823,
+      "forks": 1223
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7468,
+      "forks": 573
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1555,
+      "forks": 411
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13010,
+      "forks": 884
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12783,
+      "forks": 1546
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7003,
+      "forks": 1669
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 5303,
+      "forks": 482
+    },
+    {
+      "author": "jvm-profiling-tools",
+      "name": "perf-map-agent",
+      "href": "https://github.com/jvm-profiling-tools/perf-map-agent",
+      "description": "A java agent to generate method mappings to use with the linux `perf` tool",
+      "language": "C",
+      "stars": 593,
+      "forks": 109
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12660,
+      "forks": 4273
+    },
+    {
+      "author": "mpc-hc",
+      "name": "mpc-hc",
+      "href": "https://github.com/mpc-hc/mpc-hc",
+      "description": "MPC-HC's main repository. For support use our Trac: https://trac.mpc-hc.org/",
+      "language": "C",
+      "stars": 1727,
+      "forks": 578
+    },
+    {
+      "author": "jonls",
+      "name": "redshift",
+      "href": "https://github.com/jonls/redshift",
+      "description": "Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.",
+      "language": "C",
+      "stars": 2882,
+      "forks": 204
+    },
+    {
+      "author": "arduino",
+      "name": "Arduino",
+      "href": "https://github.com/arduino/Arduino",
+      "description": "open-source electronics prototyping platform",
+      "language": "C",
+      "stars": 7074,
+      "forks": 5647
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7177,
+      "forks": 1210
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5189,
+      "forks": 1087
+    },
+    {
+      "author": "roecrew",
+      "name": "nymph",
+      "href": "https://github.com/roecrew/nymph",
+      "description": "A slightly different version of C.",
+      "language": "C",
+      "stars": 56,
+      "forks": 3
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6099,
+      "forks": 798
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8019,
+      "forks": 3704
+    },
+    {
+      "author": "KhronosGroup",
+      "name": "Vulkan-Docs",
+      "href": "https://github.com/KhronosGroup/Vulkan-Docs",
+      "description": "The Vulkan API Specification and related tools",
+      "language": "C",
+      "stars": 1005,
+      "forks": 133
+    },
+    {
+      "author": "Taeung",
+      "name": "git-training",
+      "href": "https://github.com/Taeung/git-training",
+      "description": "Don't think about git, just do git",
+      "language": "C",
+      "stars": 151,
+      "forks": 619
+    }
+  ]
+}
