@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 3670,
+      "forks": 1685
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang",
+      "language": "C",
+      "stars": 119,
+      "forks": 6
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 48200,
+      "forks": 18121
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 24871,
+      "forks": 9455
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 14860,
+      "forks": 4425
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 23355,
+      "forks": 1866
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 5319,
+      "forks": 484
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18739,
+      "forks": 10718
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7015,
+      "forks": 1672
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8030,
+      "forks": 3706
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6488,
+      "forks": 1791
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7480,
+      "forks": 575
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11008,
+      "forks": 2313
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5733,
+      "forks": 3836
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 3756,
+      "forks": 438
+    },
+    {
+      "author": "FRRouting",
+      "name": "frr",
+      "href": "https://github.com/FRRouting/frr",
+      "description": "The FRRouting Protocol Suite",
+      "language": "C",
+      "stars": 264,
+      "forks": 92
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5223,
+      "forks": 2687
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12665,
+      "forks": 4275
+    },
+    {
+      "author": "lumpyzhu",
+      "name": "nmscc",
+      "href": "https://github.com/lumpyzhu/nmscc",
+      "description": "nmscc is a C++14/CUDA Template library for scientific computation:liner algebra(nd-array), unit test, string format, logging, json/xml serialization etc.",
+      "language": "C",
+      "stars": 25,
+      "forks": 5
+    },
+    {
+      "author": "copperhead",
+      "name": "linux-hardened",
+      "href": "https://github.com/copperhead/linux-hardened",
+      "description": "Supplement to upstream hardening work by the Kernel Self Protection Project. Features already provided by SELinux + Yama aren't within the scope of this project and neither are architectures other than multiarch arm64 / x86_64. Only tags have a stable history. Changes from PaX/grsecurity are marked as such. IRC: irc.freenode.net ##linux-hardened",
+      "language": "C",
+      "stars": 171,
+      "forks": 14
+    },
+    {
+      "author": "AppImage",
+      "name": "AppImageKit",
+      "href": "https://github.com/AppImage/AppImageKit",
+      "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net",
+      "language": "C",
+      "stars": 1980,
+      "forks": 136
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern and easy-to-use crypto library.",
+      "language": "C",
+      "stars": 4535,
+      "forks": 636
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 5059,
+      "forks": 1225
+    },
+    {
+      "author": "ldcsaa",
+      "name": "HP-Socket",
+      "href": "https://github.com/ldcsaa/HP-Socket",
+      "description": "High Performance TCP/UDP Socket Component",
+      "language": "C",
+      "stars": 804,
+      "forks": 540
+    },
+    {
+      "author": "Microsoft",
+      "name": "react-native-code-push",
+      "href": "https://github.com/Microsoft/react-native-code-push",
+      "description": "React Native module for CodePush",
+      "language": "C",
+      "stars": 3291,
+      "forks": 429
+    }
+  ]
+}
