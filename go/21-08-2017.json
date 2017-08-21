@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 4135,
+      "forks": 202
+    },
+    {
+      "author": "microo8",
+      "name": "golymer",
+      "href": "https://github.com/microo8/golymer",
+      "description": "Create HTML custom elements with go (gopherjs)",
+      "language": "Go",
+      "stars": 86,
+      "forks": 2
+    },
+    {
+      "author": "apex",
+      "name": "gh-polls",
+      "href": "https://github.com/apex/gh-polls",
+      "description": "Polls for GitHub issues and readmes",
+      "language": "Go",
+      "stars": 1152,
+      "forks": 45
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 2682,
+      "forks": 75
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26139,
+      "forks": 9307
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31234,
+      "forks": 4198
+    },
+    {
+      "author": "wal-g",
+      "name": "wal-g",
+      "href": "https://github.com/wal-g/wal-g",
+      "description": "Archival and Restoration for Postgres",
+      "language": "Go",
+      "stars": 345,
+      "forks": 12
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.",
+      "language": "Go",
+      "stars": 7370,
+      "forks": 782
+    },
+    {
+      "author": "intel-go",
+      "name": "yanff",
+      "href": "https://github.com/intel-go/yanff",
+      "description": "YANFF - Yet Another Network Function Framework",
+      "language": "Go",
+      "stars": 100,
+      "forks": 10
+    },
+    {
+      "author": "awslabs",
+      "name": "goformation",
+      "href": "https://github.com/awslabs/goformation",
+      "description": "GoFormation is a Go library for working with CloudFormation templates.",
+      "language": "Go",
+      "stars": 53,
+      "forks": 7
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6736,
+      "forks": 2055
+    },
+    {
+      "author": "c-bata",
+      "name": "go-prompt",
+      "href": "https://github.com/c-bata/go-prompt",
+      "description": "Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.",
+      "language": "Go",
+      "stars": 685,
+      "forks": 10
+    },
+    {
+      "author": "serverless",
+      "name": "event-gateway",
+      "href": "https://github.com/serverless/event-gateway",
+      "description": "The Event Gateway combines both API Gateway and Pub/Sub functionality into a single event-driven experience.",
+      "language": "Go",
+      "stars": 372,
+      "forks": 11
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22901,
+      "forks": 2893
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19101,
+      "forks": 2610
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "goreporter",
+      "href": "https://github.com/360EntSecGroup-Skylar/goreporter",
+      "description": "A Golang tool that does static analysis, unit testing, code review and generate code quality report.",
+      "language": "Go",
+      "stars": 1644,
+      "forks": 95
+    },
+    {
+      "author": "nuclio",
+      "name": "nuclio",
+      "href": "https://github.com/nuclio/nuclio",
+      "description": "High-Performance Serverless event and data processing framework",
+      "language": "Go",
+      "stars": 26,
+      "forks": 4
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45094,
+      "forks": 13386
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11169,
+      "forks": 1250
+    },
+    {
+      "author": "cristianoliveira",
+      "name": "ergo",
+      "href": "https://github.com/cristianoliveira/ergo",
+      "description": "The management of multiple apps running over different ports made easy",
+      "language": "Go",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11347,
+      "forks": 1328
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4285,
+      "forks": 248
+    },
+    {
+      "author": "achilleasa",
+      "name": "gopher-os",
+      "href": "https://github.com/achilleasa/gopher-os",
+      "description": "A proof of concept OS written in Go",
+      "language": "Go",
+      "stars": 1079,
+      "forks": 52
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17284,
+      "forks": 2916
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14573,
+      "forks": 2819
+    }
+  ]
+}
