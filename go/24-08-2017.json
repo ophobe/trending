@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 4700,
+      "forks": 223
+    },
+    {
+      "author": "elastic",
+      "name": "apm-server",
+      "href": "https://github.com/elastic/apm-server",
+      "description": "APM Server (Experimental)",
+      "language": "Go",
+      "stars": 115,
+      "forks": 15
+    },
+    {
+      "author": "justjanne",
+      "name": "powerline-go",
+      "href": "https://github.com/justjanne/powerline-go",
+      "description": "A beautiful and useful low-latency prompt for your shell, written in go",
+      "language": "Go",
+      "stars": 269,
+      "forks": 15
+    },
+    {
+      "author": "goby-lang",
+      "name": "goby",
+      "href": "https://github.com/goby-lang/goby",
+      "description": "Goby - A new language helps you develop microservices",
+      "language": "Go",
+      "stars": 1394,
+      "forks": 56
+    },
+    {
+      "author": "awalterschulze",
+      "name": "goderive",
+      "href": "https://github.com/awalterschulze/goderive",
+      "description": "Next generation code generator for go",
+      "language": "Go",
+      "stars": 110,
+      "forks": 3
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 574,
+      "forks": 128
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 2848,
+      "forks": 84
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26250,
+      "forks": 9352
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31333,
+      "forks": 4230
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 22973,
+      "forks": 2902
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-sam-local",
+      "href": "https://github.com/awslabs/aws-sam-local",
+      "description": "AWS SAM Local 🐿 is a CLI tool for local development and testing of Serverless applications",
+      "language": "Go",
+      "stars": 638,
+      "forks": 41
+    },
+    {
+      "author": "wal-g",
+      "name": "wal-g",
+      "href": "https://github.com/wal-g/wal-g",
+      "description": "Archival and Restoration for Postgres",
+      "language": "Go",
+      "stars": 447,
+      "forks": 15
+    },
+    {
+      "author": "Caiyeon",
+      "name": "goldfish",
+      "href": "https://github.com/Caiyeon/goldfish",
+      "description": "A HashiCorp Vault UI panel written with VueJS and Vault native Go API",
+      "language": "Go",
+      "stars": 923,
+      "forks": 53
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19168,
+      "forks": 2611
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.",
+      "language": "Go",
+      "stars": 7439,
+      "forks": 786
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 10772,
+      "forks": 1214
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "href": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": 689,
+      "forks": 87
+    },
+    {
+      "author": "AlecAivazis",
+      "name": "survey",
+      "href": "https://github.com/AlecAivazis/survey",
+      "description": "A golang library for building interactive prompts with support for windows and posix terminals.",
+      "language": "Go",
+      "stars": 259,
+      "forks": 12
+    },
+    {
+      "author": "rakyll",
+      "name": "hey",
+      "href": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom",
+      "language": "Go",
+      "stars": 1940,
+      "forks": 147
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 6786,
+      "forks": 2089
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45137,
+      "forks": 13400
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11227,
+      "forks": 1259
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17334,
+      "forks": 2929
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "PostgreSQL ORM for Golang with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 1034,
+      "forks": 68
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17590,
+      "forks": 5442
+    }
+  ]
+}
