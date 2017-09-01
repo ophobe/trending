@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 1810,
+      "forks": 175
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 5173,
+      "forks": 250
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-diff",
+      "href": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "container-diff: Diff your Docker containers",
+      "language": "Go",
+      "stars": 79,
+      "forks": 9
+    },
+    {
+      "author": "streamlist",
+      "name": "streamlist",
+      "href": "https://github.com/streamlist/streamlist",
+      "description": "Streamlist - self-hosted music server written in Go",
+      "language": "Go",
+      "stars": 232,
+      "forks": 8
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 1146,
+      "forks": 99
+    },
+    {
+      "author": "goby-lang",
+      "name": "goby",
+      "href": "https://github.com/goby-lang/goby",
+      "description": "Goby - A new language helps you develop microservices",
+      "language": "Go",
+      "stars": 2067,
+      "forks": 78
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 17215,
+      "forks": 1391
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31586,
+      "forks": 4264
+    },
+    {
+      "author": "yl2chen",
+      "name": "cidranger",
+      "href": "https://github.com/yl2chen/cidranger",
+      "description": "Fast IP to CIDR lookup in Golang",
+      "language": "Go",
+      "stars": 62,
+      "forks": 2
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7005,
+      "forks": 2152
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23188,
+      "forks": 2913
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26485,
+      "forks": 9449
+    },
+    {
+      "author": "alecthomas",
+      "name": "kingpin",
+      "href": "https://github.com/alecthomas/kingpin",
+      "description": "A Go (golang) command line and flag parser",
+      "language": "Go",
+      "stars": 1406,
+      "forks": 96
+    },
+    {
+      "author": "kubeless",
+      "name": "kubeless",
+      "href": "https://github.com/kubeless/kubeless",
+      "description": "Kubernetes Native Serverless Framework",
+      "language": "Go",
+      "stars": 928,
+      "forks": 72
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 20649,
+      "forks": 2385
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17451,
+      "forks": 2959
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 2405,
+      "forks": 200
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45250,
+      "forks": 13452
+    },
+    {
+      "author": "tylertreat",
+      "name": "comcast",
+      "href": "https://github.com/tylertreat/comcast",
+      "description": "Simulating shitty network connections so you can build better systems.",
+      "language": "Go",
+      "stars": 4942,
+      "forks": 196
+    },
+    {
+      "author": "mvdan",
+      "name": "sh",
+      "href": "https://github.com/mvdan/sh",
+      "description": "A shell parser, formatter and interpreter (POSIX/Bash/mksh)",
+      "language": "Go",
+      "stars": 694,
+      "forks": 30
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 1383,
+      "forks": 116
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4472,
+      "forks": 269
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 9350,
+      "forks": 1284
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11531,
+      "forks": 1348
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 3046,
+      "forks": 91
+    }
+  ]
+}
