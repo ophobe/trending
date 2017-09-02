@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-diff",
+      "href": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "container-diff: Diff your Docker containers",
+      "language": "Go",
+      "stars": 125,
+      "forks": 9
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31615,
+      "forks": 4267
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 1177,
+      "forks": 100
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7027,
+      "forks": 2162
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23208,
+      "forks": 2913
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26501,
+      "forks": 9457
+    },
+    {
+      "author": "henrylee2cn",
+      "name": "teleport",
+      "href": "https://github.com/henrylee2cn/teleport",
+      "description": "Teleport is a versatile, high-performance and flexible TCP socket framework. It can be used for RPC, micro services, peer-peer, push services, game services and so on.",
+      "language": "Go",
+      "stars": 580,
+      "forks": 81
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 20672,
+      "forks": 2388
+    },
+    {
+      "author": "ivanilves",
+      "name": "lstags",
+      "href": "https://github.com/ivanilves/lstags",
+      "description": "Compare local Docker images with ones in registry",
+      "language": "Go",
+      "stars": 28,
+      "forks": 1
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 5190,
+      "forks": 252
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 8135,
+      "forks": 635
+    },
+    {
+      "author": "alecthomas",
+      "name": "kingpin",
+      "href": "https://github.com/alecthomas/kingpin",
+      "description": "A Go (golang) command line and flag parser",
+      "language": "Go",
+      "stars": 1425,
+      "forks": 96
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 17236,
+      "forks": 1393
+    },
+    {
+      "author": "streamlist",
+      "name": "streamlist",
+      "href": "https://github.com/streamlist/streamlist",
+      "description": "Streamlist - self-hosted music server written in Go",
+      "language": "Go",
+      "stars": 252,
+      "forks": 8
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 9528,
+      "forks": 889
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19336,
+      "forks": 2616
+    },
+    {
+      "author": "yl2chen",
+      "name": "cidranger",
+      "href": "https://github.com/yl2chen/cidranger",
+      "description": "Fast IP to CIDR lookup in Golang",
+      "language": "Go",
+      "stars": 79,
+      "forks": 2
+    },
+    {
+      "author": "kubeless",
+      "name": "kubeless",
+      "href": "https://github.com/kubeless/kubeless",
+      "description": "Kubernetes Native Serverless Framework",
+      "language": "Go",
+      "stars": 946,
+      "forks": 72
+    },
+    {
+      "author": "rsc",
+      "name": "goversion",
+      "href": "https://github.com/rsc/goversion",
+      "description": "Print version used to build Go executables",
+      "language": "Go",
+      "stars": 107,
+      "forks": 1
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45260,
+      "forks": 13456
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 13776,
+      "forks": 940
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 4488,
+      "forks": 269
+    },
+    {
+      "author": "goby-lang",
+      "name": "goby",
+      "href": "https://github.com/goby-lang/goby",
+      "description": "Goby - A new language helps you develop microservices",
+      "language": "Go",
+      "stars": 2080,
+      "forks": 78
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 3059,
+      "forks": 92
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17747,
+      "forks": 5485
+    }
+  ]
+}
