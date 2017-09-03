@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "matryer",
+      "name": "is",
+      "href": "https://github.com/matryer/is",
+      "description": "Professional lightweight testing mini-framework for Go.",
+      "language": "Go",
+      "stars": 119,
+      "forks": 6
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 1218,
+      "forks": 100
+    },
+    {
+      "author": "streamlist",
+      "name": "streamlist",
+      "href": "https://github.com/streamlist/streamlist",
+      "description": "Streamlist - self-hosted music server written in Go",
+      "language": "Go",
+      "stars": 292,
+      "forks": 8
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31630,
+      "forks": 4275
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7049,
+      "forks": 2168
+    },
+    {
+      "author": "ivanilves",
+      "name": "lstags",
+      "href": "https://github.com/ivanilves/lstags",
+      "description": "Compare local Docker images with ones in registry",
+      "language": "Go",
+      "stars": 48,
+      "forks": 1
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-diff",
+      "href": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "container-diff: Diff your Docker containers",
+      "language": "Go",
+      "stars": 145,
+      "forks": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26520,
+      "forks": 9460
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45274,
+      "forks": 13459
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19355,
+      "forks": 2618
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23221,
+      "forks": 2916
+    },
+    {
+      "author": "knq",
+      "name": "xo",
+      "href": "https://github.com/knq/xo",
+      "description": "Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server",
+      "language": "Go",
+      "stars": 1236,
+      "forks": 102
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17764,
+      "forks": 5486
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "🐳 Functions as a Service - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 5205,
+      "forks": 254
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 17249,
+      "forks": 1396
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 8149,
+      "forks": 636
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 2428,
+      "forks": 201
+    },
+    {
+      "author": "goby-lang",
+      "name": "goby",
+      "href": "https://github.com/goby-lang/goby",
+      "description": "Goby - A new language helps you develop microservices",
+      "language": "Go",
+      "stars": 2093,
+      "forks": 78
+    },
+    {
+      "author": "brocaar",
+      "name": "loraserver",
+      "href": "https://github.com/brocaar/loraserver",
+      "description": "LoRa Server is an open-source LoRaWAN network-server",
+      "language": "Go",
+      "stars": 456,
+      "forks": 178
+    },
+    {
+      "author": "glycerine",
+      "name": "greenpack",
+      "href": "https://github.com/glycerine/greenpack",
+      "description": "Cross-language serialization for Golang: greenpack adds versioning, stronger typing, and optional schema atop msgpack2. `greenpack -msgpack2` produces classic msgpack2, and handles nils. Cousin to ZebraPack (https://github.com/glycerine/zebrapack), greenpack's advantage is fully self-describing data. Oh, and faster than protobufs.",
+      "language": "Go",
+      "stars": 22,
+      "forks": 1
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 13784,
+      "forks": 943
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11548,
+      "forks": 1353
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 20681,
+      "forks": 2390
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 3483,
+      "forks": 1283
+    },
+    {
+      "author": "oklog",
+      "name": "oklog",
+      "href": "https://github.com/oklog/oklog",
+      "description": "A distributed and coördination-free log management system",
+      "language": "Go",
+      "stars": 1842,
+      "forks": 59
+    }
+  ]
+}
