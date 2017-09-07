@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nginx",
+      "name": "unit",
+      "href": "https://github.com/nginx/unit",
+      "description": "An official read-only mirror of http://hg.nginx.org/unit/ which is updated hourly.",
+      "language": "C",
+      "stars": 345,
+      "forks": 17
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 49107,
+      "forks": 18356
+    },
+    {
+      "author": "hellerve",
+      "name": "e",
+      "href": "https://github.com/hellerve/e",
+      "description": "A dead simple editor",
+      "language": "C",
+      "stars": 321,
+      "forks": 16
+    },
+    {
+      "author": "devio",
+      "name": "Walruss",
+      "href": "https://github.com/devio/Walruss",
+      "description": "PC-Wahl 10 Hacking Tools",
+      "language": "C",
+      "stars": 69,
+      "forks": 8
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's lede source",
+      "language": "C",
+      "stars": 93,
+      "forks": 79
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 23743,
+      "forks": 1913
+    },
+    {
+      "author": "maharmstone",
+      "name": "btrfs",
+      "href": "https://github.com/maharmstone/btrfs",
+      "description": "WinBtrfs",
+      "language": "C",
+      "stars": 700,
+      "forks": 39
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25129,
+      "forks": 9590
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18919,
+      "forks": 10841
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7674,
+      "forks": 575
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4173,
+      "forks": 1823
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11223,
+      "forks": 2366
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7311,
+      "forks": 1231
+    },
+    {
+      "author": "bjornbytes",
+      "name": "lovr",
+      "href": "https://github.com/bjornbytes/lovr",
+      "description": "Virtual Reality for Lua",
+      "language": "C",
+      "stars": 204,
+      "forks": 7
+    },
+    {
+      "author": "begeekmyfriend",
+      "name": "bplustree",
+      "href": "https://github.com/begeekmyfriend/bplustree",
+      "description": "A minimal B+ tree algo demo for key-value storage",
+      "language": "C",
+      "stars": 288,
+      "forks": 89
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8181,
+      "forks": 3755
+    },
+    {
+      "author": "JRHZRD",
+      "name": "swapdb",
+      "href": "https://github.com/JRHZRD/swapdb",
+      "description": "A redis compatiable storage which support data exchange between memory and disk. the main thought of swapcache is, keep hot keys in redis and cold keys in disk, to be more important, when a disk key becomes hot, load it to redis, when a memory key becomes cold, transfter it to disk. by using swapcache, we can have both a high preformance cache a…",
+      "language": "C",
+      "stars": 36,
+      "forks": 8
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12799,
+      "forks": 4333
+    },
+    {
+      "author": "rocky",
+      "name": "remake",
+      "href": "https://github.com/rocky/remake",
+      "description": "Enhanced GNU Make - tracing, error reporting, debugging, profiling and more",
+      "language": "C",
+      "stars": 241,
+      "forks": 31
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12897,
+      "forks": 1558
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "href": "https://github.com/jemalloc/jemalloc",
+      "description": null,
+      "language": "C",
+      "stars": 2382,
+      "forks": 518
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5837,
+      "forks": 3901
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 1421,
+      "forks": 2079
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13169,
+      "forks": 884
+    },
+    {
+      "author": "mrkn",
+      "name": "pycall",
+      "href": "https://github.com/mrkn/pycall",
+      "description": "Calling Python functions from the Ruby language",
+      "language": "C",
+      "stars": 146,
+      "forks": 8
+    }
+  ]
+}
