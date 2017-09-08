@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nginx",
+      "name": "unit",
+      "href": "https://github.com/nginx/unit",
+      "description": "An official read-only mirror of http://hg.nginx.org/unit/",
+      "language": "C",
+      "stars": 689,
+      "forks": 27
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 49178,
+      "forks": 18382
+    },
+    {
+      "author": "devio",
+      "name": "Walruss",
+      "href": "https://github.com/devio/Walruss",
+      "description": "PC-Wahl 10 Hacking Tools",
+      "language": "C",
+      "stars": 118,
+      "forks": 11
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 23777,
+      "forks": 1921
+    },
+    {
+      "author": "JRHZRD",
+      "name": "swapdb",
+      "href": "https://github.com/JRHZRD/swapdb",
+      "description": "A redis compatiable storage which support data exchange between memory and disk. the main thought of swapcache is, keep hot keys in redis and cold keys in disk, to be more important, when a disk key becomes hot, load it to redis, when a memory key becomes cold, transfter it to disk. by using swapcache, we can have both a high preformance cache a…",
+      "language": "C",
+      "stars": 61,
+      "forks": 11
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11245,
+      "forks": 2369
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4193,
+      "forks": 1829
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 15200,
+      "forks": 4501
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 9997,
+      "forks": 1243
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 12818,
+      "forks": 4338
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's lede source",
+      "language": "C",
+      "stars": 104,
+      "forks": 91
+    },
+    {
+      "author": "ropensci",
+      "name": "writexl",
+      "href": "https://github.com/ropensci/writexl",
+      "description": "Portable, light-weight data frame to xlsx exporter for R",
+      "language": "C",
+      "stars": 39,
+      "forks": 2
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25141,
+      "forks": 9597
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13183,
+      "forks": 884
+    },
+    {
+      "author": "zdevito",
+      "name": "ATen",
+      "href": "https://github.com/zdevito/ATen",
+      "description": "ATen: A TENsor library for C++11",
+      "language": "C",
+      "stars": 112,
+      "forks": 18
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6604,
+      "forks": 1818
+    },
+    {
+      "author": "maharmstone",
+      "name": "btrfs",
+      "href": "https://github.com/maharmstone/btrfs",
+      "description": "WinBtrfs",
+      "language": "C",
+      "stars": 712,
+      "forks": 40
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18934,
+      "forks": 10849
+    },
+    {
+      "author": "hellerve",
+      "name": "e",
+      "href": "https://github.com/hellerve/e",
+      "description": "A dead simple editor",
+      "language": "C",
+      "stars": 336,
+      "forks": 16
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8190,
+      "forks": 3757
+    },
+    {
+      "author": "mrkn",
+      "name": "pycall.rb",
+      "href": "https://github.com/mrkn/pycall.rb",
+      "description": "Calling Python functions from the Ruby language",
+      "language": "C",
+      "stars": 156,
+      "forks": 9
+    },
+    {
+      "author": "bjornbytes",
+      "name": "lovr",
+      "href": "https://github.com/bjornbytes/lovr",
+      "description": "Virtual Reality for Lua",
+      "language": "C",
+      "stars": 215,
+      "forks": 7
+    },
+    {
+      "author": "littlevgl",
+      "name": "lvgl",
+      "href": "https://github.com/littlevgl/lvgl",
+      "description": "Embedded graphics library with transparency, animations and anti-aliasing with NO Double buffering.",
+      "language": "C",
+      "stars": 36,
+      "forks": 20
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7684,
+      "forks": 574
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7322,
+      "forks": 1233
+    }
+  ]
+}
