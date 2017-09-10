@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14259,
+      "forks": 13346
+    },
+    {
+      "author": "scalameter",
+      "name": "scalameter",
+      "href": "https://github.com/scalameter/scalameter",
+      "description": "Microbenchmarking and performance regression testing framework for the JVM platform.",
+      "language": "Scala",
+      "stars": 356,
+      "forks": 54
+    },
+    {
+      "author": "etorreborre",
+      "name": "specs2",
+      "href": "https://github.com/etorreborre/specs2",
+      "description": "Software Specifications for Scala",
+      "language": "Scala",
+      "stars": 587,
+      "forks": 155
+    },
+    {
+      "author": "quasar-analytics",
+      "name": "quasar",
+      "href": "https://github.com/quasar-analytics/quasar",
+      "description": "Quasar Analytics is a general-purpose compiler for translating data processing and analytics over semi-structured data into efficient plans that run 100% in the target infrastructure.",
+      "language": "Scala",
+      "stars": 542,
+      "forks": 71
+    },
+    {
+      "author": "paulbutcher",
+      "name": "ScalaMock",
+      "href": "https://github.com/paulbutcher/ScalaMock",
+      "description": "Native Scala mocking framework",
+      "language": "Scala",
+      "stars": 301,
+      "forks": 59
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10399,
+      "forks": 1713
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9685,
+      "forks": 3331
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9054,
+      "forks": 5027
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8849,
+      "forks": 2181
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7583,
+      "forks": 2389
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 6550,
+      "forks": 856
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 5930,
+      "forks": 1111
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 5060,
+      "forks": 272
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4094,
+      "forks": 1101
+    },
+    {
+      "author": "airbnb",
+      "name": "aerosolve",
+      "href": "https://github.com/airbnb/aerosolve",
+      "description": "A machine learning package built for humans.",
+      "language": "Scala",
+      "stars": 4089,
+      "forks": 526
+    },
+    {
+      "author": "mesos",
+      "name": "chronos",
+      "href": "https://github.com/mesos/chronos",
+      "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules",
+      "language": "Scala",
+      "stars": 3811,
+      "forks": 515
+    },
+    {
+      "author": "twitter",
+      "name": "snowflake",
+      "href": "https://github.com/twitter/snowflake",
+      "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+      "language": "Scala",
+      "stars": 3643,
+      "forks": 626
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch",
+      "language": "Scala",
+      "stars": 3562,
+      "forks": 819
+    },
+    {
+      "author": "mesosphere",
+      "name": "marathon",
+      "href": "https://github.com/mesosphere/marathon",
+      "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+      "language": "Scala",
+      "stars": 3421,
+      "forks": 782
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 3410,
+      "forks": 181
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "lichess.org: the forever free, adless and open source chess server.",
+      "language": "Scala",
+      "stars": 3383,
+      "forks": 576
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 3330,
+      "forks": 1886
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz",
+      "href": "https://github.com/scalaz/scalaz",
+      "description": "An extension to the core Scala library for functional programming.",
+      "language": "Scala",
+      "stars": 3239,
+      "forks": 519
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3233,
+      "forks": 602
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 3177,
+      "forks": 665
+    }
+  ]
+}
