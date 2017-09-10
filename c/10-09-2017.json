@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nginx",
+      "name": "unit",
+      "href": "https://github.com/nginx/unit",
+      "description": "An official read-only mirror of http://hg.nginx.org/unit/",
+      "language": "C",
+      "stars": 840,
+      "forks": 34
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 49254,
+      "forks": 18403
+    },
+    {
+      "author": "cstack",
+      "name": "db_tutorial",
+      "href": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "language": "C",
+      "stars": 1249,
+      "forks": 49
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 23817,
+      "forks": 1924
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7705,
+      "forks": 575
+    },
+    {
+      "author": "JRHZRD",
+      "name": "swapdb",
+      "href": "https://github.com/JRHZRD/swapdb",
+      "description": "A redis compatiable storage which support data exchange between memory and disk. the main thought of swapcache is, keep hot keys in redis and cold keys in disk, to be more important, when a disk key becomes hot, load it to redis, when a memory key becomes cold, transfter it to disk. by using swapcache, we can have both a high preformance cache a…",
+      "language": "C",
+      "stars": 81,
+      "forks": 14
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 18961,
+      "forks": 10865
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25149,
+      "forks": 9605
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10014,
+      "forks": 1246
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6618,
+      "forks": 1816
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 2819,
+      "forks": 4462
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7166,
+      "forks": 1715
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5337,
+      "forks": 1111
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 5147,
+      "forks": 1244
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 4974,
+      "forks": 2234
+    },
+    {
+      "author": "devio",
+      "name": "Walruss",
+      "href": "https://github.com/devio/Walruss",
+      "description": "PC-Wahl 10 Hacking Tools",
+      "language": "C",
+      "stars": 139,
+      "forks": 11
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4209,
+      "forks": 1834
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "href": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for ESP32.",
+      "language": "C",
+      "stars": 1103,
+      "forks": 492
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 3847,
+      "forks": 501
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd",
+      "href": "https://github.com/freebsd/freebsd",
+      "description": "FreeBSD src tree (read-only mirror)",
+      "language": "C",
+      "stars": 3129,
+      "forks": 1241
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5855,
+      "forks": 3910
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12915,
+      "forks": 1557
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 5020,
+      "forks": 533
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6220,
+      "forks": 806
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 15211,
+      "forks": 4501
+    }
+  ]
+}
