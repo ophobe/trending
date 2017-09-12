@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "coyove",
+      "name": "goflyway",
+      "href": "https://github.com/coyove/goflyway",
+      "description": "HTTP tunnel in Go",
+      "language": "Go",
+      "stars": 1714,
+      "forks": 172
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19542,
+      "forks": 2632
+    },
+    {
+      "author": "jirfag",
+      "name": "go-queryset",
+      "href": "https://github.com/jirfag/go-queryset",
+      "description": "100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood.",
+      "language": "Go",
+      "stars": 159,
+      "forks": 3
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26761,
+      "forks": 9557
+    },
+    {
+      "author": "alexellis",
+      "name": "faas",
+      "href": "https://github.com/alexellis/faas",
+      "description": "Functions as a Service (OpenFaaS) - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 5471,
+      "forks": 276
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23453,
+      "forks": 2948
+    },
+    {
+      "author": "coreos",
+      "name": "bbolt",
+      "href": "https://github.com/coreos/bbolt",
+      "description": "An embedded key/value database for Go.",
+      "language": "Go",
+      "stars": 196,
+      "forks": 563
+    },
+    {
+      "author": "cch123",
+      "name": "asm-cli",
+      "href": "https://github.com/cch123/asm-cli",
+      "description": "Interactive shell of assembly language(X86/X64) based on unicorn and rasm2",
+      "language": "Go",
+      "stars": 47,
+      "forks": 3
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 31955,
+      "forks": 4336
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45413,
+      "forks": 13499
+    },
+    {
+      "author": "posener",
+      "name": "complete",
+      "href": "https://github.com/posener/complete",
+      "description": "bash completion written in go + bash completion for go command",
+      "language": "Go",
+      "stars": 306,
+      "forks": 13
+    },
+    {
+      "author": "adnanh",
+      "name": "webhook",
+      "href": "https://github.com/adnanh/webhook",
+      "description": "webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.",
+      "language": "Go",
+      "stars": 2017,
+      "forks": 144
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 6401,
+      "forks": 1102
+    },
+    {
+      "author": "apex",
+      "name": "static",
+      "href": "https://github.com/apex/static",
+      "description": "The static site anti-framework – general-purpose library, purpose-built generators for various domains",
+      "language": "Go",
+      "stars": 191,
+      "forks": 8
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 9718,
+      "forks": 909
+    },
+    {
+      "author": "thestrukture",
+      "name": "IDE",
+      "href": "https://github.com/thestrukture/IDE",
+      "description": "IDE built for Go with Go",
+      "language": "Go",
+      "stars": 91,
+      "forks": 3
+    },
+    {
+      "author": "greenboxal",
+      "name": "dns-heaven",
+      "href": "https://github.com/greenboxal/dns-heaven",
+      "description": "Fixes stupid macOS DNS stack (/etc/resolv.conf)",
+      "language": "Go",
+      "stars": 53,
+      "forks": 1
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7282,
+      "forks": 2247
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17612,
+      "forks": 2994
+    },
+    {
+      "author": "elsevier-core-engineering",
+      "name": "replicator",
+      "href": "https://github.com/elsevier-core-engineering/replicator",
+      "description": "Automated Cluster and Job Scaling For HashiCorp Nomad",
+      "language": "Go",
+      "stars": 37,
+      "forks": 1
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 17945,
+      "forks": 5516
+    },
+    {
+      "author": "lukechampine",
+      "name": "jsteg",
+      "href": "https://github.com/lukechampine/jsteg",
+      "description": "JPEG steganography",
+      "language": "Go",
+      "stars": 75,
+      "forks": 1
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 12272,
+      "forks": 2822
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 17378,
+      "forks": 1415
+    },
+    {
+      "author": "vmware",
+      "name": "harbor",
+      "href": "https://github.com/vmware/harbor",
+      "description": "An enterprise-class container registry server based on Docker Distribution",
+      "language": "Go",
+      "stars": 2726,
+      "forks": 769
+    }
+  ]
+}
