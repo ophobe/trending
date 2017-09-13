@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 49379,
+      "forks": 18454
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 15287,
+      "forks": 4513
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19002,
+      "forks": 10908
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11316,
+      "forks": 2379
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25216,
+      "forks": 9642
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 23891,
+      "forks": 1936
+    },
+    {
+      "author": "nginx",
+      "name": "unit",
+      "href": "https://github.com/nginx/unit",
+      "description": "An official read-only mirror of http://hg.nginx.org/unit/",
+      "language": "C",
+      "stars": 945,
+      "forks": 37
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4065,
+      "forks": 1845
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7376,
+      "forks": 1239
+    },
+    {
+      "author": "rmtheis",
+      "name": "tess-two",
+      "href": "https://github.com/rmtheis/tess-two",
+      "description": "Fork of Tesseract Tools for Android",
+      "language": "C",
+      "stars": 1973,
+      "forks": 1007
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8236,
+      "forks": 3773
+    },
+    {
+      "author": "cstack",
+      "name": "db_tutorial",
+      "href": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "language": "C",
+      "stars": 1321,
+      "forks": 52
+    },
+    {
+      "author": "jonas",
+      "name": "tig",
+      "href": "https://github.com/jonas/tig",
+      "description": "Text-mode interface for git",
+      "language": "C",
+      "stars": 4888,
+      "forks": 342
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13215,
+      "forks": 885
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5879,
+      "forks": 3912
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 6651,
+      "forks": 1821
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5659,
+      "forks": 1879
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7731,
+      "forks": 576
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's lede source",
+      "language": "C",
+      "stars": 148,
+      "forks": 125
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12946,
+      "forks": 1561
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 4077,
+      "forks": 650
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 1442,
+      "forks": 2125
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 3961,
+      "forks": 466
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7194,
+      "forks": 1722
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 8061,
+      "forks": 3425
+    }
+  ]
+}
