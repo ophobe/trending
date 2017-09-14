@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Tencent",
+      "name": "phxqueue",
+      "href": "https://github.com/Tencent/phxqueue",
+      "description": "A high-availability, high-throughput and highly reliable distributed queue based on the Paxos protocol.",
+      "language": "C++",
+      "stars": 792,
+      "forks": 113
+    },
+    {
+      "author": "brpc",
+      "name": "brpc",
+      "href": "https://github.com/brpc/brpc",
+      "description": "Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called \"baidu-rpc\" inside Baidu.",
+      "language": "C++",
+      "stars": 148,
+      "forks": 21
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "href": "https://github.com/tensorflow/tensorflow",
+      "description": "Computation using data flow graphs for scalable machine learning",
+      "language": "C++",
+      "stars": 69804,
+      "forks": 34359
+    },
+    {
+      "author": "facebookresearch",
+      "name": "Starspace",
+      "href": "https://github.com/facebookresearch/Starspace",
+      "description": "Learning embeddings for classification, retrieval and ranking.",
+      "language": "C++",
+      "stars": 168,
+      "forks": 9
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "href": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": 16642,
+      "forks": 10196
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 50277,
+      "forks": 6430
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "href": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 18180,
+      "forks": 13561
+    },
+    {
+      "author": "BVLC",
+      "name": "caffe",
+      "href": "https://github.com/BVLC/caffe",
+      "description": "Caffe: a fast open framework for deep learning.",
+      "language": "C++",
+      "stars": 20160,
+      "forks": 12376
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "href": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": 12865,
+      "forks": 2801
+    },
+    {
+      "author": "VCVRack",
+      "name": "Rack",
+      "href": "https://github.com/VCVRack/Rack",
+      "description": "Open-source virtual Eurorack DAW",
+      "language": "C++",
+      "stars": 248,
+      "forks": 22
+    },
+    {
+      "author": "google",
+      "name": "protobuf",
+      "href": "https://github.com/google/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 20037,
+      "forks": 5927
+    },
+    {
+      "author": "apple",
+      "name": "swift",
+      "href": "https://github.com/apple/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": 40369,
+      "forks": 6213
+    },
+    {
+      "author": "onnx",
+      "name": "onnx",
+      "href": "https://github.com/onnx/onnx",
+      "description": "Open Neural Network Exchange",
+      "language": "C++",
+      "stars": 1060,
+      "forks": 64
+    },
+    {
+      "author": "yue",
+      "name": "yue",
+      "href": "https://github.com/yue/yue",
+      "description": "A library for creating native cross-platform GUI apps.",
+      "language": "C++",
+      "stars": 671,
+      "forks": 26
+    },
+    {
+      "author": "EyeOfRa",
+      "name": "WinConMon",
+      "href": "https://github.com/EyeOfRa/WinConMon",
+      "description": "Windows Console Monitoring",
+      "language": "C++",
+      "stars": 36,
+      "forks": 5
+    },
+    {
+      "author": "rethinkdb",
+      "name": "rethinkdb",
+      "href": "https://github.com/rethinkdb/rethinkdb",
+      "description": "The open-source database for the realtime web.",
+      "language": "C++",
+      "stars": 19783,
+      "forks": 1601
+    },
+    {
+      "author": "Tencent",
+      "name": "rapidjson",
+      "href": "https://github.com/Tencent/rapidjson",
+      "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "language": "C++",
+      "stars": 4791,
+      "forks": 1456
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "href": "https://github.com/envoyproxy/envoy",
+      "description": "C++ front/service proxy",
+      "language": "C++",
+      "stars": 2198,
+      "forks": 243
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "href": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",
+      "language": "C++",
+      "stars": 8741,
+      "forks": 4274
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "href": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": 9268,
+      "forks": 2290
+    },
+    {
+      "author": "openalpr",
+      "name": "openalpr",
+      "href": "https://github.com/openalpr/openalpr",
+      "description": "Automatic License Plate Recognition library",
+      "language": "C++",
+      "stars": 5964,
+      "forks": 1225
+    },
+    {
+      "author": "kaldi-asr",
+      "name": "kaldi",
+      "href": "https://github.com/kaldi-asr/kaldi",
+      "description": "This is now the official location of the Kaldi project.",
+      "language": "C++",
+      "stars": 2460,
+      "forks": 1233
+    },
+    {
+      "author": "Microsoft",
+      "name": "CNTK",
+      "href": "https://github.com/Microsoft/CNTK",
+      "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+      "language": "C++",
+      "stars": 12371,
+      "forks": 3192
+    },
+    {
+      "author": "v8",
+      "name": "v8",
+      "href": "https://github.com/v8/v8",
+      "description": "The official mirror of the V8 git repository",
+      "language": "C++",
+      "stars": 6656,
+      "forks": 1489
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo",
+      "href": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "stars": 12236,
+      "forks": 3286
+    }
+  ]
+}
