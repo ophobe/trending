@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "pikkr",
+      "name": "pikkr",
+      "href": "https://github.com/pikkr/pikkr",
+      "description": "JSON parser which picks up values directly without performing tokenization in Rust",
+      "language": "Rust",
+      "stars": 297,
+      "forks": 5
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 6929,
+      "forks": 245
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 23430,
+      "forks": 4298
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 5797,
+      "forks": 216
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2168,
+      "forks": 245
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5124,
+      "forks": 318
+    },
+    {
+      "author": "azerupi",
+      "name": "mdBook",
+      "href": "https://github.com/azerupi/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 631,
+      "forks": 99
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3362,
+      "forks": 94
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 2062,
+      "forks": 410
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "a modern embedded database",
+      "language": "Rust",
+      "stars": 140,
+      "forks": 5
+    },
+    {
+      "author": "phaazon",
+      "name": "luminance-rs",
+      "href": "https://github.com/phaazon/luminance-rs",
+      "description": "Type-safe, type-level and stateless Rust graphics framework",
+      "language": "Rust",
+      "stars": 111,
+      "forks": 7
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rls",
+      "href": "https://github.com/rust-lang-nursery/rls",
+      "description": "Repository for the Rust Language Server (aka RLS)",
+      "language": "Rust",
+      "stars": 1027,
+      "forks": 76
+    },
+    {
+      "author": "carllerche",
+      "name": "h2",
+      "href": "https://github.com/carllerche/h2",
+      "description": "HTTP 2.0 client & server implementation for Rust.",
+      "language": "Rust",
+      "stars": 108,
+      "forks": 7
+    },
+    {
+      "author": "isislovecruft",
+      "name": "curve25519-dalek",
+      "href": "https://github.com/isislovecruft/curve25519-dalek",
+      "description": "A low-level cryptographic library for point, group, field, and scalar operations on a curve isomorphic to the twisted Edwards curve defined by -x²+y² = 1 - 121665/121666 x²y² over GF(2²⁵⁵ - 19).",
+      "language": "Rust",
+      "stars": 105,
+      "forks": 25
+    },
+    {
+      "author": "servo",
+      "name": "cocoa-rs",
+      "href": "https://github.com/servo/cocoa-rs",
+      "description": "Cocoa/Objective-C bindings for the Rust programming language",
+      "language": "Rust",
+      "stars": 257,
+      "forks": 67
+    },
+    {
+      "author": "sdroege",
+      "name": "gstreamer-rs",
+      "href": "https://github.com/sdroege/gstreamer-rs",
+      "description": "GStreamer bindings for Rust",
+      "language": "Rust",
+      "stars": 27,
+      "forks": 7
+    },
+    {
+      "author": "redox-os",
+      "name": "sodium",
+      "href": "https://github.com/redox-os/sodium",
+      "description": "Sodium: The Text Editor",
+      "language": "Rust",
+      "stars": 110,
+      "forks": 24
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-proto",
+      "href": "https://github.com/tokio-rs/tokio-proto",
+      "description": "A network application framework for Rust",
+      "language": "Rust",
+      "stars": 695,
+      "forks": 77
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 603,
+      "forks": 182
+    },
+    {
+      "author": "alexcrichton",
+      "name": "gcc-rs",
+      "href": "https://github.com/alexcrichton/gcc-rs",
+      "description": "Rust library for build scripts to compile C/C++ code into a Rust library",
+      "language": "Rust",
+      "stars": 163,
+      "forks": 96
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cli",
+      "href": "https://github.com/getsentry/sentry-cli",
+      "description": "A command line utility to work with Sentry.",
+      "language": "Rust",
+      "stars": 124,
+      "forks": 21
+    },
+    {
+      "author": "BurntSushi",
+      "name": "cargo-benchcmp",
+      "href": "https://github.com/BurntSushi/cargo-benchcmp",
+      "description": "A small utility to compare Rust micro-benchmarks.",
+      "language": "Rust",
+      "stars": 93,
+      "forks": 10
+    },
+    {
+      "author": "tafia",
+      "name": "quick-xml",
+      "href": "https://github.com/tafia/quick-xml",
+      "description": "Rust high performance xml reader and writer",
+      "language": "Rust",
+      "stars": 85,
+      "forks": 18
+    },
+    {
+      "author": "nikomatsakis",
+      "name": "rayon",
+      "href": "https://github.com/nikomatsakis/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 1225,
+      "forks": 99
+    },
+    {
+      "author": "alexcrichton",
+      "name": "toml-rs",
+      "href": "https://github.com/alexcrichton/toml-rs",
+      "description": "A TOML encoding/decoding library for Rust",
+      "language": "Rust",
+      "stars": 275,
+      "forks": 68
+    }
+  ]
+}
