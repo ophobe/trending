@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "source-foundry",
+      "name": "Hack",
+      "href": "https://github.com/source-foundry/Hack",
+      "description": "A typeface designed for source code",
+      "language": "Python",
+      "stars": 9791,
+      "forks": 322
+    },
+    {
+      "author": "eriklindernoren",
+      "name": "ML-From-Scratch",
+      "href": "https://github.com/eriklindernoren/ML-From-Scratch",
+      "description": "Bare bones Python implementations of Machine Learning models and algorithms. Aims to cover everything from Data Mining techniques to Deep Learning.",
+      "language": "Python",
+      "stars": 6885,
+      "forks": 772
+    },
+    {
+      "author": "allenai",
+      "name": "allennlp",
+      "href": "https://github.com/allenai/allennlp",
+      "description": "An open-source NLP research library, built on PyTorch.",
+      "language": "Python",
+      "stars": 761,
+      "forks": 55
+    },
+    {
+      "author": "python",
+      "name": "cpython",
+      "href": "https://github.com/python/cpython",
+      "description": "The Python programming language",
+      "language": "Python",
+      "stars": 13005,
+      "forks": 2521
+    },
+    {
+      "author": "LiyuanLucasLiu",
+      "name": "LM-LSTM-CRF",
+      "href": "https://github.com/LiyuanLucasLiu/LM-LSTM-CRF",
+      "description": "Efficient and Effective: Empower Sequence Labeling with Task-Aware Language Model",
+      "language": "Python",
+      "stars": 52,
+      "forks": 6
+    },
+    {
+      "author": "songrotek",
+      "name": "Deep-Learning-Papers-Reading-Roadmap",
+      "href": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "language": "Python",
+      "stars": 13550,
+      "forks": 2570
+    },
+    {
+      "author": "LewisVo",
+      "name": "Awesome-Linux-Software",
+      "href": "https://github.com/LewisVo/Awesome-Linux-Software",
+      "description": "🐧 A list of awesome applications, software, tools and other materials for Linux distros.",
+      "language": "Python",
+      "stars": 7710,
+      "forks": 578
+    },
+    {
+      "author": "rg3",
+      "name": "youtube-dl",
+      "href": "https://github.com/rg3/youtube-dl",
+      "description": "Command-line program to download videos from YouTube.com and other video sites",
+      "language": "Python",
+      "stars": 29214,
+      "forks": 5492
+    },
+    {
+      "author": "vinta",
+      "name": "awesome-python",
+      "href": "https://github.com/vinta/awesome-python",
+      "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+      "language": "Python",
+      "stars": 38636,
+      "forks": 7331
+    },
+    {
+      "author": "ansible",
+      "name": "awx",
+      "href": "https://github.com/ansible/awx",
+      "description": "AWX Project",
+      "language": "Python",
+      "stars": 1785,
+      "forks": 179
+    },
+    {
+      "author": "tensorflow",
+      "name": "models",
+      "href": "https://github.com/tensorflow/models",
+      "description": "Models built with TensorFlow",
+      "language": "Python",
+      "stars": 21128,
+      "forks": 9492
+    },
+    {
+      "author": "fchollet",
+      "name": "keras",
+      "href": "https://github.com/fchollet/keras",
+      "description": "Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.",
+      "language": "Python",
+      "stars": 19553,
+      "forks": 7092
+    },
+    {
+      "author": "Cloud-CV",
+      "name": "EvalAI",
+      "href": "https://github.com/Cloud-CV/EvalAI",
+      "description": "☁️ Evaluating state of the art in AI",
+      "language": "Python",
+      "stars": 202,
+      "forks": 79
+    },
+    {
+      "author": "taki0112",
+      "name": "SENet-Tensorflow",
+      "href": "https://github.com/taki0112/SENet-Tensorflow",
+      "description": "Simple Tensorflow implementation of Squeeze Excitation Networks using Cifar10 (ResNeXt, Inception-v4, Inception-resnet-v2)",
+      "language": "Python",
+      "stars": 34,
+      "forks": 5
+    },
+    {
+      "author": "XX-net",
+      "name": "XX-Net",
+      "href": "https://github.com/XX-net/XX-Net",
+      "description": "a web proxy tool",
+      "language": "Python",
+      "stars": 16660,
+      "forks": 5370
+    },
+    {
+      "author": "django",
+      "name": "django",
+      "href": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "language": "Python",
+      "stars": 28240,
+      "forks": 11812
+    },
+    {
+      "author": "donnemartin",
+      "name": "system-design-primer",
+      "href": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 19459,
+      "forks": 2170
+    },
+    {
+      "author": "mli",
+      "name": "gluon-tutorials-zh",
+      "href": "https://github.com/mli/gluon-tutorials-zh",
+      "description": "通过MXNet/Gluon来动手学习深度学习",
+      "language": "Python",
+      "stars": 567,
+      "forks": 120
+    },
+    {
+      "author": "bhdresh",
+      "name": "CVE-2017-8759",
+      "href": "https://github.com/bhdresh/CVE-2017-8759",
+      "description": "Exploit toolkit CVE-2017-8759 - v1.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. It could generate a malicious RTF file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.",
+      "language": "Python",
+      "stars": 55,
+      "forks": 15
+    },
+    {
+      "author": "scikit-learn",
+      "name": "scikit-learn",
+      "href": "https://github.com/scikit-learn/scikit-learn",
+      "description": "scikit-learn: machine learning in Python",
+      "language": "Python",
+      "stars": 21230,
+      "forks": 11386
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "forseti-security",
+      "href": "https://github.com/GoogleCloudPlatform/forseti-security",
+      "description": null,
+      "language": "Python",
+      "stars": 96,
+      "forks": 34
+    },
+    {
+      "author": "ansible",
+      "name": "ansible",
+      "href": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.",
+      "language": "Python",
+      "stars": 25488,
+      "forks": 8864
+    },
+    {
+      "author": "taolei87",
+      "name": "sru",
+      "href": "https://github.com/taolei87/sru",
+      "description": "Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)",
+      "language": "Python",
+      "stars": 856,
+      "forks": 109
+    },
+    {
+      "author": "pandas-dev",
+      "name": "pandas",
+      "href": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "language": "Python",
+      "stars": 10856,
+      "forks": 4325
+    },
+    {
+      "author": "josephmisiti",
+      "name": "awesome-machine-learning",
+      "href": "https://github.com/josephmisiti/awesome-machine-learning",
+      "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+      "language": "Python",
+      "stars": 25840,
+      "forks": 6384
+    }
+  ]
+}
