@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 2014,
+      "forks": 180
+    },
+    {
+      "author": "coyove",
+      "name": "goflyway",
+      "href": "https://github.com/coyove/goflyway",
+      "description": "HTTP tunnel in Go",
+      "language": "Go",
+      "stars": 2142,
+      "forks": 232
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 14051,
+      "forks": 983
+    },
+    {
+      "author": "uber",
+      "name": "jaeger",
+      "href": "https://github.com/uber/jaeger",
+      "description": "Jaeger, a Distributed Tracing System",
+      "language": "Go",
+      "stars": 1367,
+      "forks": 135
+    },
+    {
+      "author": "rgburke",
+      "name": "grv",
+      "href": "https://github.com/rgburke/grv",
+      "description": "GRV is a terminal interface for viewing git repositories",
+      "language": "Go",
+      "stars": 262,
+      "forks": 5
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 32081,
+      "forks": 4352
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 9845,
+      "forks": 930
+    },
+    {
+      "author": "lukechampine",
+      "name": "jsteg",
+      "href": "https://github.com/lukechampine/jsteg",
+      "description": "JPEG steganography",
+      "language": "Go",
+      "stars": 181,
+      "forks": 4
+    },
+    {
+      "author": "WedgeServer",
+      "name": "wedge",
+      "href": "https://github.com/WedgeServer/wedge",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 158,
+      "forks": 983
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 26869,
+      "forks": 9610
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 20879,
+      "forks": 2419
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17695,
+      "forks": 3011
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23546,
+      "forks": 2967
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 11829,
+      "forks": 1383
+    },
+    {
+      "author": "NYTimes",
+      "name": "gziphandler",
+      "href": "https://github.com/NYTimes/gziphandler",
+      "description": "Golang middleware to gzip HTTP responses",
+      "language": "Go",
+      "stars": 301,
+      "forks": 71
+    },
+    {
+      "author": "tmc",
+      "name": "pqstream",
+      "href": "https://github.com/tmc/pqstream",
+      "description": "pqstream turns your postgres database into an event stream",
+      "language": "Go",
+      "stars": 282,
+      "forks": 7
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 3285,
+      "forks": 97
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 6482,
+      "forks": 1107
+    },
+    {
+      "author": "vaporz",
+      "name": "turbo",
+      "href": "https://github.com/vaporz/turbo",
+      "description": "A lightweight microservice tool, turn your grpc|thrift APIs into HTTP APIs!",
+      "language": "Go",
+      "stars": 65,
+      "forks": 10
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 14887,
+      "forks": 2877
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "href": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": 775,
+      "forks": 93
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11589,
+      "forks": 1326
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 18017,
+      "forks": 5525
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7361,
+      "forks": 2286
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45481,
+      "forks": 13518
+    }
+  ]
+}
