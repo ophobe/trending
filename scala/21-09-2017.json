@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14383,
+      "forks": 13472
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9234,
+      "forks": 5066
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2641,
+      "forks": 236
+    },
+    {
+      "author": "scalacenter",
+      "name": "scalafix",
+      "href": "https://github.com/scalacenter/scalafix",
+      "description": "Refactoring library and tool for Scala",
+      "language": "Scala",
+      "stars": 150,
+      "forks": 42
+    },
+    {
+      "author": "foundweekends",
+      "name": "giter8",
+      "href": "https://github.com/foundweekends/giter8",
+      "description": "a command line tool to apply templates defined on GitHub",
+      "language": "Scala",
+      "stars": 1219,
+      "forks": 162
+    },
+    {
+      "author": "squeryl",
+      "name": "squeryl",
+      "href": "https://github.com/squeryl/squeryl",
+      "description": "A Scala DSL for talking with databases with minimum verbosity and maximum type safety",
+      "language": "Scala",
+      "stars": 490,
+      "forks": 122
+    },
+    {
+      "author": "Nycto",
+      "name": "Hasher",
+      "href": "https://github.com/Nycto/Hasher",
+      "description": "A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2)",
+      "language": "Scala",
+      "stars": 147,
+      "forks": 29
+    },
+    {
+      "author": "playframework",
+      "name": "play-json",
+      "href": "https://github.com/playframework/play-json",
+      "description": "The Play JSON library",
+      "language": "Scala",
+      "stars": 95,
+      "forks": 35
+    },
+    {
+      "author": "twitter",
+      "name": "twitter-server",
+      "href": "https://github.com/twitter/twitter-server",
+      "description": "Twitter-Server defines a template from which services at Twitter are built",
+      "language": "Scala",
+      "stars": 755,
+      "forks": 138
+    },
+    {
+      "author": "IBMSparkGPU",
+      "name": "GPUEnabler",
+      "href": "https://github.com/IBMSparkGPU/GPUEnabler",
+      "description": "Provides GPU awareness to Spark, Contact: @kmadhugit and @kiszk",
+      "language": "Scala",
+      "stars": 84,
+      "forks": 35
+    },
+    {
+      "author": "whisklabs",
+      "name": "docker-it-scala",
+      "href": "https://github.com/whisklabs/docker-it-scala",
+      "description": "Docker integration testing kit with Scala",
+      "language": "Scala",
+      "stars": 227,
+      "forks": 50
+    },
+    {
+      "author": "sbt",
+      "name": "zinc",
+      "href": "https://github.com/sbt/zinc",
+      "description": "Scala incremental compiler library, originally part of sbt",
+      "language": "Scala",
+      "stars": 96,
+      "forks": 45
+    },
+    {
+      "author": "databricks",
+      "name": "tensorframes",
+      "href": "https://github.com/databricks/tensorframes",
+      "description": "Tensorflow wrapper for DataFrames on Apache Spark",
+      "language": "Scala",
+      "stars": 538,
+      "forks": 111
+    },
+    {
+      "author": "tresata",
+      "name": "spark-kafka",
+      "href": "https://github.com/tresata/spark-kafka",
+      "description": "Low level integration of Spark and Kafka",
+      "language": "Scala",
+      "stars": 123,
+      "forks": 35
+    },
+    {
+      "author": "dacr",
+      "name": "jassh",
+      "href": "https://github.com/dacr/jassh",
+      "description": "High level scala SSH API for easy and fast operations on remote servers.",
+      "language": "Scala",
+      "stars": 46,
+      "forks": 26
+    },
+    {
+      "author": "arktekk",
+      "name": "sbt-aether-deploy",
+      "href": "https://github.com/arktekk/sbt-aether-deploy",
+      "description": "Deploy SBT artifacts using Eclipse Aether",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 22
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Reactive Enterprise Integration — Alpakka",
+      "language": "Scala",
+      "stars": 420,
+      "forks": 178
+    },
+    {
+      "author": "pingcap",
+      "name": "tispark",
+      "href": "https://github.com/pingcap/tispark",
+      "description": "TiSpark is a thin layer built for running Apache Spark on top of TiDB/TiKV",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 16
+    },
+    {
+      "author": "scalapb",
+      "name": "ScalaPB",
+      "href": "https://github.com/scalapb/ScalaPB",
+      "description": "Protocol buffer compiler for Scala.",
+      "language": "Scala",
+      "stars": 486,
+      "forks": 86
+    },
+    {
+      "author": "ucb-bar",
+      "name": "chisel-tutorial",
+      "href": "https://github.com/ucb-bar/chisel-tutorial",
+      "description": "chisel tutorial exercises and answers",
+      "language": "Scala",
+      "stars": 87,
+      "forks": 52
+    },
+    {
+      "author": "datamountaineer",
+      "name": "stream-reactor",
+      "href": "https://github.com/datamountaineer/stream-reactor",
+      "description": "Streaming reference architecture built around Kafka.",
+      "language": "Scala",
+      "stars": 227,
+      "forks": 80
+    },
+    {
+      "author": "MightyPirates",
+      "name": "OpenComputers",
+      "href": "https://github.com/MightyPirates/OpenComputers",
+      "description": "Home of the OpenComputers mod for Minecraft.",
+      "language": "Scala",
+      "stars": 559,
+      "forks": 208
+    },
+    {
+      "author": "scala",
+      "name": "compiler-benchmark",
+      "href": "https://github.com/scala/compiler-benchmark",
+      "description": "Benchmarks for scalac",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 15
+    },
+    {
+      "author": "databricks",
+      "name": "spark-sql-perf",
+      "href": "https://github.com/databricks/spark-sql-perf",
+      "description": null,
+      "language": "Scala",
+      "stars": 158,
+      "forks": 140
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10417,
+      "forks": 1713
+    }
+  ]
+}
