@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14389,
+      "forks": 13481
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7623,
+      "forks": 2408
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9731,
+      "forks": 3340
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3256,
+      "forks": 610
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1040,
+      "forks": 194
+    },
+    {
+      "author": "scalameta",
+      "name": "scalafmt",
+      "href": "https://github.com/scalameta/scalafmt",
+      "description": "Code formatter for Scala",
+      "language": "Scala",
+      "stars": 508,
+      "forks": 114
+    },
+    {
+      "author": "sryza",
+      "name": "aas",
+      "href": "https://github.com/sryza/aas",
+      "description": "Code to accompany Advanced Analytics with Spark from O'Reilly Media",
+      "language": "Scala",
+      "stars": 881,
+      "forks": 709
+    },
+    {
+      "author": "Azure",
+      "name": "azure-cosmosdb-spark",
+      "href": "https://github.com/Azure/azure-cosmosdb-spark",
+      "description": "This project provides a client library that allows Azure Cosmos DB to act as an input source or output sink for Spark jobs.",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 20
+    },
+    {
+      "author": "scalacenter",
+      "name": "scaladex",
+      "href": "https://github.com/scalacenter/scaladex",
+      "description": "The Scala Package Index",
+      "language": "Scala",
+      "stars": 104,
+      "forks": 31
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 456,
+      "forks": 206
+    },
+    {
+      "author": "rabobank-nederland",
+      "name": "rule-engine",
+      "href": "https://github.com/rabobank-nederland/rule-engine",
+      "description": "A rule engine supporting forward chaining",
+      "language": "Scala",
+      "stars": 43,
+      "forks": 5
+    },
+    {
+      "author": "intel-analytics",
+      "name": "BigDL",
+      "href": "https://github.com/intel-analytics/BigDL",
+      "description": "BigDL: Distributed Deep Learning Library for Apache Spark",
+      "language": "Scala",
+      "stars": 2005,
+      "forks": 406
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 541,
+      "forks": 224
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 609,
+      "forks": 196
+    },
+    {
+      "author": "swagger-akka-http",
+      "name": "swagger-akka-http",
+      "href": "https://github.com/swagger-akka-http/swagger-akka-http",
+      "description": "Support for generating Swagger REST API documentation for Akka-Http based services.",
+      "language": "Scala",
+      "stars": 131,
+      "forks": 96
+    },
+    {
+      "author": "Sagacify",
+      "name": "sonar-scala",
+      "href": "https://github.com/Sagacify/sonar-scala",
+      "description": "Sonarqube plugin for scala analysis",
+      "language": "Scala",
+      "stars": 44,
+      "forks": 26
+    },
+    {
+      "author": "lloydmeta",
+      "name": "enumeratum",
+      "href": "https://github.com/lloydmeta/enumeratum",
+      "description": "A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.",
+      "language": "Scala",
+      "stars": 464,
+      "forks": 55
+    },
+    {
+      "author": "paypal",
+      "name": "squbs",
+      "href": "https://github.com/paypal/squbs",
+      "description": "Akka/Akka HTTP for Large-Scale Production Deployments",
+      "language": "Scala",
+      "stars": 944,
+      "forks": 162
+    },
+    {
+      "author": "hdinsight",
+      "name": "spark-eventhubs",
+      "href": "https://github.com/hdinsight/spark-eventhubs",
+      "description": "Achieving Real-time Data Analytics with Spark and EventHubs",
+      "language": "Scala",
+      "stars": 37,
+      "forks": 32
+    },
+    {
+      "author": "scalanlp",
+      "name": "breeze",
+      "href": "https://github.com/scalanlp/breeze",
+      "description": "Breeze is a numerical processing library for Scala.",
+      "language": "Scala",
+      "stars": 2224,
+      "forks": 562
+    },
+    {
+      "author": "datamountaineer",
+      "name": "stream-reactor",
+      "href": "https://github.com/datamountaineer/stream-reactor",
+      "description": "Streaming reference architecture built around Kafka.",
+      "language": "Scala",
+      "stars": 227,
+      "forks": 80
+    },
+    {
+      "author": "ACINQ",
+      "name": "bitcoin-lib",
+      "href": "https://github.com/ACINQ/bitcoin-lib",
+      "description": "Simple bitcoin library written in Scala",
+      "language": "Scala",
+      "stars": 43,
+      "forks": 11
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10420,
+      "forks": 1713
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9250,
+      "forks": 5070
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8892,
+      "forks": 2187
+    }
+  ]
+}
