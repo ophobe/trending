@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ranveeraggarwal",
+      "name": "rust-raytracer",
+      "href": "https://github.com/ranveeraggarwal/rust-raytracer",
+      "description": "An implementation of Peter Shirley's Ray Tracing in One Weekend.",
+      "language": "Rust",
+      "stars": 38,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 23512,
+      "forks": 4333
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 7009,
+      "forks": 247
+    },
+    {
+      "author": "servo",
+      "name": "webrender",
+      "href": "https://github.com/servo/webrender",
+      "description": "A GPU-based renderer for the web",
+      "language": "Rust",
+      "stars": 671,
+      "forks": 123
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 2110,
+      "forks": 424
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 2829,
+      "forks": 173
+    },
+    {
+      "author": "weld-project",
+      "name": "weld",
+      "href": "https://github.com/weld-project/weld",
+      "description": "High-performance runtime for data analytics applications",
+      "language": "Rust",
+      "stars": 613,
+      "forks": 65
+    },
+    {
+      "author": "JunSuzukiJapan",
+      "name": "macro-lisp",
+      "href": "https://github.com/JunSuzukiJapan/macro-lisp",
+      "description": "Lisp-like DSL for Rust language",
+      "language": "Rust",
+      "stars": 141,
+      "forks": 7
+    },
+    {
+      "author": "nikomatsakis",
+      "name": "rayon",
+      "href": "https://github.com/nikomatsakis/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 1251,
+      "forks": 100
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3397,
+      "forks": 98
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2183,
+      "forks": 245
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio-core",
+      "href": "https://github.com/tokio-rs/tokio-core",
+      "description": "I/O primitives and event loop for async I/O in Rust",
+      "language": "Rust",
+      "stars": 452,
+      "forks": 101
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "piston-examples",
+      "href": "https://github.com/PistonDevelopers/piston-examples",
+      "description": "A collection of examples using the Piston game engine",
+      "language": "Rust",
+      "stars": 152,
+      "forks": 61
+    },
+    {
+      "author": "m-decoster",
+      "name": "RsGenetic",
+      "href": "https://github.com/m-decoster/RsGenetic",
+      "description": "Genetic Algorithm library in Rust",
+      "language": "Rust",
+      "stars": 27,
+      "forks": 5
+    },
+    {
+      "author": "tensorflow",
+      "name": "rust",
+      "href": "https://github.com/tensorflow/rust",
+      "description": "Rust language bindings for TensorFlow",
+      "language": "Rust",
+      "stars": 813,
+      "forks": 88
+    },
+    {
+      "author": "BurntSushi",
+      "name": "walkdir",
+      "href": "https://github.com/BurntSushi/walkdir",
+      "description": "Rust library for walking directories recursively.",
+      "language": "Rust",
+      "stars": 162,
+      "forks": 39
+    },
+    {
+      "author": "cobalt-org",
+      "name": "liquid-rust",
+      "href": "https://github.com/cobalt-org/liquid-rust",
+      "description": "Liquid templating for Rust",
+      "language": "Rust",
+      "stars": 71,
+      "forks": 30
+    },
+    {
+      "author": "abonander",
+      "name": "multipart",
+      "href": "https://github.com/abonander/multipart",
+      "description": "A backend-agnostic extension for file uploads in HTTP libraries for Rust",
+      "language": "Rust",
+      "stars": 75,
+      "forks": 32
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 1293,
+      "forks": 66
+    },
+    {
+      "author": "rusoto",
+      "name": "rusoto",
+      "href": "https://github.com/rusoto/rusoto",
+      "description": "AWS SDK for Rust",
+      "language": "Rust",
+      "stars": 425,
+      "forks": 100
+    },
+    {
+      "author": "Rust-SDL2",
+      "name": "rust-sdl2",
+      "href": "https://github.com/Rust-SDL2/rust-sdl2",
+      "description": "SDL2 bindings for Rust",
+      "language": "Rust",
+      "stars": 590,
+      "forks": 193
+    },
+    {
+      "author": "japaric",
+      "name": "svd2rust",
+      "href": "https://github.com/japaric/svd2rust",
+      "description": "Generate Rust register maps (`struct`s) from SVD files",
+      "language": "Rust",
+      "stars": 71,
+      "forks": 32
+    },
+    {
+      "author": "danburkert",
+      "name": "prost",
+      "href": "https://github.com/danburkert/prost",
+      "description": "PROST! a Protocol Buffers implementation for the Rust Language",
+      "language": "Rust",
+      "stars": 224,
+      "forks": 10
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 2182,
+      "forks": 265
+    },
+    {
+      "author": "bluss",
+      "name": "rust-ndarray",
+      "href": "https://github.com/bluss/rust-ndarray",
+      "description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+      "language": "Rust",
+      "stars": 341,
+      "forks": 41
+    }
+  ]
+}
