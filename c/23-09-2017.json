@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 49738,
+      "forks": 18574
+    },
+    {
+      "author": "walesey",
+      "name": "binPipe",
+      "href": "https://github.com/walesey/binPipe",
+      "description": null,
+      "language": "C",
+      "stars": 77,
+      "forks": 3
+    },
+    {
+      "author": "michael-lazar",
+      "name": "hn-gopher",
+      "href": "https://github.com/michael-lazar/hn-gopher",
+      "description": "A Hacker News mirror for Gopher",
+      "language": "C",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19107,
+      "forks": 10990
+    },
+    {
+      "author": "julycoding",
+      "name": "The-Art-Of-Programming-By-July",
+      "href": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+      "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+      "language": "C",
+      "stars": 11720,
+      "forks": 5193
+    },
+    {
+      "author": "carolemieux",
+      "name": "afl-rb",
+      "href": "https://github.com/carolemieux/afl-rb",
+      "description": "Extension of AFL to Target Rare Branches",
+      "language": "C",
+      "stars": 24,
+      "forks": 4
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24134,
+      "forks": 1963
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11501,
+      "forks": 2424
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25407,
+      "forks": 9707
+    },
+    {
+      "author": "zhezhaoa",
+      "name": "ngram2vec",
+      "href": "https://github.com/zhezhaoa/ngram2vec",
+      "description": null,
+      "language": "C",
+      "stars": 79,
+      "forks": 20
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7814,
+      "forks": 579
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 12999,
+      "forks": 1567
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8341,
+      "forks": 3809
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1730,
+      "forks": 449
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7436,
+      "forks": 1251
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7250,
+      "forks": 1737
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10123,
+      "forks": 1273
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern and easy-to-use crypto library.",
+      "language": "C",
+      "stars": 4661,
+      "forks": 662
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 5949,
+      "forks": 3938
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 7105,
+      "forks": 496
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "href": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 2239,
+      "forks": 402
+    },
+    {
+      "author": "mikebrady",
+      "name": "shairport-sync",
+      "href": "https://github.com/mikebrady/shairport-sync",
+      "description": "AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation",
+      "language": "C",
+      "stars": 1602,
+      "forks": 700
+    },
+    {
+      "author": "akayn",
+      "name": "demos",
+      "href": "https://github.com/akayn/demos",
+      "description": "Windows Kernel Exploitation. Static & dynamic analysis, exploits & vuln research. Mitigations bypass's, genric bug-class's.",
+      "language": "C",
+      "stars": 22,
+      "forks": 7
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "href": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for ESP32.",
+      "language": "C",
+      "stars": 1136,
+      "forks": 515
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 9684,
+      "forks": 550
+    }
+  ]
+}
