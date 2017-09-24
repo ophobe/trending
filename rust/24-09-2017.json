@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 23526,
+      "forks": 4339
+    },
+    {
+      "author": "mmstick",
+      "name": "parallel",
+      "href": "https://github.com/mmstick/parallel",
+      "description": "Inspired by GNU Parallel, a command-line CPU load balancer written in Rust.",
+      "language": "Rust",
+      "stars": 800,
+      "forks": 16
+    },
+    {
+      "author": "trishume",
+      "name": "syntect",
+      "href": "https://github.com/trishume/syntect",
+      "description": "Rust library for syntax highlighting using Sublime Text syntax definitions.",
+      "language": "Rust",
+      "stars": 216,
+      "forks": 23
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 2122,
+      "forks": 423
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 5864,
+      "forks": 218
+    },
+    {
+      "author": "ranveeraggarwal",
+      "name": "rust-raytracer",
+      "href": "https://github.com/ranveeraggarwal/rust-raytracer",
+      "description": "An implementation of Peter Shirley's Ray Tracing in One Weekend.",
+      "language": "Rust",
+      "stars": 52,
+      "forks": 2
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 7020,
+      "forks": 248
+    },
+    {
+      "author": "servo",
+      "name": "webrender",
+      "href": "https://github.com/servo/webrender",
+      "description": "A GPU-based renderer for the web",
+      "language": "Rust",
+      "stars": 682,
+      "forks": 123
+    },
+    {
+      "author": "m-labs",
+      "name": "smoltcp",
+      "href": "https://github.com/m-labs/smoltcp",
+      "description": "a smol tcp/ip stack",
+      "language": "Rust",
+      "stars": 211,
+      "forks": 18
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "fmt-rfcs",
+      "href": "https://github.com/rust-lang-nursery/fmt-rfcs",
+      "description": "RFCs for Rust formatting guidelines and changes to Rustfmt",
+      "language": "Rust",
+      "stars": 102,
+      "forks": 9
+    },
+    {
+      "author": "housleyjk",
+      "name": "ws-rs",
+      "href": "https://github.com/housleyjk/ws-rs",
+      "description": "Lightweight, event-driven WebSockets for Rust.",
+      "language": "Rust",
+      "stars": 411,
+      "forks": 53
+    },
+    {
+      "author": "rust-lang",
+      "name": "libc",
+      "href": "https://github.com/rust-lang/libc",
+      "description": "Raw bindings to platform APIs for Rust",
+      "language": "Rust",
+      "stars": 248,
+      "forks": 212
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8423,
+      "forks": 295
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5181,
+      "forks": 321
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 5074,
+      "forks": 250
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 4467,
+      "forks": 323
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3579,
+      "forks": 314
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3401,
+      "forks": 98
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 2835,
+      "forks": 175
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2813,
+      "forks": 495
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2473,
+      "forks": 634
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2305,
+      "forks": 88
+    },
+    {
+      "author": "racer-rust",
+      "name": "racer",
+      "href": "https://github.com/racer-rust/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 2213,
+      "forks": 212
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2184,
+      "forks": 246
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 2183,
+      "forks": 266
+    }
+  ]
+}
