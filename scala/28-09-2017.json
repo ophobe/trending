@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14466,
+      "forks": 13531
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9318,
+      "forks": 5111
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4161,
+      "forks": 1115
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8922,
+      "forks": 2195
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch",
+      "language": "Scala",
+      "stars": 3601,
+      "forks": 825
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2667,
+      "forks": 239
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 3464,
+      "forks": 181
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 682,
+      "forks": 105
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-native-packager",
+      "href": "https://github.com/sbt/sbt-native-packager",
+      "description": "SBT Native Packager",
+      "language": "Scala",
+      "stars": 915,
+      "forks": 308
+    },
+    {
+      "author": "scala-hamsters",
+      "name": "hamsters",
+      "href": "https://github.com/scala-hamsters/hamsters",
+      "description": "A mini Scala utility library",
+      "language": "Scala",
+      "stars": 176,
+      "forks": 9
+    },
+    {
+      "author": "albuch",
+      "name": "sbt-dependency-check",
+      "href": "https://github.com/albuch/sbt-dependency-check",
+      "description": "SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs).",
+      "language": "Scala",
+      "stars": 57,
+      "forks": 8
+    },
+    {
+      "author": "akka",
+      "name": "akka-management",
+      "href": "https://github.com/akka/akka-management",
+      "description": null,
+      "language": "Scala",
+      "stars": 32,
+      "forks": 12
+    },
+    {
+      "author": "pureconfig",
+      "name": "pureconfig",
+      "href": "https://github.com/pureconfig/pureconfig",
+      "description": "A boilerplate-free library for loading configuration files",
+      "language": "Scala",
+      "stars": 447,
+      "forks": 52
+    },
+    {
+      "author": "soundcloud",
+      "name": "cosine-lsh-join-spark",
+      "href": "https://github.com/soundcloud/cosine-lsh-join-spark",
+      "description": "Approximate Nearest Neighbors in Spark",
+      "language": "Scala",
+      "stars": 69,
+      "forks": 15
+    },
+    {
+      "author": "pocketberserker",
+      "name": "scodec-msgpack",
+      "href": "https://github.com/pocketberserker/scodec-msgpack",
+      "description": "Yet another MessagePack implementation for Scala",
+      "language": "Scala",
+      "stars": 21,
+      "forks": 5
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-rjs",
+      "href": "https://github.com/sbt/sbt-rjs",
+      "description": "RequireJs optimizer plugin for sbt-web",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 26
+    },
+    {
+      "author": "ReactiveMongo",
+      "name": "ReactiveMongo",
+      "href": "https://github.com/ReactiveMongo/ReactiveMongo",
+      "description": "Non-blocking, Reactive MongoDB Driver for Scala",
+      "language": "Scala",
+      "stars": 726,
+      "forks": 210
+    },
+    {
+      "author": "nrinaudo",
+      "name": "kantan.csv",
+      "href": "https://github.com/nrinaudo/kantan.csv",
+      "description": "CSV handling library for Scala",
+      "language": "Scala",
+      "stars": 158,
+      "forks": 10
+    },
+    {
+      "author": "scalacenter",
+      "name": "macros",
+      "href": "https://github.com/scalacenter/macros",
+      "description": "SCP-014 Towards production ready Scala Macros",
+      "language": "Scala",
+      "stars": 73,
+      "forks": 9
+    },
+    {
+      "author": "wartremover",
+      "name": "wartremover",
+      "href": "https://github.com/wartremover/wartremover",
+      "description": "Flexible Scala code linting tool",
+      "language": "Scala",
+      "stars": 728,
+      "forks": 73
+    },
+    {
+      "author": "spirom",
+      "name": "LearningSpark",
+      "href": "https://github.com/spirom/LearningSpark",
+      "description": "Scala examples for learning to use Spark",
+      "language": "Scala",
+      "stars": 163,
+      "forks": 106
+    },
+    {
+      "author": "MagenTys",
+      "name": "donut",
+      "href": "https://github.com/MagenTys/donut",
+      "description": "Sweet reports for the icing over your automated tests",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 14
+    },
+    {
+      "author": "guardian",
+      "name": "content-api-scala-client",
+      "href": "https://github.com/guardian/content-api-scala-client",
+      "description": "A Scala client library for the Guardian's Content API",
+      "language": "Scala",
+      "stars": 31,
+      "forks": 18
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-launcher-package",
+      "href": "https://github.com/sbt/sbt-launcher-package",
+      "description": "Packaging for SBT so you can run it natively.",
+      "language": "Scala",
+      "stars": 61,
+      "forks": 180
+    },
+    {
+      "author": "lihaoyi",
+      "name": "blog",
+      "href": "https://github.com/lihaoyi/blog",
+      "description": null,
+      "language": "Scala",
+      "stars": 25,
+      "forks": 15
+    }
+  ]
+}
