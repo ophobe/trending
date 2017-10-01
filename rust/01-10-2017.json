@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "imazen",
+      "name": "imageflow",
+      "href": "https://github.com/imazen/imageflow",
+      "description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow",
+      "language": "Rust",
+      "stars": 771,
+      "forks": 30
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 23641,
+      "forks": 4365
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 2871,
+      "forks": 175
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation",
+      "language": "Rust",
+      "stars": 2163,
+      "forks": 434
+    },
+    {
+      "author": "citybound",
+      "name": "citybound",
+      "href": "https://github.com/citybound/citybound",
+      "description": "The city is us.",
+      "language": "Rust",
+      "stars": 744,
+      "forks": 40
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3418,
+      "forks": 99
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 612,
+      "forks": 190
+    },
+    {
+      "author": "helena-project",
+      "name": "tock",
+      "href": "https://github.com/helena-project/tock",
+      "description": "A secure embedded operating system for Cortex-M based microcontrollers",
+      "language": "Rust",
+      "stars": 536,
+      "forks": 67
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "conrod",
+      "href": "https://github.com/PistonDevelopers/conrod",
+      "description": "An easy-to-use, 2D GUI library written entirely in Rust.",
+      "language": "Rust",
+      "stars": 1253,
+      "forks": 151
+    },
+    {
+      "author": "Gekkio",
+      "name": "imgui-rs",
+      "href": "https://github.com/Gekkio/imgui-rs",
+      "description": "Rust bindings for dear imgui",
+      "language": "Rust",
+      "stars": 241,
+      "forks": 41
+    },
+    {
+      "author": "rust-lang-deprecated",
+      "name": "rustc-serialize",
+      "href": "https://github.com/rust-lang-deprecated/rustc-serialize",
+      "description": "Deprecated serialization/deserialization for Rust",
+      "language": "Rust",
+      "stars": 169,
+      "forks": 96
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 402,
+      "forks": 49
+    },
+    {
+      "author": "cogciprocate",
+      "name": "ocl",
+      "href": "https://github.com/cogciprocate/ocl",
+      "description": "OpenCL for Rust",
+      "language": "Rust",
+      "stars": 112,
+      "forks": 20
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1286,
+      "forks": 360
+    },
+    {
+      "author": "japaric",
+      "name": "svd2rust",
+      "href": "https://github.com/japaric/svd2rust",
+      "description": "Generate Rust register maps (`struct`s) from SVD files",
+      "language": "Rust",
+      "stars": 74,
+      "forks": 34
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-openssl",
+      "href": "https://github.com/sfackler/rust-openssl",
+      "description": "OpenSSL bindings for Rust",
+      "language": "Rust",
+      "stars": 300,
+      "forks": 212
+    },
+    {
+      "author": "RustAudio",
+      "name": "rust-portaudio",
+      "href": "https://github.com/RustAudio/rust-portaudio",
+      "description": "PortAudio bindings and wrappers for Rust.",
+      "language": "Rust",
+      "stars": 137,
+      "forks": 51
+    },
+    {
+      "author": "bluejekyll",
+      "name": "trust-dns",
+      "href": "https://github.com/bluejekyll/trust-dns",
+      "description": "A Rust based DNS client and server",
+      "language": "Rust",
+      "stars": 582,
+      "forks": 42
+    },
+    {
+      "author": "stratis-storage",
+      "name": "stratisd",
+      "href": "https://github.com/stratis-storage/stratisd",
+      "description": null,
+      "language": "Rust",
+      "stars": 110,
+      "forks": 9
+    },
+    {
+      "author": "gluon-lang",
+      "name": "gluon",
+      "href": "https://github.com/gluon-lang/gluon",
+      "description": "A static, type inferred and embeddable language written in Rust.",
+      "language": "Rust",
+      "stars": 694,
+      "forks": 31
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-rust",
+      "href": "https://github.com/shadowsocks/shadowsocks-rust",
+      "description": "A Rust port of shadowsocks",
+      "language": "Rust",
+      "stars": 428,
+      "forks": 124
+    },
+    {
+      "author": "alexcrichton",
+      "name": "git2-rs",
+      "href": "https://github.com/alexcrichton/git2-rs",
+      "description": "libgit2 bindings for Rust",
+      "language": "Rust",
+      "stars": 248,
+      "forks": 98
+    },
+    {
+      "author": "ignopeverell",
+      "name": "grin",
+      "href": "https://github.com/ignopeverell/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 296,
+      "forks": 50
+    },
+    {
+      "author": "redox-os",
+      "name": "ion",
+      "href": "https://github.com/redox-os/ion",
+      "description": "The Ion Shell. Compatible with Redox and Linux.",
+      "language": "Rust",
+      "stars": 406,
+      "forks": 73
+    },
+    {
+      "author": "weld-project",
+      "name": "weld",
+      "href": "https://github.com/weld-project/weld",
+      "description": "High-performance runtime for data analytics applications",
+      "language": "Rust",
+      "stars": 634,
+      "forks": 69
+    }
+  ]
+}
