@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 7272,
+      "forks": 273
+    },
+    {
+      "author": "DarthSim",
+      "name": "imgproxy",
+      "href": "https://github.com/DarthSim/imgproxy",
+      "description": "Fast and secure standalone server for resizing and converting remote images",
+      "language": "Go",
+      "stars": 844,
+      "forks": 31
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 27295,
+      "forks": 9783
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 32574,
+      "forks": 4415
+    },
+    {
+      "author": "cpmech",
+      "name": "gosl",
+      "href": "https://github.com/cpmech/gosl",
+      "description": "Go scientific library for scientific computations involving linear algebra, special functions, Bessel, fast Fourier transforms, geometry calculations, NURBS, numerical quadrature, polyhedra, random numbers, Mersenne twister, probability distributions, optimisation, plotting, visualisation, tensors, eigenvalues, and much more.",
+      "language": "Go",
+      "stars": 836,
+      "forks": 36
+    },
+    {
+      "author": "ssimunic",
+      "name": "gossm",
+      "href": "https://github.com/ssimunic/gossm",
+      "description": "Server status monitor written in Go",
+      "language": "Go",
+      "stars": 41,
+      "forks": 4
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7691,
+      "forks": 2402
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45672,
+      "forks": 13585
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 5902,
+      "forks": 312
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 6784,
+      "forks": 1154
+    },
+    {
+      "author": "qor",
+      "name": "auth",
+      "href": "https://github.com/qor/auth",
+      "description": "Golang Authentication solution",
+      "language": "Go",
+      "stars": 64,
+      "forks": 3
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19915,
+      "forks": 2664
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 11148,
+      "forks": 1116
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 21069,
+      "forks": 2439
+    },
+    {
+      "author": "jdkato",
+      "name": "prose",
+      "href": "https://github.com/jdkato/prose",
+      "description": "📖 A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.",
+      "language": "Go",
+      "stars": 419,
+      "forks": 15
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23869,
+      "forks": 3028
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11826,
+      "forks": 1378
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 10321,
+      "forks": 416
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in go",
+      "language": "Go",
+      "stars": 3432,
+      "forks": 574
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 12034,
+      "forks": 1407
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 5253,
+      "forks": 692
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 2602,
+      "forks": 220
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "Jaeger, a Distributed Tracing System",
+      "language": "Go",
+      "stars": 2842,
+      "forks": 178
+    },
+    {
+      "author": "coyove",
+      "name": "goflyway",
+      "href": "https://github.com/coyove/goflyway",
+      "description": "HTTP tunnel in Go",
+      "language": "Go",
+      "stars": 2342,
+      "forks": 260
+    },
+    {
+      "author": "rgamba",
+      "name": "postman",
+      "href": "https://github.com/rgamba/postman",
+      "description": "Reverse proxy for async microservice communication",
+      "language": "Go",
+      "stars": 40,
+      "forks": 1
+    }
+  ]
+}
