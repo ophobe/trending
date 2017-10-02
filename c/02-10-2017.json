@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "darwin-xnu",
+      "href": "https://github.com/apple/darwin-xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 3695,
+      "forks": 389
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 50039,
+      "forks": 18695
+    },
+    {
+      "author": "Tylous",
+      "name": "SniffAir",
+      "href": "https://github.com/Tylous/SniffAir",
+      "description": "A framework for wireless pentesting.",
+      "language": "C",
+      "stars": 610,
+      "forks": 54
+    },
+    {
+      "author": "opensource-apple",
+      "name": "xnu",
+      "href": "https://github.com/opensource-apple/xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 34,
+      "forks": 389
+    },
+    {
+      "author": "e-ago",
+      "name": "bitcracker",
+      "href": "https://github.com/e-ago/bitcracker",
+      "description": "BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker",
+      "language": "C",
+      "stars": 40,
+      "forks": 10
+    },
+    {
+      "author": "NoiseByNorthwest",
+      "name": "php-spx",
+      "href": "https://github.com/NoiseByNorthwest/php-spx",
+      "description": "A simple & straight-to-the-point PHP profiling extension",
+      "language": "C",
+      "stars": 113,
+      "forks": 4
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24292,
+      "forks": 1974
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25540,
+      "forks": 9774
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10189,
+      "forks": 1293
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6366,
+      "forks": 833
+    },
+    {
+      "author": "magnumripper",
+      "name": "JohnTheRipper",
+      "href": "https://github.com/magnumripper/JohnTheRipper",
+      "description": "This is the official repo for the Jumbo version of John the Ripper. The \"bleeding-jumbo\" branch (default) is based on 1.8.0-Jumbo-1 (but we are literally several thousands of commits ahead of it).",
+      "language": "C",
+      "stars": 1242,
+      "forks": 381
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19208,
+      "forks": 11072
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13010,
+      "forks": 4384
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7309,
+      "forks": 1746
+    },
+    {
+      "author": "viabtc",
+      "name": "viabtc_exchange_server",
+      "href": "https://github.com/viabtc/viabtc_exchange_server",
+      "description": "A trading engine with high-speed performance and real-time notification",
+      "language": "C",
+      "stars": 427,
+      "forks": 242
+    },
+    {
+      "author": "postgres",
+      "name": "postgres",
+      "href": "https://github.com/postgres/postgres",
+      "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http://wiki.postgresql.org/wiki/Submitting_a_Patch",
+      "language": "C",
+      "stars": 3159,
+      "forks": 1036
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5522,
+      "forks": 1146
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 1497,
+      "forks": 2287
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11620,
+      "forks": 2442
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7904,
+      "forks": 584
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 2888,
+      "forks": 4545
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 1784,
+      "forks": 458
+    },
+    {
+      "author": "ionescu007",
+      "name": "VisualUefi",
+      "href": "https://github.com/ionescu007/VisualUefi",
+      "description": "A project for allowing EDK-II Development with Visual Studio",
+      "language": "C",
+      "stars": 93,
+      "forks": 31
+    },
+    {
+      "author": "MiCode",
+      "name": "Xiaomi_Kernel_OpenSource",
+      "href": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "description": "Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(…",
+      "language": "C",
+      "stars": 1058,
+      "forks": 755
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 5114,
+      "forks": 2268
+    }
+  ]
+}
