@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14507,
+      "forks": 13577
+    },
+    {
+      "author": "typelevel",
+      "name": "CT_from_Programmers.scala",
+      "href": "https://github.com/typelevel/CT_from_Programmers.scala",
+      "description": "Scala sample code for Bartosz Milewski's CT for Programmers",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 6
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8939,
+      "forks": 2204
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2684,
+      "forks": 243
+    },
+    {
+      "author": "jpzk",
+      "name": "mockedstreams",
+      "href": "https://github.com/jpzk/mockedstreams",
+      "description": "Scala Library for Unit-Testing Processing Topologies in Apache Kafka / Kafka Streams",
+      "language": "Scala",
+      "stars": 65,
+      "forks": 8
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 259,
+      "forks": 63
+    },
+    {
+      "author": "akka",
+      "name": "akka-management",
+      "href": "https://github.com/akka/akka-management",
+      "description": null,
+      "language": "Scala",
+      "stars": 32,
+      "forks": 14
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 6587,
+      "forks": 864
+    },
+    {
+      "author": "twitter",
+      "name": "finatra",
+      "href": "https://github.com/twitter/finatra",
+      "description": "Fast, testable, Scala services built on Twitter-Server and Finagle",
+      "language": "Scala",
+      "stars": 1653,
+      "forks": 308
+    },
+    {
+      "author": "sksamuel",
+      "name": "scapegoat",
+      "href": "https://github.com/sksamuel/scapegoat",
+      "description": "Scala compiler plugin for static code analysis",
+      "language": "Scala",
+      "stars": 208,
+      "forks": 33
+    },
+    {
+      "author": "ktoso",
+      "name": "sbt-jmh",
+      "href": "https://github.com/ktoso/sbt-jmh",
+      "description": "\"Trust no one, bench everything.\" - sbt plugin for JMH (Java Microbenchmark Harness)",
+      "language": "Scala",
+      "stars": 405,
+      "forks": 51
+    },
+    {
+      "author": "twitter",
+      "name": "scalding",
+      "href": "https://github.com/twitter/scalding",
+      "description": "A Scala API for Cascading",
+      "language": "Scala",
+      "stars": 2877,
+      "forks": 637
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Workflow Execution Engine using WDL",
+      "language": "Scala",
+      "stars": 169,
+      "forks": 43
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 3001,
+      "forks": 188
+    },
+    {
+      "author": "felixgborrego",
+      "name": "simple-docker-ui",
+      "href": "https://github.com/felixgborrego/simple-docker-ui",
+      "description": "Native Docker UI for Windows, macOS and Linux",
+      "language": "Scala",
+      "stars": 393,
+      "forks": 48
+    },
+    {
+      "author": "clulab",
+      "name": "processors",
+      "href": "https://github.com/clulab/processors",
+      "description": "Natural Language Processors",
+      "language": "Scala",
+      "stars": 271,
+      "forks": 64
+    },
+    {
+      "author": "pureconfig",
+      "name": "pureconfig",
+      "href": "https://github.com/pureconfig/pureconfig",
+      "description": "A boilerplate-free library for loading configuration files",
+      "language": "Scala",
+      "stars": 449,
+      "forks": 53
+    },
+    {
+      "author": "vmunier",
+      "name": "play-with-scalajs-example",
+      "href": "https://github.com/vmunier/play-with-scalajs-example",
+      "description": "Example application showing how you can integrate Play with Scala.js.",
+      "language": "Scala",
+      "stars": 336,
+      "forks": 106
+    },
+    {
+      "author": "guardian",
+      "name": "scanamo",
+      "href": "https://github.com/guardian/scanamo",
+      "description": "Simpler DynamoDB access for Scala",
+      "language": "Scala",
+      "stars": 131,
+      "forks": 36
+    },
+    {
+      "author": "RadoBuransky",
+      "name": "sonar-scoverage-plugin",
+      "href": "https://github.com/RadoBuransky/sonar-scoverage-plugin",
+      "description": "Sonar plugin for Scala statement coverage tool",
+      "language": "Scala",
+      "stars": 68,
+      "forks": 28
+    },
+    {
+      "author": "scoverage",
+      "name": "sbt-coveralls",
+      "href": "https://github.com/scoverage/sbt-coveralls",
+      "description": "Sbt plugin for uploading Scala code coverage to coveralls",
+      "language": "Scala",
+      "stars": 81,
+      "forks": 36
+    },
+    {
+      "author": "sbt",
+      "name": "website",
+      "href": "https://github.com/sbt/website",
+      "description": "The source for scala-sbt.org",
+      "language": "Scala",
+      "stars": 47,
+      "forks": 172
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-cats",
+      "href": "https://github.com/scala-exercises/exercises-cats",
+      "description": "Scala Exercises' lessons for the Cats library",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 44
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10437,
+      "forks": 1722
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9751,
+      "forks": 3355
+    }
+  ]
+}
