@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 7401,
+      "forks": 275
+    },
+    {
+      "author": "cpmech",
+      "name": "gosl",
+      "href": "https://github.com/cpmech/gosl",
+      "description": "Go scientific library for scientific computations involving linear algebra, special functions, Bessel, fast Fourier transforms, geometry calculations, NURBS, numerical quadrature, polyhedra, random numbers, Mersenne twister, probability distributions, optimisation, plotting, visualisation, tensors, eigenvalues, and much more.",
+      "language": "Go",
+      "stars": 885,
+      "forks": 38
+    },
+    {
+      "author": "DarthSim",
+      "name": "imgproxy",
+      "href": "https://github.com/DarthSim/imgproxy",
+      "description": "Fast and secure standalone server for resizing and converting remote images",
+      "language": "Go",
+      "stars": 875,
+      "forks": 31
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 32597,
+      "forks": 4420
+    },
+    {
+      "author": "ssimunic",
+      "name": "gossm",
+      "href": "https://github.com/ssimunic/gossm",
+      "description": "Server status monitor written in Go",
+      "language": "Go",
+      "stars": 65,
+      "forks": 5
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 23892,
+      "forks": 3030
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 27312,
+      "forks": 9792
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 5922,
+      "forks": 316
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 19932,
+      "forks": 2665
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "Jaeger, a Distributed Tracing System",
+      "language": "Go",
+      "stars": 2855,
+      "forks": 179
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 2615,
+      "forks": 223
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in go",
+      "language": "Go",
+      "stars": 3447,
+      "forks": 575
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 14234,
+      "forks": 999
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 45674,
+      "forks": 13591
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 11842,
+      "forks": 1379
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 8537,
+      "forks": 668
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 4254,
+      "forks": 764
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 7705,
+      "forks": 2406
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Service Discovery and Configuration Made Easy",
+      "language": "Go",
+      "stars": 10280,
+      "forks": 1832
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 7076,
+      "forks": 514
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it. https://docs.iris-go.com",
+      "language": "Go",
+      "stars": 7758,
+      "forks": 821
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 17929,
+      "forks": 3071
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 10136,
+      "forks": 965
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 17609,
+      "forks": 1449
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Gitea: Git with a cup of tea",
+      "language": "Go",
+      "stars": 3682,
+      "forks": 396
+    }
+  ]
+}
