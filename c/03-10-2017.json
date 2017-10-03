@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "darwin-xnu",
+      "href": "https://github.com/apple/darwin-xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 4299,
+      "forks": 471
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 50091,
+      "forks": 18713
+    },
+    {
+      "author": "apache",
+      "name": "incubator-guacamole-server",
+      "href": "https://github.com/apache/incubator-guacamole-server",
+      "description": "Mirror of Apache Guacamole Server (Incubating)",
+      "language": "C",
+      "stars": 633,
+      "forks": 104
+    },
+    {
+      "author": "nategri",
+      "name": "nematoduino",
+      "href": "https://github.com/nategri/nematoduino",
+      "description": "Arduino UNO-compatible robotic simulation of the C. elegans nematode",
+      "language": "C",
+      "stars": 63,
+      "forks": 3
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25563,
+      "forks": 9775
+    },
+    {
+      "author": "leo-yuriev",
+      "name": "t1ha",
+      "href": "https://github.com/leo-yuriev/t1ha",
+      "description": "Fast Positive Hash, aka \"Позитивный Хэш\" - just the fastest portable hash function.",
+      "language": "C",
+      "stars": 71,
+      "forks": 6
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19220,
+      "forks": 11081
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7922,
+      "forks": 584
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24307,
+      "forks": 1974
+    },
+    {
+      "author": "okbob",
+      "name": "pspg",
+      "href": "https://github.com/okbob/pspg",
+      "description": "Postgres Pager",
+      "language": "C",
+      "stars": 129,
+      "forks": 10
+    },
+    {
+      "author": "postgres",
+      "name": "postgres",
+      "href": "https://github.com/postgres/postgres",
+      "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http://wiki.postgresql.org/wiki/Submitting_a_Patch",
+      "language": "C",
+      "stars": 3169,
+      "forks": 1042
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C",
+      "stars": 11629,
+      "forks": 2447
+    },
+    {
+      "author": "commonmark",
+      "name": "cmark",
+      "href": "https://github.com/commonmark/cmark",
+      "description": "CommonMark parsing and rendering library and program in C",
+      "language": "C",
+      "stars": 521,
+      "forks": 157
+    },
+    {
+      "author": "mtoyoda",
+      "name": "sl",
+      "href": "https://github.com/mtoyoda/sl",
+      "description": "SL(1): Cure your bad habit of mistyping",
+      "language": "C",
+      "stars": 887,
+      "forks": 173
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4260,
+      "forks": 1948
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10200,
+      "forks": 1294
+    },
+    {
+      "author": "opensource-apple",
+      "name": "xnu",
+      "href": "https://github.com/opensource-apple/xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 44,
+      "forks": 471
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's lede source",
+      "language": "C",
+      "stars": 227,
+      "forks": 177
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5523,
+      "forks": 1147
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6010,
+      "forks": 3957
+    },
+    {
+      "author": "viabtc",
+      "name": "viabtc_exchange_server",
+      "href": "https://github.com/viabtc/viabtc_exchange_server",
+      "description": "A trading engine with high-speed performance and real-time notification",
+      "language": "C",
+      "stars": 435,
+      "forks": 245
+    },
+    {
+      "author": "Tylous",
+      "name": "SniffAir",
+      "href": "https://github.com/Tylous/SniffAir",
+      "description": "A framework for wireless pentesting.",
+      "language": "C",
+      "stars": 620,
+      "forks": 54
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6374,
+      "forks": 833
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13355,
+      "forks": 889
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 4187,
+      "forks": 652
+    }
+  ]
+}
