@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 366,
+      "forks": 32
+    },
+    {
+      "author": "apple",
+      "name": "darwin-xnu",
+      "href": "https://github.com/apple/darwin-xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 4825,
+      "forks": 577
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 50235,
+      "forks": 18756
+    },
+    {
+      "author": "nategri",
+      "name": "nematoduino",
+      "href": "https://github.com/nategri/nematoduino",
+      "description": "Arduino UNO-compatible robotic simulation of the C. elegans nematode",
+      "language": "C",
+      "stars": 190,
+      "forks": 12
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13048,
+      "forks": 4403
+    },
+    {
+      "author": "SamyPesse",
+      "name": "How-to-Make-a-Computer-Operating-System",
+      "href": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "description": "How to Make a Computer Operating System in C++",
+      "language": "C",
+      "stars": 16402,
+      "forks": 2920
+    },
+    {
+      "author": "iabem97",
+      "name": "saigon",
+      "href": "https://github.com/iabem97/saigon",
+      "description": "iOS 10.2.1 Jailbreak?",
+      "language": "C",
+      "stars": 30,
+      "forks": 8
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19247,
+      "forks": 11104
+    },
+    {
+      "author": "letoram",
+      "name": "arcan",
+      "href": "https://github.com/letoram/arcan",
+      "description": "Arcan - [Display Server, Multimedia Framework, Game Engine] -> \"Desktop Engine\"",
+      "language": "C",
+      "stars": 290,
+      "forks": 13
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7952,
+      "forks": 586
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25598,
+      "forks": 9786
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24343,
+      "forks": 1976
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13376,
+      "forks": 890
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10223,
+      "forks": 1296
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4391,
+      "forks": 1905
+    },
+    {
+      "author": "ferreiradaselva",
+      "name": "mathc",
+      "href": "https://github.com/ferreiradaselva/mathc",
+      "description": "C math library for 2D and 3D programming",
+      "language": "C",
+      "stars": 31,
+      "forks": 1
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 13627,
+      "forks": 1096
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 5204,
+      "forks": 2276
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 7169,
+      "forks": 501
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v2 Neural Networks for object detection",
+      "language": "C",
+      "stars": 410,
+      "forks": 1960
+    },
+    {
+      "author": "viabtc",
+      "name": "viabtc_exchange_server",
+      "href": "https://github.com/viabtc/viabtc_exchange_server",
+      "description": "A trading engine with high-speed performance and real-time notification",
+      "language": "C",
+      "stars": 452,
+      "forks": 267
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4274,
+      "forks": 1960
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5554,
+      "forks": 1151
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7331,
+      "forks": 1752
+    },
+    {
+      "author": "macvim-dev",
+      "name": "macvim",
+      "href": "https://github.com/macvim-dev/macvim",
+      "description": "Vim - the text editor - for Mac OS X",
+      "language": "C",
+      "stars": 3532,
+      "forks": 424
+    }
+  ]
+}
