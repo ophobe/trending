@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "darwin-xnu",
+      "href": "https://github.com/apple/darwin-xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 5305,
+      "forks": 661
+    },
+    {
+      "author": "r-a-w",
+      "name": "TorProxy",
+      "href": "https://github.com/r-a-w/TorProxy",
+      "description": "TorProxy is a tool which uses netfilter hooks in the linux kernel to route all network traffic through the Tor network",
+      "language": "C",
+      "stars": 70,
+      "forks": 7
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 50347,
+      "forks": 18787
+    },
+    {
+      "author": "NoiseByNorthwest",
+      "name": "php-spx",
+      "href": "https://github.com/NoiseByNorthwest/php-spx",
+      "description": "A simple & straight-to-the-point PHP profiling extension",
+      "language": "C",
+      "stars": 184,
+      "forks": 4
+    },
+    {
+      "author": "skeeto",
+      "name": "branchless-utf8",
+      "href": "https://github.com/skeeto/branchless-utf8",
+      "description": "Branchless UTF-8 decoder",
+      "language": "C",
+      "stars": 184,
+      "forks": 14
+    },
+    {
+      "author": "SecWiki",
+      "name": "windows-kernel-exploits",
+      "href": "https://github.com/SecWiki/windows-kernel-exploits",
+      "description": "windows-kernel-exploits Windows平台提权漏洞集合",
+      "language": "C",
+      "stars": 786,
+      "forks": 358
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24405,
+      "forks": 1982
+    },
+    {
+      "author": "SamyPesse",
+      "name": "How-to-Make-a-Computer-Operating-System",
+      "href": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "description": "How to Make a Computer Operating System in C++",
+      "language": "C",
+      "stars": 16470,
+      "forks": 2929
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 601,
+      "forks": 48
+    },
+    {
+      "author": "ortegaalfredo",
+      "name": "kscope",
+      "href": "https://github.com/ortegaalfredo/kscope",
+      "description": null,
+      "language": "C",
+      "stars": 67,
+      "forks": 7
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25646,
+      "forks": 9802
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19278,
+      "forks": 11120
+    },
+    {
+      "author": "lemon-lang",
+      "name": "lemon",
+      "href": "https://github.com/lemon-lang/lemon",
+      "description": "Lemon is open source, embeddable, lightweight programming language http://www.lemon-lang.org",
+      "language": "C",
+      "stars": 30,
+      "forks": 1
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13082,
+      "forks": 4405
+    },
+    {
+      "author": "rmitton",
+      "name": "rjm",
+      "href": "https://github.com/rmitton/rjm",
+      "description": "Various single-file C libraries.",
+      "language": "C",
+      "stars": 116,
+      "forks": 4
+    },
+    {
+      "author": "ferreiradaselva",
+      "name": "mathc",
+      "href": "https://github.com/ferreiradaselva/mathc",
+      "description": "Pure C math library for 2D and 3D programming",
+      "language": "C",
+      "stars": 62,
+      "forks": 2
+    },
+    {
+      "author": "Cr4sh",
+      "name": "s6_pcie_microblaze",
+      "href": "https://github.com/Cr4sh/s6_pcie_microblaze",
+      "description": "PCI Express DIY hacking toolkit for Xilinx SP605",
+      "language": "C",
+      "stars": 29,
+      "forks": 4
+    },
+    {
+      "author": "iabem97",
+      "name": "saigon",
+      "href": "https://github.com/iabem97/saigon",
+      "description": "iOS 10.2.1 Jailbreak?",
+      "language": "C",
+      "stars": 78,
+      "forks": 31
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13406,
+      "forks": 892
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7973,
+      "forks": 591
+    },
+    {
+      "author": "i3",
+      "name": "i3",
+      "href": "https://github.com/i3/i3",
+      "description": "A tiling window manager",
+      "language": "C",
+      "stars": 2394,
+      "forks": 295
+    },
+    {
+      "author": "bitnine-oss",
+      "name": "agensgraph",
+      "href": "https://github.com/bitnine-oss/agensgraph",
+      "description": "AgensGraph, a transactional graph database based on PostgreSQL",
+      "language": "C",
+      "stars": 410,
+      "forks": 26
+    },
+    {
+      "author": "upx",
+      "name": "upx",
+      "href": "https://github.com/upx/upx",
+      "description": "UPX - the Ultimate Packer for eXecutables",
+      "language": "C",
+      "stars": 1341,
+      "forks": 186
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 13642,
+      "forks": 1099
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 9773,
+      "forks": 557
+    }
+  ]
+}
