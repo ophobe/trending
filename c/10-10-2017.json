@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "darwin-xnu",
+      "href": "https://github.com/apple/darwin-xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 5421,
+      "forks": 677
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 50413,
+      "forks": 18813
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24436,
+      "forks": 1985
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25668,
+      "forks": 9812
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19297,
+      "forks": 11132
+    },
+    {
+      "author": "SamyPesse",
+      "name": "How-to-Make-a-Computer-Operating-System",
+      "href": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "description": "How to Make a Computer Operating System in C++",
+      "language": "C",
+      "stars": 16494,
+      "forks": 2934
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 15638,
+      "forks": 4595
+    },
+    {
+      "author": "r-a-w",
+      "name": "TorProxy",
+      "href": "https://github.com/r-a-w/TorProxy",
+      "description": "TorProxy is a tool which uses netfilter hooks in the linux kernel to route all network traffic through the Tor network",
+      "language": "C",
+      "stars": 91,
+      "forks": 7
+    },
+    {
+      "author": "skeeto",
+      "name": "branchless-utf8",
+      "href": "https://github.com/skeeto/branchless-utf8",
+      "description": "Branchless UTF-8 decoder",
+      "language": "C",
+      "stars": 206,
+      "forks": 15
+    },
+    {
+      "author": "NoiseByNorthwest",
+      "name": "php-spx",
+      "href": "https://github.com/NoiseByNorthwest/php-spx",
+      "description": "A simple & straight-to-the-point PHP profiling extension",
+      "language": "C",
+      "stars": 200,
+      "forks": 6
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5586,
+      "forks": 1159
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 7991,
+      "forks": 591
+    },
+    {
+      "author": "jonas",
+      "name": "tig",
+      "href": "https://github.com/jonas/tig",
+      "description": "Text-mode interface for git",
+      "language": "C",
+      "stars": 5028,
+      "forks": 347
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13423,
+      "forks": 893
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8465,
+      "forks": 3846
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 615,
+      "forks": 48
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4304,
+      "forks": 1973
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 2823,
+      "forks": 187
+    },
+    {
+      "author": "nategri",
+      "name": "nematoduino",
+      "href": "https://github.com/nategri/nematoduino",
+      "description": "Arduino UNO-compatible robotic simulation of the C. elegans nematode",
+      "language": "C",
+      "stars": 216,
+      "forks": 15
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7547,
+      "forks": 1277
+    },
+    {
+      "author": "postgres",
+      "name": "postgres",
+      "href": "https://github.com/postgres/postgres",
+      "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http://wiki.postgresql.org/wiki/Submitting_a_Patch",
+      "language": "C",
+      "stars": 3192,
+      "forks": 1068
+    },
+    {
+      "author": "nesbox",
+      "name": "TIC-80",
+      "href": "https://github.com/nesbox/TIC-80",
+      "description": "TIC-80 is a fantasy computer for making, playing and sharing tiny games.",
+      "language": "C",
+      "stars": 265,
+      "forks": 26
+    },
+    {
+      "author": "SecWiki",
+      "name": "windows-kernel-exploits",
+      "href": "https://github.com/SecWiki/windows-kernel-exploits",
+      "description": "windows-kernel-exploits Windows平台提权漏洞集合",
+      "language": "C",
+      "stars": 794,
+      "forks": 361
+    },
+    {
+      "author": "lemon-lang",
+      "name": "lemon",
+      "href": "https://github.com/lemon-lang/lemon",
+      "description": "Lemon is open source, embeddable, lightweight programming language http://www.lemon-lang.org",
+      "language": "C",
+      "stars": 40,
+      "forks": 1
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5793,
+      "forks": 1924
+    }
+  ]
+}
