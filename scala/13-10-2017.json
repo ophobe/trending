@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14620,
+      "forks": 13685
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 8998,
+      "forks": 2216
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10465,
+      "forks": 1724
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7694,
+      "forks": 2439
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1572,
+      "forks": 321
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 1936,
+      "forks": 298
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Reactive Enterprise Integration — Alpakka",
+      "language": "Scala",
+      "stars": 460,
+      "forks": 184
+    },
+    {
+      "author": "apache",
+      "name": "incubator-griffin",
+      "href": "https://github.com/apache/incubator-griffin",
+      "description": "Mirror of Apache griffin (Incubating)",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 24
+    },
+    {
+      "author": "walfie",
+      "name": "gbf-raidfinder",
+      "href": "https://github.com/walfie/gbf-raidfinder",
+      "description": "Granblue Raid Finder",
+      "language": "Scala",
+      "stars": 99,
+      "forks": 66
+    },
+    {
+      "author": "hail-is",
+      "name": "hail",
+      "href": "https://github.com/hail-is/hail",
+      "description": "Scalable genomic data analysis.",
+      "language": "Scala",
+      "stars": 238,
+      "forks": 80
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 551,
+      "forks": 230
+    },
+    {
+      "author": "agourlay",
+      "name": "cornichon",
+      "href": "https://github.com/agourlay/cornichon",
+      "description": "Scala DSL for testing HTTP JSON API",
+      "language": "Scala",
+      "stars": 123,
+      "forks": 16
+    },
+    {
+      "author": "lagom",
+      "name": "online-auction-scala",
+      "href": "https://github.com/lagom/online-auction-scala",
+      "description": null,
+      "language": "Scala",
+      "stars": 100,
+      "forks": 62
+    },
+    {
+      "author": "gilt",
+      "name": "sundial",
+      "href": "https://github.com/gilt/sundial",
+      "description": "a jobsystem on AWS ECS or AWS Batch managing dependencies and scheduling",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 8
+    },
+    {
+      "author": "japgolly",
+      "name": "scalajs-react",
+      "href": "https://github.com/japgolly/scalajs-react",
+      "description": "Facebook's React on Scala.JS",
+      "language": "Scala",
+      "stars": 922,
+      "forks": 148
+    },
+    {
+      "author": "s12v",
+      "name": "sns",
+      "href": "https://github.com/s12v/sns",
+      "description": "Mock Amazon SNS",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 13
+    },
+    {
+      "author": "vlovgr",
+      "name": "ciris",
+      "href": "https://github.com/vlovgr/ciris",
+      "description": "Lightweight, extensible, and validated configuration loading in Scala",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 5
+    },
+    {
+      "author": "json4s",
+      "name": "json4s",
+      "href": "https://github.com/json4s/json4s",
+      "description": "A single AST to be used by other scala json libraries",
+      "language": "Scala",
+      "stars": 968,
+      "forks": 249
+    },
+    {
+      "author": "suzaku-io",
+      "name": "diode",
+      "href": "https://github.com/suzaku-io/diode",
+      "description": "Scala library for managing immutable application model",
+      "language": "Scala",
+      "stars": 457,
+      "forks": 62
+    },
+    {
+      "author": "epfl-lara",
+      "name": "stainless",
+      "href": "https://github.com/epfl-lara/stainless",
+      "description": "Verification framework for higher-order functional programs",
+      "language": "Scala",
+      "stars": 46,
+      "forks": 15
+    },
+    {
+      "author": "druid-io",
+      "name": "tranquility",
+      "href": "https://github.com/druid-io/tranquility",
+      "description": "Tranquility helps you send real-time event streams to Druid and handles partitioning, replication, service discovery, and schema rollover, seamlessly and without downtime.",
+      "language": "Scala",
+      "stars": 281,
+      "forks": 160
+    },
+    {
+      "author": "ottogroup",
+      "name": "schedoscope",
+      "href": "https://github.com/ottogroup/schedoscope",
+      "description": "Schedoscope is a scheduling framework for painfree agile development, testing, (re)loading, and monitoring of your datahub, lake, or whatever you choose to call your Hadoop data warehouse these days.",
+      "language": "Scala",
+      "stars": 65,
+      "forks": 19
+    },
+    {
+      "author": "lift",
+      "name": "framework",
+      "href": "https://github.com/lift/framework",
+      "description": "Lift Framework",
+      "language": "Scala",
+      "stars": 1107,
+      "forks": 263
+    },
+    {
+      "author": "scalatra",
+      "name": "scalatra",
+      "href": "https://github.com/scalatra/scalatra",
+      "description": "Tiny Scala high-performance, async web framework, inspired by Sinatra",
+      "language": "Scala",
+      "stars": 2213,
+      "forks": 326
+    },
+    {
+      "author": "ISG-ICS",
+      "name": "cloudberry",
+      "href": "https://github.com/ISG-ICS/cloudberry",
+      "description": "Interactive analytic system",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 36
+    }
+  ]
+}
