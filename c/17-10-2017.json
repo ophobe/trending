@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "ApsaraCache",
+      "href": "https://github.com/alibaba/ApsaraCache",
+      "description": "ApsaraCache is a Redis branch originated from Alibaba Group.",
+      "language": "C",
+      "stars": 421,
+      "forks": 49
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 50797,
+      "forks": 18937
+    },
+    {
+      "author": "google",
+      "name": "nsjail",
+      "href": "https://github.com/google/nsjail",
+      "description": "A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)",
+      "language": "C",
+      "stars": 804,
+      "forks": 95
+    },
+    {
+      "author": "tomwimmenhove",
+      "name": "subarufobrob",
+      "href": "https://github.com/tomwimmenhove/subarufobrob",
+      "description": "Hijack a Subaru's key fob and steal all the things",
+      "language": "C",
+      "stars": 147,
+      "forks": 30
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 24628,
+      "forks": 1997
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 25787,
+      "forks": 9844
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 15763,
+      "forks": 4620
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 4252,
+      "forks": 501
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6209,
+      "forks": 4031
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 5921,
+      "forks": 1939
+    },
+    {
+      "author": "hardenedlinux",
+      "name": "offensive_poc",
+      "href": "https://github.com/hardenedlinux/offensive_poc",
+      "description": "Writing PoC for fun and educate people take security seriously;-)",
+      "language": "C",
+      "stars": 30,
+      "forks": 9
+    },
+    {
+      "author": "Shies",
+      "name": "PHP7-forp",
+      "href": "https://github.com/Shies/PHP7-forp",
+      "description": "用c语言编写forp PHP分析器是一个轻量级的PHP扩展提供脚本的调用堆栈,CPU和内存使用",
+      "language": "C",
+      "stars": 75,
+      "forks": 8
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19383,
+      "forks": 11177
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10376,
+      "forks": 1314
+    },
+    {
+      "author": "alexfru",
+      "name": "SmallerC",
+      "href": "https://github.com/alexfru/SmallerC",
+      "description": "Simple C compiler",
+      "language": "C",
+      "stars": 598,
+      "forks": 68
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8529,
+      "forks": 3864
+    },
+    {
+      "author": "cyring",
+      "name": "CoreFreq",
+      "href": "https://github.com/cyring/CoreFreq",
+      "description": "CoreFreq is a CPU monitoring software designed for the 64-bits Processors.",
+      "language": "C",
+      "stars": 587,
+      "forks": 42
+    },
+    {
+      "author": "lede-project",
+      "name": "source",
+      "href": "https://github.com/lede-project/source",
+      "description": "Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git",
+      "language": "C",
+      "stars": 958,
+      "forks": 819
+    },
+    {
+      "author": "JerryWisdom",
+      "name": "disk-management",
+      "href": "https://github.com/JerryWisdom/disk-management",
+      "description": null,
+      "language": "C",
+      "stars": 22,
+      "forks": 0
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6456,
+      "forks": 837
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 813,
+      "forks": 63
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4474,
+      "forks": 1930
+    },
+    {
+      "author": "shadowsocks",
+      "name": "simple-obfs",
+      "href": "https://github.com/shadowsocks/simple-obfs",
+      "description": "A simple obfuscating tool",
+      "language": "C",
+      "stars": 480,
+      "forks": 177
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 13717,
+      "forks": 1104
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "C",
+      "stars": 8277,
+      "forks": 3488
+    }
+  ]
+}
