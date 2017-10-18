@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14695,
+      "forks": 13733
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9682,
+      "forks": 5263
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2761,
+      "forks": 246
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10490,
+      "forks": 1726
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4238,
+      "forks": 1129
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6013,
+      "forks": 1123
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 3506,
+      "forks": 182
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1587,
+      "forks": 326
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 352,
+      "forks": 67
+    },
+    {
+      "author": "databricks",
+      "name": "spark-avro",
+      "href": "https://github.com/databricks/spark-avro",
+      "description": "Avro support for Spark, SQL, and DataFrames",
+      "language": "Scala",
+      "stars": 390,
+      "forks": 226
+    },
+    {
+      "author": "intel-analytics",
+      "name": "BigDL",
+      "href": "https://github.com/intel-analytics/BigDL",
+      "description": "BigDL: Distributed Deep Learning Library for Apache Spark",
+      "language": "Scala",
+      "stars": 2062,
+      "forks": 423
+    },
+    {
+      "author": "milessabin",
+      "name": "shapeless",
+      "href": "https://github.com/milessabin/shapeless",
+      "description": "Generic programming for Scala",
+      "language": "Scala",
+      "stars": 2246,
+      "forks": 372
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves node application",
+      "language": "Scala",
+      "stars": 248,
+      "forks": 75
+    },
+    {
+      "author": "DanielaSfregola",
+      "name": "twitter4s",
+      "href": "https://github.com/DanielaSfregola/twitter4s",
+      "description": "An asynchronous non-blocking Scala client for both the Twitter Rest and Streaming API",
+      "language": "Scala",
+      "stars": 103,
+      "forks": 47
+    },
+    {
+      "author": "scalatra",
+      "name": "scalatra",
+      "href": "https://github.com/scalatra/scalatra",
+      "description": "Tiny Scala high-performance, async web framework, inspired by Sinatra",
+      "language": "Scala",
+      "stars": 2215,
+      "forks": 328
+    },
+    {
+      "author": "paulgoldbaum",
+      "name": "scala-influxdb-client",
+      "href": "https://github.com/paulgoldbaum/scala-influxdb-client",
+      "description": "Asynchronous InfluxDB client for Scala",
+      "language": "Scala",
+      "stars": 64,
+      "forks": 25
+    },
+    {
+      "author": "spotify",
+      "name": "featran",
+      "href": "https://github.com/spotify/featran",
+      "description": "A Scala feature transformation library for data science and machine learning",
+      "language": "Scala",
+      "stars": 58,
+      "forks": 7
+    },
+    {
+      "author": "scala-js",
+      "name": "scala-js",
+      "href": "https://github.com/scala-js/scala-js",
+      "description": "Scala.js, the Scala to JavaScript compiler",
+      "language": "Scala",
+      "stars": 3138,
+      "forks": 274
+    },
+    {
+      "author": "scala-native",
+      "name": "sbt-crossproject",
+      "href": "https://github.com/scala-native/sbt-crossproject",
+      "description": "Cross-platform compilation support for sbt.",
+      "language": "Scala",
+      "stars": 67,
+      "forks": 13
+    },
+    {
+      "author": "japgolly",
+      "name": "scalajs-react",
+      "href": "https://github.com/japgolly/scalajs-react",
+      "description": "Facebook's React on Scala.JS",
+      "language": "Scala",
+      "stars": 924,
+      "forks": 150
+    },
+    {
+      "author": "playframework",
+      "name": "play-mailer",
+      "href": "https://github.com/playframework/play-mailer",
+      "description": "Play mailer plugin",
+      "language": "Scala",
+      "stars": 191,
+      "forks": 63
+    },
+    {
+      "author": "ThoughtWorksInc",
+      "name": "sbt-api-mappings",
+      "href": "https://github.com/ThoughtWorksInc/sbt-api-mappings",
+      "description": "A Sbt plugin that fills apiMappings for common Scala libraries.",
+      "language": "Scala",
+      "stars": 48,
+      "forks": 5
+    },
+    {
+      "author": "kenshoo",
+      "name": "metrics-play",
+      "href": "https://github.com/kenshoo/metrics-play",
+      "description": "Metrics module for Play2",
+      "language": "Scala",
+      "stars": 142,
+      "forks": 59
+    },
+    {
+      "author": "sbt",
+      "name": "zinc",
+      "href": "https://github.com/sbt/zinc",
+      "description": "Scala incremental compiler library, originally part of sbt",
+      "language": "Scala",
+      "stars": 99,
+      "forks": 48
+    },
+    {
+      "author": "slick",
+      "name": "slick-codegen-example",
+      "href": "https://github.com/slick/slick-codegen-example",
+      "description": null,
+      "language": "Scala",
+      "stars": 93,
+      "forks": 44
+    }
+  ]
+}
