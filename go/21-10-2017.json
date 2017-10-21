@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 11182,
+      "forks": 446
+    },
+    {
+      "author": "nghialv",
+      "name": "promviz",
+      "href": "https://github.com/nghialv/promviz",
+      "description": "Visualize the traffic of your clusters in realtime from Prometheus data",
+      "language": "Go",
+      "stars": 100,
+      "forks": 3
+    },
+    {
+      "author": "nuclio",
+      "name": "nuclio",
+      "href": "https://github.com/nuclio/nuclio",
+      "description": "High-Performance Serverless event and data processing framework",
+      "language": "Go",
+      "stars": 227,
+      "forks": 13
+    },
+    {
+      "author": "sebashwa",
+      "name": "vixl44",
+      "href": "https://github.com/sebashwa/vixl44",
+      "description": "Create pixel art inside your terminal using vim movements",
+      "language": "Go",
+      "stars": 87,
+      "forks": 3
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 33357,
+      "forks": 4508
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 28442,
+      "forks": 6962
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 2782,
+      "forks": 234
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 8214,
+      "forks": 2556
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 24390,
+      "forks": 3105
+    },
+    {
+      "author": "httpimp",
+      "name": "microcache",
+      "href": "https://github.com/httpimp/microcache",
+      "description": "a non-standard HTTP cache implemented as Go middleware",
+      "language": "Go",
+      "stars": 77,
+      "forks": 2
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 27955,
+      "forks": 10005
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 5446,
+      "forks": 1079
+    },
+    {
+      "author": "cosmtrek",
+      "name": "air",
+      "href": "https://github.com/cosmtrek/air",
+      "description": "☁️ Live reload for Go apps",
+      "language": "Go",
+      "stars": 54,
+      "forks": 2
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 12330,
+      "forks": 1441
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 5273,
+      "forks": 342
+    },
+    {
+      "author": "Arafatk",
+      "name": "glot",
+      "href": "https://github.com/Arafatk/glot",
+      "description": "Glot is a plotting library for Golang built on top of gnuplot.",
+      "language": "Go",
+      "stars": 135,
+      "forks": 2
+    },
+    {
+      "author": "stevenroose",
+      "name": "gonfig",
+      "href": "https://github.com/stevenroose/gonfig",
+      "description": "Go package for program configuration",
+      "language": "Go",
+      "stars": 25,
+      "forks": 1
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 18345,
+      "forks": 3137
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds.",
+      "language": "Go",
+      "stars": 3559,
+      "forks": 109
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - a serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 6418,
+      "forks": 361
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 20355,
+      "forks": 2708
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 12231,
+      "forks": 1455
+    },
+    {
+      "author": "sdwolfe32",
+      "name": "trumail",
+      "href": "https://github.com/sdwolfe32/trumail",
+      "description": "✉️ ✅ A Fast and Free Email Verification API written in Go",
+      "language": "Go",
+      "stars": 493,
+      "forks": 33
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 10217,
+      "forks": 1375
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 10501,
+      "forks": 1002
+    }
+  ]
+}
