@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9857,
+      "forks": 5334
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14783,
+      "forks": 13814
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 437,
+      "forks": 84
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10535,
+      "forks": 1730
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9065,
+      "forks": 2233
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka",
+      "language": "Scala",
+      "stars": 3645,
+      "forks": 836
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7753,
+      "forks": 2462
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2812,
+      "forks": 251
+    },
+    {
+      "author": "suzaku-io",
+      "name": "diode",
+      "href": "https://github.com/suzaku-io/diode",
+      "description": "Scala library for managing immutable application model",
+      "language": "Scala",
+      "stars": 467,
+      "forks": 62
+    },
+    {
+      "author": "OutWatch",
+      "name": "outwatch",
+      "href": "https://github.com/OutWatch/outwatch",
+      "description": "A purely functional and reactive UI framework based on Rx and VirtualDom",
+      "language": "Scala",
+      "stars": 138,
+      "forks": 13
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural Language Understanding Library for Apache Spark.",
+      "language": "Scala",
+      "stars": 94,
+      "forks": 19
+    },
+    {
+      "author": "thomsonreuters",
+      "name": "CM-Well",
+      "href": "https://github.com/thomsonreuters/CM-Well",
+      "description": "CM-Well - a data warehouse for your knowledge graph",
+      "language": "Scala",
+      "stars": 56,
+      "forks": 19
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6035,
+      "forks": 1124
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 2096,
+      "forks": 488
+    },
+    {
+      "author": "felixgborrego",
+      "name": "simple-docker-ui",
+      "href": "https://github.com/felixgborrego/simple-docker-ui",
+      "description": "Native Docker UI for Windows, macOS and Linux",
+      "language": "Scala",
+      "stars": 405,
+      "forks": 51
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for cats",
+      "language": "Scala",
+      "stars": 166,
+      "forks": 22
+    },
+    {
+      "author": "lihaoyi",
+      "name": "acyclic",
+      "href": "https://github.com/lihaoyi/acyclic",
+      "description": "Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files",
+      "language": "Scala",
+      "stars": 175,
+      "forks": 17
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-web",
+      "href": "https://github.com/sbt/sbt-web",
+      "description": "Library for building sbt plugins for the web",
+      "language": "Scala",
+      "stars": 317,
+      "forks": 59
+    },
+    {
+      "author": "lloydmeta",
+      "name": "enumeratum",
+      "href": "https://github.com/lloydmeta/enumeratum",
+      "description": "A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.",
+      "language": "Scala",
+      "stars": 487,
+      "forks": 57
+    },
+    {
+      "author": "dnvriend",
+      "name": "akka-persistence-jdbc",
+      "href": "https://github.com/dnvriend/akka-persistence-jdbc",
+      "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+      "language": "Scala",
+      "stars": 150,
+      "forks": 73
+    },
+    {
+      "author": "tkawachi",
+      "name": "sbt-lock",
+      "href": "https://github.com/tkawachi/sbt-lock",
+      "description": "Gemfile.lock for sbt",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 5
+    },
+    {
+      "author": "lucidworks",
+      "name": "spark-solr",
+      "href": "https://github.com/lucidworks/spark-solr",
+      "description": "Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.",
+      "language": "Scala",
+      "stars": 265,
+      "forks": 157
+    },
+    {
+      "author": "ensime",
+      "name": "ensime-server",
+      "href": "https://github.com/ensime/ensime-server",
+      "description": "ENSIME JVM Process",
+      "language": "Scala",
+      "stars": 1242,
+      "forks": 288
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-assembly",
+      "href": "https://github.com/sbt/sbt-assembly",
+      "description": "Deploy fat JARs. Restart processes. (port of codahale/assembly-sbt)",
+      "language": "Scala",
+      "stars": 1147,
+      "forks": 157
+    },
+    {
+      "author": "47deg",
+      "name": "case-classy",
+      "href": "https://github.com/47deg/case-classy",
+      "description": "configuration with less hassle",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 5
+    }
+  ]
+}
