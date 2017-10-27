@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "contribsys",
+      "name": "faktory",
+      "href": "https://github.com/contribsys/faktory",
+      "description": "\"Takin' care of business, workin' overtime\"",
+      "language": "Go",
+      "stars": 1375,
+      "forks": 46
+    },
+    {
+      "author": "google",
+      "name": "netstack",
+      "href": "https://github.com/google/netstack",
+      "description": "IPv4 and IPv6 userland network stack",
+      "language": "Go",
+      "stars": 1561,
+      "forks": 98
+    },
+    {
+      "author": "Azure",
+      "name": "brigade",
+      "href": "https://github.com/Azure/brigade",
+      "description": "Event-based Scripting for Kubernetes.",
+      "language": "Go",
+      "stars": 383,
+      "forks": 19
+    },
+    {
+      "author": "go-ego",
+      "name": "riot",
+      "href": "https://github.com/go-ego/riot",
+      "description": "Go Open Source, Distributed, Simple and efficient Search Engine",
+      "language": "Go",
+      "stars": 2310,
+      "forks": 73
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 24601,
+      "forks": 3132
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 33633,
+      "forks": 4553
+    },
+    {
+      "author": "davidbyttow",
+      "name": "govips",
+      "href": "https://github.com/davidbyttow/govips",
+      "description": "A fast and robust image library for Go built on libvips",
+      "language": "Go",
+      "stars": 123,
+      "forks": 9
+    },
+    {
+      "author": "yinghuocho",
+      "name": "firefly-proxy",
+      "href": "https://github.com/yinghuocho/firefly-proxy",
+      "description": "A proxy software to help circumventing the Great Firewall.",
+      "language": "Go",
+      "stars": 2013,
+      "forks": 408
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 28210,
+      "forks": 10100
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 7286,
+      "forks": 1246
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持正向代理和内网穿透.程序本身可以作为一级代理,如果设置了上级代理那么可以作为二级代理,乃至N级代理.如果程序不是一级代理,而且上级代理也是本程序,那么可以加密和上级代理之间的通讯,采用底层tls高强度加密,安全无特征.代理时会自动判断访问的网站是否屏蔽,如果被屏蔽那么就会使用上级代理(前提是配置了上级代理)访问网站;如果访问的网站没有被屏蔽,为了加速访问,代理会直接访问网站,不使用上级代理.另外可以设置域名黑白名单，更加自由的控制网站的访问方式。下载地址:https://github.com/snail007/goproxy/releases 官方QQ交流群:189618940",
+      "language": "Go",
+      "stars": 256,
+      "forks": 61
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 5624,
+      "forks": 1126
+    },
+    {
+      "author": "grailbio",
+      "name": "reflow",
+      "href": "https://github.com/grailbio/reflow",
+      "description": "a language and runtime for distributed, incremental data processing in the cloud",
+      "language": "Go",
+      "stars": 158,
+      "forks": 9
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 10662,
+      "forks": 1017
+    },
+    {
+      "author": "upspin",
+      "name": "upspin",
+      "href": "https://github.com/upspin/upspin",
+      "description": "Upspin: A framework for naming everyone's everything.",
+      "language": "Go",
+      "stars": 4023,
+      "forks": 171
+    },
+    {
+      "author": "ory",
+      "name": "fosite",
+      "href": "https://github.com/ory/fosite",
+      "description": "Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.",
+      "language": "Go",
+      "stars": 851,
+      "forks": 66
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 11420,
+      "forks": 452
+    },
+    {
+      "author": "vedhavyas",
+      "name": "cuckoo-filter",
+      "href": "https://github.com/vedhavyas/cuckoo-filter",
+      "description": "Cuckoo Filter: Practically better than bloom filter",
+      "language": "Go",
+      "stars": 39,
+      "forks": 1
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 5406,
+      "forks": 350
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 12506,
+      "forks": 1464
+    },
+    {
+      "author": "dave",
+      "name": "blast",
+      "href": "https://github.com/dave/blast",
+      "description": "Blast makes millions of API requests from a CSV data source.",
+      "language": "Go",
+      "stars": 30,
+      "forks": 1
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 5647,
+      "forks": 738
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed NewSQL database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 10376,
+      "forks": 1391
+    },
+    {
+      "author": "gwuhaolin",
+      "name": "lightsocks",
+      "href": "https://github.com/gwuhaolin/lightsocks",
+      "description": "⚡️一个轻巧的网络混淆代理🌏",
+      "language": "Go",
+      "stars": 346,
+      "forks": 70
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 18695,
+      "forks": 5675
+    }
+  ]
+}
