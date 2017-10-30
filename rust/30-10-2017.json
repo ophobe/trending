@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5425,
+      "forks": 338
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 24249,
+      "forks": 4458
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 3586,
+      "forks": 90
+    },
+    {
+      "author": "jq-rs",
+      "name": "mles-rs",
+      "href": "https://github.com/jq-rs/mles-rs",
+      "description": "Distributed publish/subscribe data service and Mles protocol reference implementation on Rust, Tokio and Serde",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 0
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 6587,
+      "forks": 244
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 7522,
+      "forks": 281
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 2461,
+      "forks": 495
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "sled likes eating data: pre-alpha modern embedded database",
+      "language": "Rust",
+      "stars": 343,
+      "forks": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1357,
+      "forks": 390
+    },
+    {
+      "author": "Keats",
+      "name": "gutenberg",
+      "href": "https://github.com/Keats/gutenberg",
+      "description": "An opinionated static site generator with everything built-in.",
+      "language": "Rust",
+      "stars": 684,
+      "forks": 30
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8591,
+      "forks": 304
+    },
+    {
+      "author": "facebookexperimental",
+      "name": "mononoke",
+      "href": "https://github.com/facebookexperimental/mononoke",
+      "description": "A Mercurial source control server, specifically designed to support large monorepos.",
+      "language": "Rust",
+      "stars": 242,
+      "forks": 6
+    },
+    {
+      "author": "paholg",
+      "name": "typenum",
+      "href": "https://github.com/paholg/typenum",
+      "description": "Compile time numbers in Rust.",
+      "language": "Rust",
+      "stars": 95,
+      "forks": 6
+    },
+    {
+      "author": "awelkie",
+      "name": "RustFFT",
+      "href": "https://github.com/awelkie/RustFFT",
+      "description": "A mixed-radix FFT library written in pure Rust",
+      "language": "Rust",
+      "stars": 65,
+      "forks": 5
+    },
+    {
+      "author": "tomaka",
+      "name": "rodio",
+      "href": "https://github.com/tomaka/rodio",
+      "description": "Rust audio playback library",
+      "language": "Rust",
+      "stars": 127,
+      "forks": 14
+    },
+    {
+      "author": "mozilla",
+      "name": "sccache",
+      "href": "https://github.com/mozilla/sccache",
+      "description": "sccache is ccache with cloud storage",
+      "language": "Rust",
+      "stars": 234,
+      "forks": 40
+    },
+    {
+      "author": "cryptape",
+      "name": "cita",
+      "href": "https://github.com/cryptape/cita",
+      "description": "A fast and scalable blockchain for enterprise users.",
+      "language": "Rust",
+      "stars": 167,
+      "forks": 32
+    },
+    {
+      "author": "xcambar",
+      "name": "purs",
+      "href": "https://github.com/xcambar/purs",
+      "description": "A Pure-inspired prompt in Rust",
+      "language": "Rust",
+      "stars": 87,
+      "forks": 10
+    },
+    {
+      "author": "pingcap",
+      "name": "grpc-rs",
+      "href": "https://github.com/pingcap/grpc-rs",
+      "description": "The gRPC library for Rust built on C Core library and futures",
+      "language": "Rust",
+      "stars": 142,
+      "forks": 11
+    },
+    {
+      "author": "ezrosent",
+      "name": "allocators-rs",
+      "href": "https://github.com/ezrosent/allocators-rs",
+      "description": "Allocators in Rust",
+      "language": "Rust",
+      "stars": 115,
+      "forks": 15
+    },
+    {
+      "author": "rust-lang",
+      "name": "libc",
+      "href": "https://github.com/rust-lang/libc",
+      "description": "Raw bindings to platform APIs for Rust",
+      "language": "Rust",
+      "stars": 257,
+      "forks": 222
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 1924,
+      "forks": 196
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 5111,
+      "forks": 253
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 4542,
+      "forks": 327
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3676,
+      "forks": 320
+    }
+  ]
+}
