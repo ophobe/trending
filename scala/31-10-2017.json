@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "graphcool",
+      "name": "framework",
+      "href": "https://github.com/graphcool/framework",
+      "description": "⚡️ Framework to develop & deploy serverless GraphQL backends",
+      "language": "Scala",
+      "stars": 2556,
+      "forks": 122
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 9986,
+      "forks": 5379
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14866,
+      "forks": 13868
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10611,
+      "forks": 1736
+    },
+    {
+      "author": "Netflix",
+      "name": "atlas",
+      "href": "https://github.com/Netflix/atlas",
+      "description": "In-memory dimensional time series database.",
+      "language": "Scala",
+      "stars": 1545,
+      "forks": 141
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9100,
+      "forks": 2234
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2841,
+      "forks": 257
+    },
+    {
+      "author": "quasar-analytics",
+      "name": "quasar",
+      "href": "https://github.com/quasar-analytics/quasar",
+      "description": "Quasar Analytics is a general-purpose compiler for translating data processing and analytics over semi-structured data into efficient plans that run 100% in the target infrastructure.",
+      "language": "Scala",
+      "stars": 564,
+      "forks": 78
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4293,
+      "forks": 1150
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz",
+      "href": "https://github.com/scalaz/scalaz",
+      "description": "An extension to the core Scala library for functional programming.",
+      "language": "Scala",
+      "stars": 3303,
+      "forks": 534
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1609,
+      "forks": 331
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 561,
+      "forks": 238
+    },
+    {
+      "author": "monix",
+      "name": "monix-kafka",
+      "href": "https://github.com/monix/monix-kafka",
+      "description": "Monix integration with Kafka",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 8
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Workflow Execution Engine using WDL",
+      "language": "Scala",
+      "stars": 174,
+      "forks": 49
+    },
+    {
+      "author": "dcos",
+      "name": "cosmos",
+      "href": "https://github.com/dcos/cosmos",
+      "description": "Provides an API for the orderly, harmonious, and complete management of DC/OS service packages",
+      "language": "Scala",
+      "stars": 51,
+      "forks": 21
+    },
+    {
+      "author": "ensime",
+      "name": "ensime-sbt",
+      "href": "https://github.com/ensime/ensime-sbt",
+      "description": "Generates .ensime config files for SBT projects",
+      "language": "Scala",
+      "stars": 219,
+      "forks": 75
+    },
+    {
+      "author": "saurfang",
+      "name": "sbt-spark-submit",
+      "href": "https://github.com/saurfang/sbt-spark-submit",
+      "description": "sbt plugin for spark-submit",
+      "language": "Scala",
+      "stars": 62,
+      "forks": 18
+    },
+    {
+      "author": "mongodb",
+      "name": "casbah",
+      "href": "https://github.com/mongodb/casbah",
+      "description": "Officially supported Scala Driver for MongoDB",
+      "language": "Scala",
+      "stars": 529,
+      "forks": 130
+    },
+    {
+      "author": "gilt",
+      "name": "sbt-aws-lambda",
+      "href": "https://github.com/gilt/sbt-aws-lambda",
+      "description": "sbt plugin to deploy code to AWS Lambda",
+      "language": "Scala",
+      "stars": 95,
+      "forks": 34
+    },
+    {
+      "author": "scalaj",
+      "name": "scalaj-http",
+      "href": "https://github.com/scalaj/scalaj-http",
+      "description": "Simple scala wrapper for HttpURLConnection. OAuth included.",
+      "language": "Scala",
+      "stars": 699,
+      "forks": 100
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-doge",
+      "href": "https://github.com/sbt/sbt-doge",
+      "description": "sbt plugin to aggregate tasks across subprojects and their crossScalaVersions",
+      "language": "Scala",
+      "stars": 77,
+      "forks": 11
+    },
+    {
+      "author": "actionml",
+      "name": "universal-recommender",
+      "href": "https://github.com/actionml/universal-recommender",
+      "description": "Highly configurable recommender based on PredictionIO and Mahout's Correlated Cross-Occurrence algorithm",
+      "language": "Scala",
+      "stars": 315,
+      "forks": 126
+    },
+    {
+      "author": "OlivierBlanvillain",
+      "name": "monadic-html",
+      "href": "https://github.com/OlivierBlanvillain/monadic-html",
+      "description": "Tiny DOM binding library for Scala.js",
+      "language": "Scala",
+      "stars": 111,
+      "forks": 11
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 6628,
+      "forks": 875
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-anorm-example",
+      "href": "https://github.com/playframework/play-scala-anorm-example",
+      "description": "Example Play Database Application using Anorm",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 33
+    }
+  ]
+}
