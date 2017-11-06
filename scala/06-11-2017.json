@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "graphcool",
+      "name": "framework",
+      "href": "https://github.com/graphcool/framework",
+      "description": "⚡️ Framework to develop & deploy serverless GraphQL backends",
+      "language": "Scala",
+      "stars": 2955,
+      "forks": 149
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14949,
+      "forks": 13942
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2883,
+      "forks": 265
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9861,
+      "forks": 3395
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7801,
+      "forks": 2477
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9130,
+      "forks": 2237
+    },
+    {
+      "author": "propensive",
+      "name": "magnolia",
+      "href": "https://github.com/propensive/magnolia",
+      "description": "A better generic macro for Scala",
+      "language": "Scala",
+      "stars": 49,
+      "forks": 6
+    },
+    {
+      "author": "lightbend",
+      "name": "ssl-config",
+      "href": "https://github.com/lightbend/ssl-config",
+      "description": "SSL configuration logic, extracted from Play's WS (for use in Akka et al).",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 22
+    },
+    {
+      "author": "databricks",
+      "name": "spark-xml",
+      "href": "https://github.com/databricks/spark-xml",
+      "description": "XML data source for Spark SQL and DataFrames",
+      "language": "Scala",
+      "stars": 139,
+      "forks": 72
+    },
+    {
+      "author": "scala",
+      "name": "scala-xml",
+      "href": "https://github.com/scala/scala-xml",
+      "description": "The standard Scala XML library",
+      "language": "Scala",
+      "stars": 114,
+      "forks": 56
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Your favorite language gets closer to bare meta.",
+      "language": "Scala",
+      "stars": 551,
+      "forks": 112
+    },
+    {
+      "author": "locationtech",
+      "name": "geomesa",
+      "href": "https://github.com/locationtech/geomesa",
+      "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+      "language": "Scala",
+      "stars": 350,
+      "forks": 159
+    },
+    {
+      "author": "typelevel",
+      "name": "algebra",
+      "href": "https://github.com/typelevel/algebra",
+      "description": "Experimental project to lay out basic algebra type classes",
+      "language": "Scala",
+      "stars": 274,
+      "forks": 50
+    },
+    {
+      "author": "sbt",
+      "name": "website",
+      "href": "https://github.com/sbt/website",
+      "description": "The source for scala-sbt.org",
+      "language": "Scala",
+      "stars": 47,
+      "forks": 173
+    },
+    {
+      "author": "TanUkkii007",
+      "name": "akka-cluster-custom-downing",
+      "href": "https://github.com/TanUkkii007/akka-cluster-custom-downing",
+      "description": "akka-cluster-custom-downing provides configurable auto-downing strategy you can choose based on your distributed application design.",
+      "language": "Scala",
+      "stars": 44,
+      "forks": 10
+    },
+    {
+      "author": "slick",
+      "name": "slick",
+      "href": "https://github.com/slick/slick",
+      "description": "Scala Language Integrated Connection Kit",
+      "language": "Scala",
+      "stars": 1927,
+      "forks": 451
+    },
+    {
+      "author": "scalacenter",
+      "name": "scalafix",
+      "href": "https://github.com/scalacenter/scalafix",
+      "description": "Refactoring and linting tool for Scala",
+      "language": "Scala",
+      "stars": 183,
+      "forks": 52
+    },
+    {
+      "author": "wartremover",
+      "name": "wartremover",
+      "href": "https://github.com/wartremover/wartremover",
+      "description": "Flexible Scala code linting tool",
+      "language": "Scala",
+      "stars": 736,
+      "forks": 78
+    },
+    {
+      "author": "ensime",
+      "name": "ensime-sbt",
+      "href": "https://github.com/ensime/ensime-sbt",
+      "description": "Generates .ensime config files for SBT projects",
+      "language": "Scala",
+      "stars": 220,
+      "forks": 77
+    },
+    {
+      "author": "scala",
+      "name": "scala-parser-combinators",
+      "href": "https://github.com/scala/scala-parser-combinators",
+      "description": "simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module",
+      "language": "Scala",
+      "stars": 269,
+      "forks": 76
+    },
+    {
+      "author": "ElderResearch",
+      "name": "ssc",
+      "href": "https://github.com/ElderResearch/ssc",
+      "description": "Simple Scala Config: Typesafe Config wrapped in a `Dynamic` blanket.",
+      "language": "Scala",
+      "stars": 46,
+      "forks": 8
+    },
+    {
+      "author": "fehmicansaglam",
+      "name": "progressed.io",
+      "href": "https://github.com/fehmicansaglam/progressed.io",
+      "description": "progressbar microservice",
+      "language": "Scala",
+      "stars": 593,
+      "forks": 113
+    },
+    {
+      "author": "spotify",
+      "name": "featran",
+      "href": "https://github.com/spotify/featran",
+      "description": "A Scala feature transformation library for data science and machine learning",
+      "language": "Scala",
+      "stars": 77,
+      "forks": 13
+    },
+    {
+      "author": "mongodb",
+      "name": "casbah",
+      "href": "https://github.com/mongodb/casbah",
+      "description": "Officially supported Scala Driver for MongoDB",
+      "language": "Scala",
+      "stars": 530,
+      "forks": 130
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-native-packager",
+      "href": "https://github.com/sbt/sbt-native-packager",
+      "description": "SBT Native Packager",
+      "language": "Scala",
+      "stars": 926,
+      "forks": 318
+    }
+  ]
+}
