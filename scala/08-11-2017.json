@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 10201,
+      "forks": 5440
+    },
+    {
+      "author": "graphcool",
+      "name": "framework",
+      "href": "https://github.com/graphcool/framework",
+      "description": "⚡️ Framework to develop & deploy serverless GraphQL backends",
+      "language": "Scala",
+      "stars": 3029,
+      "forks": 156
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 14983,
+      "forks": 13973
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4340,
+      "forks": 1157
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Resilient service mesh for cloud native apps",
+      "language": "Scala",
+      "stars": 2902,
+      "forks": 267
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10641,
+      "forks": 1736
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9144,
+      "forks": 2238
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 7810,
+      "forks": 2481
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6062,
+      "forks": 1128
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9870,
+      "forks": 3396
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2088,
+      "forks": 450
+    },
+    {
+      "author": "typelevel",
+      "name": "frameless",
+      "href": "https://github.com/typelevel/frameless",
+      "description": "Expressive types for Spark.",
+      "language": "Scala",
+      "stars": 297,
+      "forks": 44
+    },
+    {
+      "author": "holdenk",
+      "name": "spark-testing-base",
+      "href": "https://github.com/holdenk/spark-testing-base",
+      "description": "Base classes to use when writing tests with Spark",
+      "language": "Scala",
+      "stars": 598,
+      "forks": 163
+    },
+    {
+      "author": "antonwierenga",
+      "name": "activemq-cli",
+      "href": "https://github.com/antonwierenga/activemq-cli",
+      "description": "Command Line tool to interact with the Apache ActiveMQ message broker",
+      "language": "Scala",
+      "stars": 25,
+      "forks": 9
+    },
+    {
+      "author": "beloglazov",
+      "name": "couchdb-scala",
+      "href": "https://github.com/beloglazov/couchdb-scala",
+      "description": "A purely functional Scala client for CouchDB",
+      "language": "Scala",
+      "stars": 61,
+      "forks": 16
+    },
+    {
+      "author": "Tecsisa",
+      "name": "constructr-consul",
+      "href": "https://github.com/Tecsisa/constructr-consul",
+      "description": "This library enables to use Consul as cluster coordinator in a ConstructR based node",
+      "language": "Scala",
+      "stars": 28,
+      "forks": 13
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Reactive Enterprise Integration — Alpakka",
+      "language": "Scala",
+      "stars": 483,
+      "forks": 195
+    },
+    {
+      "author": "akka",
+      "name": "reactive-kafka",
+      "href": "https://github.com/akka/reactive-kafka",
+      "description": "Reactive Streams API for Apache Kafka",
+      "language": "Scala",
+      "stars": 876,
+      "forks": 235
+    },
+    {
+      "author": "datamountaineer",
+      "name": "stream-reactor",
+      "href": "https://github.com/datamountaineer/stream-reactor",
+      "description": "Streaming reference architecture built around Kafka.",
+      "language": "Scala",
+      "stars": 263,
+      "forks": 92
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1625,
+      "forks": 334
+    },
+    {
+      "author": "pauljamescleary",
+      "name": "scala-pet-store",
+      "href": "https://github.com/pauljamescleary/scala-pet-store",
+      "description": "An implementation of the java pet store using FP techniques in scala",
+      "language": "Scala",
+      "stars": 73,
+      "forks": 16
+    },
+    {
+      "author": "kailuowang",
+      "name": "mainecoon",
+      "href": "https://github.com/kailuowang/mainecoon",
+      "description": "Transform and compose tagless final encoded algebras in scala",
+      "language": "Scala",
+      "stars": 37,
+      "forks": 5
+    },
+    {
+      "author": "JetBrains",
+      "name": "intellij-scala",
+      "href": "https://github.com/JetBrains/intellij-scala",
+      "description": "Scala plugin for IntelliJ IDEA",
+      "language": "Scala",
+      "stars": 715,
+      "forks": 237
+    },
+    {
+      "author": "hail-is",
+      "name": "hail",
+      "href": "https://github.com/hail-is/hail",
+      "description": "Scalable genomic data analysis.",
+      "language": "Scala",
+      "stars": 250,
+      "forks": 84
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 2119,
+      "forks": 495
+    }
+  ]
+}
