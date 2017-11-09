@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "vanhoefm",
+      "name": "krackattacks-scripts",
+      "href": "https://github.com/vanhoefm/krackattacks-scripts",
+      "description": null,
+      "language": "C",
+      "stars": 1721,
+      "forks": 394
+    },
+    {
+      "author": "spencerdodd",
+      "name": "kernelpop",
+      "href": "https://github.com/spencerdodd/kernelpop",
+      "description": "kernel privilege escalation enumeration and exploitation framework",
+      "language": "C",
+      "stars": 202,
+      "forks": 38
+    },
+    {
+      "author": "njv299",
+      "name": "afl-unicorn",
+      "href": "https://github.com/njv299/afl-unicorn",
+      "description": "afl-unicorn let's you fuzz any piece of binary that can be emulated by Unicorn Engine.",
+      "language": "C",
+      "stars": 69,
+      "forks": 69
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 51693,
+      "forks": 19210
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25142,
+      "forks": 2051
+    },
+    {
+      "author": "seclab-ucr",
+      "name": "INTANG",
+      "href": "https://github.com/seclab-ucr/INTANG",
+      "description": null,
+      "language": "C",
+      "stars": 1789,
+      "forks": 412
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26147,
+      "forks": 9981
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19701,
+      "forks": 11411
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6184,
+      "forks": 1983
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 6556,
+      "forks": 1495
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10649,
+      "forks": 1336
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8367,
+      "forks": 609
+    },
+    {
+      "author": "dtag-dev-sec",
+      "name": "tpotce",
+      "href": "https://github.com/dtag-dev-sec/tpotce",
+      "description": "T-Pot Image Creator",
+      "language": "C",
+      "stars": 270,
+      "forks": 64
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 4550,
+      "forks": 1095
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13302,
+      "forks": 4462
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6548,
+      "forks": 4159
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 1635,
+      "forks": 2513
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 3068,
+      "forks": 205
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5898,
+      "forks": 1214
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8754,
+      "forks": 3953
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4612,
+      "forks": 2149
+    },
+    {
+      "author": "apple",
+      "name": "cups",
+      "href": "https://github.com/apple/cups",
+      "description": "Official CUPS Sources",
+      "language": "C",
+      "stars": 356,
+      "forks": 117
+    },
+    {
+      "author": "salls",
+      "name": "kernel-exploits",
+      "href": "https://github.com/salls/kernel-exploits",
+      "description": "Some kernel exploits",
+      "language": "C",
+      "stars": 56,
+      "forks": 14
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 10005,
+      "forks": 574
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6602,
+      "forks": 863
+    }
+  ]
+}
