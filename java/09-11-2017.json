@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "googlesamples",
+      "name": "android-architecture-components",
+      "href": "https://github.com/googlesamples/android-architecture-components",
+      "description": "Samples for Android Architecture Components.",
+      "language": "Java",
+      "stars": 4870,
+      "forks": 796
+    },
+    {
+      "author": "tipsy",
+      "name": "javalin",
+      "href": "https://github.com/tipsy/javalin",
+      "description": "A Simple REST API Library for Java/Kotlin",
+      "language": "Java",
+      "stars": 728,
+      "forks": 42
+    },
+    {
+      "author": "uber",
+      "name": "RIBs",
+      "href": "https://github.com/uber/RIBs",
+      "description": "Uber's cross-platform mobile architecture framework.",
+      "language": "Java",
+      "stars": 1197,
+      "forks": 61
+    },
+    {
+      "author": "iluwatar",
+      "name": "java-design-patterns",
+      "href": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
+      "language": "Java",
+      "stars": 26297,
+      "forks": 8404
+    },
+    {
+      "author": "ffay",
+      "name": "lanproxy",
+      "href": "https://github.com/ffay/lanproxy",
+      "description": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。",
+      "language": "Java",
+      "stars": 1150,
+      "forks": 258
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-boot",
+      "href": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot",
+      "language": "Java",
+      "stars": 17512,
+      "forks": 14680
+    },
+    {
+      "author": "alibaba",
+      "name": "vlayout",
+      "href": "https://github.com/alibaba/vlayout",
+      "description": "Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview.",
+      "language": "Java",
+      "stars": 6519,
+      "forks": 1144
+    },
+    {
+      "author": "square",
+      "name": "okhttp",
+      "href": "https://github.com/square/okhttp",
+      "description": "An HTTP+HTTP/2 client for Android and Java applications.",
+      "language": "Java",
+      "stars": 23373,
+      "forks": 5581
+    },
+    {
+      "author": "alibaba",
+      "name": "dubbo",
+      "href": "https://github.com/alibaba/dubbo",
+      "description": "Dubbo is a high-performance, java based, open source RPC framework",
+      "language": "Java",
+      "stars": 12686,
+      "forks": 10549
+    },
+    {
+      "author": "google",
+      "name": "guava",
+      "href": "https://github.com/google/guava",
+      "description": "Google Core Libraries for Java",
+      "language": "Java",
+      "stars": 20061,
+      "forks": 4667
+    },
+    {
+      "author": "ReactiveX",
+      "name": "RxJava",
+      "href": "https://github.com/ReactiveX/RxJava",
+      "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+      "language": "Java",
+      "stars": 28567,
+      "forks": 5031
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-android",
+      "href": "https://github.com/airbnb/lottie-android",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "language": "Java",
+      "stars": 16936,
+      "forks": 2472
+    },
+    {
+      "author": "JetBrains",
+      "name": "kotlin",
+      "href": "https://github.com/JetBrains/kotlin",
+      "description": "The Kotlin Programming Language",
+      "language": "Java",
+      "stars": 18700,
+      "forks": 1978
+    },
+    {
+      "author": "scwang90",
+      "name": "SmartRefreshLayout",
+      "href": "https://github.com/scwang90/SmartRefreshLayout",
+      "description": "🔥下拉刷新、上拉加载、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+      "language": "Java",
+      "stars": 7528,
+      "forks": 1413
+    },
+    {
+      "author": "Blankj",
+      "name": "AndroidUtilCode",
+      "href": "https://github.com/Blankj/AndroidUtilCode",
+      "description": "🔥 Android developers should collect the following utils(updating).",
+      "language": "Java",
+      "stars": 14211,
+      "forks": 4603
+    },
+    {
+      "author": "udacity",
+      "name": "ud851-Exercises",
+      "href": "https://github.com/udacity/ud851-Exercises",
+      "description": null,
+      "language": "Java",
+      "stars": 878,
+      "forks": 3539
+    },
+    {
+      "author": "shuzheng",
+      "name": "zheng",
+      "href": "https://github.com/shuzheng/zheng",
+      "description": "基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。",
+      "language": "Java",
+      "stars": 5790,
+      "forks": 3032
+    },
+    {
+      "author": "Blankj",
+      "name": "awesome-java-leetcode",
+      "href": "https://github.com/Blankj/awesome-java-leetcode",
+      "description": "👑 LeetCode of algorithms with java solution(updating).",
+      "language": "Java",
+      "stars": 1111,
+      "forks": 145
+    },
+    {
+      "author": "Tencent",
+      "name": "VasSonic",
+      "href": "https://github.com/Tencent/VasSonic",
+      "description": "VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.",
+      "language": "Java",
+      "stars": 6083,
+      "forks": 766
+    },
+    {
+      "author": "bumptech",
+      "name": "glide",
+      "href": "https://github.com/bumptech/glide",
+      "description": "An image loading and caching library for Android focused on smooth scrolling",
+      "language": "Java",
+      "stars": 18639,
+      "forks": 3712
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch",
+      "href": "https://github.com/elastic/elasticsearch",
+      "description": "Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 26405,
+      "forks": 9298
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-framework",
+      "href": "https://github.com/spring-projects/spring-framework",
+      "description": "Spring Framework",
+      "language": "Java",
+      "stars": 17359,
+      "forks": 12019
+    },
+    {
+      "author": "alibaba",
+      "name": "druid",
+      "href": "https://github.com/alibaba/druid",
+      "description": "♨️ 为监控而生的数据库连接池！阿里云DRDS(https://www.aliyun.com/product/drds )、阿里巴巴TDDL 连接池powered by Druid",
+      "language": "Java",
+      "stars": 8499,
+      "forks": 3819
+    },
+    {
+      "author": "Netflix",
+      "name": "Hystrix",
+      "href": "https://github.com/Netflix/Hystrix",
+      "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",
+      "language": "Java",
+      "stars": 11536,
+      "forks": 2307
+    },
+    {
+      "author": "Tencent",
+      "name": "RapidView",
+      "href": "https://github.com/Tencent/RapidView",
+      "description": "RapidView is an android ui and lightapp developement framework",
+      "language": "Java",
+      "stars": 627,
+      "forks": 51
+    }
+  ]
+}
