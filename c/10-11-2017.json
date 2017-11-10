@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "symisc",
+      "name": "ascii_art",
+      "href": "https://github.com/symisc/ascii_art",
+      "description": "Real-Time ASCII Art Rendering Library",
+      "language": "C",
+      "stars": 93,
+      "forks": 13
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 51742,
+      "forks": 19234
+    },
+    {
+      "author": "seclab-ucr",
+      "name": "INTANG",
+      "href": "https://github.com/seclab-ucr/INTANG",
+      "description": null,
+      "language": "C",
+      "stars": 1855,
+      "forks": 428
+    },
+    {
+      "author": "44670",
+      "name": "NTR",
+      "href": "https://github.com/44670/NTR",
+      "description": null,
+      "language": "C",
+      "stars": 81,
+      "forks": 30
+    },
+    {
+      "author": "vanhoefm",
+      "name": "krackattacks-scripts",
+      "href": "https://github.com/vanhoefm/krackattacks-scripts",
+      "description": null,
+      "language": "C",
+      "stars": 1749,
+      "forks": 404
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19722,
+      "forks": 11424
+    },
+    {
+      "author": "spencerdodd",
+      "name": "kernelpop",
+      "href": "https://github.com/spencerdodd/kernelpop",
+      "description": "kernel privilege escalation enumeration and exploitation framework",
+      "language": "C",
+      "stars": 226,
+      "forks": 48
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 4579,
+      "forks": 1097
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26169,
+      "forks": 9987
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 6576,
+      "forks": 1500
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8382,
+      "forks": 612
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4628,
+      "forks": 2158
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8771,
+      "forks": 3954
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25157,
+      "forks": 2052
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6199,
+      "forks": 1988
+    },
+    {
+      "author": "njv299",
+      "name": "afl-unicorn",
+      "href": "https://github.com/njv299/afl-unicorn",
+      "description": "afl-unicorn let's you fuzz any piece of binary that can be emulated by Unicorn Engine.",
+      "language": "C",
+      "stars": 86,
+      "forks": 71
+    },
+    {
+      "author": "dekuNukem",
+      "name": "kbord",
+      "href": "https://github.com/dekuNukem/kbord",
+      "description": "A programmable mechanical keypad with RGB backlight.",
+      "language": "C",
+      "stars": 37,
+      "forks": 2
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6615,
+      "forks": 863
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5678,
+      "forks": 2906
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6558,
+      "forks": 4163
+    },
+    {
+      "author": "h2o",
+      "name": "h2o",
+      "href": "https://github.com/h2o/h2o",
+      "description": "H2O - the optimized HTTP/1, HTTP/2 server",
+      "language": "C",
+      "stars": 6936,
+      "forks": 536
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 6205,
+      "forks": 990
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 5907,
+      "forks": 1217
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10659,
+      "forks": 1337
+    },
+    {
+      "author": "openresty",
+      "name": "lua-nginx-module",
+      "href": "https://github.com/openresty/lua-nginx-module",
+      "description": "Embed the Power of Lua into NGINX HTTP servers",
+      "language": "C",
+      "stars": 5230,
+      "forks": 1179
+    }
+  ]
+}
