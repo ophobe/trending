@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "keratin",
+      "name": "authn-server",
+      "href": "https://github.com/keratin/authn-server",
+      "description": "Authentication service that keeps you in control without forcing you to be an expert in web security.",
+      "language": "Go",
+      "stars": 445,
+      "forks": 11
+    },
+    {
+      "author": "alexkohler",
+      "name": "prealloc",
+      "href": "https://github.com/alexkohler/prealloc",
+      "description": "prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.",
+      "language": "Go",
+      "stars": 99,
+      "forks": 3
+    },
+    {
+      "author": "tdewolff",
+      "name": "minify",
+      "href": "https://github.com/tdewolff/minify",
+      "description": "Go minifiers for web formats",
+      "language": "Go",
+      "stars": 1170,
+      "forks": 69
+    },
+    {
+      "author": "weaveworks",
+      "name": "kured",
+      "href": "https://github.com/weaveworks/kured",
+      "description": "Kubernetes Reboot Daemon",
+      "language": "Go",
+      "stars": 119,
+      "forks": 2
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 28738,
+      "forks": 10275
+    },
+    {
+      "author": "TimothyYe",
+      "name": "skm",
+      "href": "https://github.com/TimothyYe/skm",
+      "description": "A simple and powerful SSH keys manager",
+      "language": "Go",
+      "stars": 222,
+      "forks": 12
+    },
+    {
+      "author": "tidwall",
+      "name": "evio",
+      "href": "https://github.com/tidwall/evio",
+      "description": "Fast event-loop networking for Go",
+      "language": "Go",
+      "stars": 1794,
+      "forks": 60
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25054,
+      "forks": 3193
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34207,
+      "forks": 4624
+    },
+    {
+      "author": "weaveworks",
+      "name": "scope",
+      "href": "https://github.com/weaveworks/scope",
+      "description": "Monitoring, visualisation & management for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 1934,
+      "forks": 175
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 12729,
+      "forks": 1488
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 8743,
+      "forks": 2717
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Istio service mesh for polyglot microservice applications",
+      "language": "Go",
+      "stars": 3759,
+      "forks": 416
+    },
+    {
+      "author": "s-gv",
+      "name": "orangeforum",
+      "href": "https://github.com/s-gv/orangeforum",
+      "description": "A light-weight forum",
+      "language": "Go",
+      "stars": 297,
+      "forks": 13
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 20833,
+      "forks": 2756
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46275,
+      "forks": 13767
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 11675,
+      "forks": 456
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software",
+      "language": "Go",
+      "stars": 1639,
+      "forks": 289
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 18946,
+      "forks": 5735
+    },
+    {
+      "author": "yinghuocho",
+      "name": "firefly-proxy",
+      "href": "https://github.com/yinghuocho/firefly-proxy",
+      "description": "A proxy software to help circumventing the Great Firewall.",
+      "language": "Go",
+      "stars": 2326,
+      "forks": 466
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 18717,
+      "forks": 3218
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 21601,
+      "forks": 2507
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 7572,
+      "forks": 1315
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 12836,
+      "forks": 1497
+    },
+    {
+      "author": "contribsys",
+      "name": "faktory",
+      "href": "https://github.com/contribsys/faktory",
+      "description": "\"Takin' care of business, workin' overtime\"",
+      "language": "Go",
+      "stars": 1916,
+      "forks": 72
+    }
+  ]
+}
