@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "metrue",
+      "name": "fx",
+      "href": "https://github.com/metrue/fx",
+      "description": "Poor man's serverless framework based on Docker, Function as a Service with painless.",
+      "language": "Go",
+      "stars": 447,
+      "forks": 13
+    },
+    {
+      "author": "willnorris",
+      "name": "imageproxy",
+      "href": "https://github.com/willnorris/imageproxy",
+      "description": "A caching, resizing image proxy written in Go",
+      "language": "Go",
+      "stars": 953,
+      "forks": 162
+    },
+    {
+      "author": "imroc",
+      "name": "req",
+      "href": "https://github.com/imroc/req",
+      "description": "a golang http request library for humans",
+      "language": "Go",
+      "stars": 541,
+      "forks": 54
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 5270,
+      "forks": 466
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25226,
+      "forks": 3216
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34375,
+      "forks": 4659
+    },
+    {
+      "author": "solo-io",
+      "name": "squash",
+      "href": "https://github.com/solo-io/squash",
+      "description": "The debugger for microservices",
+      "language": "Go",
+      "stars": 248,
+      "forks": 11
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 28916,
+      "forks": 10339
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19038,
+      "forks": 5758
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 12858,
+      "forks": 1507
+    },
+    {
+      "author": "gen0cide",
+      "name": "gscript",
+      "href": "https://github.com/gen0cide/gscript",
+      "description": "Scriptable dynamic runtime execution of malware",
+      "language": "Go",
+      "stars": 42,
+      "forks": 2
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Istio service mesh for polyglot microservice applications",
+      "language": "Go",
+      "stars": 3872,
+      "forks": 434
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 11840,
+      "forks": 461
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 7688,
+      "forks": 1336
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - the serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 7030,
+      "forks": 403
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 8881,
+      "forks": 2758
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21041,
+      "forks": 2776
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46376,
+      "forks": 13782
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 18252,
+      "forks": 1511
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software",
+      "language": "Go",
+      "stars": 1787,
+      "forks": 313
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 12935,
+      "forks": 1513
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 21695,
+      "forks": 2513
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Service Discovery and Configuration Made Easy",
+      "language": "Go",
+      "stars": 10689,
+      "forks": 1891
+    },
+    {
+      "author": "src-d",
+      "name": "go-git",
+      "href": "https://github.com/src-d/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": 1699,
+      "forks": 157
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 5936,
+      "forks": 775
+    }
+  ]
+}
