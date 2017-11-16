@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "puffs",
+      "href": "https://github.com/google/puffs",
+      "description": "Parsing Untrusted File Formats Safely",
+      "language": "Go",
+      "stars": 656,
+      "forks": 15
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 4753,
+      "forks": 1268
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 28963,
+      "forks": 10360
+    },
+    {
+      "author": "metrue",
+      "name": "fx",
+      "href": "https://github.com/metrue/fx",
+      "description": "Poor man's serverless framework based on Docker, Function as a Service with painless.",
+      "language": "Go",
+      "stars": 506,
+      "forks": 16
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34408,
+      "forks": 4667
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25261,
+      "forks": 3225
+    },
+    {
+      "author": "imroc",
+      "name": "req",
+      "href": "https://github.com/imroc/req",
+      "description": "a golang http request library for humans",
+      "language": "Go",
+      "stars": 585,
+      "forks": 57
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 7727,
+      "forks": 1342
+    },
+    {
+      "author": "willnorris",
+      "name": "imageproxy",
+      "href": "https://github.com/willnorris/imageproxy",
+      "description": "A caching, resizing image proxy written in Go",
+      "language": "Go",
+      "stars": 989,
+      "forks": 166
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 5783,
+      "forks": 387
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - the serverless framework for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 7068,
+      "forks": 404
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 8910,
+      "forks": 2770
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 12891,
+      "forks": 1513
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 12962,
+      "forks": 1517
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21071,
+      "forks": 2779
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11081,
+      "forks": 1067
+    },
+    {
+      "author": "solo-io",
+      "name": "squash",
+      "href": "https://github.com/solo-io/squash",
+      "description": "The debugger for microservices",
+      "language": "Go",
+      "stars": 275,
+      "forks": 12
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Istio service mesh for polyglot microservice applications",
+      "language": "Go",
+      "stars": 3898,
+      "forks": 442
+    },
+    {
+      "author": "gen0cide",
+      "name": "gscript",
+      "href": "https://github.com/gen0cide/gscript",
+      "description": "Scriptable dynamic runtime execution of malware",
+      "language": "Go",
+      "stars": 71,
+      "forks": 7
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 12951,
+      "forks": 2935
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 11867,
+      "forks": 461
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46391,
+      "forks": 13790
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 18273,
+      "forks": 1513
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19054,
+      "forks": 5763
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 14812,
+      "forks": 1062
+    }
+  ]
+}
