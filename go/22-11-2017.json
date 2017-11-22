@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tj",
+      "name": "node-prune",
+      "href": "https://github.com/tj/node-prune",
+      "description": "Remove unnecessary files from node_modules (.md, .ts, etc)",
+      "language": "Go",
+      "stars": 1923,
+      "forks": 38
+    },
+    {
+      "author": "alibaba",
+      "name": "pouch",
+      "href": "https://github.com/alibaba/pouch",
+      "description": "Pouch is an open-source project created to promote the container technology movement.",
+      "language": "Go",
+      "stars": 418,
+      "forks": 64
+    },
+    {
+      "author": "evilsocket",
+      "name": "sg1",
+      "href": "https://github.com/evilsocket/sg1",
+      "description": "A wanna be swiss army knife for data encryption, exfiltration and covert communication.",
+      "language": "Go",
+      "stars": 199,
+      "forks": 12
+    },
+    {
+      "author": "fogleman",
+      "name": "primitive",
+      "href": "https://github.com/fogleman/primitive",
+      "description": "Reproducing images with geometric primitives.",
+      "language": "Go",
+      "stars": 7901,
+      "forks": 347
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-diff",
+      "href": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "container-diff: Diff your Docker containers",
+      "language": "Go",
+      "stars": 988,
+      "forks": 37
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 29170,
+      "forks": 10432
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 12052,
+      "forks": 1323
+    },
+    {
+      "author": "u-root",
+      "name": "u-root",
+      "href": "https://github.com/u-root/u-root",
+      "description": "A universal root. u-root creates a root file system (initramfs) containing a busybox-like set of tools in Go.",
+      "language": "Go",
+      "stars": 338,
+      "forks": 44
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34641,
+      "forks": 4703
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25442,
+      "forks": 3244
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46479,
+      "forks": 13814
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21200,
+      "forks": 2784
+    },
+    {
+      "author": "go-ego",
+      "name": "riot",
+      "href": "https://github.com/go-ego/riot",
+      "description": "Go Open Source, Distributed, Simple and efficient Search Engine",
+      "language": "Go",
+      "stars": 3063,
+      "forks": 114
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 9074,
+      "forks": 2832
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13016,
+      "forks": 1536
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "href": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": 1014,
+      "forks": 110
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 9122,
+      "forks": 745
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 5912,
+      "forks": 393
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 21814,
+      "forks": 2530
+    },
+    {
+      "author": "contribsys",
+      "name": "faktory",
+      "href": "https://github.com/contribsys/faktory",
+      "description": "\"Takin' care of business, workin' overtime\"",
+      "language": "Go",
+      "stars": 2112,
+      "forks": 74
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 13080,
+      "forks": 1522
+    },
+    {
+      "author": "kubernetes",
+      "name": "helm",
+      "href": "https://github.com/kubernetes/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 3123,
+      "forks": 1108
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 13053,
+      "forks": 2947
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11202,
+      "forks": 1080
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 10193,
+      "forks": 3558
+    }
+  ]
+}
