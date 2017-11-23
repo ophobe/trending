@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "awslabs",
+      "name": "s2n",
+      "href": "https://github.com/awslabs/s2n",
+      "description": "s2n : an implementation of the TLS/SSL protocols",
+      "language": "C",
+      "stars": 2967,
+      "forks": 270
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 52240,
+      "forks": 19407
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 1316,
+      "forks": 61
+    },
+    {
+      "author": "explosion",
+      "name": "lightnet",
+      "href": "https://github.com/explosion/lightnet",
+      "description": "🌓 Bringing pjreddie's DarkNet out of the shadows #yolo",
+      "language": "C",
+      "stars": 49,
+      "forks": 1
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25417,
+      "forks": 2086
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19875,
+      "forks": 11555
+    },
+    {
+      "author": "intel",
+      "name": "haxm",
+      "href": "https://github.com/intel/haxm",
+      "description": "Intel® Hardware Accelerated Execution Manager (Intel® HAXM)",
+      "language": "C",
+      "stars": 339,
+      "forks": 44
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4800,
+      "forks": 2260
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26349,
+      "forks": 10095
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 5805,
+      "forks": 2382
+    },
+    {
+      "author": "pudongqi",
+      "name": "My_Compiler",
+      "href": "https://github.com/pudongqi/My_Compiler",
+      "description": "An open-source projects about how to develop a compiler",
+      "language": "C",
+      "stars": 49,
+      "forks": 0
+    },
+    {
+      "author": "yarrick",
+      "name": "pingfs",
+      "href": "https://github.com/yarrick/pingfs",
+      "description": "Stores your data in ICMP ping packets",
+      "language": "C",
+      "stars": 1568,
+      "forks": 77
+    },
+    {
+      "author": "jacobdufault",
+      "name": "cquery",
+      "href": "https://github.com/jacobdufault/cquery",
+      "description": "Low-latency vscode language server for large C++ code-bases, powered by libclang.",
+      "language": "C",
+      "stars": 589,
+      "forks": 27
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7739,
+      "forks": 1827
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 10105,
+      "forks": 580
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8513,
+      "forks": 622
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 13372,
+      "forks": 1613
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5775,
+      "forks": 2939
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6671,
+      "forks": 4211
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13826,
+      "forks": 908
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8895,
+      "forks": 3989
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4714,
+      "forks": 2023
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6724,
+      "forks": 883
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 7833,
+      "forks": 1323
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 3693,
+      "forks": 639
+    }
+  ]
+}
