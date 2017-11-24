@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 52282,
+      "forks": 19421
+    },
+    {
+      "author": "tizonia",
+      "name": "tizonia-openmax-il",
+      "href": "https://github.com/tizonia/tizonia-openmax-il",
+      "description": "Cloud music player for the Linux console that supports Spotify, Google Play Music, YouTube, SoundCloud, and Dirble.",
+      "language": "C",
+      "stars": 236,
+      "forks": 13
+    },
+    {
+      "author": "simh",
+      "name": "simh",
+      "href": "https://github.com/simh/simh",
+      "description": "The Computer History Simulation Project",
+      "language": "C",
+      "stars": 448,
+      "forks": 126
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 1347,
+      "forks": 61
+    },
+    {
+      "author": "Meituan-Dianping",
+      "name": "MyFlash",
+      "href": "https://github.com/Meituan-Dianping/MyFlash",
+      "description": "flashback mysql data to any point",
+      "language": "C",
+      "stars": 328,
+      "forks": 60
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10803,
+      "forks": 1354
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 19888,
+      "forks": 11566
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25428,
+      "forks": 2092
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26359,
+      "forks": 10095
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8528,
+      "forks": 623
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 8904,
+      "forks": 3993
+    },
+    {
+      "author": "awslabs",
+      "name": "s2n",
+      "href": "https://github.com/awslabs/s2n",
+      "description": "s2n : an implementation of the TLS/SSL protocols",
+      "language": "C",
+      "stars": 2975,
+      "forks": 270
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5786,
+      "forks": 2941
+    },
+    {
+      "author": "explosion",
+      "name": "lightnet",
+      "href": "https://github.com/explosion/lightnet",
+      "description": "🌓 Bringing pjreddie's DarkNet out of the shadows #yolo",
+      "language": "C",
+      "stars": 59,
+      "forks": 3
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4724,
+      "forks": 2028
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4811,
+      "forks": 2266
+    },
+    {
+      "author": "yarrick",
+      "name": "pingfs",
+      "href": "https://github.com/yarrick/pingfs",
+      "description": "Stores your data in ICMP ping packets",
+      "language": "C",
+      "stars": 1576,
+      "forks": 78
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 6066,
+      "forks": 448
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 10115,
+      "forks": 580
+    },
+    {
+      "author": "phpredis",
+      "name": "phpredis",
+      "href": "https://github.com/phpredis/phpredis",
+      "description": "A PHP extension for Redis",
+      "language": "C",
+      "stars": 5762,
+      "forks": 1560
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7748,
+      "forks": 1827
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 5505,
+      "forks": 1360
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6679,
+      "forks": 4210
+    },
+    {
+      "author": "alibaba",
+      "name": "tengine",
+      "href": "https://github.com/alibaba/tengine",
+      "description": "A distribution of Nginx with some advanced features",
+      "language": "C",
+      "stars": 6220,
+      "forks": 1697
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13833,
+      "forks": 909
+    }
+  ]
+}
