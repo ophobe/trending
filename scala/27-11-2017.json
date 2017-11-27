@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-android",
+      "href": "https://github.com/shadowsocks/shadowsocks-android",
+      "description": "A shadowsocks client for Android",
+      "language": "Scala",
+      "stars": 10585,
+      "forks": 5560
+    },
+    {
+      "author": "graphcool",
+      "name": "framework",
+      "href": "https://github.com/graphcool/framework",
+      "description": "⚡️ Framework to develop & deploy serverless GraphQL backends",
+      "language": "Scala",
+      "stars": 3430,
+      "forks": 194
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 15233,
+      "forks": 14159
+    },
+    {
+      "author": "bkirwi",
+      "name": "decline",
+      "href": "https://github.com/bkirwi/decline",
+      "description": "Scala command line parser, inspired by optparse-applicative.",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 7
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "lichess.org: the forever free, adless and open source chess server.",
+      "language": "Scala",
+      "stars": 3565,
+      "forks": 597
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6121,
+      "forks": 1134
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2156,
+      "forks": 465
+    },
+    {
+      "author": "unfiltered",
+      "name": "unfiltered",
+      "href": "https://github.com/unfiltered/unfiltered",
+      "description": "A toolkit for servicing HTTP requests in Scala",
+      "language": "Scala",
+      "stars": 690,
+      "forks": 122
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-rest-api-example",
+      "href": "https://github.com/playframework/play-scala-rest-api-example",
+      "description": "Example Play Scala application showing REST API",
+      "language": "Scala",
+      "stars": 130,
+      "forks": 59
+    },
+    {
+      "author": "scala",
+      "name": "collection-strawman",
+      "href": "https://github.com/scala/collection-strawman",
+      "description": "Experimenting with Scala Collections designs for Scala 2.13",
+      "language": "Scala",
+      "stars": 148,
+      "forks": 49
+    },
+    {
+      "author": "sramirez",
+      "name": "spark-infotheoretic-feature-selection",
+      "href": "https://github.com/sramirez/spark-infotheoretic-feature-selection",
+      "description": "This package contains a generic implementation of greedy Information Theoretic Feature Selection (FS) methods. The implementation is based on the common theoretic framework presented by Gavin Brown. Implementations of mRMR, InfoGain, JMI and other commonly used FS filters are provided.",
+      "language": "Scala",
+      "stars": 78,
+      "forks": 31
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty-example-project",
+      "href": "https://github.com/lampepfl/dotty-example-project",
+      "description": "An example sbt project that compiles using Dotty",
+      "language": "Scala",
+      "stars": 67,
+      "forks": 23
+    },
+    {
+      "author": "Landoop",
+      "name": "stream-reactor",
+      "href": "https://github.com/Landoop/stream-reactor",
+      "description": "Streaming reference architecture for ETL with Kafka and Kafka-Connect",
+      "language": "Scala",
+      "stars": 269,
+      "forks": 97
+    },
+    {
+      "author": "clulab",
+      "name": "reach",
+      "href": "https://github.com/clulab/reach",
+      "description": "Reach Biomedical Information Extraction",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 17
+    },
+    {
+      "author": "doriordan",
+      "name": "skuber",
+      "href": "https://github.com/doriordan/skuber",
+      "description": "A Scala Kubernetes client library",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 34
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural Language Understanding Library for Apache Spark.",
+      "language": "Scala",
+      "stars": 158,
+      "forks": 33
+    },
+    {
+      "author": "lihaoyi",
+      "name": "autowire",
+      "href": "https://github.com/lihaoyi/autowire",
+      "description": "Macros for simple/safe RPCs between Scala applications, including ScalaJS/ScalaJVM",
+      "language": "Scala",
+      "stars": 294,
+      "forks": 29
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 3070,
+      "forks": 195
+    },
+    {
+      "author": "nulab",
+      "name": "scala-oauth2-provider",
+      "href": "https://github.com/nulab/scala-oauth2-provider",
+      "description": "OAuth 2.0 server-side implementation written in Scala",
+      "language": "Scala",
+      "stars": 447,
+      "forks": 94
+    },
+    {
+      "author": "takezoe",
+      "name": "solr-scala-client",
+      "href": "https://github.com/takezoe/solr-scala-client",
+      "description": "Solr Client for Scala",
+      "language": "Scala",
+      "stars": 76,
+      "forks": 36
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Non Blocking, Type Safe, HTTP, TCP",
+      "language": "Scala",
+      "stars": 1042,
+      "forks": 383
+    },
+    {
+      "author": "propensive",
+      "name": "magnolia",
+      "href": "https://github.com/propensive/magnolia",
+      "description": "A better generic macro for Scala",
+      "language": "Scala",
+      "stars": 92,
+      "forks": 16
+    },
+    {
+      "author": "apache",
+      "name": "incubator-predictionio",
+      "href": "https://github.com/apache/incubator-predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10715,
+      "forks": 1755
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 9923,
+      "forks": 3415
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9243,
+      "forks": 2251
+    }
+  ]
+}
