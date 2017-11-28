@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 24923,
+      "forks": 4535
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 3864,
+      "forks": 96
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 6990,
+      "forks": 255
+    },
+    {
+      "author": "p-e-w",
+      "name": "ternimal",
+      "href": "https://github.com/p-e-w/ternimal",
+      "description": "Simulate a lifeform in the terminal",
+      "language": "Rust",
+      "stars": 494,
+      "forks": 11
+    },
+    {
+      "author": "mgattozzi",
+      "name": "cargo-wa",
+      "href": "https://github.com/mgattozzi/cargo-wa",
+      "description": "Make developing a wasm project in Rust easy",
+      "language": "Rust",
+      "stars": 65,
+      "forks": 1
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 10683,
+      "forks": 1792
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3711,
+      "forks": 113
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5661,
+      "forks": 356
+    },
+    {
+      "author": "softprops",
+      "name": "cargo-thanks",
+      "href": "https://github.com/softprops/cargo-thanks",
+      "description": "💖 🦀 give thanks to your fellow Rustaceans",
+      "language": "Rust",
+      "stars": 43,
+      "forks": 4
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 509,
+      "forks": 55
+    },
+    {
+      "author": "bluejekyll",
+      "name": "trust-dns",
+      "href": "https://github.com/bluejekyll/trust-dns",
+      "description": "A Rust based DNS client and server",
+      "language": "Rust",
+      "stars": 634,
+      "forks": 50
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3194,
+      "forks": 205
+    },
+    {
+      "author": "alexcrichton",
+      "name": "wasm-gc",
+      "href": "https://github.com/alexcrichton/wasm-gc",
+      "description": "gc-sections for wasm",
+      "language": "Rust",
+      "stars": 57,
+      "forks": 1
+    },
+    {
+      "author": "alexcrichton",
+      "name": "futures-rs",
+      "href": "https://github.com/alexcrichton/futures-rs",
+      "description": "Zero-cost futures and streams in Rust",
+      "language": "Rust",
+      "stars": 1704,
+      "forks": 192
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2446,
+      "forks": 290
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8784,
+      "forks": 316
+    },
+    {
+      "author": "neon-bindings",
+      "name": "neon",
+      "href": "https://github.com/neon-bindings/neon",
+      "description": "Rust bindings for writing safe and fast native Node.js modules.",
+      "language": "Rust",
+      "stars": 1903,
+      "forks": 78
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 1713,
+      "forks": 230
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 2744,
+      "forks": 552
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 2978,
+      "forks": 517
+    },
+    {
+      "author": "ImageOptim",
+      "name": "gifski",
+      "href": "https://github.com/ImageOptim/gifski",
+      "description": "GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format.",
+      "language": "Rust",
+      "stars": 430,
+      "forks": 6
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 1135,
+      "forks": 144
+    },
+    {
+      "author": "rust-lang",
+      "name": "regex",
+      "href": "https://github.com/rust-lang/regex",
+      "description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.",
+      "language": "Rust",
+      "stars": 573,
+      "forks": 122
+    },
+    {
+      "author": "redox-os",
+      "name": "coreutils",
+      "href": "https://github.com/redox-os/coreutils",
+      "description": "The Redox coreutils.",
+      "language": "Rust",
+      "stars": 140,
+      "forks": 47
+    },
+    {
+      "author": "zeyla",
+      "name": "serenity",
+      "href": "https://github.com/zeyla/serenity",
+      "description": "A Rust library for the Discord API.",
+      "language": "Rust",
+      "stars": 163,
+      "forks": 39
+    }
+  ]
+}
