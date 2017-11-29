@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tenta-browser",
+      "name": "tenta-dns",
+      "href": "https://github.com/tenta-browser/tenta-dns",
+      "description": "Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS",
+      "language": "Go",
+      "stars": 817,
+      "forks": 25
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "href": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": 1016,
+      "forks": 84
+    },
+    {
+      "author": "alibaba",
+      "name": "pouch",
+      "href": "https://github.com/alibaba/pouch",
+      "description": "Pouch is an open-source project created to promote the container technology movement.",
+      "language": "Go",
+      "stars": 1050,
+      "forks": 179
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 29425,
+      "forks": 10538
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34884,
+      "forks": 4747
+    },
+    {
+      "author": "tj",
+      "name": "node-prune",
+      "href": "https://github.com/tj/node-prune",
+      "description": "Remove unnecessary files from node_modules (.md, .ts, etc)",
+      "language": "Go",
+      "stars": 2862,
+      "forks": 61
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 9298,
+      "forks": 2896
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19268,
+      "forks": 5835
+    },
+    {
+      "author": "adtac",
+      "name": "commento",
+      "href": "https://github.com/adtac/commento",
+      "description": "A lightweight, privacy-focussed comment engine alternative to Disqus.",
+      "language": "Go",
+      "stars": 2160,
+      "forks": 72
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25609,
+      "forks": 3267
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 6050,
+      "forks": 408
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8011,
+      "forks": 1394
+    },
+    {
+      "author": "aws",
+      "name": "amazon-vpc-cni-k8s",
+      "href": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "language": "Go",
+      "stars": 53,
+      "forks": 2
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 13224,
+      "forks": 1546
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4108,
+      "forks": 480
+    },
+    {
+      "author": "fogleman",
+      "name": "primitive",
+      "href": "https://github.com/fogleman/primitive",
+      "description": "Reproducing images with geometric primitives.",
+      "language": "Go",
+      "stars": 8071,
+      "forks": 355
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11347,
+      "forks": 1098
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46587,
+      "forks": 13843
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13148,
+      "forks": 1562
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "Jaeger, a Distributed Tracing System",
+      "language": "Go",
+      "stars": 3391,
+      "forks": 244
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 21926,
+      "forks": 2550
+    },
+    {
+      "author": "heptio",
+      "name": "authenticator",
+      "href": "https://github.com/heptio/authenticator",
+      "description": "A tool for using AWS IAM credentials to authenticate to a Kubernetes cluster",
+      "language": "Go",
+      "stars": 92,
+      "forks": 5
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 15704,
+      "forks": 3065
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 13145,
+      "forks": 2967
+    },
+    {
+      "author": "jung-kurt",
+      "name": "gofpdf",
+      "href": "https://github.com/jung-kurt/gofpdf",
+      "description": "A PDF document generator with high level support for text, drawing and images",
+      "language": "Go",
+      "stars": 1974,
+      "forks": 160
+    }
+  ]
+}
