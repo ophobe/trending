@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "manifoldco",
+      "name": "promptui",
+      "href": "https://github.com/manifoldco/promptui",
+      "description": "Interactive prompt for command-line applications",
+      "language": "Go",
+      "stars": 1537,
+      "forks": 23
+    },
+    {
+      "author": "tenta-browser",
+      "name": "tenta-dns",
+      "href": "https://github.com/tenta-browser/tenta-dns",
+      "description": "Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS",
+      "language": "Go",
+      "stars": 1117,
+      "forks": 44
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 29521,
+      "forks": 10568
+    },
+    {
+      "author": "tucnak",
+      "name": "telebot",
+      "href": "https://github.com/tucnak/telebot",
+      "description": "Telebot is a Telegram bot framework in Go.",
+      "language": "Go",
+      "stars": 438,
+      "forks": 72
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-diff",
+      "href": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "container-diff: Diff your Docker containers",
+      "language": "Go",
+      "stars": 1311,
+      "forks": 58
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34960,
+      "forks": 4762
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 9387,
+      "forks": 2914
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4155,
+      "forks": 494
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13203,
+      "forks": 1571
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8068,
+      "forks": 1409
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 21973,
+      "forks": 2554
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25672,
+      "forks": 3276
+    },
+    {
+      "author": "tj",
+      "name": "node-prune",
+      "href": "https://github.com/tj/node-prune",
+      "description": "Remove unnecessary files from node_modules (.md, .ts, etc)",
+      "language": "Go",
+      "stars": 2939,
+      "forks": 67
+    },
+    {
+      "author": "alibaba",
+      "name": "pouch",
+      "href": "https://github.com/alibaba/pouch",
+      "description": "Pouch is an open-source project created to promote the container technology movement.",
+      "language": "Go",
+      "stars": 1121,
+      "forks": 183
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11395,
+      "forks": 1107
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 12197,
+      "forks": 1333
+    },
+    {
+      "author": "rancher",
+      "name": "rke",
+      "href": "https://github.com/rancher/rke",
+      "description": "Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere.",
+      "language": "Go",
+      "stars": 64,
+      "forks": 12
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21387,
+      "forks": 2811
+    },
+    {
+      "author": "google",
+      "name": "metallb",
+      "href": "https://github.com/google/metallb",
+      "description": "A network load-balancer implementation for Kubernetes using BGP",
+      "language": "Go",
+      "stars": 59,
+      "forks": 2
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46621,
+      "forks": 13857
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 13277,
+      "forks": 1552
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 6164,
+      "forks": 815
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 1945,
+      "forks": 402
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 3601,
+      "forks": 946
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 10307,
+      "forks": 3574
+    }
+  ]
+}
