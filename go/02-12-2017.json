@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "manifoldco",
+      "name": "promptui",
+      "href": "https://github.com/manifoldco/promptui",
+      "description": "Interactive prompt for command-line applications",
+      "language": "Go",
+      "stars": 1678,
+      "forks": 26
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 29554,
+      "forks": 10580
+    },
+    {
+      "author": "henrylee2cn",
+      "name": "teleport",
+      "href": "https://github.com/henrylee2cn/teleport",
+      "description": "Teleport is a versatile, high-performance and flexible TCP socket framework. It can be used for RPC, micro services, peer-peer, push services, game services and so on.",
+      "language": "Go",
+      "stars": 799,
+      "forks": 102
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 9412,
+      "forks": 2926
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25700,
+      "forks": 3280
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19320,
+      "forks": 5845
+    },
+    {
+      "author": "tenta-browser",
+      "name": "tenta-dns",
+      "href": "https://github.com/tenta-browser/tenta-dns",
+      "description": "Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS",
+      "language": "Go",
+      "stars": 1141,
+      "forks": 46
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 34983,
+      "forks": 4761
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8089,
+      "forks": 1411
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21398,
+      "forks": 2812
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4174,
+      "forks": 494
+    },
+    {
+      "author": "rancher",
+      "name": "rke",
+      "href": "https://github.com/rancher/rke",
+      "description": "Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere.",
+      "language": "Go",
+      "stars": 80,
+      "forks": 12
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-diff",
+      "href": "https://github.com/GoogleCloudPlatform/container-diff",
+      "description": "container-diff: Diff your Docker containers",
+      "language": "Go",
+      "stars": 1329,
+      "forks": 59
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 15750,
+      "forks": 3070
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 6177,
+      "forks": 815
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13216,
+      "forks": 1575
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11412,
+      "forks": 1108
+    },
+    {
+      "author": "fogleman",
+      "name": "primitive",
+      "href": "https://github.com/fogleman/primitive",
+      "description": "Reproducing images with geometric primitives.",
+      "language": "Go",
+      "stars": 8140,
+      "forks": 356
+    },
+    {
+      "author": "alibaba",
+      "name": "pouch",
+      "href": "https://github.com/alibaba/pouch",
+      "description": "Pouch is an open-source project created to promote the container technology movement.",
+      "language": "Go",
+      "stars": 1136,
+      "forks": 185
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46629,
+      "forks": 13860
+    },
+    {
+      "author": "tj",
+      "name": "node-prune",
+      "href": "https://github.com/tj/node-prune",
+      "description": "Remove unnecessary files from node_modules (.md, .ts, etc)",
+      "language": "Go",
+      "stars": 2954,
+      "forks": 66
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 3096,
+      "forks": 245
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 6109,
+      "forks": 417
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in go",
+      "language": "Go",
+      "stars": 3846,
+      "forks": 629
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 6083,
+      "forks": 1218
+    }
+  ]
+}
