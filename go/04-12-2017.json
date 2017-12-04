@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "bbb31",
+      "name": "slurp",
+      "href": "https://github.com/bbb31/slurp",
+      "description": "S3 bucket enumerator",
+      "language": "Go",
+      "stars": 159,
+      "forks": 10
+    },
+    {
+      "author": "goby-lang",
+      "name": "goby",
+      "href": "https://github.com/goby-lang/goby",
+      "description": "Goby - A new language helps you develop microservices",
+      "language": "Go",
+      "stars": 2444,
+      "forks": 99
+    },
+    {
+      "author": "manifoldco",
+      "name": "promptui",
+      "href": "https://github.com/manifoldco/promptui",
+      "description": "Interactive prompt for command-line applications",
+      "language": "Go",
+      "stars": 1845,
+      "forks": 29
+    },
+    {
+      "author": "google",
+      "name": "metallb",
+      "href": "https://github.com/google/metallb",
+      "description": "A network load-balancer implementation for Kubernetes using BGP",
+      "language": "Go",
+      "stars": 171,
+      "forks": 6
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持正向代理和内网穿透.程序本身可以作为一级代理,如果设置了上级代理那么可以作为二级代理,乃至N级代理.如果程序不是一级代理,而且上级代理也是本程序,那么可以加密和上级代理之间的通讯,采用底层tls高强度加密,安全无特征.代理时会自动判断访问的网站是否屏蔽,如果被屏蔽那么就会使用上级代理(前提是配置了上级代理)访问网站;如果访问的网站没有被屏蔽,为了加速访问,代理会直接访问网站,不使用上级代理.另外可以设置域名黑白名单，更加自由的控制网站的访问方式。下载地址:https://github.com/snail007/goproxy/releases 官方QQ交流群:189618940",
+      "language": "Go",
+      "stars": 549,
+      "forks": 137
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 35047,
+      "forks": 4768
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 9479,
+      "forks": 2950
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 29605,
+      "forks": 10598
+    },
+    {
+      "author": "jessfraz",
+      "name": "weather",
+      "href": "https://github.com/jessfraz/weather",
+      "description": "Weather via the command line.",
+      "language": "Go",
+      "stars": 452,
+      "forks": 51
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4217,
+      "forks": 499
+    },
+    {
+      "author": "tenta-browser",
+      "name": "tenta-dns",
+      "href": "https://github.com/tenta-browser/tenta-dns",
+      "description": "Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS",
+      "language": "Go",
+      "stars": 1216,
+      "forks": 51
+    },
+    {
+      "author": "ribice",
+      "name": "glice",
+      "href": "https://github.com/ribice/glice",
+      "description": "Go license and dependency checker",
+      "language": "Go",
+      "stars": 70,
+      "forks": 3
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21460,
+      "forks": 2813
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 3160,
+      "forks": 249
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8127,
+      "forks": 1421
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25739,
+      "forks": 3285
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 12151,
+      "forks": 477
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 15014,
+      "forks": 1095
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11450,
+      "forks": 1116
+    },
+    {
+      "author": "sensepost",
+      "name": "gowitness",
+      "href": "https://github.com/sensepost/gowitness",
+      "description": "🔍 gowitness - a golang, web screenshot utility using Chrome Headless",
+      "language": "Go",
+      "stars": 63,
+      "forks": 4
+    },
+    {
+      "author": "asticode",
+      "name": "go-astilectron",
+      "href": "https://github.com/asticode/go-astilectron",
+      "description": "Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)",
+      "language": "Go",
+      "stars": 872,
+      "forks": 39
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46654,
+      "forks": 13866
+    },
+    {
+      "author": "xtaci",
+      "name": "kcptun",
+      "href": "https://github.com/xtaci/kcptun",
+      "description": "A Secure Tunnel Based On KCP with N:M Multiplexing",
+      "language": "Go",
+      "stars": 6976,
+      "forks": 1444
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 12243,
+      "forks": 1333
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19353,
+      "forks": 5849
+    }
+  ]
+}
