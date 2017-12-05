@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "pouch",
+      "href": "https://github.com/alibaba/pouch",
+      "description": "Pouch is an open-source project created to promote the container technology movement.",
+      "language": "Go",
+      "stars": 1408,
+      "forks": 243
+    },
+    {
+      "author": "bbb31",
+      "name": "slurp",
+      "href": "https://github.com/bbb31/slurp",
+      "description": "S3 bucket enumerator",
+      "language": "Go",
+      "stars": 255,
+      "forks": 25
+    },
+    {
+      "author": "manifoldco",
+      "name": "promptui",
+      "href": "https://github.com/manifoldco/promptui",
+      "description": "Interactive prompt for command-line applications",
+      "language": "Go",
+      "stars": 1922,
+      "forks": 33
+    },
+    {
+      "author": "lyft",
+      "name": "cni-ipvlan-vpc-k8s",
+      "href": "https://github.com/lyft/cni-ipvlan-vpc-k8s",
+      "description": "AWS VPC Kubernetes CNI driver using IPvlan",
+      "language": "Go",
+      "stars": 76,
+      "forks": 4
+    },
+    {
+      "author": "go-ignite",
+      "name": "ignite",
+      "href": "https://github.com/go-ignite/ignite",
+      "description": "A SS panel for managing multiple users, powered by Go & Docker.",
+      "language": "Go",
+      "stars": 70,
+      "forks": 19
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 29661,
+      "forks": 10613
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 35099,
+      "forks": 4772
+    },
+    {
+      "author": "google",
+      "name": "metallb",
+      "href": "https://github.com/google/metallb",
+      "description": "A network load-balancer implementation for Kubernetes using BGP",
+      "language": "Go",
+      "stars": 219,
+      "forks": 9
+    },
+    {
+      "author": "jszwec",
+      "name": "csvutil",
+      "href": "https://github.com/jszwec/csvutil",
+      "description": "csvutil provides fast and idiomatic mapping between CSV and Go (golang) values.",
+      "language": "Go",
+      "stars": 82,
+      "forks": 3
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 9520,
+      "forks": 2957
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13284,
+      "forks": 1587
+    },
+    {
+      "author": "goby-lang",
+      "name": "goby",
+      "href": "https://github.com/goby-lang/goby",
+      "description": "Goby - A new language helps you develop microservices",
+      "language": "Go",
+      "stars": 2486,
+      "forks": 100
+    },
+    {
+      "author": "adtac",
+      "name": "commento",
+      "href": "https://github.com/adtac/commento",
+      "description": "A privacy-focused Disqus alternative",
+      "language": "Go",
+      "stars": 2216,
+      "forks": 74
+    },
+    {
+      "author": "asticode",
+      "name": "go-astilectron",
+      "href": "https://github.com/asticode/go-astilectron",
+      "description": "Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)",
+      "language": "Go",
+      "stars": 909,
+      "forks": 39
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "A Fast and Flexible Static Site Generator built with love in GoLang.",
+      "language": "Go",
+      "stars": 21498,
+      "forks": 2815
+    },
+    {
+      "author": "jessfraz",
+      "name": "weather",
+      "href": "https://github.com/jessfraz/weather",
+      "description": "Weather via the command line.",
+      "language": "Go",
+      "stars": 484,
+      "forks": 54
+    },
+    {
+      "author": "weibocom",
+      "name": "opendcp",
+      "href": "https://github.com/weibocom/opendcp",
+      "description": "OpenDCP official source site",
+      "language": "Go",
+      "stars": 253,
+      "forks": 82
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 12266,
+      "forks": 1334
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持正向代理和内网穿透.程序本身可以作为一级代理,如果设置了上级代理那么可以作为二级代理,乃至N级代理.如果程序不是一级代理,而且上级代理也是本程序,那么可以加密和上级代理之间的通讯,采用底层tls高强度加密,安全无特征.代理时会自动判断访问的网站是否屏蔽,如果被屏蔽那么就会使用上级代理(前提是配置了上级代理)访问网站;如果访问的网站没有被屏蔽,为了加速访问,代理会直接访问网站,不使用上级代理.另外可以设置域名黑白名单，更加自由的控制网站的访问方式。下载地址:https://github.com/snail007/goproxy/releases 官方QQ交流群:189618940",
+      "language": "Go",
+      "stars": 577,
+      "forks": 142
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19377,
+      "forks": 5853
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 6241,
+      "forks": 826
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 25760,
+      "forks": 3295
+    },
+    {
+      "author": "sensepost",
+      "name": "gowitness",
+      "href": "https://github.com/sensepost/gowitness",
+      "description": "🔍 gowitness - a golang, web screenshot utility using Chrome Headless",
+      "language": "Go",
+      "stars": 86,
+      "forks": 10
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11473,
+      "forks": 1119
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46674,
+      "forks": 13873
+    }
+  ]
+}
