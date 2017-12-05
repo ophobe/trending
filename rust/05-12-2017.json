@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ntrippar",
+      "name": "sekey",
+      "href": "https://github.com/ntrippar/sekey",
+      "description": "Use Touch ID / Secure Enclave for SSH Authentication!",
+      "language": "Rust",
+      "stars": 235,
+      "forks": 3
+    },
+    {
+      "author": "aochagavia",
+      "name": "rocket_wasm",
+      "href": "https://github.com/aochagavia/rocket_wasm",
+      "description": "The Rocket game, now compiling to WASM",
+      "language": "Rust",
+      "stars": 164,
+      "forks": 11
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 25103,
+      "forks": 4559
+    },
+    {
+      "author": "dtolnay",
+      "name": "cargo-llvm-lines",
+      "href": "https://github.com/dtolnay/cargo-llvm-lines",
+      "description": "Count lines of LLVM IR per generic function",
+      "language": "Rust",
+      "stars": 34,
+      "forks": 1
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2081,
+      "forks": 198
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3783,
+      "forks": 327
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 7985,
+      "forks": 304
+    },
+    {
+      "author": "way-cooler",
+      "name": "way-cooler",
+      "href": "https://github.com/way-cooler/way-cooler",
+      "description": "Customizable Wayland compositor (window manager)",
+      "language": "Rust",
+      "stars": 1244,
+      "forks": 46
+    },
+    {
+      "author": "facebookexperimental",
+      "name": "mononoke",
+      "href": "https://github.com/facebookexperimental/mononoke",
+      "description": "A Mercurial source control server, specifically designed to support large monorepos.",
+      "language": "Rust",
+      "stars": 281,
+      "forks": 8
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 7062,
+      "forks": 257
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5724,
+      "forks": 361
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 10763,
+      "forks": 1796
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3749,
+      "forks": 116
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 3902,
+      "forks": 100
+    },
+    {
+      "author": "japaric",
+      "name": "criterion.rs",
+      "href": "https://github.com/japaric/criterion.rs",
+      "description": "Statistics-driven micro-benchmarking library",
+      "language": "Rust",
+      "stars": 205,
+      "forks": 15
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 2800,
+      "forks": 560
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8813,
+      "forks": 319
+    },
+    {
+      "author": "withoutboats",
+      "name": "failure",
+      "href": "https://github.com/withoutboats/failure",
+      "description": "Error management",
+      "language": "Rust",
+      "stars": 446,
+      "forks": 31
+    },
+    {
+      "author": "sunjay",
+      "name": "turtle",
+      "href": "https://github.com/sunjay/turtle",
+      "description": "Create Animated Drawings in Rust",
+      "language": "Rust",
+      "stars": 64,
+      "forks": 3
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 784,
+      "forks": 32
+    },
+    {
+      "author": "AdamNiederer",
+      "name": "faster",
+      "href": "https://github.com/AdamNiederer/faster",
+      "description": "SIMD for humans",
+      "language": "Rust",
+      "stars": 527,
+      "forks": 13
+    },
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam-channel",
+      "href": "https://github.com/crossbeam-rs/crossbeam-channel",
+      "description": "Multi-producer multi-consumer channels for message passing",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 666,
+      "forks": 209
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2465,
+      "forks": 295
+    },
+    {
+      "author": "ggez",
+      "name": "ggez",
+      "href": "https://github.com/ggez/ggez",
+      "description": "Rust library to create a Good Game Easily",
+      "language": "Rust",
+      "stars": 361,
+      "forks": 48
+    }
+  ]
+}
