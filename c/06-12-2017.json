@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Microsoft",
+      "name": "ProcDump-for-Linux",
+      "href": "https://github.com/Microsoft/ProcDump-for-Linux",
+      "description": "A Linux version of the ProcDump Sysinternals tool",
+      "language": "C",
+      "stars": 180,
+      "forks": 15
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 1268,
+      "forks": 114
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 52759,
+      "forks": 19587
+    },
+    {
+      "author": "rs2k",
+      "name": "RaceFlight-One",
+      "href": "https://github.com/rs2k/RaceFlight-One",
+      "description": "RaceFlight One",
+      "language": "C",
+      "stars": 34,
+      "forks": 45
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25759,
+      "forks": 2125
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6093,
+      "forks": 1250
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 16607,
+      "forks": 4821
+    },
+    {
+      "author": "HaJaeKyung",
+      "name": "KittyExtension",
+      "href": "https://github.com/HaJaeKyung/KittyExtension",
+      "description": "Fan add-on for https://www.cryptokitties.co",
+      "language": "C",
+      "stars": 57,
+      "forks": 15
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26523,
+      "forks": 10166
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20077,
+      "forks": 11667
+    },
+    {
+      "author": "SimonLarsen",
+      "name": "tobutobugirl",
+      "href": "https://github.com/SimonLarsen/tobutobugirl",
+      "description": "An arcade platformer homebrew game for the Game Boy",
+      "language": "C",
+      "stars": 66,
+      "forks": 4
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 10972,
+      "forks": 1380
+    },
+    {
+      "author": "happyfish100",
+      "name": "fastdfs",
+      "href": "https://github.com/happyfish100/fastdfs",
+      "description": "FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.",
+      "language": "C",
+      "stars": 2178,
+      "forks": 722
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9017,
+      "forks": 4033
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 13550,
+      "forks": 1632
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13467,
+      "forks": 4523
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6414,
+      "forks": 2031
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 4803,
+      "forks": 1144
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 7238,
+      "forks": 1897
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7822,
+      "forks": 1844
+    },
+    {
+      "author": "videolan",
+      "name": "vlc",
+      "href": "https://github.com/videolan/vlc",
+      "description": "VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",
+      "language": "C",
+      "stars": 3342,
+      "forks": 1414
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5863,
+      "forks": 2980
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 4953,
+      "forks": 2352
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 5892,
+      "forks": 2417
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 13924,
+      "forks": 914
+    }
+  ]
+}
