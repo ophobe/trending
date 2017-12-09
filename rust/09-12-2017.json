@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 25186,
+      "forks": 4562
+    },
+    {
+      "author": "zboxfs",
+      "name": "zbox",
+      "href": "https://github.com/zboxfs/zbox",
+      "description": "Zero-details, privacy-focused embeddable file system.",
+      "language": "Rust",
+      "stars": 537,
+      "forks": 11
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5767,
+      "forks": 362
+    },
+    {
+      "author": "fitzgen",
+      "name": "state_machine_future",
+      "href": "https://github.com/fitzgen/state_machine_future",
+      "description": "Easily create type-safe `Future`s from state machines — without the boilerplate.",
+      "language": "Rust",
+      "stars": 117,
+      "forks": 2
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 2851,
+      "forks": 570
+    },
+    {
+      "author": "ntrippar",
+      "name": "sekey",
+      "href": "https://github.com/ntrippar/sekey",
+      "description": "Use Touch ID / Secure Enclave for SSH Authentication!",
+      "language": "Rust",
+      "stars": 741,
+      "forks": 14
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "The Ultralight Service Mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 356,
+      "forks": 8
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 8024,
+      "forks": 305
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2105,
+      "forks": 198
+    },
+    {
+      "author": "citybound",
+      "name": "citybound",
+      "href": "https://github.com/citybound/citybound",
+      "description": "The city is us.",
+      "language": "Rust",
+      "stars": 973,
+      "forks": 48
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 10784,
+      "forks": 1800
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 7096,
+      "forks": 258
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2671,
+      "forks": 682
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 471,
+      "forks": 22
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3011,
+      "forks": 521
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "Asynchronous I/O for Rust",
+      "language": "Rust",
+      "stars": 893,
+      "forks": 13
+    },
+    {
+      "author": "tensorflow",
+      "name": "rust",
+      "href": "https://github.com/tensorflow/rust",
+      "description": "Rust language bindings for TensorFlow",
+      "language": "Rust",
+      "stars": 884,
+      "forks": 101
+    },
+    {
+      "author": "servo",
+      "name": "rust-smallvec",
+      "href": "https://github.com/servo/rust-smallvec",
+      "description": "\"Small vector\" optimization for Rust: store up to a small number of items on the stack",
+      "language": "Rust",
+      "stars": 83,
+      "forks": 28
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "compiler-builtins",
+      "href": "https://github.com/rust-lang-nursery/compiler-builtins",
+      "description": "Porting `compiler-rt` intrinsics to Rust",
+      "language": "Rust",
+      "stars": 59,
+      "forks": 34
+    },
+    {
+      "author": "ihalila",
+      "name": "pancurses",
+      "href": "https://github.com/ihalila/pancurses",
+      "description": "A Rust curses library, supports Unix platforms and Windows",
+      "language": "Rust",
+      "stars": 75,
+      "forks": 10
+    },
+    {
+      "author": "nickel-org",
+      "name": "nickel.rs",
+      "href": "https://github.com/nickel-org/nickel.rs",
+      "description": "An expressjs inspired web framework for Rust",
+      "language": "Rust",
+      "stars": 1954,
+      "forks": 138
+    },
+    {
+      "author": "nix-rust",
+      "name": "nix",
+      "href": "https://github.com/nix-rust/nix",
+      "description": "Rust friendly bindings to *nix APIs",
+      "language": "Rust",
+      "stars": 566,
+      "forks": 207
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "log",
+      "href": "https://github.com/rust-lang-nursery/log",
+      "description": "Logging implementation for Rust",
+      "language": "Rust",
+      "stars": 268,
+      "forks": 75
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 1151,
+      "forks": 150
+    },
+    {
+      "author": "retep998",
+      "name": "winapi-rs",
+      "href": "https://github.com/retep998/winapi-rs",
+      "description": "Rust bindings to Windows API",
+      "language": "Rust",
+      "stars": 345,
+      "forks": 149
+    }
+  ]
+}
