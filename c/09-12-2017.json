@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25863,
+      "forks": 2127
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 1538,
+      "forks": 129
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 52829,
+      "forks": 19608
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26577,
+      "forks": 10179
+    },
+    {
+      "author": "HaJaeKyung",
+      "name": "KittyExtension",
+      "href": "https://github.com/HaJaeKyung/KittyExtension",
+      "description": "Fan add-on for https://www.cryptokitties.co",
+      "language": "C",
+      "stars": 131,
+      "forks": 50
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20124,
+      "forks": 11697
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 13590,
+      "forks": 1635
+    },
+    {
+      "author": "Microsoft",
+      "name": "ProcDump-for-Linux",
+      "href": "https://github.com/Microsoft/ProcDump-for-Linux",
+      "description": "A Linux version of the ProcDump Sysinternals tool",
+      "language": "C",
+      "stars": 402,
+      "forks": 35
+    },
+    {
+      "author": "stevefan1999",
+      "name": "TinyGenericC",
+      "href": "https://github.com/stevefan1999/TinyGenericC",
+      "description": "Tiny C Libraries that exploits undefined behaviors to achieve generic programming",
+      "language": "C",
+      "stars": 27,
+      "forks": 3
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 7333,
+      "forks": 1900
+    },
+    {
+      "author": "SimonLarsen",
+      "name": "tobutobugirl",
+      "href": "https://github.com/SimonLarsen/tobutobugirl",
+      "description": "An arcade platformer homebrew game for the Game Boy",
+      "language": "C",
+      "stars": 84,
+      "forks": 5
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6814,
+      "forks": 4250
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6824,
+      "forks": 902
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 5886,
+      "forks": 2987
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5009,
+      "forks": 2378
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6113,
+      "forks": 1256
+    },
+    {
+      "author": "jacobdufault",
+      "name": "cquery",
+      "href": "https://github.com/jacobdufault/cquery",
+      "description": "Low-latency vscode language server for large C++ code-bases, powered by libclang.",
+      "language": "C",
+      "stars": 661,
+      "forks": 33
+    },
+    {
+      "author": "transmission",
+      "name": "transmission",
+      "href": "https://github.com/transmission/transmission",
+      "description": "Official Transmission BitTorrent client repository",
+      "language": "C",
+      "stars": 1319,
+      "forks": 256
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6438,
+      "forks": 2038
+    },
+    {
+      "author": "magnumripper",
+      "name": "JohnTheRipper",
+      "href": "https://github.com/magnumripper/JohnTheRipper",
+      "description": "This is the official repo for the Jumbo version of John the Ripper. The \"bleeding-jumbo\" branch (default) is based on 1.8.0-Jumbo-1 (but we are literally several thousands of commits ahead of it).",
+      "language": "C",
+      "stars": 1390,
+      "forks": 407
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9049,
+      "forks": 4038
+    },
+    {
+      "author": "tpruvot",
+      "name": "ccminer",
+      "href": "https://github.com/tpruvot/ccminer",
+      "description": "CUDA miner project, compatible with most nvidia cards",
+      "language": "C",
+      "stars": 631,
+      "forks": 629
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7853,
+      "forks": 1850
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8677,
+      "forks": 637
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 4543,
+      "forks": 687
+    }
+  ]
+}
