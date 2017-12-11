@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 2531,
+      "forks": 135
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 25933,
+      "forks": 2136
+    },
+    {
+      "author": "xerof4ks",
+      "name": "heapwn",
+      "href": "https://github.com/xerof4ks/heapwn",
+      "description": "Heap Exploitation Practice",
+      "language": "C",
+      "stars": 63,
+      "forks": 11
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 52889,
+      "forks": 19626
+    },
+    {
+      "author": "Microsoft",
+      "name": "ProcDump-for-Linux",
+      "href": "https://github.com/Microsoft/ProcDump-for-Linux",
+      "description": "A Linux version of the ProcDump Sysinternals tool",
+      "language": "C",
+      "stars": 445,
+      "forks": 39
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 16689,
+      "forks": 4849
+    },
+    {
+      "author": "zhaojh329",
+      "name": "vuci",
+      "href": "https://github.com/zhaojh329/vuci",
+      "description": "VUCI - OpenWrt web user interface based on vuejs2 and element-ui.",
+      "language": "C",
+      "stars": 25,
+      "forks": 0
+    },
+    {
+      "author": "cmus",
+      "name": "cmus",
+      "href": "https://github.com/cmus/cmus",
+      "description": "Small, fast and powerful console music player for Unix-like operating systems.",
+      "language": "C",
+      "stars": 2404,
+      "forks": 269
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9073,
+      "forks": 4042
+    },
+    {
+      "author": "Spajed",
+      "name": "processrefund",
+      "href": "https://github.com/Spajed/processrefund",
+      "description": "An attempt at Process Doppelgänging",
+      "language": "C",
+      "stars": 29,
+      "forks": 14
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20141,
+      "forks": 11710
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26597,
+      "forks": 10189
+    },
+    {
+      "author": "citusdata",
+      "name": "citus",
+      "href": "https://github.com/citusdata/citus",
+      "description": "Scalable PostgreSQL for multi-tenant and real-time workloads",
+      "language": "C",
+      "stars": 2390,
+      "forks": 166
+    },
+    {
+      "author": "HaJaeKyung",
+      "name": "KittyExtension",
+      "href": "https://github.com/HaJaeKyung/KittyExtension",
+      "description": "Fan add-on for https://www.cryptokitties.co",
+      "language": "C",
+      "stars": 163,
+      "forks": 69
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 7353,
+      "forks": 1902
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6831,
+      "forks": 4255
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6130,
+      "forks": 1256
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6453,
+      "forks": 2043
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern and easy-to-use crypto library.",
+      "language": "C",
+      "stars": 4989,
+      "forks": 732
+    },
+    {
+      "author": "tpruvot",
+      "name": "ccminer",
+      "href": "https://github.com/tpruvot/ccminer",
+      "description": "CUDA miner project, compatible with most nvidia cards",
+      "language": "C",
+      "stars": 645,
+      "forks": 641
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 13606,
+      "forks": 1637
+    },
+    {
+      "author": "CHEF-KOCH",
+      "name": "Android-Vulnerabilities-Overview",
+      "href": "https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview",
+      "description": "An small overview of known Android vulnerabilities",
+      "language": "C",
+      "stars": 105,
+      "forks": 35
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 6790,
+      "forks": 1566
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6836,
+      "forks": 906
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8694,
+      "forks": 637
+    }
+  ]
+}
