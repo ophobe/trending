@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "matthewmueller",
+      "name": "joy",
+      "href": "https://github.com/matthewmueller/joy",
+      "description": "A delightful Go to Javascript compiler",
+      "language": "Go",
+      "stars": 936,
+      "forks": 13
+    },
+    {
+      "author": "minio",
+      "name": "sha256-simd",
+      "href": "https://github.com/minio/sha256-simd",
+      "description": "Accelerate SHA256 computations in pure Go using AVX512 and AVX2 for Intel and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core) in comparison to AVX2.",
+      "language": "Go",
+      "stars": 252,
+      "forks": 19
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 10169,
+      "forks": 3092
+    },
+    {
+      "author": "goodrain",
+      "name": "rainbond",
+      "href": "https://github.com/goodrain/rainbond",
+      "description": "Rainbond, Production-Grade Serverless PaaS",
+      "language": "Go",
+      "stars": 157,
+      "forks": 28
+    },
+    {
+      "author": "celrenheit",
+      "name": "sandglass",
+      "href": "https://github.com/celrenheit/sandglass",
+      "description": "Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.",
+      "language": "Go",
+      "stars": 1041,
+      "forks": 17
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 35450,
+      "forks": 4828
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 30547,
+      "forks": 7381
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 30052,
+      "forks": 10724
+    },
+    {
+      "author": "moul",
+      "name": "sshportal",
+      "href": "https://github.com/moul/sshportal",
+      "description": "🎩 simple, fun and transparent SSH bastion",
+      "language": "Go",
+      "stars": 163,
+      "forks": 2
+    },
+    {
+      "author": "ericchiang",
+      "name": "css",
+      "href": "https://github.com/ericchiang/css",
+      "description": "CSS Selectors for Go",
+      "language": "Go",
+      "stars": 66,
+      "forks": 1
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-mock",
+      "href": "https://github.com/stripe/stripe-mock",
+      "description": "stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.",
+      "language": "Go",
+      "stars": 150,
+      "forks": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13508,
+      "forks": 1613
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 7522,
+      "forks": 453
+    },
+    {
+      "author": "google",
+      "name": "gapid",
+      "href": "https://github.com/google/gapid",
+      "description": "Graphics API Debugger",
+      "language": "Go",
+      "stars": 539,
+      "forks": 92
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26032,
+      "forks": 3350
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 22204,
+      "forks": 2580
+    },
+    {
+      "author": "alibaba",
+      "name": "pouch",
+      "href": "https://github.com/alibaba/pouch",
+      "description": "Pouch is an open-source project created to promote the container technology movement.",
+      "language": "Go",
+      "stars": 1733,
+      "forks": 287
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 13318,
+      "forks": 3005
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 13533,
+      "forks": 1582
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4438,
+      "forks": 537
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8355,
+      "forks": 1464
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 6431,
+      "forks": 856
+    },
+    {
+      "author": "gen2brain",
+      "name": "beeep",
+      "href": "https://github.com/gen2brain/beeep",
+      "description": "Go cross-platform library for sending desktop notifications and beeps",
+      "language": "Go",
+      "stars": 129,
+      "forks": 2
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46817,
+      "forks": 13888
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11671,
+      "forks": 1142
+    }
+  ]
+}
