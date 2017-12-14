@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaCI",
+      "name": "PkgBenchmark.jl",
+      "href": "https://github.com/JuliaCI/PkgBenchmark.jl",
+      "description": "Easy benchmark tracking for packages",
+      "language": "Julia",
+      "stars": 33,
+      "forks": 7
+    },
+    {
+      "author": "goedman",
+      "name": "Stan.jl",
+      "href": "https://github.com/goedman/Stan.jl",
+      "description": "Julia package to use Stan as an external program",
+      "language": "Julia",
+      "stars": 85,
+      "forks": 18
+    },
+    {
+      "author": "JuliaData",
+      "name": "CSV.jl",
+      "href": "https://github.com/JuliaData/CSV.jl",
+      "description": "Utility library for working with CSV and other delimited files in the Julia programming language",
+      "language": "Julia",
+      "stars": 41,
+      "forks": 27
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1164,
+      "forks": 189
+    },
+    {
+      "author": "JuliaImages",
+      "name": "Images.jl",
+      "href": "https://github.com/JuliaImages/Images.jl",
+      "description": "An image library for Julia",
+      "language": "Julia",
+      "stars": 171,
+      "forks": 99
+    },
+    {
+      "author": "JuliaDocs",
+      "name": "Documenter.jl",
+      "href": "https://github.com/JuliaDocs/Documenter.jl",
+      "description": "A documentation generator for Julia.",
+      "language": "Julia",
+      "stars": 115,
+      "forks": 87
+    },
+    {
+      "author": "JuliaApproximation",
+      "name": "ApproxFun.jl",
+      "href": "https://github.com/JuliaApproximation/ApproxFun.jl",
+      "description": "Julia package for function approximation",
+      "language": "Julia",
+      "stars": 87,
+      "forks": 21
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "RecipesBase.jl",
+      "href": "https://github.com/JuliaPlots/RecipesBase.jl",
+      "description": "Base package for defining transformation recipes on user types for Plots.jl",
+      "language": "Julia",
+      "stars": 25,
+      "forks": 17
+    },
+    {
+      "author": "Jutho",
+      "name": "LinearMaps.jl",
+      "href": "https://github.com/Jutho/LinearMaps.jl",
+      "description": "A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.",
+      "language": "Julia",
+      "stars": 24,
+      "forks": 10
+    },
+    {
+      "author": "JuliaNLSolvers",
+      "name": "Optim.jl",
+      "href": "https://github.com/JuliaNLSolvers/Optim.jl",
+      "description": "Optimization functions for Julia",
+      "language": "Julia",
+      "stars": 266,
+      "forks": 94
+    },
+    {
+      "author": "JuliaGraphics",
+      "name": "Gtk.jl",
+      "href": "https://github.com/JuliaGraphics/Gtk.jl",
+      "description": "Julia interface to Gtk windowing toolkit.",
+      "language": "Julia",
+      "stars": 74,
+      "forks": 47
+    },
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 9656,
+      "forks": 2192
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1105,
+      "forks": 184
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 981,
+      "forks": 220
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia language.",
+      "language": "Julia",
+      "stars": 543,
+      "forks": 123
+    },
+    {
+      "author": "JuliaData",
+      "name": "DataFrames.jl",
+      "href": "https://github.com/JuliaData/DataFrames.jl",
+      "description": "Library for working with tabular data in Julia",
+      "language": "Julia",
+      "stars": 424,
+      "forks": 189
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "JuMP.jl",
+      "href": "https://github.com/JuliaOpt/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+      "language": "Julia",
+      "stars": 423,
+      "forks": 114
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 414,
+      "forks": 99
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 410,
+      "forks": 102
+    },
+    {
+      "author": "FRBNY-DSGE",
+      "name": "DSGE.jl",
+      "href": "https://github.com/FRBNY-DSGE/DSGE.jl",
+      "description": "Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)",
+      "language": "Julia",
+      "stars": 396,
+      "forks": 77
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 393,
+      "forks": 30
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 392,
+      "forks": 78
+    },
+    {
+      "author": "adambom",
+      "name": "dictionary",
+      "href": "https://github.com/adambom/dictionary",
+      "description": "A JSON representation of Webster's Unabridged Dictionary",
+      "language": "Julia",
+      "stars": 345,
+      "forks": 108
+    },
+    {
+      "author": "Keno",
+      "name": "Cxx.jl",
+      "href": "https://github.com/Keno/Cxx.jl",
+      "description": "The Julia C++ Interface",
+      "language": "Julia",
+      "stars": 320,
+      "forks": 60
+    },
+    {
+      "author": "shashi",
+      "name": "Escher.jl",
+      "href": "https://github.com/shashi/Escher.jl",
+      "description": "Composable Web UIs in Julia",
+      "language": "Julia",
+      "stars": 281,
+      "forks": 63
+    }
+  ]
+}
