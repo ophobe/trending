@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 25288,
+      "forks": 4576
+    },
+    {
+      "author": "ColinEberhardt",
+      "name": "wasm-rust-chip8",
+      "href": "https://github.com/ColinEberhardt/wasm-rust-chip8",
+      "description": "A WebAssembly CHIP-8 emulator written with Rust",
+      "language": "Rust",
+      "stars": 42,
+      "forks": 4
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "The Ultralight Service Mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 436,
+      "forks": 13
+    },
+    {
+      "author": "antoyo",
+      "name": "tql",
+      "href": "https://github.com/antoyo/tql",
+      "description": "TQL is a compile-time Rust ORM",
+      "language": "Rust",
+      "stars": 71,
+      "forks": 1
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 2911,
+      "forks": 578
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3288,
+      "forks": 214
+    },
+    {
+      "author": "BanjoFox",
+      "name": "Aardwolf",
+      "href": "https://github.com/BanjoFox/Aardwolf",
+      "description": "Free, open-source, interconnected, Mastodon-compatible macroblogging.",
+      "language": "Rust",
+      "stars": 62,
+      "forks": 5
+    },
+    {
+      "author": "redox-os",
+      "name": "ion",
+      "href": "https://github.com/redox-os/ion",
+      "description": "The Ion Shell. Compatible with Redox and Linux.",
+      "language": "Rust",
+      "stars": 479,
+      "forks": 87
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 8076,
+      "forks": 314
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5802,
+      "forks": 366
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8856,
+      "forks": 324
+    },
+    {
+      "author": "zboxfs",
+      "name": "zbox",
+      "href": "https://github.com/zboxfs/zbox",
+      "description": "Zero-details, privacy-focused embeddable file system.",
+      "language": "Rust",
+      "stars": 662,
+      "forks": 17
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "Asynchronous I/O for Rust",
+      "language": "Rust",
+      "stars": 912,
+      "forks": 14
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 2293,
+      "forks": 284
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2126,
+      "forks": 198
+    },
+    {
+      "author": "ntrippar",
+      "name": "sekey",
+      "href": "https://github.com/ntrippar/sekey",
+      "description": "Use Touch ID / Secure Enclave for SSH Authentication!",
+      "language": "Rust",
+      "stars": 806,
+      "forks": 15
+    },
+    {
+      "author": "a8m",
+      "name": "pb",
+      "href": "https://github.com/a8m/pb",
+      "description": "Console progress bar for Rust",
+      "language": "Rust",
+      "stars": 132,
+      "forks": 17
+    },
+    {
+      "author": "gimli-rs",
+      "name": "gimli",
+      "href": "https://github.com/gimli-rs/gimli",
+      "description": "A lazy, zero-copy parser for the DWARF debugging format.",
+      "language": "Rust",
+      "stars": 122,
+      "forks": 26
+    },
+    {
+      "author": "mmstick",
+      "name": "systemd-manager",
+      "href": "https://github.com/mmstick/systemd-manager",
+      "description": "A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus",
+      "language": "Rust",
+      "stars": 408,
+      "forks": 18
+    },
+    {
+      "author": "libpnet",
+      "name": "libpnet",
+      "href": "https://github.com/libpnet/libpnet",
+      "description": "Cross-platform, low level networking using the Rust programming language.",
+      "language": "Rust",
+      "stars": 558,
+      "forks": 105
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": null,
+      "language": "Rust",
+      "stars": 42,
+      "forks": 54
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rand",
+      "href": "https://github.com/rust-lang-nursery/rand",
+      "description": null,
+      "language": "Rust",
+      "stars": 140,
+      "forks": 99
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 10813,
+      "forks": 1805
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 7138,
+      "forks": 259
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 5135,
+      "forks": 257
+    }
+  ]
+}
