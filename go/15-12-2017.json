@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "matthewmueller",
+      "name": "joy",
+      "href": "https://github.com/matthewmueller/joy",
+      "description": "A delightful Go to Javascript compiler",
+      "language": "Go",
+      "stars": 1045,
+      "forks": 19
+    },
+    {
+      "author": "celrenheit",
+      "name": "sandglass",
+      "href": "https://github.com/celrenheit/sandglass",
+      "description": "Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.",
+      "language": "Go",
+      "stars": 1123,
+      "forks": 23
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 10227,
+      "forks": 3103
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 30099,
+      "forks": 10745
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 35488,
+      "forks": 4842
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 30586,
+      "forks": 7390
+    },
+    {
+      "author": "camlistore",
+      "name": "camlistore",
+      "href": "https://github.com/camlistore/camlistore",
+      "description": "Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+      "language": "Go",
+      "stars": 2329,
+      "forks": 225
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 7553,
+      "forks": 457
+    },
+    {
+      "author": "fanpei91",
+      "name": "p2pspider",
+      "href": "https://github.com/fanpei91/p2pspider",
+      "description": "DHT Spider + BitTorrent Client = P2P Spider",
+      "language": "Go",
+      "stars": 2385,
+      "forks": 650
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8389,
+      "forks": 1471
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 22232,
+      "forks": 2584
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26064,
+      "forks": 3351
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 6217,
+      "forks": 1246
+    },
+    {
+      "author": "minio",
+      "name": "sha256-simd",
+      "href": "https://github.com/minio/sha256-simd",
+      "description": "Accelerate SHA256 computations in pure Go using AVX512 and AVX2 for Intel and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core) in comparison to AVX2.",
+      "language": "Go",
+      "stars": 279,
+      "forks": 20
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 11707,
+      "forks": 1144
+    },
+    {
+      "author": "gen2brain",
+      "name": "beeep",
+      "href": "https://github.com/gen2brain/beeep",
+      "description": "Go cross-platform library for sending desktop notifications and beeps",
+      "language": "Go",
+      "stars": 146,
+      "forks": 4
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.",
+      "language": "Go",
+      "stars": 21691,
+      "forks": 2836
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13530,
+      "forks": 1622
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 2880,
+      "forks": 333
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-mock",
+      "href": "https://github.com/stripe/stripe-mock",
+      "description": "stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.",
+      "language": "Go",
+      "stars": 172,
+      "forks": 8
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 15955,
+      "forks": 3102
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19552,
+      "forks": 5908
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 46831,
+      "forks": 13892
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 10476,
+      "forks": 3600
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 12309,
+      "forks": 482
+    }
+  ]
+}
