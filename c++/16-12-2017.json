@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "avast-tl",
+      "name": "retdec",
+      "href": "https://github.com/avast-tl/retdec",
+      "description": "RetDec is a retargetable machine-code decompiler based on LLVM.",
+      "language": "C++",
+      "stars": 2371,
+      "forks": 246
+    },
+    {
+      "author": "twitter",
+      "name": "vireo",
+      "href": "https://github.com/twitter/vireo",
+      "description": "Vireo is a lightweight and versatile video processing library written in C++11",
+      "language": "C++",
+      "stars": 170,
+      "forks": 12
+    },
+    {
+      "author": "apple",
+      "name": "turicreate",
+      "href": "https://github.com/apple/turicreate",
+      "description": "Turi Create simplifies the development of custom machine learning models.",
+      "language": "C++",
+      "stars": 4477,
+      "forks": 298
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "href": "https://github.com/tensorflow/tensorflow",
+      "description": "Computation using data flow graphs for scalable machine learning",
+      "language": "C++",
+      "stars": 82187,
+      "forks": 40245
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "href": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": 22045,
+      "forks": 12733
+    },
+    {
+      "author": "fireice-uk",
+      "name": "xmr-stak",
+      "href": "https://github.com/fireice-uk/xmr-stak",
+      "description": "Unified All-in-one Monero miner",
+      "language": "C++",
+      "stars": 653,
+      "forks": 272
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 54083,
+      "forks": 7008
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "href": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 20517,
+      "forks": 15036
+    },
+    {
+      "author": "cryptonotefoundation",
+      "name": "cryptonote",
+      "href": "https://github.com/cryptonotefoundation/cryptonote",
+      "description": "CryptoNote protocol implementation. This is the reference repository for starting a new CryptoNote currency. See /src/cryptonote_config.h",
+      "language": "C++",
+      "stars": 345,
+      "forks": 2861
+    },
+    {
+      "author": "ethereum-mining",
+      "name": "ethminer",
+      "href": "https://github.com/ethereum-mining/ethminer",
+      "description": "Ethereum miner with OpenCL, CUDA and stratum support",
+      "language": "C++",
+      "stars": 1275,
+      "forks": 335
+    },
+    {
+      "author": "butor",
+      "name": "blackbird",
+      "href": "https://github.com/butor/blackbird",
+      "description": "Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy",
+      "language": "C++",
+      "stars": 2276,
+      "forks": 492
+    },
+    {
+      "author": "BVLC",
+      "name": "caffe",
+      "href": "https://github.com/BVLC/caffe",
+      "description": "Caffe: a fast open framework for deep learning.",
+      "language": "C++",
+      "stars": 21790,
+      "forks": 13394
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "href": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": 11853,
+      "forks": 2665
+    },
+    {
+      "author": "mozilla",
+      "name": "DeepSpeech",
+      "href": "https://github.com/mozilla/DeepSpeech",
+      "description": "A TensorFlow implementation of Baidu's DeepSpeech architecture",
+      "language": "C++",
+      "stars": 4637,
+      "forks": 637
+    },
+    {
+      "author": "apple",
+      "name": "swift",
+      "href": "https://github.com/apple/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": 41968,
+      "forks": 6582
+    },
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "href": "https://github.com/ethereum/solidity",
+      "description": "The Solidity Contract-Oriented Programming Language",
+      "language": "C++",
+      "stars": 2638,
+      "forks": 752
+    },
+    {
+      "author": "monero-project",
+      "name": "monero",
+      "href": "https://github.com/monero-project/monero",
+      "description": "Monero: the secure, private, untraceable cryptocurrency",
+      "language": "C++",
+      "stars": 1746,
+      "forks": 749
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 12755,
+      "forks": 2749
+    },
+    {
+      "author": "stellar",
+      "name": "stellar-core",
+      "href": "https://github.com/stellar/stellar-core",
+      "description": "stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network. Optionally, stellar-core can store historical records of the ledger and participate in consensus.",
+      "language": "C++",
+      "stars": 683,
+      "forks": 208
+    },
+    {
+      "author": "google",
+      "name": "protobuf",
+      "href": "https://github.com/google/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 22193,
+      "forks": 6526
+    },
+    {
+      "author": "voodooattack",
+      "name": "nexusjs",
+      "href": "https://github.com/voodooattack/nexusjs",
+      "description": "Nexus.js - The next-gen JavaScript platform",
+      "language": "C++",
+      "stars": 766,
+      "forks": 10
+    },
+    {
+      "author": "radareorg",
+      "name": "cutter",
+      "href": "https://github.com/radareorg/cutter",
+      "description": "A Qt and C++ GUI for radare2 reverse engineering framework",
+      "language": "C++",
+      "stars": 913,
+      "forks": 75
+    },
+    {
+      "author": "avast-tl",
+      "name": "retdec-idaplugin",
+      "href": "https://github.com/avast-tl/retdec-idaplugin",
+      "description": "IDA plugin for RetDec.",
+      "language": "C++",
+      "stars": 96,
+      "forks": 22
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "href": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",
+      "language": "C++",
+      "stars": 9988,
+      "forks": 4748
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-qt5",
+      "href": "https://github.com/shadowsocks/shadowsocks-qt5",
+      "description": "A cross-platform shadowsocks GUI client",
+      "language": "C++",
+      "stars": 3881,
+      "forks": 1396
+    }
+  ]
+}
