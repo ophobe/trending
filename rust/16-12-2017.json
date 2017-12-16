@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 25322,
+      "forks": 4586
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 7161,
+      "forks": 260
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "The Ultralight Service Mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 458,
+      "forks": 14
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 8101,
+      "forks": 315
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3304,
+      "forks": 215
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 8863,
+      "forks": 325
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 10823,
+      "forks": 1806
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 5818,
+      "forks": 366
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 2931,
+      "forks": 579
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2500,
+      "forks": 301
+    },
+    {
+      "author": "zboxfs",
+      "name": "zbox",
+      "href": "https://github.com/zboxfs/zbox",
+      "description": "Zero-details, privacy-focused embeddable file system.",
+      "language": "Rust",
+      "stars": 671,
+      "forks": 17
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 577,
+      "forks": 116
+    },
+    {
+      "author": "ColinEberhardt",
+      "name": "wasm-rust-chip8",
+      "href": "https://github.com/ColinEberhardt/wasm-rust-chip8",
+      "description": "A WebAssembly CHIP-8 emulator written with Rust",
+      "language": "Rust",
+      "stars": 59,
+      "forks": 4
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3034,
+      "forks": 525
+    },
+    {
+      "author": "BurntSushi",
+      "name": "quickcheck",
+      "href": "https://github.com/BurntSushi/quickcheck",
+      "description": "QuickCheck for Rust (with shrinking).",
+      "language": "Rust",
+      "stars": 697,
+      "forks": 71
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "uuid",
+      "href": "https://github.com/rust-lang-nursery/uuid",
+      "description": "Generate and parse UUIDs.",
+      "language": "Rust",
+      "stars": 105,
+      "forks": 60
+    },
+    {
+      "author": "autumnai",
+      "name": "leaf",
+      "href": "https://github.com/autumnai/leaf",
+      "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+      "language": "Rust",
+      "stars": 5134,
+      "forks": 257
+    },
+    {
+      "author": "iron",
+      "name": "iron",
+      "href": "https://github.com/iron/iron",
+      "description": "An Extensible, Concurrent Web Framework for Rust",
+      "language": "Rust",
+      "stars": 4674,
+      "forks": 339
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 3942,
+      "forks": 100
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3805,
+      "forks": 329
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3786,
+      "forks": 115
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2691,
+      "forks": 687
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2385,
+      "forks": 101
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 2296,
+      "forks": 285
+    },
+    {
+      "author": "racer-rust",
+      "name": "racer",
+      "href": "https://github.com/racer-rust/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 2281,
+      "forks": 210
+    }
+  ]
+}
