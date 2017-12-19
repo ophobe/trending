@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 53160,
+      "forks": 19723
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 26148,
+      "forks": 2161
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5149,
+      "forks": 2456
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 16840,
+      "forks": 4882
+    },
+    {
+      "author": "chyh1990",
+      "name": "futures_cpp",
+      "href": "https://github.com/chyh1990/futures_cpp",
+      "description": "A future and stream library for modern C++.",
+      "language": "C",
+      "stars": 30,
+      "forks": 0
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26716,
+      "forks": 10248
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 4899,
+      "forks": 1161
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13548,
+      "forks": 4549
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 6408,
+      "forks": 1079
+    },
+    {
+      "author": "ninjaprawn",
+      "name": "async_awake-fun",
+      "href": "https://github.com/ninjaprawn/async_awake-fun",
+      "description": "async_awake with a bit of fun! - async_awake by Ian Beer (https://bugs.chromium.org/p/project-zero/issues/detail?id=1417#c3)",
+      "language": "C",
+      "stars": 112,
+      "forks": 41
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7951,
+      "forks": 1861
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20251,
+      "forks": 11772
+    },
+    {
+      "author": "jonas",
+      "name": "tig",
+      "href": "https://github.com/jonas/tig",
+      "description": "Text-mode interface for git",
+      "language": "C",
+      "stars": 5374,
+      "forks": 359
+    },
+    {
+      "author": "zyantific",
+      "name": "zydis",
+      "href": "https://github.com/zyantific/zydis",
+      "description": "Fast and lightweight x86/x86-64 disassembler library",
+      "language": "C",
+      "stars": 601,
+      "forks": 64
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 5983,
+      "forks": 2445
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9162,
+      "forks": 4067
+    },
+    {
+      "author": "hasherezade",
+      "name": "process_doppelganging",
+      "href": "https://github.com/hasherezade/process_doppelganging",
+      "description": "My implementation of enSilo's Process Doppelganging (PE injection technique)",
+      "language": "C",
+      "stars": 51,
+      "forks": 18
+    },
+    {
+      "author": "gnif",
+      "name": "LookingGlass",
+      "href": "https://github.com/gnif/LookingGlass",
+      "description": "An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.",
+      "language": "C",
+      "stars": 424,
+      "forks": 21
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "href": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
+      "language": "C",
+      "stars": 767,
+      "forks": 83
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11095,
+      "forks": 1397
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 8766,
+      "forks": 640
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 13668,
+      "forks": 1640
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 6895,
+      "forks": 914
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 7619,
+      "forks": 540
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 6887,
+      "forks": 4278
+    }
+  ]
+}
