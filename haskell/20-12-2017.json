@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 923,
+      "forks": 124
+    },
+    {
+      "author": "Ongy",
+      "name": "waymonad",
+      "href": "https://github.com/Ongy/waymonad",
+      "description": "A wayland compositor based on ideas from and inspired by xmonad",
+      "language": "Haskell",
+      "stars": 74,
+      "forks": 1
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 9589,
+      "forks": 498
+    },
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 10286,
+      "forks": 1247
+    },
+    {
+      "author": "typelead",
+      "name": "eta",
+      "href": "https://github.com/typelead/eta",
+      "description": "The Eta Programming Language, a dialect of Haskell on the JVM",
+      "language": "Haskell",
+      "stars": 1645,
+      "forks": 93
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 4314,
+      "forks": 355
+    },
+    {
+      "author": "lettier",
+      "name": "movie-monad",
+      "href": "https://github.com/lettier/movie-monad",
+      "description": "A desktop video player built with Haskell that uses GStreamer and GTK+.",
+      "language": "Haskell",
+      "stars": 125,
+      "forks": 6
+    },
+    {
+      "author": "yesodweb",
+      "name": "yesod-scaffold",
+      "href": "https://github.com/yesodweb/yesod-scaffold",
+      "description": "The Yesod scaffolding, with branches for different versions.",
+      "language": "Haskell",
+      "stars": 39,
+      "forks": 30
+    },
+    {
+      "author": "snoyberg",
+      "name": "haskellers",
+      "href": "https://github.com/snoyberg/haskellers",
+      "description": "haskellers.com site",
+      "language": "Haskell",
+      "stars": 126,
+      "forks": 22
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "hindent",
+      "href": "https://github.com/commercialhaskell/hindent",
+      "description": "Haskell pretty printer",
+      "language": "Haskell",
+      "stars": 303,
+      "forks": 80
+    },
+    {
+      "author": "ucsd-progsys",
+      "name": "liquidhaskell",
+      "href": "https://github.com/ucsd-progsys/liquidhaskell",
+      "description": "Liquid Types For Haskell",
+      "language": "Haskell",
+      "stars": 458,
+      "forks": 71
+    },
+    {
+      "author": "ghcjs",
+      "name": "ghcjs",
+      "href": "https://github.com/ghcjs/ghcjs",
+      "description": "Haskell to JavaScript compiler, based on GHC",
+      "language": "Haskell",
+      "stars": 1819,
+      "forks": 132
+    },
+    {
+      "author": "tamarin-prover",
+      "name": "tamarin-prover",
+      "href": "https://github.com/tamarin-prover/tamarin-prover",
+      "description": "Main source code repository of the Tamarin prover for security protocol verification.",
+      "language": "Haskell",
+      "stars": 96,
+      "forks": 36
+    },
+    {
+      "author": "llvm-hs",
+      "name": "llvm-hs",
+      "href": "https://github.com/llvm-hs/llvm-hs",
+      "description": "Haskell bindings for LLVM",
+      "language": "Haskell",
+      "stars": 144,
+      "forks": 24
+    },
+    {
+      "author": "fpco",
+      "name": "http-reverse-proxy",
+      "href": "https://github.com/fpco/http-reverse-proxy",
+      "description": "Reverse proxy HTTP requests, either over raw sockets or with WAI",
+      "language": "Haskell",
+      "stars": 29,
+      "forks": 16
+    },
+    {
+      "author": "ambiata",
+      "name": "mafia",
+      "href": "https://github.com/ambiata/mafia",
+      "description": "Provides protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks.",
+      "language": "Haskell",
+      "stars": 80,
+      "forks": 9
+    },
+    {
+      "author": "parsonsmatt",
+      "name": "kale",
+      "href": "https://github.com/parsonsmatt/kale",
+      "description": "A quick, easy, and declarative task runner for Haskell code to destroy your boiler plate!",
+      "language": "Haskell",
+      "stars": 29,
+      "forks": 6
+    },
+    {
+      "author": "haskell",
+      "name": "bytestring",
+      "href": "https://github.com/haskell/bytestring",
+      "description": "An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.",
+      "language": "Haskell",
+      "stars": 78,
+      "forks": 49
+    },
+    {
+      "author": "aurapm",
+      "name": "aura",
+      "href": "https://github.com/aurapm/aura",
+      "description": "A secure, multilingual package manager for Arch Linux and the AUR.",
+      "language": "Haskell",
+      "stars": 604,
+      "forks": 63
+    },
+    {
+      "author": "GaloisInc",
+      "name": "avro",
+      "href": "https://github.com/GaloisInc/avro",
+      "description": "Haskell Avro Encoding and Decoding Native Support (no RPC)",
+      "language": "Haskell",
+      "stars": 29,
+      "forks": 8
+    },
+    {
+      "author": "google",
+      "name": "proto-lens",
+      "href": "https://github.com/google/proto-lens",
+      "description": "API for protocol buffers using modern Haskell language and library patterns. This is not an official Google product.",
+      "language": "Haskell",
+      "stars": 177,
+      "forks": 30
+    },
+    {
+      "author": "haskell",
+      "name": "haskell-ide-engine",
+      "href": "https://github.com/haskell/haskell-ide-engine",
+      "description": "The engine for haskell ide-integration. Not an IDE",
+      "language": "Haskell",
+      "stars": 740,
+      "forks": 64
+    },
+    {
+      "author": "ndmitchell",
+      "name": "hlint",
+      "href": "https://github.com/ndmitchell/hlint",
+      "description": "Haskell source code suggestions",
+      "language": "Haskell",
+      "stars": 509,
+      "forks": 79
+    },
+    {
+      "author": "begriffs",
+      "name": "postgrest",
+      "href": "https://github.com/begriffs/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 10058,
+      "forks": 433
+    },
+    {
+      "author": "elm-lang",
+      "name": "elm-compiler",
+      "href": "https://github.com/elm-lang/elm-compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4219,
+      "forks": 323
+    }
+  ]
+}
