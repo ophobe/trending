@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "fewtime",
+      "name": "ML",
+      "href": "https://github.com/fewtime/ML",
+      "description": "Some practice and collection of machine learning",
+      "language": "Matlab",
+      "stars": 54,
+      "forks": 0
+    },
+    {
+      "author": "jindongwang",
+      "name": "transferlearning",
+      "href": "https://github.com/jindongwang/transferlearning",
+      "description": "Resources and codes about transfer learning and domain adaptation--迁移学习",
+      "language": "Matlab",
+      "stars": 531,
+      "forks": 231
+    },
+    {
+      "author": "opencobra",
+      "name": "cobratoolbox",
+      "href": "https://github.com/opencobra/cobratoolbox",
+      "description": "The COnstraint-Based Reconstruction and Analysis Toolbox",
+      "language": "Matlab",
+      "stars": 80,
+      "forks": 155
+    },
+    {
+      "author": "bbci",
+      "name": "bbci_public",
+      "href": "https://github.com/bbci/bbci_public",
+      "description": "MATLAB toolbox for Brain-Computer Interfacing (BCI)",
+      "language": "Matlab",
+      "stars": 31,
+      "forks": 53
+    },
+    {
+      "author": "e0404",
+      "name": "matRad",
+      "href": "https://github.com/e0404/matRad",
+      "description": "An open source multi-modality radiation treatment planning sytem",
+      "language": "Matlab",
+      "stars": 42,
+      "forks": 55
+    },
+    {
+      "author": "happynear",
+      "name": "FaceDatasets",
+      "href": "https://github.com/happynear/FaceDatasets",
+      "description": "Some scripts to process face datasets.",
+      "language": "Matlab",
+      "stars": 88,
+      "forks": 29
+    },
+    {
+      "author": "luanfujun",
+      "name": "deep-photo-styletransfer",
+      "href": "https://github.com/luanfujun/deep-photo-styletransfer",
+      "description": "Code and data for paper \"Deep Photo Style Transfer\": https://arxiv.org/abs/1703.07511",
+      "language": "Matlab",
+      "stars": 9653,
+      "forks": 854
+    },
+    {
+      "author": "rasmusbergpalm",
+      "name": "DeepLearnToolbox",
+      "href": "https://github.com/rasmusbergpalm/DeepLearnToolbox",
+      "description": "Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.",
+      "language": "Matlab",
+      "stars": 2775,
+      "forks": 1910
+    },
+    {
+      "author": "AaronJackson",
+      "name": "vrn",
+      "href": "https://github.com/AaronJackson/vrn",
+      "description": "👨 Code for \"Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression\"",
+      "language": "Matlab",
+      "stars": 2473,
+      "forks": 334
+    },
+    {
+      "author": "PRML",
+      "name": "PRMLT",
+      "href": "https://github.com/PRML/PRMLT",
+      "description": "Matlab code for machine learning algorithms in book PRML",
+      "language": "Matlab",
+      "stars": 1965,
+      "forks": 1017
+    },
+    {
+      "author": "zk00006",
+      "name": "OpenTLD",
+      "href": "https://github.com/zk00006/OpenTLD",
+      "description": "Official source code for TLD",
+      "language": "Matlab",
+      "stars": 1952,
+      "forks": 1222
+    },
+    {
+      "author": "ShaoqingRen",
+      "name": "faster_rcnn",
+      "href": "https://github.com/ShaoqingRen/faster_rcnn",
+      "description": "Faster R-CNN",
+      "language": "Matlab",
+      "stars": 1395,
+      "forks": 823
+    },
+    {
+      "author": "rbgirshick",
+      "name": "rcnn",
+      "href": "https://github.com/rbgirshick/rcnn",
+      "description": "R-CNN: Regions with Convolutional Neural Network Features",
+      "language": "Matlab",
+      "stars": 1279,
+      "forks": 674
+    },
+    {
+      "author": "torrvision",
+      "name": "crfasrnn",
+      "href": "https://github.com/torrvision/crfasrnn",
+      "description": "This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks. http://crfasrnn.torr.vision/",
+      "language": "Matlab",
+      "stars": 970,
+      "forks": 399
+    },
+    {
+      "author": "brendenlake",
+      "name": "BPL",
+      "href": "https://github.com/brendenlake/BPL",
+      "description": "Bayesian Program Learning model for one-shot learning",
+      "language": "Matlab",
+      "stars": 780,
+      "forks": 274
+    },
+    {
+      "author": "kpzhang93",
+      "name": "MTCNN_face_detection_alignment",
+      "href": "https://github.com/kpzhang93/MTCNN_face_detection_alignment",
+      "description": "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks",
+      "language": "Matlab",
+      "stars": 767,
+      "forks": 415
+    },
+    {
+      "author": "ecmadao",
+      "name": "Coding-Guide",
+      "href": "https://github.com/ecmadao/Coding-Guide",
+      "description": "自己随手记录的东西",
+      "language": "Matlab",
+      "stars": 752,
+      "forks": 118
+    },
+    {
+      "author": "JalaliLabUCLA",
+      "name": "Image-feature-detection-using-Phase-Stretch-Transform",
+      "href": "https://github.com/JalaliLabUCLA/Image-feature-detection-using-Phase-Stretch-Transform",
+      "description": "PST or Phase Stretch Transform is an operator that finds features in an image. PST implemented using MATLAB here, takes an intensity image I as its input, and returns a binary image out of the same size as I, with 1's where the function finds sharp transitions in I and 0's elsewhere.",
+      "language": "Matlab",
+      "stars": 738,
+      "forks": 178
+    },
+    {
+      "author": "daijifeng001",
+      "name": "R-FCN",
+      "href": "https://github.com/daijifeng001/R-FCN",
+      "description": "R-FCN: Object Detection via Region-based Fully Convolutional Networks",
+      "language": "Matlab",
+      "stars": 733,
+      "forks": 368
+    },
+    {
+      "author": "peiyunh",
+      "name": "tiny",
+      "href": "https://github.com/peiyunh/tiny",
+      "description": "Tiny Face Detector, CVPR 2017",
+      "language": "Matlab",
+      "stars": 555,
+      "forks": 154
+    },
+    {
+      "author": "matlab2tikz",
+      "name": "matlab2tikz",
+      "href": "https://github.com/matlab2tikz/matlab2tikz",
+      "description": "This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.",
+      "language": "Matlab",
+      "stars": 531,
+      "forks": 137
+    },
+    {
+      "author": "AlfredXiangWu",
+      "name": "face_verification_experiment",
+      "href": "https://github.com/AlfredXiangWu/face_verification_experiment",
+      "description": "A Light CNN for Deep Face Representation with Noisy Labels",
+      "language": "Matlab",
+      "stars": 516,
+      "forks": 276
+    },
+    {
+      "author": "Borye",
+      "name": "machine-learning-coursera-1",
+      "href": "https://github.com/Borye/machine-learning-coursera-1",
+      "description": "This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course.",
+      "language": "Matlab",
+      "stars": 511,
+      "forks": 510
+    },
+    {
+      "author": "pdollar",
+      "name": "toolbox",
+      "href": "https://github.com/pdollar/toolbox",
+      "description": "Piotr's Image & Video Matlab Toolbox",
+      "language": "Matlab",
+      "stars": 494,
+      "forks": 376
+    },
+    {
+      "author": "wy1iu",
+      "name": "sphereface",
+      "href": "https://github.com/wy1iu/sphereface",
+      "description": "Implementation for <SphereFace: Deep Hypersphere Embedding for Face Recognition> in CVPR'17.",
+      "language": "Matlab",
+      "stars": 479,
+      "forks": 204
+    }
+  ]
+}
