@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 13857,
+      "forks": 4560
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 53284,
+      "forks": 19767
+    },
+    {
+      "author": "limneos",
+      "name": "MobileMiner",
+      "href": "https://github.com/limneos/MobileMiner",
+      "description": "CPU Miner for ARM64 iOS Devices",
+      "language": "C",
+      "stars": 53,
+      "forks": 9
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 26264,
+      "forks": 2169
+    },
+    {
+      "author": "sustrik",
+      "name": "libdill",
+      "href": "https://github.com/sustrik/libdill",
+      "description": "Structured concurrency in C",
+      "language": "C",
+      "stars": 661,
+      "forks": 51
+    },
+    {
+      "author": "Joezeo",
+      "name": "DataStruct",
+      "href": "https://github.com/Joezeo/DataStruct",
+      "description": "This is a static lib about datastruct.Supports generics. 这是一个关于数据结构的C语言静态链接库，支持泛型。👻",
+      "language": "C",
+      "stars": 31,
+      "forks": 9
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26760,
+      "forks": 10262
+    },
+    {
+      "author": "jiayy",
+      "name": "android_vuln_poc-exp",
+      "href": "https://github.com/jiayy/android_vuln_poc-exp",
+      "description": "This project contains pocs and exploits for android vulneribilities",
+      "language": "C",
+      "stars": 339,
+      "forks": 114
+    },
+    {
+      "author": "alibaba",
+      "name": "AliOS-Things",
+      "href": "https://github.com/alibaba/AliOS-Things",
+      "description": "AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).",
+      "language": "C",
+      "stars": 669,
+      "forks": 202
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6227,
+      "forks": 1273
+    },
+    {
+      "author": "brl",
+      "name": "grlh",
+      "href": "https://github.com/brl/grlh",
+      "description": null,
+      "language": "C",
+      "stars": 28,
+      "forks": 7
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20294,
+      "forks": 11792
+    },
+    {
+      "author": "r-lib",
+      "name": "fs",
+      "href": "https://github.com/r-lib/fs",
+      "description": "Provide cross platform file operations based on libuv.",
+      "language": "C",
+      "stars": 28,
+      "forks": 1
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 7987,
+      "forks": 1865
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5203,
+      "forks": 2474
+    },
+    {
+      "author": "Moddable-OpenSource",
+      "name": "moddable",
+      "href": "https://github.com/Moddable-OpenSource/moddable",
+      "description": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+      "language": "C",
+      "stars": 23,
+      "forks": 1
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9195,
+      "forks": 4075
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 2909,
+      "forks": 145
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11147,
+      "forks": 1403
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 14029,
+      "forks": 919
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 4918,
+      "forks": 2097
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 4952,
+      "forks": 1170
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6566,
+      "forks": 2059
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6004,
+      "forks": 2451
+    },
+    {
+      "author": "memcached",
+      "name": "memcached",
+      "href": "https://github.com/memcached/memcached",
+      "description": "memcached development tree",
+      "language": "C",
+      "stars": 7083,
+      "forks": 2247
+    }
+  ]
+}
