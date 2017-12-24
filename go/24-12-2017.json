@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dbohdan",
+      "name": "automatic-api",
+      "href": "https://github.com/dbohdan/automatic-api",
+      "description": "A list of software that turns your database into a REST/GraphQL API",
+      "language": "Go",
+      "stars": 190,
+      "forks": 10
+    },
+    {
+      "author": "fireworq",
+      "name": "fireworq",
+      "href": "https://github.com/fireworq/fireworq",
+      "description": "Fireworq is a lightweight, high-performance, language-independent job queue system.",
+      "language": "Go",
+      "stars": 782,
+      "forks": 26
+    },
+    {
+      "author": "zachlatta",
+      "name": "sshtron",
+      "href": "https://github.com/zachlatta/sshtron",
+      "description": "Play Tron over SSH",
+      "language": "Go",
+      "stars": 1346,
+      "forks": 62
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 35765,
+      "forks": 4887
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 10598,
+      "forks": 3213
+    },
+    {
+      "author": "cyberark",
+      "name": "summon",
+      "href": "https://github.com/cyberark/summon",
+      "description": "CLI that provides on-demand secrets access for common DevOps tools",
+      "language": "Go",
+      "stars": 284,
+      "forks": 17
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 1264,
+      "forks": 253
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 30428,
+      "forks": 10840
+    },
+    {
+      "author": "checkr",
+      "name": "flagr",
+      "href": "https://github.com/checkr/flagr",
+      "description": "Flagr is a feature flagging, A/B testing and dynamic configuration microservice",
+      "language": "Go",
+      "stars": 139,
+      "forks": 4
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26282,
+      "forks": 3388
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 18714,
+      "forks": 1565
+    },
+    {
+      "author": "Ne0nd0g",
+      "name": "merlin",
+      "href": "https://github.com/Ne0nd0g/merlin",
+      "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+      "language": "Go",
+      "stars": 365,
+      "forks": 32
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Fast and Elegant Scraping Framework for Golang",
+      "language": "Go",
+      "stars": 3350,
+      "forks": 154
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 21932,
+      "forks": 2853
+    },
+    {
+      "author": "NebulousLabs",
+      "name": "Sia",
+      "href": "https://github.com/NebulousLabs/Sia",
+      "description": "Blockchain-based marketplace for file storage",
+      "language": "Go",
+      "stars": 1950,
+      "forks": 268
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 6468,
+      "forks": 438
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 6311,
+      "forks": 1266
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 19685,
+      "forks": 5932
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8589,
+      "forks": 1518
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4680,
+      "forks": 572
+    },
+    {
+      "author": "istio",
+      "name": "fortio",
+      "href": "https://github.com/istio/fortio",
+      "description": "Fortio load testing library and command line tool and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+      "language": "Go",
+      "stars": 107,
+      "forks": 6
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "href": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 41,
+      "forks": 1
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in go",
+      "language": "Go",
+      "stars": 4022,
+      "forks": 660
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 16069,
+      "forks": 3115
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 13718,
+      "forks": 1609
+    }
+  ]
+}
