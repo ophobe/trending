@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mojocn",
+      "name": "base64Captcha",
+      "href": "https://github.com/mojocn/base64Captcha",
+      "description": "golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.图形验证码",
+      "language": "Go",
+      "stars": 246,
+      "forks": 64
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 11575,
+      "forks": 1927
+    },
+    {
+      "author": "b3log",
+      "name": "pipe",
+      "href": "https://github.com/b3log/pipe",
+      "description": "🎷 小而美的博客平台。A small and beautiful blogging platform.",
+      "language": "Go",
+      "stars": 189,
+      "forks": 25
+    },
+    {
+      "author": "nii236",
+      "name": "k",
+      "href": "https://github.com/nii236/k",
+      "description": "A kubernetes/kubectl terminal client",
+      "language": "Go",
+      "stars": 46,
+      "forks": 0
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",
+      "language": "Go",
+      "stars": 4127,
+      "forks": 145
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 10809,
+      "forks": 3300
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 30588,
+      "forks": 10890
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 35937,
+      "forks": 4900
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22054,
+      "forks": 2855
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 4828,
+      "forks": 591
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8712,
+      "forks": 1539
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26389,
+      "forks": 3407
+    },
+    {
+      "author": "briandowns",
+      "name": "sky-island",
+      "href": "https://github.com/briandowns/sky-island",
+      "description": "FaaS platform for running raw Go functions.",
+      "language": "Go",
+      "stars": 26,
+      "forks": 1
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 7810,
+      "forks": 475
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 2884,
+      "forks": 141
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 16134,
+      "forks": 3131
+    },
+    {
+      "author": "fireworq",
+      "name": "fireworq",
+      "href": "https://github.com/fireworq/fireworq",
+      "description": "Fireworq is a lightweight, high-performance, language-independent job queue system.",
+      "language": "Go",
+      "stars": 1195,
+      "forks": 34
+    },
+    {
+      "author": "dbohdan",
+      "name": "automatic-api",
+      "href": "https://github.com/dbohdan/automatic-api",
+      "description": "A list of software that turns your database into a REST/GraphQL API",
+      "language": "Go",
+      "stars": 849,
+      "forks": 24
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47009,
+      "forks": 13893
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 13834,
+      "forks": 1621
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 1364,
+      "forks": 266
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 13788,
+      "forks": 1659
+    },
+    {
+      "author": "bbb31",
+      "name": "slurp",
+      "href": "https://github.com/bbb31/slurp",
+      "description": "S3 bucket enumerator",
+      "language": "Go",
+      "stars": 385,
+      "forks": 43
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with MySQL protocol",
+      "language": "Go",
+      "stars": 11212,
+      "forks": 1508
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 12105,
+      "forks": 1231
+    }
+  ]
+}
