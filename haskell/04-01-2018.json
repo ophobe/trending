@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 1322,
+      "forks": 175
+    },
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 10447,
+      "forks": 1266
+    },
+    {
+      "author": "llvm-hs",
+      "name": "llvm-hs-typed",
+      "href": "https://github.com/llvm-hs/llvm-hs-typed",
+      "description": "Type Safe LLVM IR ( Experimental )",
+      "language": "Haskell",
+      "stars": 29,
+      "forks": 1
+    },
+    {
+      "author": "ameingast",
+      "name": "postgresql-simple-migration",
+      "href": "https://github.com/ameingast/postgresql-simple-migration",
+      "description": "PostgreSQL Schema Migrations for Haskell",
+      "language": "Haskell",
+      "stars": 43,
+      "forks": 19
+    },
+    {
+      "author": "mongodb-haskell",
+      "name": "mongodb",
+      "href": "https://github.com/mongodb-haskell/mongodb",
+      "description": "MongoDB driver for Haskell",
+      "language": "Haskell",
+      "stars": 82,
+      "forks": 24
+    },
+    {
+      "author": "haskell",
+      "name": "time",
+      "href": "https://github.com/haskell/time",
+      "description": "A time library",
+      "language": "Haskell",
+      "stars": 32,
+      "forks": 36
+    },
+    {
+      "author": "simonmar",
+      "name": "async",
+      "href": "https://github.com/simonmar/async",
+      "description": "Run IO operations asynchronously and wait for their results",
+      "language": "Haskell",
+      "stars": 179,
+      "forks": 45
+    },
+    {
+      "author": "simonmar",
+      "name": "parconc-examples",
+      "href": "https://github.com/simonmar/parconc-examples",
+      "description": "Sample code to accompany the book \"Parallel and Concurrent Programming in Haskell\"",
+      "language": "Haskell",
+      "stars": 184,
+      "forks": 60
+    },
+    {
+      "author": "haskell-servant",
+      "name": "example-servant-persistent",
+      "href": "https://github.com/haskell-servant/example-servant-persistent",
+      "description": "Simple example to illustrate how to use persistent and servant in combination.",
+      "language": "Haskell",
+      "stars": 57,
+      "forks": 5
+    },
+    {
+      "author": "ekmett",
+      "name": "machines",
+      "href": "https://github.com/ekmett/machines",
+      "description": "Networks of composable stream transducers",
+      "language": "Haskell",
+      "stars": 257,
+      "forks": 44
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "intero",
+      "href": "https://github.com/commercialhaskell/intero",
+      "description": "Complete interactive development program for Haskell",
+      "language": "Haskell",
+      "stars": 711,
+      "forks": 90
+    },
+    {
+      "author": "begriffs",
+      "name": "postgrest",
+      "href": "https://github.com/begriffs/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 10150,
+      "forks": 437
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 9702,
+      "forks": 502
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 4352,
+      "forks": 357
+    },
+    {
+      "author": "elm-lang",
+      "name": "elm-compiler",
+      "href": "https://github.com/elm-lang/elm-compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4243,
+      "forks": 321
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 2993,
+      "forks": 256
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2514,
+      "forks": 512
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2227,
+      "forks": 533
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 1944,
+      "forks": 765
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 1930,
+      "forks": 157
+    },
+    {
+      "author": "yesodweb",
+      "name": "yesod",
+      "href": "https://github.com/yesodweb/yesod",
+      "description": "A RESTful Haskell web framework built on WAI.",
+      "language": "Haskell",
+      "stars": 1853,
+      "forks": 311
+    },
+    {
+      "author": "ghcjs",
+      "name": "ghcjs",
+      "href": "https://github.com/ghcjs/ghcjs",
+      "description": "Haskell to JavaScript compiler, based on GHC",
+      "language": "Haskell",
+      "stars": 1837,
+      "forks": 131
+    },
+    {
+      "author": "ghc",
+      "name": "ghc",
+      "href": "https://github.com/ghc/ghc",
+      "description": "Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). First time contributors are encouraged to get started by just sending a Pull Req…",
+      "language": "Haskell",
+      "stars": 1741,
+      "forks": 471
+    },
+    {
+      "author": "jameysharp",
+      "name": "corrode",
+      "href": "https://github.com/jameysharp/corrode",
+      "description": "C to Rust translator",
+      "language": "Haskell",
+      "stars": 1715,
+      "forks": 91
+    },
+    {
+      "author": "jaspervdj",
+      "name": "hakyll",
+      "href": "https://github.com/jaspervdj/hakyll",
+      "description": "A static website compiler library in Haskell",
+      "language": "Haskell",
+      "stars": 1679,
+      "forks": 309
+    }
+  ]
+}
