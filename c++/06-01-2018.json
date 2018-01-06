@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "x64dbg",
+      "name": "x64dbg",
+      "href": "https://github.com/x64dbg/x64dbg",
+      "description": "An open-source x64/x32 debugger for windows.",
+      "language": "C++",
+      "stars": 31651,
+      "forks": 531
+    },
+    {
+      "author": "x64dbg",
+      "name": "GleeBug",
+      "href": "https://github.com/x64dbg/GleeBug",
+      "description": "Debugging Framework for Windows.",
+      "language": "C++",
+      "stars": 1167,
+      "forks": 11
+    },
+    {
+      "author": "x64dbg",
+      "name": "ScyllaHide",
+      "href": "https://github.com/x64dbg/ScyllaHide",
+      "description": "Fork of ScyllaHide: https://bitbucket.org/NtQuery/scyllahide, Releases:",
+      "language": "C++",
+      "stars": 1067,
+      "forks": 39
+    },
+    {
+      "author": "raphaelsc",
+      "name": "Am-I-affected-by-Meltdown",
+      "href": "https://github.com/raphaelsc/Am-I-affected-by-Meltdown",
+      "description": "Proof-of-concept / Exploit / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.",
+      "language": "C++",
+      "stars": 274,
+      "forks": 30
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "href": "https://github.com/tensorflow/tensorflow",
+      "description": "Computation using data flow graphs for scalable machine learning",
+      "language": "C++",
+      "stars": 84905,
+      "forks": 41429
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "href": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": 24289,
+      "forks": 14101
+    },
+    {
+      "author": "turbo",
+      "name": "KPTI-PoC-Collection",
+      "href": "https://github.com/turbo/KPTI-PoC-Collection",
+      "description": "Meltdown/Spectre PoC src collection.",
+      "language": "C++",
+      "stars": 406,
+      "forks": 166
+    },
+    {
+      "author": "lupoDharkael",
+      "name": "flameshot",
+      "href": "https://github.com/lupoDharkael/flameshot",
+      "description": "Powerful yet simple to use screenshot software",
+      "language": "C++",
+      "stars": 319,
+      "forks": 27
+    },
+    {
+      "author": "clemahieu",
+      "name": "raiblocks",
+      "href": "https://github.com/clemahieu/raiblocks",
+      "description": "RaiBlocks is a cryptocurrency",
+      "language": "C++",
+      "stars": 1051,
+      "forks": 200
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 54866,
+      "forks": 7117
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "href": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 21106,
+      "forks": 15368
+    },
+    {
+      "author": "Microsoft",
+      "name": "AirSim",
+      "href": "https://github.com/Microsoft/AirSim",
+      "description": "Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research",
+      "language": "C++",
+      "stars": 3919,
+      "forks": 838
+    },
+    {
+      "author": "bkerler",
+      "name": "exploit_me",
+      "href": "https://github.com/bkerler/exploit_me",
+      "description": "Very vulnerable ARM application (CTF style exploitation tutorial)",
+      "language": "C++",
+      "stars": 167,
+      "forks": 24
+    },
+    {
+      "author": "google",
+      "name": "protobuf",
+      "href": "https://github.com/google/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 22678,
+      "forks": 6626
+    },
+    {
+      "author": "dogecoin",
+      "name": "dogecoin",
+      "href": "https://github.com/dogecoin/dogecoin",
+      "description": "very currency",
+      "language": "C++",
+      "stars": 1613,
+      "forks": 674
+    },
+    {
+      "author": "BVLC",
+      "name": "caffe",
+      "href": "https://github.com/BVLC/caffe",
+      "description": "Caffe: a fast open framework for deep learning.",
+      "language": "C++",
+      "stars": 22140,
+      "forks": 13571
+    },
+    {
+      "author": "galeone",
+      "name": "openat",
+      "href": "https://github.com/galeone/openat",
+      "description": "OpenAT: Open Source Algorithmic Trading Library",
+      "language": "C++",
+      "stars": 29,
+      "forks": 1
+    },
+    {
+      "author": "merlinschumacher",
+      "name": "Basecamp",
+      "href": "https://github.com/merlinschumacher/Basecamp",
+      "description": "An Arduino library to ease the use of the ESP32 in IoT projects",
+      "language": "C++",
+      "stars": 70,
+      "forks": 9
+    },
+    {
+      "author": "uber",
+      "name": "horovod",
+      "href": "https://github.com/uber/horovod",
+      "description": "Distributed training framework for TensorFlow.",
+      "language": "C++",
+      "stars": 1222,
+      "forks": 144
+    },
+    {
+      "author": "stellar",
+      "name": "stellar-core",
+      "href": "https://github.com/stellar/stellar-core",
+      "description": "stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network. Optionally, stellar-core can store historical records of the ledger and participate in consensus.",
+      "language": "C++",
+      "stars": 912,
+      "forks": 241
+    },
+    {
+      "author": "fireice-uk",
+      "name": "xmr-stak",
+      "href": "https://github.com/fireice-uk/xmr-stak",
+      "description": "Unified All-in-one Monero miner",
+      "language": "C++",
+      "stars": 1115,
+      "forks": 472
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 13015,
+      "forks": 2813
+    },
+    {
+      "author": "litecoin-project",
+      "name": "litecoin",
+      "href": "https://github.com/litecoin-project/litecoin",
+      "description": "Litecoin source tree",
+      "language": "C++",
+      "stars": 2543,
+      "forks": 14101
+    },
+    {
+      "author": "tamlok",
+      "name": "vnote",
+      "href": "https://github.com/tamlok/vnote",
+      "description": "A Vim-inspired note-taking application, especially for Markdown.",
+      "language": "C++",
+      "stars": 642,
+      "forks": 70
+    },
+    {
+      "author": "caffe2",
+      "name": "caffe2",
+      "href": "https://github.com/caffe2/caffe2",
+      "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+      "language": "C++",
+      "stars": 6773,
+      "forks": 1532
+    }
+  ]
+}
