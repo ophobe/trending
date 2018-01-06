@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "slime",
+      "name": "slime",
+      "href": "https://github.com/slime/slime",
+      "description": "The Superior Lisp Interaction Mode for Emacs",
+      "language": "Common Lisp",
+      "stars": 875,
+      "forks": 174
+    },
+    {
+      "author": "mmontone",
+      "name": "djula",
+      "href": "https://github.com/mmontone/djula",
+      "description": "Common Lisp port of the Django templating language",
+      "language": "Common Lisp",
+      "stars": 58,
+      "forks": 14
+    },
+    {
+      "author": "fukamachi",
+      "name": "fast-http",
+      "href": "https://github.com/fukamachi/fast-http",
+      "description": "A fast HTTP request/response parser for Common Lisp.",
+      "language": "Common Lisp",
+      "stars": 273,
+      "forks": 27
+    },
+    {
+      "author": "fukamachi",
+      "name": "lack",
+      "href": "https://github.com/fukamachi/lack",
+      "description": "Lack, the core of Clack",
+      "language": "Common Lisp",
+      "stars": 48,
+      "forks": 15
+    },
+    {
+      "author": "SquidDev",
+      "name": "urn",
+      "href": "https://github.com/SquidDev/urn",
+      "description": "Yet another Lisp variant which compiles to Lua",
+      "language": "Common Lisp",
+      "stars": 93,
+      "forks": 8
+    },
+    {
+      "author": "google",
+      "name": "lisp-koans",
+      "href": "https://github.com/google/lisp-koans",
+      "description": "Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others. It is a port of the prior koans with some modifications to highlight lisp-specific features. Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features.",
+      "language": "Common Lisp",
+      "stars": 1831,
+      "forks": 390
+    },
+    {
+      "author": "dimitri",
+      "name": "pgloader",
+      "href": "https://github.com/dimitri/pgloader",
+      "description": "Migrate to PostgreSQL in a single command!",
+      "language": "Common Lisp",
+      "stars": 1354,
+      "forks": 176
+    },
+    {
+      "author": "froggey",
+      "name": "Mezzano",
+      "href": "https://github.com/froggey/Mezzano",
+      "description": "An operating system written in Common Lisp",
+      "language": "Common Lisp",
+      "stars": 1296,
+      "forks": 92
+    },
+    {
+      "author": "stumpwm",
+      "name": "stumpwm",
+      "href": "https://github.com/stumpwm/stumpwm",
+      "description": "The Stump Window Manager",
+      "language": "Common Lisp",
+      "stars": 955,
+      "forks": 151
+    },
+    {
+      "author": "nEXT-Browser",
+      "name": "nEXT",
+      "href": "https://github.com/nEXT-Browser/nEXT",
+      "description": "nEXT - Be Productive.",
+      "language": "Common Lisp",
+      "stars": 952,
+      "forks": 36
+    },
+    {
+      "author": "sbcl",
+      "name": "sbcl",
+      "href": "https://github.com/sbcl/sbcl",
+      "description": "Mirror of Steel Bank Common Lisp (SBCL)'s official repository",
+      "language": "Common Lisp",
+      "stars": 780,
+      "forks": 164
+    },
+    {
+      "author": "roswell",
+      "name": "roswell",
+      "href": "https://github.com/roswell/roswell",
+      "description": "intend to be a lisp installer and launcher for major environment that just work.",
+      "language": "Common Lisp",
+      "stars": 684,
+      "forks": 70
+    },
+    {
+      "author": "vydd",
+      "name": "sketch",
+      "href": "https://github.com/vydd/sketch",
+      "description": "A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.",
+      "language": "Common Lisp",
+      "stars": 680,
+      "forks": 33
+    },
+    {
+      "author": "cl21",
+      "name": "cl21",
+      "href": "https://github.com/cl21/cl21",
+      "description": "Common Lisp in the 21st Century.",
+      "language": "Common Lisp",
+      "stars": 674,
+      "forks": 35
+    },
+    {
+      "author": "fukamachi",
+      "name": "clack",
+      "href": "https://github.com/fukamachi/clack",
+      "description": "Web application environment for Common Lisp",
+      "language": "Common Lisp",
+      "stars": 656,
+      "forks": 67
+    },
+    {
+      "author": "eudoxia0",
+      "name": "cmacro",
+      "href": "https://github.com/eudoxia0/cmacro",
+      "description": "Lisp macros for C",
+      "language": "Common Lisp",
+      "stars": 619,
+      "forks": 30
+    },
+    {
+      "author": "fukamachi",
+      "name": "woo",
+      "href": "https://github.com/fukamachi/woo",
+      "description": "A fast non-blocking HTTP server on top of libev",
+      "language": "Common Lisp",
+      "stars": 600,
+      "forks": 42
+    },
+    {
+      "author": "acl-translation",
+      "name": "acl-chinese",
+      "href": "https://github.com/acl-translation/acl-chinese",
+      "description": "ANSI Common Lisp 中文翻译版",
+      "language": "Common Lisp",
+      "stars": 540,
+      "forks": 139
+    },
+    {
+      "author": "damelang",
+      "name": "nile",
+      "href": "https://github.com/damelang/nile",
+      "description": null,
+      "language": "Common Lisp",
+      "stars": 522,
+      "forks": 31
+    },
+    {
+      "author": "fukamachi",
+      "name": "caveman",
+      "href": "https://github.com/fukamachi/caveman",
+      "description": "Lightweight web application framework for Common Lisp.",
+      "language": "Common Lisp",
+      "stars": 459,
+      "forks": 50
+    },
+    {
+      "author": "eudoxia0",
+      "name": "corvus",
+      "href": "https://github.com/eudoxia0/corvus",
+      "description": "Low-level Lisp for LLVM",
+      "language": "Common Lisp",
+      "stars": 454,
+      "forks": 18
+    },
+    {
+      "author": "whily",
+      "name": "yalo",
+      "href": "https://github.com/whily/yalo",
+      "description": "Lisp OS running on bare metal x86-64 hardware (WIP)",
+      "language": "Common Lisp",
+      "stars": 449,
+      "forks": 25
+    },
+    {
+      "author": "cbaggers",
+      "name": "cepl",
+      "href": "https://github.com/cbaggers/cepl",
+      "description": "Code Evaluate Play Loop",
+      "language": "Common Lisp",
+      "stars": 438,
+      "forks": 31
+    },
+    {
+      "author": "shinh",
+      "name": "sedlisp",
+      "href": "https://github.com/shinh/sedlisp",
+      "description": "Lisp implementation in sed",
+      "language": "Common Lisp",
+      "stars": 421,
+      "forks": 12
+    },
+    {
+      "author": "edicl",
+      "name": "hunchentoot",
+      "href": "https://github.com/edicl/hunchentoot",
+      "description": "Web server written in Common Lisp",
+      "language": "Common Lisp",
+      "stars": 421,
+      "forks": 97
+    }
+  ]
+}
