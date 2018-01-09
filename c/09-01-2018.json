@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "IAIK",
+      "name": "meltdown",
+      "href": "https://github.com/IAIK/meltdown",
+      "description": "This repository contains several applications, demonstrating the Meltdown bug.",
+      "language": "C",
+      "stars": 543,
+      "forks": 44
+    },
+    {
+      "author": "paboldin",
+      "name": "meltdown-exploit",
+      "href": "https://github.com/paboldin/meltdown-exploit",
+      "description": "Meltdown Exploit PoC",
+      "language": "C",
+      "stars": 584,
+      "forks": 163
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 53985,
+      "forks": 19963
+    },
+    {
+      "author": "vergecurrency",
+      "name": "VERGE",
+      "href": "https://github.com/vergecurrency/VERGE",
+      "description": "official source code repository for VERGE cryptocurrency",
+      "language": "C",
+      "stars": 1084,
+      "forks": 311
+    },
+    {
+      "author": "RealJTG",
+      "name": "Meltdown",
+      "href": "https://github.com/RealJTG/Meltdown",
+      "description": "Meltdown PoC for reading passwords from Google Chrome.",
+      "language": "C",
+      "stars": 437,
+      "forks": 78
+    },
+    {
+      "author": "lgeek",
+      "name": "spec_poc_arm",
+      "href": "https://github.com/lgeek/spec_poc_arm",
+      "description": "Dump privileged ARM system registers from usermode using variant 3a of Meltdown",
+      "language": "C",
+      "stars": 160,
+      "forks": 44
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 14315,
+      "forks": 4587
+    },
+    {
+      "author": "Eugnis",
+      "name": "spectre-attack",
+      "href": "https://github.com/Eugnis/spectre-attack",
+      "description": "Example of using revealed \"Spectre\" exploit (CVE-2017-5753 and CVE-2017-5715)",
+      "language": "C",
+      "stars": 402,
+      "forks": 102
+    },
+    {
+      "author": "lsds",
+      "name": "spectre-attack-sgx",
+      "href": "https://github.com/lsds/spectre-attack-sgx",
+      "description": "Spectre attack against SGX enclave",
+      "language": "C",
+      "stars": 39,
+      "forks": 4
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 26627,
+      "forks": 2206
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 5092,
+      "forks": 628
+    },
+    {
+      "author": "crozone",
+      "name": "SpectrePoC",
+      "href": "https://github.com/crozone/SpectrePoC",
+      "description": "Proof of concept code for the Spectre CPU exploit.",
+      "language": "C",
+      "stars": 72,
+      "forks": 23
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20488,
+      "forks": 11881
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 26995,
+      "forks": 10359
+    },
+    {
+      "author": "ionescu007",
+      "name": "SpecuCheck",
+      "href": "https://github.com/ionescu007/SpecuCheck",
+      "description": "SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)",
+      "language": "C",
+      "stars": 363,
+      "forks": 55
+    },
+    {
+      "author": "ryanlayer",
+      "name": "giggle",
+      "href": "https://github.com/ryanlayer/giggle",
+      "description": "Interval data structure",
+      "language": "C",
+      "stars": 87,
+      "forks": 11
+    },
+    {
+      "author": "wacossusca34",
+      "name": "glava",
+      "href": "https://github.com/wacossusca34/glava",
+      "description": "GLava - OpenGL audio spectrum visualizer",
+      "language": "C",
+      "stars": 60,
+      "forks": 0
+    },
+    {
+      "author": "mniip",
+      "name": "spectre-meltdown-poc",
+      "href": "https://github.com/mniip/spectre-meltdown-poc",
+      "description": "A semi-demi-working proof of concept for a mix of spectre and meltdown vulnerabilities",
+      "language": "C",
+      "stars": 66,
+      "forks": 23
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 6085,
+      "forks": 3062
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "🐧 ⚙️ – systemd System and Service Manager",
+      "language": "C",
+      "stars": 2616,
+      "forks": 1083
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5410,
+      "forks": 2597
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6687,
+      "forks": 2077
+    },
+    {
+      "author": "deliyee",
+      "name": "lz4",
+      "href": "https://github.com/deliyee/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 70,
+      "forks": 1
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 626,
+      "forks": 39
+    },
+    {
+      "author": "LonelyCI",
+      "name": "dynomite",
+      "href": "https://github.com/LonelyCI/dynomite",
+      "description": "A generic dynamo implementation for different k-v storage engines",
+      "language": "C",
+      "stars": 67,
+      "forks": 0
+    }
+  ]
+}
