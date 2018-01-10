@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "IAIK",
+      "name": "meltdown",
+      "href": "https://github.com/IAIK/meltdown",
+      "description": "This repository contains several applications, demonstrating the Meltdown bug.",
+      "language": "C",
+      "stars": 1843,
+      "forks": 150
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 54030,
+      "forks": 19977
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 14366,
+      "forks": 4584
+    },
+    {
+      "author": "paboldin",
+      "name": "meltdown-exploit",
+      "href": "https://github.com/paboldin/meltdown-exploit",
+      "description": "Meltdown Exploit PoC",
+      "language": "C",
+      "stars": 629,
+      "forks": 168
+    },
+    {
+      "author": "lsds",
+      "name": "spectre-attack-sgx",
+      "href": "https://github.com/lsds/spectre-attack-sgx",
+      "description": "Spectre attack against SGX enclave",
+      "language": "C",
+      "stars": 74,
+      "forks": 11
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 26653,
+      "forks": 2204
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 5113,
+      "forks": 632
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 648,
+      "forks": 39
+    },
+    {
+      "author": "Eugnis",
+      "name": "spectre-attack",
+      "href": "https://github.com/Eugnis/spectre-attack",
+      "description": "Example of using revealed \"Spectre\" exploit (CVE-2017-5753 and CVE-2017-5715)",
+      "language": "C",
+      "stars": 424,
+      "forks": 109
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27014,
+      "forks": 10367
+    },
+    {
+      "author": "RealJTG",
+      "name": "Meltdown",
+      "href": "https://github.com/RealJTG/Meltdown",
+      "description": "Meltdown PoC for reading passwords from Google Chrome.",
+      "language": "C",
+      "stars": 457,
+      "forks": 82
+    },
+    {
+      "author": "vergecurrency",
+      "name": "VERGE",
+      "href": "https://github.com/vergecurrency/VERGE",
+      "description": "official source code repository for VERGE cryptocurrency",
+      "language": "C",
+      "stars": 1098,
+      "forks": 318
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "The main repository of the OpenWrt distribution",
+      "language": "C",
+      "stars": 1870,
+      "forks": 1098
+    },
+    {
+      "author": "crozone",
+      "name": "SpectrePoC",
+      "href": "https://github.com/crozone/SpectrePoC",
+      "description": "Proof of concept code for the Spectre CPU exploit.",
+      "language": "C",
+      "stars": 89,
+      "forks": 27
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20498,
+      "forks": 11899
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 6702,
+      "forks": 2079
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 5743,
+      "forks": 1456
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5419,
+      "forks": 2602
+    },
+    {
+      "author": "xoreaxeaxeax",
+      "name": "movfuscator",
+      "href": "https://github.com/xoreaxeaxeax/movfuscator",
+      "description": "The single instruction C compiler",
+      "language": "C",
+      "stars": 3771,
+      "forks": 229
+    },
+    {
+      "author": "mniip",
+      "name": "spectre-meltdown-poc",
+      "href": "https://github.com/mniip/spectre-meltdown-poc",
+      "description": "A semi-demi-working proof of concept for a mix of spectre and meltdown vulnerabilities",
+      "language": "C",
+      "stars": 76,
+      "forks": 30
+    },
+    {
+      "author": "SoftEtherVPN",
+      "name": "SoftEtherVPN",
+      "href": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+      "description": "SoftEther VPN (Developer Edition Master Repository): Open Cross-platform Multi-protocol VPN Software. This repository has experimental codes. Pull requests are welcome. Also, Stable Edition is available on https://github.com/SoftEtherVPN/SoftEtherVPN_Stable which the non-developer user can stable use.",
+      "language": "C",
+      "stars": 4227,
+      "forks": 1323
+    },
+    {
+      "author": "ionescu007",
+      "name": "SpecuCheck",
+      "href": "https://github.com/ionescu007/SpecuCheck",
+      "description": "SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)",
+      "language": "C",
+      "stars": 377,
+      "forks": 58
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7041,
+      "forks": 4343
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9365,
+      "forks": 4112
+    },
+    {
+      "author": "deliyee",
+      "name": "lz4",
+      "href": "https://github.com/deliyee/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 80,
+      "forks": 1
+    }
+  ]
+}
