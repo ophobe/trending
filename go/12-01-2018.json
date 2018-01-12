@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rivo",
+      "name": "tview",
+      "href": "https://github.com/rivo/tview",
+      "description": "Rich interactive widgets for terminal-based UIs written in Go",
+      "language": "Go",
+      "stars": 892,
+      "forks": 22
+    },
+    {
+      "author": "0xAX",
+      "name": "go-algorithms",
+      "href": "https://github.com/0xAX/go-algorithms",
+      "description": "Algorithms and data structures for golang",
+      "language": "Go",
+      "stars": 634,
+      "forks": 129
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 11766,
+      "forks": 3565
+    },
+    {
+      "author": "spieglt",
+      "name": "FlyingCarpet",
+      "href": "https://github.com/spieglt/FlyingCarpet",
+      "description": "Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.",
+      "language": "Go",
+      "stars": 353,
+      "forks": 12
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 3609,
+      "forks": 174
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26746,
+      "forks": 3461
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 31172,
+      "forks": 11038
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "container-structure-test",
+      "href": "https://github.com/GoogleCloudPlatform/container-structure-test",
+      "description": "validate the structure of your container images",
+      "language": "Go",
+      "stars": 377,
+      "forks": 14
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 36430,
+      "forks": 4948
+    },
+    {
+      "author": "silenceper",
+      "name": "qanswer",
+      "href": "https://github.com/silenceper/qanswer",
+      "description": "🥇🥇🥇 冲顶大会等游戏答题神器，提供答题辅助决策 ，帮助顺利吃鸡",
+      "language": "Go",
+      "stars": 41,
+      "forks": 12
+    },
+    {
+      "author": "gencebay",
+      "name": "httplive",
+      "href": "https://github.com/gencebay/httplive",
+      "description": "HTTP Request & Response Service, Mock HTTP",
+      "language": "Go",
+      "stars": 797,
+      "forks": 22
+    },
+    {
+      "author": "jedisct1",
+      "name": "dnscrypt-proxy",
+      "href": "https://github.com/jedisct1/dnscrypt-proxy",
+      "description": "A modern client implementation of the DNSCrypt v2 protocol.",
+      "language": "Go",
+      "stars": 60,
+      "forks": 6
+    },
+    {
+      "author": "nuclio",
+      "name": "nuclio",
+      "href": "https://github.com/nuclio/nuclio",
+      "description": "High-Performance Serverless event and data processing platform",
+      "language": "Go",
+      "stars": 1403,
+      "forks": 85
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14232,
+      "forks": 1652
+    },
+    {
+      "author": "matoous",
+      "name": "go-nanoid",
+      "href": "https://github.com/matoous/go-nanoid",
+      "description": "Go implementation of ai's nanoid",
+      "language": "Go",
+      "stars": 112,
+      "forks": 4
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 8976,
+      "forks": 1595
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源免费图书(开发中...)",
+      "language": "Go",
+      "stars": 1477,
+      "forks": 87
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 8148,
+      "forks": 499
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22392,
+      "forks": 2883
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 6843,
+      "forks": 458
+    },
+    {
+      "author": "virtual-kubelet",
+      "name": "virtual-kubelet",
+      "href": "https://github.com/virtual-kubelet/virtual-kubelet",
+      "description": "Virtual Kubelet is an open source Kubernetes kubelet implementation.",
+      "language": "Go",
+      "stars": 427,
+      "forks": 46
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 5186,
+      "forks": 645
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 6844,
+      "forks": 923
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47227,
+      "forks": 13950
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 2940,
+      "forks": 2146
+    }
+  ]
+}
