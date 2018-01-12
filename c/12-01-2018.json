@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "IAIK",
+      "name": "meltdown",
+      "href": "https://github.com/IAIK/meltdown",
+      "description": "This repository contains several applications, demonstrating the Meltdown bug.",
+      "language": "C",
+      "stars": 2571,
+      "forks": 230
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 54119,
+      "forks": 20011
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 14440,
+      "forks": 4593
+    },
+    {
+      "author": "lieff",
+      "name": "minimp3",
+      "href": "https://github.com/lieff/minimp3",
+      "description": "Minimalistic MP3 decoder single header library",
+      "language": "C",
+      "stars": 54,
+      "forks": 3
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 26716,
+      "forks": 2210
+    },
+    {
+      "author": "begeekmyfriend",
+      "name": "leetcode",
+      "href": "https://github.com/begeekmyfriend/leetcode",
+      "description": "LeetCode in pure C",
+      "language": "C",
+      "stars": 789,
+      "forks": 136
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20538,
+      "forks": 11913
+    },
+    {
+      "author": "uber",
+      "name": "h3",
+      "href": "https://github.com/uber/h3",
+      "description": "Hexagonal hierarchical geospatial indexing system",
+      "language": "C",
+      "stars": 63,
+      "forks": 1
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5447,
+      "forks": 2622
+    },
+    {
+      "author": "zhaojh329",
+      "name": "libuwsc",
+      "href": "https://github.com/zhaojh329/libuwsc",
+      "description": "Lightweight WebSocket client C library based on libubox for Embedded Linux.",
+      "language": "C",
+      "stars": 71,
+      "forks": 7
+    },
+    {
+      "author": "zhaojh329",
+      "name": "rtty",
+      "href": "https://github.com/zhaojh329/rtty",
+      "description": "Access your terminal over the web browser. The 'r' in the name refers to the 'Reverse Proxy' or 'Remote'. It is composed of the client and the server.",
+      "language": "C",
+      "stars": 209,
+      "forks": 25
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27039,
+      "forks": 10374
+    },
+    {
+      "author": "sjm1992st",
+      "name": "word2vec_win_vs2013",
+      "href": "https://github.com/sjm1992st/word2vec_win_vs2013",
+      "description": "word2vec for vs2013",
+      "language": "C",
+      "stars": 54,
+      "forks": 0
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6159,
+      "forks": 2501
+    },
+    {
+      "author": "ionescu007",
+      "name": "SpecuCheck",
+      "href": "https://github.com/ionescu007/SpecuCheck",
+      "description": "SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)",
+      "language": "C",
+      "stars": 400,
+      "forks": 61
+    },
+    {
+      "author": "vergecurrency",
+      "name": "VERGE",
+      "href": "https://github.com/vergecurrency/VERGE",
+      "description": "official source code repository for VERGE cryptocurrency",
+      "language": "C",
+      "stars": 1124,
+      "forks": 322
+    },
+    {
+      "author": "transmission",
+      "name": "transmission",
+      "href": "https://github.com/transmission/transmission",
+      "description": "Official Transmission BitTorrent client repository",
+      "language": "C",
+      "stars": 1422,
+      "forks": 277
+    },
+    {
+      "author": "paboldin",
+      "name": "meltdown-exploit",
+      "href": "https://github.com/paboldin/meltdown-exploit",
+      "description": "Meltdown Exploit PoC",
+      "language": "C",
+      "stars": 659,
+      "forks": 182
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 6112,
+      "forks": 3070
+    },
+    {
+      "author": "AppImage",
+      "name": "AppImageKit",
+      "href": "https://github.com/AppImage/AppImageKit",
+      "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net",
+      "language": "C",
+      "stars": 2393,
+      "forks": 165
+    },
+    {
+      "author": "FascinatedBox",
+      "name": "lily",
+      "href": "https://github.com/FascinatedBox/lily",
+      "description": "An interpreted language with a focus on expressiveness and type safety",
+      "language": "C",
+      "stars": 1052,
+      "forks": 44
+    },
+    {
+      "author": "nlsandler",
+      "name": "write_a_c_compiler",
+      "href": "https://github.com/nlsandler/write_a_c_compiler",
+      "description": "Test suite to help you write your own C compiler",
+      "language": "C",
+      "stars": 75,
+      "forks": 1
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7057,
+      "forks": 4346
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9394,
+      "forks": 4120
+    },
+    {
+      "author": "Eugnis",
+      "name": "spectre-attack",
+      "href": "https://github.com/Eugnis/spectre-attack",
+      "description": "Example of using revealed \"Spectre\" exploit (CVE-2017-5753 and CVE-2017-5715)",
+      "language": "C",
+      "stars": 463,
+      "forks": 115
+    }
+  ]
+}
