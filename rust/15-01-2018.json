@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 357,
+      "forks": 7
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 25876,
+      "forks": 4646
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3235,
+      "forks": 620
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3041,
+      "forks": 83
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 9025,
+      "forks": 327
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 8504,
+      "forks": 337
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11011,
+      "forks": 1816
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6018,
+      "forks": 376
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "The ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 750,
+      "forks": 35
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 591,
+      "forks": 59
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3560,
+      "forks": 233
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 1811,
+      "forks": 245
+    },
+    {
+      "author": "rayon-rs",
+      "name": "rayon",
+      "href": "https://github.com/rayon-rs/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 1515,
+      "forks": 126
+    },
+    {
+      "author": "mtak-",
+      "name": "meltdown_rust",
+      "href": "https://github.com/mtak-/meltdown_rust",
+      "description": "meltdown proof of concept in rust",
+      "language": "Rust",
+      "stars": 28,
+      "forks": 0
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 7435,
+      "forks": 276
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2601,
+      "forks": 315
+    },
+    {
+      "author": "LuoZijun",
+      "name": "exodus",
+      "href": "https://github.com/LuoZijun/exodus",
+      "description": "network proxy and tunnel (VPN)",
+      "language": "Rust",
+      "stars": 311,
+      "forks": 35
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1170,
+      "forks": 56
+    },
+    {
+      "author": "antoyo",
+      "name": "relm",
+      "href": "https://github.com/antoyo/relm",
+      "description": "Asynchronous, GTK+-based, GUI library, inspired by Elm, written in Rust",
+      "language": "Rust",
+      "stars": 596,
+      "forks": 17
+    },
+    {
+      "author": "pollen-robotics",
+      "name": "luos",
+      "href": "https://github.com/pollen-robotics/luos",
+      "description": "Luos: the OS for robotics - Jump start your Robot",
+      "language": "Rust",
+      "stars": 28,
+      "forks": 2
+    },
+    {
+      "author": "phil-opp",
+      "name": "blog_os",
+      "href": "https://github.com/phil-opp/blog_os",
+      "description": "Writing an OS in Rust",
+      "language": "Rust",
+      "stars": 1055,
+      "forks": 109
+    },
+    {
+      "author": "nrc",
+      "name": "graphql",
+      "href": "https://github.com/nrc/graphql",
+      "description": "A Rust GraphQL server framework",
+      "language": "Rust",
+      "stars": 111,
+      "forks": 7
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 4536,
+      "forks": 107
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2302,
+      "forks": 213
+    }
+  ]
+}
