@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jedisct1",
+      "name": "piknik",
+      "href": "https://github.com/jedisct1/piknik",
+      "description": "Copy/paste anything over the network",
+      "language": "Go",
+      "stars": 975,
+      "forks": 26
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 1588,
+      "forks": 40
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 1306,
+      "forks": 125
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 12281,
+      "forks": 3709
+    },
+    {
+      "author": "census-instrumentation",
+      "name": "opencensus-go",
+      "href": "https://github.com/census-instrumentation/opencensus-go",
+      "description": "A stats collection and distributed tracing framework",
+      "language": "Go",
+      "stars": 351,
+      "forks": 28
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 31484,
+      "forks": 11142
+    },
+    {
+      "author": "google",
+      "name": "netboot",
+      "href": "https://github.com/google/netboot",
+      "description": "Packages and utilities for network booting",
+      "language": "Go",
+      "stars": 471,
+      "forks": 59
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 36655,
+      "forks": 4988
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 842,
+      "forks": 41
+    },
+    {
+      "author": "apex",
+      "name": "gateway",
+      "href": "https://github.com/apex/gateway",
+      "description": "Drop-in replacement for Go net/http when running in AWS Lambda & API Gateway",
+      "language": "Go",
+      "stars": 109,
+      "forks": 5
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22606,
+      "forks": 2892
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9177,
+      "forks": 1629
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14362,
+      "forks": 1676
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26946,
+      "forks": 3489
+    },
+    {
+      "author": "bitly",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/bitly/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other provider",
+      "language": "Go",
+      "stars": 3250,
+      "forks": 715
+    },
+    {
+      "author": "vmware",
+      "name": "dispatch",
+      "href": "https://github.com/vmware/dispatch",
+      "description": "Dispatch is a framework for deploying and managing serverless style applications.",
+      "language": "Go",
+      "stars": 140,
+      "forks": 13
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7006,
+      "forks": 465
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 20244,
+      "forks": 6048
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 8297,
+      "forks": 521
+    },
+    {
+      "author": "deepfabric",
+      "name": "elasticell",
+      "href": "https://github.com/deepfabric/elasticell",
+      "description": "Elastic Key-Value Storage With Strong Consistency and Reliability",
+      "language": "Go",
+      "stars": 115,
+      "forks": 12
+    },
+    {
+      "author": "xo",
+      "name": "usql",
+      "href": "https://github.com/xo/usql",
+      "description": "usql is a universal command-line interface for SQL databases",
+      "language": "Go",
+      "stars": 2222,
+      "forks": 74
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 8293,
+      "forks": 1170
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47325,
+      "forks": 13966
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 14117,
+      "forks": 1711
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 12349,
+      "forks": 1204
+    }
+  ]
+}
