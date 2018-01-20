@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jedisct1",
+      "name": "piknik",
+      "href": "https://github.com/jedisct1/piknik",
+      "description": "Copy/paste anything over the network",
+      "language": "Go",
+      "stars": 1159,
+      "forks": 33
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 1647,
+      "forks": 43
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 12334,
+      "forks": 3728
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 36686,
+      "forks": 4991
+    },
+    {
+      "author": "census-instrumentation",
+      "name": "opencensus-go",
+      "href": "https://github.com/census-instrumentation/opencensus-go",
+      "description": "A stats collection and distributed tracing framework",
+      "language": "Go",
+      "stars": 383,
+      "forks": 29
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9206,
+      "forks": 1635
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 31513,
+      "forks": 11145
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22632,
+      "forks": 2895
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 1331,
+      "forks": 125
+    },
+    {
+      "author": "Bytom",
+      "name": "bytom",
+      "href": "https://github.com/Bytom/bytom",
+      "description": "Official Go implementation of the Bytom protocol",
+      "language": "Go",
+      "stars": 333,
+      "forks": 84
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 867,
+      "forks": 43
+    },
+    {
+      "author": "akrylysov",
+      "name": "algnhsa",
+      "href": "https://github.com/akrylysov/algnhsa",
+      "description": "AWS Lambda Go net/http server adapter",
+      "language": "Go",
+      "stars": 52,
+      "forks": 0
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26962,
+      "forks": 3493
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7028,
+      "forks": 466
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47336,
+      "forks": 13968
+    },
+    {
+      "author": "deepfabric",
+      "name": "elasticell",
+      "href": "https://github.com/deepfabric/elasticell",
+      "description": "Elastic Key-Value Storage With Strong Consistency and Reliability",
+      "language": "Go",
+      "stars": 132,
+      "forks": 12
+    },
+    {
+      "author": "apex",
+      "name": "gateway",
+      "href": "https://github.com/apex/gateway",
+      "description": "Drop-in replacement for Go net/http when running in AWS Lambda & API Gateway",
+      "language": "Go",
+      "stars": 130,
+      "forks": 5
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 1640,
+      "forks": 334
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 12366,
+      "forks": 1204
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14380,
+      "forks": 1677
+    },
+    {
+      "author": "xo",
+      "name": "usql",
+      "href": "https://github.com/xo/usql",
+      "description": "usql is a universal command-line interface for SQL databases",
+      "language": "Go",
+      "stars": 2238,
+      "forks": 74
+    },
+    {
+      "author": "azer",
+      "name": "crud",
+      "href": "https://github.com/azer/crud",
+      "description": "A minimalistic relational database library for Go, with simple and familiar interface.",
+      "language": "Go",
+      "stars": 240,
+      "forks": 10
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 12805,
+      "forks": 1386
+    },
+    {
+      "author": "vmware",
+      "name": "dispatch",
+      "href": "https://github.com/vmware/dispatch",
+      "description": "Dispatch is a framework for deploying and managing serverless style applications.",
+      "language": "Go",
+      "stars": 157,
+      "forks": 14
+    },
+    {
+      "author": "google",
+      "name": "netboot",
+      "href": "https://github.com/google/netboot",
+      "description": "Packages and utilities for network booting",
+      "language": "Go",
+      "stars": 489,
+      "forks": 59
+    }
+  ]
+}
