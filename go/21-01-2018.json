@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "larsp",
+      "name": "co2monitor",
+      "href": "https://github.com/larsp/co2monitor",
+      "description": "CO₂ & Temperature monitor",
+      "language": "Go",
+      "stars": 157,
+      "forks": 3
+    },
+    {
+      "author": "jedisct1",
+      "name": "piknik",
+      "href": "https://github.com/jedisct1/piknik",
+      "description": "Copy/paste anything over the network",
+      "language": "Go",
+      "stars": 1268,
+      "forks": 35
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 12380,
+      "forks": 3742
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 1678,
+      "forks": 47
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘工具箱 - Go语言编写",
+      "language": "Go",
+      "stars": 127,
+      "forks": 14
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 36715,
+      "forks": 4998
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 31540,
+      "forks": 11156
+    },
+    {
+      "author": "census-instrumentation",
+      "name": "opencensus-go",
+      "href": "https://github.com/census-instrumentation/opencensus-go",
+      "description": "A stats collection and distributed tracing framework",
+      "language": "Go",
+      "stars": 410,
+      "forks": 29
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22659,
+      "forks": 2894
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 890,
+      "forks": 45
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 14155,
+      "forks": 1714
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 1660,
+      "forks": 337
+    },
+    {
+      "author": "tendermint",
+      "name": "tendermint",
+      "href": "https://github.com/tendermint/tendermint",
+      "description": "Tendermint Core (BFT Consensus) in Go",
+      "language": "Go",
+      "stars": 1179,
+      "forks": 217
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 20273,
+      "forks": 6054
+    },
+    {
+      "author": "hashicorp",
+      "name": "raft",
+      "href": "https://github.com/hashicorp/raft",
+      "description": "Golang implementation of the Raft consensus protocol",
+      "language": "Go",
+      "stars": 1575,
+      "forks": 203
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 3663,
+      "forks": 299
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 26977,
+      "forks": 3494
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 12383,
+      "forks": 1206
+    },
+    {
+      "author": "vmware",
+      "name": "dispatch",
+      "href": "https://github.com/vmware/dispatch",
+      "description": "Dispatch is a framework for deploying and managing serverless style applications.",
+      "language": "Go",
+      "stars": 171,
+      "forks": 15
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 8100,
+      "forks": 608
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14394,
+      "forks": 1678
+    },
+    {
+      "author": "bitly",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/bitly/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other provider",
+      "language": "Go",
+      "stars": 3277,
+      "forks": 717
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Gitea: Git with a cup of tea",
+      "language": "Go",
+      "stars": 4865,
+      "forks": 537
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9219,
+      "forks": 1636
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 16439,
+      "forks": 3212
+    }
+  ]
+}
