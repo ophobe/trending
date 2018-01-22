@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 3968,
+      "forks": 300
+    },
+    {
+      "author": "jiajunhuang",
+      "name": "guard",
+      "href": "https://github.com/jiajunhuang/guard",
+      "description": "A generic high performance circuit breaker & proxy server written in Go",
+      "language": "Go",
+      "stars": 163,
+      "forks": 3
+    },
+    {
+      "author": "jedisct1",
+      "name": "piknik",
+      "href": "https://github.com/jedisct1/piknik",
+      "description": "Copy/paste anything over the network",
+      "language": "Go",
+      "stars": 1402,
+      "forks": 40
+    },
+    {
+      "author": "nuclio",
+      "name": "nuclio",
+      "href": "https://github.com/nuclio/nuclio",
+      "description": "High-Performance Serverless event and data processing platform",
+      "language": "Go",
+      "stars": 1625,
+      "forks": 96
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 12447,
+      "forks": 3765
+    },
+    {
+      "author": "larsp",
+      "name": "co2monitor",
+      "href": "https://github.com/larsp/co2monitor",
+      "description": "CO₂ & Temperature monitor",
+      "language": "Go",
+      "stars": 222,
+      "forks": 5
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 1742,
+      "forks": 50
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘工具箱 - Go语言编写",
+      "language": "Go",
+      "stars": 190,
+      "forks": 19
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 31581,
+      "forks": 11174
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22703,
+      "forks": 2900
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 27023,
+      "forks": 3499
+    },
+    {
+      "author": "Vonng",
+      "name": "ac",
+      "href": "https://github.com/Vonng/ac",
+      "description": "Aho-Corasick Automaton with Double Array Trie (Multi-patterm substitute in go)",
+      "language": "Go",
+      "stars": 46,
+      "forks": 7
+    },
+    {
+      "author": "census-instrumentation",
+      "name": "opencensus-go",
+      "href": "https://github.com/census-instrumentation/opencensus-go",
+      "description": "A stats collection and distributed tracing framework",
+      "language": "Go",
+      "stars": 444,
+      "forks": 33
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 36744,
+      "forks": 4998
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 921,
+      "forks": 47
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7067,
+      "forks": 469
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 5423,
+      "forks": 664
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14424,
+      "forks": 1678
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 1687,
+      "forks": 344
+    },
+    {
+      "author": "vmware",
+      "name": "dispatch",
+      "href": "https://github.com/vmware/dispatch",
+      "description": "Dispatch is a framework for deploying and managing serverless style applications.",
+      "language": "Go",
+      "stars": 200,
+      "forks": 15
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 3118,
+      "forks": 2204
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47364,
+      "forks": 13968
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9239,
+      "forks": 1640
+    },
+    {
+      "author": "henson",
+      "name": "Answer",
+      "href": "https://github.com/henson/Answer",
+      "description": "答题助手，适用于 百万英雄 / 芝士超人 / 冲顶大会 / 花椒百万赢家 等多个直播答题类 APP，支持 iOS、Android 手机和模拟器，3 秒出结果，可以自动答题",
+      "language": "Go",
+      "stars": 24,
+      "forks": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 6987,
+      "forks": 949
+    }
+  ]
+}
