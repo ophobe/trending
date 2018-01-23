@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 12515,
+      "forks": 3791
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 36805,
+      "forks": 5002
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 4035,
+      "forks": 299
+    },
+    {
+      "author": "jiajunhuang",
+      "name": "guard",
+      "href": "https://github.com/jiajunhuang/guard",
+      "description": "A generic high performance circuit breaker & proxy server written in Go",
+      "language": "Go",
+      "stars": 211,
+      "forks": 4
+    },
+    {
+      "author": "jedisct1",
+      "name": "piknik",
+      "href": "https://github.com/jedisct1/piknik",
+      "description": "Copy/paste anything over the network",
+      "language": "Go",
+      "stars": 1451,
+      "forks": 42
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 31621,
+      "forks": 11189
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 1785,
+      "forks": 54
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 14200,
+      "forks": 1729
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 22736,
+      "forks": 2906
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14450,
+      "forks": 1683
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 3144,
+      "forks": 2218
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 12427,
+      "forks": 1209
+    },
+    {
+      "author": "Vonng",
+      "name": "ac",
+      "href": "https://github.com/Vonng/ac",
+      "description": "Aho-Corasick Automaton with Double Array Trie (Multi-pattern substitute in go)",
+      "language": "Go",
+      "stars": 71,
+      "forks": 18
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 22843,
+      "forks": 2676
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 1715,
+      "forks": 350
+    },
+    {
+      "author": "henson",
+      "name": "Answer",
+      "href": "https://github.com/henson/Answer",
+      "description": "答题助手，适用于 百万英雄 / 芝士超人 / 冲顶大会 / 花椒百万赢家 等多个直播答题类 APP，支持 iOS、Android 手机和模拟器，3 秒出结果",
+      "language": "Go",
+      "stars": 51,
+      "forks": 7
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7091,
+      "forks": 472
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 945,
+      "forks": 50
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 5447,
+      "forks": 670
+    },
+    {
+      "author": "hetznercloud",
+      "name": "hcloud-go",
+      "href": "https://github.com/hetznercloud/hcloud-go",
+      "description": "A Go library for the Hetzner Cloud API",
+      "language": "Go",
+      "stars": 33,
+      "forks": 2
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9260,
+      "forks": 1642
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 11501,
+      "forks": 1550
+    },
+    {
+      "author": "sundy-li",
+      "name": "wechat_brain",
+      "href": "https://github.com/sundy-li/wechat_brain",
+      "description": "头脑王者辅助工具",
+      "language": "Go",
+      "stars": 242,
+      "forks": 75
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 27042,
+      "forks": 3502
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47372,
+      "forks": 13973
+    }
+  ]
+}
