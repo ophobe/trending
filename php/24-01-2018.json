@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP Framework For Web Artisans",
+      "language": "PHP",
+      "stars": 38184,
+      "forks": 12402
+    },
+    {
+      "author": "swoft-cloud",
+      "name": "swoft",
+      "href": "https://github.com/swoft-cloud/swoft",
+      "description": "Modern High performance AOP and Coroutine PHP Framework, base on Swoole 2",
+      "language": "PHP",
+      "stars": 598,
+      "forks": 90
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 13130,
+      "forks": 1923
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 11677,
+      "forks": 4982
+    },
+    {
+      "author": "You2php",
+      "name": "you2php",
+      "href": "https://github.com/You2php/you2php",
+      "description": "[免翻墙工具]A free and open-source youtube video proxy script [Written in PHP]",
+      "language": "PHP",
+      "stars": 133,
+      "forks": 42
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 9597,
+      "forks": 5078
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 7750,
+      "forks": 1272
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 2904,
+      "forks": 178
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 1381,
+      "forks": 129
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 1070,
+      "forks": 35
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 1054,
+      "forks": 33
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 7542,
+      "forks": 1530
+    },
+    {
+      "author": "ramsey",
+      "name": "uuid",
+      "href": "https://github.com/ramsey/uuid",
+      "description": "Formerly rhumsaa/uuid. A PHP 5.4+ library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
+      "language": "PHP",
+      "stars": 3531,
+      "forks": 226
+    },
+    {
+      "author": "symfony",
+      "name": "thanks",
+      "href": "https://github.com/symfony/thanks",
+      "description": "Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!",
+      "language": "PHP",
+      "stars": 1395,
+      "forks": 16
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 1244,
+      "forks": 158
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 963,
+      "forks": 20
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 4335,
+      "forks": 427
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 2937,
+      "forks": 644
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 1087,
+      "forks": 55
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 975,
+      "forks": 39
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succint API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 3214,
+      "forks": 300
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "diff",
+      "href": "https://github.com/sebastianbergmann/diff",
+      "description": "Diff implementation",
+      "language": "PHP",
+      "stars": 1134,
+      "forks": 36
+    },
+    {
+      "author": "symfony",
+      "name": "translation",
+      "href": "https://github.com/symfony/translation",
+      "description": "The Translation component provides tools to internationalize your application.",
+      "language": "PHP",
+      "stars": 852,
+      "forks": 31
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 3926,
+      "forks": 468
+    },
+    {
+      "author": "fideloper",
+      "name": "TrustedProxy",
+      "href": "https://github.com/fideloper/TrustedProxy",
+      "description": "Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.",
+      "language": "PHP",
+      "stars": 1193,
+      "forks": 57
+    }
+  ]
+}
