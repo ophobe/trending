@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP Framework For Web Artisans",
+      "language": "PHP",
+      "stars": 38327,
+      "forks": 12421
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 11750,
+      "forks": 4985
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 9659,
+      "forks": 5097
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 1137,
+      "forks": 55
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 13201,
+      "forks": 1933
+    },
+    {
+      "author": "ramsey",
+      "name": "uuid",
+      "href": "https://github.com/ramsey/uuid",
+      "description": "Formerly rhumsaa/uuid. A PHP 5.4+ library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
+      "language": "PHP",
+      "stars": 3590,
+      "forks": 228
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 7801,
+      "forks": 1273
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 1297,
+      "forks": 159
+    },
+    {
+      "author": "symfony",
+      "name": "thanks",
+      "href": "https://github.com/symfony/thanks",
+      "description": "Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!",
+      "language": "PHP",
+      "stars": 1446,
+      "forks": 16
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 1430,
+      "forks": 129
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 1116,
+      "forks": 35
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 1021,
+      "forks": 40
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 7592,
+      "forks": 1533
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 2982,
+      "forks": 645
+    },
+    {
+      "author": "You2php",
+      "name": "you2php",
+      "href": "https://github.com/You2php/you2php",
+      "description": "[免翻墙工具]A free and open-source youtube video proxy script [Written in PHP]",
+      "language": "PHP",
+      "stars": 216,
+      "forks": 62
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "ReflectionDocBlock",
+      "href": "https://github.com/phpDocumentor/ReflectionDocBlock",
+      "description": null,
+      "language": "PHP",
+      "stars": 1028,
+      "forks": 62
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "TypeResolver",
+      "href": "https://github.com/phpDocumentor/TypeResolver",
+      "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
+      "language": "PHP",
+      "stars": 928,
+      "forks": 17
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "ReflectionCommon",
+      "href": "https://github.com/phpDocumentor/ReflectionCommon",
+      "description": null,
+      "language": "PHP",
+      "stars": 869,
+      "forks": 9
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 3969,
+      "forks": 469
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "diff",
+      "href": "https://github.com/sebastianbergmann/diff",
+      "description": "Diff implementation",
+      "language": "PHP",
+      "stars": 1179,
+      "forks": 36
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "php-file-iterator",
+      "href": "https://github.com/sebastianbergmann/php-file-iterator",
+      "description": "FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.",
+      "language": "PHP",
+      "stars": 918,
+      "forks": 25
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 4377,
+      "forks": 428
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 2949,
+      "forks": 178
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "php-code-coverage",
+      "href": "https://github.com/sebastianbergmann/php-code-coverage",
+      "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+      "language": "PHP",
+      "stars": 1625,
+      "forks": 229
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succint API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 3259,
+      "forks": 299
+    }
+  ]
+}
