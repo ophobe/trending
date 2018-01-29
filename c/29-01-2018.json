@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 54794,
+      "forks": 20211
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 14985,
+      "forks": 4628
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27296,
+      "forks": 10486
+    },
+    {
+      "author": "leandromoreira",
+      "name": "ffmpeg-libav-tutorial",
+      "href": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
+      "description": "[WIP] Learn FFmpeg libav the Hard Way",
+      "language": "C",
+      "stars": 3214,
+      "forks": 126
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 1826,
+      "forks": 80
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 20777,
+      "forks": 12060
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27100,
+      "forks": 2255
+    },
+    {
+      "author": "deepmind",
+      "name": "lab",
+      "href": "https://github.com/deepmind/lab",
+      "description": "A customisable 3D platform for agent-based AI research",
+      "language": "C",
+      "stars": 4533,
+      "forks": 919
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7223,
+      "forks": 4404
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 6300,
+      "forks": 563
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5673,
+      "forks": 2721
+    },
+    {
+      "author": "jmpews",
+      "name": "HookZz",
+      "href": "https://github.com/jmpews/HookZz",
+      "description": "a hook framework for arm/arm64/ios/android",
+      "language": "C",
+      "stars": 343,
+      "forks": 83
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8297,
+      "forks": 1380
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7344,
+      "forks": 2133
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9140,
+      "forks": 661
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8358,
+      "forks": 1951
+    },
+    {
+      "author": "zhaojh329",
+      "name": "libumqtt",
+      "href": "https://github.com/zhaojh329/libumqtt",
+      "description": "A Lightweight and fully asynchronous MQTT 3.1.1 client C library based on libubox for Embedded Linux. Support QoS 0, 1 and 2. Support ssl.",
+      "language": "C",
+      "stars": 43,
+      "forks": 1
+    },
+    {
+      "author": "CameraKit",
+      "name": "camerakit-android",
+      "href": "https://github.com/CameraKit/camerakit-android",
+      "description": "One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.",
+      "language": "C",
+      "stars": 2583,
+      "forks": 391
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 1938,
+      "forks": 3101
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 14671,
+      "forks": 1190
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 5150,
+      "forks": 1214
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 5256,
+      "forks": 662
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform system automation",
+      "language": "C",
+      "stars": 2550,
+      "forks": 200
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 6599,
+      "forks": 3959
+    },
+    {
+      "author": "tpruvot",
+      "name": "ccminer",
+      "href": "https://github.com/tpruvot/ccminer",
+      "description": "CUDA miner project, compatible with most nvidia cards",
+      "language": "C",
+      "stars": 1057,
+      "forks": 886
+    }
+  ]
+}
