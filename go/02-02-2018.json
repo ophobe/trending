@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "esimov",
+      "name": "caire",
+      "href": "https://github.com/esimov/caire",
+      "description": "Content aware image resize library",
+      "language": "Go",
+      "stars": 5228,
+      "forks": 105
+    },
+    {
+      "author": "rgburke",
+      "name": "grv",
+      "href": "https://github.com/rgburke/grv",
+      "description": "GRV is a terminal interface for viewing git repositories",
+      "language": "Go",
+      "stars": 1980,
+      "forks": 36
+    },
+    {
+      "author": "openebs",
+      "name": "openebs",
+      "href": "https://github.com/openebs/openebs",
+      "description": "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.",
+      "language": "Go",
+      "stars": 4452,
+      "forks": 307
+    },
+    {
+      "author": "sausheong",
+      "name": "invaders",
+      "href": "https://github.com/sausheong/invaders",
+      "description": "Space Invaders in Go",
+      "language": "Go",
+      "stars": 228,
+      "forks": 12
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 37288,
+      "forks": 5061
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 13275,
+      "forks": 4000
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 32049,
+      "forks": 11348
+    },
+    {
+      "author": "davecgh",
+      "name": "go-spew",
+      "href": "https://github.com/davecgh/go-spew",
+      "description": "Implements a deep pretty printer for Go data structures to aid in debugging",
+      "language": "Go",
+      "stars": 1976,
+      "forks": 127
+    },
+    {
+      "author": "gen2brain",
+      "name": "url2img",
+      "href": "https://github.com/gen2brain/url2img",
+      "description": "HTTP server with API for capturing screenshots of websites",
+      "language": "Go",
+      "stars": 335,
+      "forks": 13
+    },
+    {
+      "author": "godarch",
+      "name": "darch",
+      "href": "https://github.com/godarch/darch",
+      "description": "A tool for building and booting stateless and immutable images, bare metal.",
+      "language": "Go",
+      "stars": 70,
+      "forks": 4
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9558,
+      "forks": 1698
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 27397,
+      "forks": 3546
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 14458,
+      "forks": 1773
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "href": "https://github.com/rivo/tview",
+      "description": "Rich interactive widgets for terminal-based UIs written in Go",
+      "language": "Go",
+      "stars": 1508,
+      "forks": 43
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 5058,
+      "forks": 350
+    },
+    {
+      "author": "ServiceComb",
+      "name": "go-chassis",
+      "href": "https://github.com/ServiceComb/go-chassis",
+      "description": "Go-Chassis is a Software Development Kit(SDK) for rapid development of microservices in Go",
+      "language": "Go",
+      "stars": 339,
+      "forks": 57
+    },
+    {
+      "author": "thought-machine",
+      "name": "please",
+      "href": "https://github.com/thought-machine/please",
+      "description": "High-performance extensible build system for reproducible builds.",
+      "language": "Go",
+      "stars": 108,
+      "forks": 17
+    },
+    {
+      "author": "ericlagergren",
+      "name": "decimal",
+      "href": "https://github.com/ericlagergren/decimal",
+      "description": "A high-performance, arbitrary-precision, floating-point decimal library.",
+      "language": "Go",
+      "stars": 169,
+      "forks": 9
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14731,
+      "forks": 1710
+    },
+    {
+      "author": "miniflux",
+      "name": "miniflux",
+      "href": "https://github.com/miniflux/miniflux",
+      "description": "Minimalist feed reader written in Go and Postgresql",
+      "language": "Go",
+      "stars": 175,
+      "forks": 10
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 23041,
+      "forks": 2930
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 12732,
+      "forks": 1235
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 7196,
+      "forks": 990
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "File, Block, and Object Storage Services for your Cloud-Native Environment",
+      "language": "Go",
+      "stars": 2154,
+      "forks": 199
+    },
+    {
+      "author": "gen2brain",
+      "name": "cam2ip",
+      "href": "https://github.com/gen2brain/cam2ip",
+      "description": "Turn any webcam into an IP camera",
+      "language": "Go",
+      "stars": 309,
+      "forks": 23
+    }
+  ]
+}
