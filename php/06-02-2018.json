@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 38899,
+      "forks": 12498
+    },
+    {
+      "author": "nunomaduro",
+      "name": "laravel-console-menu",
+      "href": "https://github.com/nunomaduro/laravel-console-menu",
+      "description": "🔘 Beautiful PHP CLI menus. Is a php-school/cli-menu wrapper for Laravel/Artisan Console Commands",
+      "language": "PHP",
+      "stars": 197,
+      "forks": 3
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 9931,
+      "forks": 5122
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 12042,
+      "forks": 5002
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 13482,
+      "forks": 1946
+    },
+    {
+      "author": "symfony",
+      "name": "thanks",
+      "href": "https://github.com/symfony/thanks",
+      "description": "Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!",
+      "language": "PHP",
+      "stars": 1708,
+      "forks": 15
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 7177,
+      "forks": 881
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 8057,
+      "forks": 1279
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 1552,
+      "forks": 163
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-mbstring",
+      "href": "https://github.com/symfony/polyfill-mbstring",
+      "description": "This component provides a partial, native PHP implementation for the Mbstring extension.",
+      "language": "PHP",
+      "stars": 1344,
+      "forks": 11
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 1346,
+      "forks": 33
+    },
+    {
+      "author": "ramsey",
+      "name": "uuid",
+      "href": "https://github.com/ramsey/uuid",
+      "description": "Formerly rhumsaa/uuid. A PHP 5.4+ library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
+      "language": "PHP",
+      "stars": 3829,
+      "forks": 231
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 3221,
+      "forks": 645
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 1684,
+      "forks": 129
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 1351,
+      "forks": 36
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 1260,
+      "forks": 20
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 1271,
+      "forks": 51
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 1271,
+      "forks": 39
+    },
+    {
+      "author": "hhxsv5",
+      "name": "laravel-s",
+      "href": "https://github.com/hhxsv5/laravel-s",
+      "description": "LaravelS: Speed up Laravel/Lumen by Swoole, 'S' means Swoole, Speed, High performance.",
+      "language": "PHP",
+      "stars": 149,
+      "forks": 5
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 7862,
+      "forks": 1537
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 4218,
+      "forks": 474
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succint API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 3468,
+      "forks": 297
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 3169,
+      "forks": 176
+    },
+    {
+      "author": "phpspec",
+      "name": "prophecy",
+      "href": "https://github.com/phpspec/prophecy",
+      "description": "Highly opinionated mocking framework for PHP 5.3+",
+      "language": "PHP",
+      "stars": 2056,
+      "forks": 160
+    },
+    {
+      "author": "webmozart",
+      "name": "assert",
+      "href": "https://github.com/webmozart/assert",
+      "description": "Assertions to validate method input/output with nice error messages.",
+      "language": "PHP",
+      "stars": 1415,
+      "forks": 36
+    }
+  ]
+}
