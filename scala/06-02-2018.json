@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 5699,
+      "forks": 316
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16081,
+      "forks": 14879
+    },
+    {
+      "author": "outr",
+      "name": "scribe",
+      "href": "https://github.com/outr/scribe",
+      "description": "Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.",
+      "language": "Scala",
+      "stars": 100,
+      "forks": 6
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka",
+      "language": "Scala",
+      "stars": 3801,
+      "forks": 854
+    },
+    {
+      "author": "lihaoyi",
+      "name": "mill",
+      "href": "https://github.com/lihaoyi/mill",
+      "description": "Your shiny new Scala build tool!",
+      "language": "Scala",
+      "stars": 507,
+      "forks": 21
+    },
+    {
+      "author": "scala-exercises",
+      "name": "scala-exercises",
+      "href": "https://github.com/scala-exercises/scala-exercises",
+      "description": "The easy way to learn Scala.",
+      "language": "Scala",
+      "stars": 1317,
+      "forks": 347
+    },
+    {
+      "author": "JetBrains",
+      "name": "intellij-scala",
+      "href": "https://github.com/JetBrains/intellij-scala",
+      "description": "Scala plugin for IntelliJ IDEA",
+      "language": "Scala",
+      "stars": 736,
+      "forks": 253
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-onejar",
+      "href": "https://github.com/sbt/sbt-onejar",
+      "description": "Packages your project using One-JAR™",
+      "language": "Scala",
+      "stars": 233,
+      "forks": 42
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-launcher-package",
+      "href": "https://github.com/sbt/sbt-launcher-package",
+      "description": "Packaging for SBT so you can run it natively.",
+      "language": "Scala",
+      "stars": 69,
+      "forks": 61
+    },
+    {
+      "author": "kaitai-io",
+      "name": "kaitai_struct_compiler",
+      "href": "https://github.com/kaitai-io/kaitai_struct_compiler",
+      "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb",
+      "language": "Scala",
+      "stars": 83,
+      "forks": 30
+    },
+    {
+      "author": "eed3si9n",
+      "name": "gigahorse",
+      "href": "https://github.com/eed3si9n/gigahorse",
+      "description": "Gigahorse is an HTTP client for Scala with multiple backend support.",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 9
+    },
+    {
+      "author": "exercism",
+      "name": "scala",
+      "href": "https://github.com/exercism/scala",
+      "description": "Exercism exercises in Scala.",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 57
+    },
+    {
+      "author": "kamon-io",
+      "name": "sbt-aspectj-runner",
+      "href": "https://github.com/kamon-io/sbt-aspectj-runner",
+      "description": "sbt plugin for running aspectj weaver",
+      "language": "Scala",
+      "stars": 26,
+      "forks": 11
+    },
+    {
+      "author": "kamon-io",
+      "name": "kamon-akka-http",
+      "href": "https://github.com/kamon-io/kamon-akka-http",
+      "description": "Kamon integration for metrics, context and distributed tracing with Akka HTTP",
+      "language": "Scala",
+      "stars": 53,
+      "forks": 25
+    },
+    {
+      "author": "zalando-incubator",
+      "name": "remora",
+      "href": "https://github.com/zalando-incubator/remora",
+      "description": "Kafka consumer lag-checking application for monitoring, written in Scala and Akka HTTP; a wrap around the Kafka consumer group command. Integrations with CLoudwatch and Datadog",
+      "language": "Scala",
+      "stars": 81,
+      "forks": 9
+    },
+    {
+      "author": "outworkers",
+      "name": "phantom",
+      "href": "https://github.com/outworkers/phantom",
+      "description": "Schema safe, type-safe, reactive Scala driver for Cassandra/Datastax Enterprise",
+      "language": "Scala",
+      "stars": 953,
+      "forks": 177
+    },
+    {
+      "author": "crealytics",
+      "name": "spark-excel",
+      "href": "https://github.com/crealytics/spark-excel",
+      "description": "A Spark plugin for reading Excel files via Apache POI",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 31
+    },
+    {
+      "author": "mesosphere",
+      "name": "marathon",
+      "href": "https://github.com/mesosphere/marathon",
+      "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+      "language": "Scala",
+      "stars": 3572,
+      "forks": 827
+    },
+    {
+      "author": "locationtech",
+      "name": "geomesa",
+      "href": "https://github.com/locationtech/geomesa",
+      "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+      "language": "Scala",
+      "stars": 385,
+      "forks": 173
+    },
+    {
+      "author": "scalapb",
+      "name": "ScalaPB",
+      "href": "https://github.com/scalapb/ScalaPB",
+      "description": "Protocol buffer compiler for Scala.",
+      "language": "Scala",
+      "stars": 545,
+      "forks": 102
+    },
+    {
+      "author": "lihaoyi",
+      "name": "utest",
+      "href": "https://github.com/lihaoyi/utest",
+      "description": "A simple testing framework for Scala",
+      "language": "Scala",
+      "stars": 271,
+      "forks": 48
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 601,
+      "forks": 255
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10991,
+      "forks": 1775
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10143,
+      "forks": 3472
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9702,
+      "forks": 2325
+    }
+  ]
+}
