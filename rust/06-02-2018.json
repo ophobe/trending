@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11080,
+      "forks": 381
+    },
+    {
+      "author": "jvns",
+      "name": "rust-bcc",
+      "href": "https://github.com/jvns/rust-bcc",
+      "description": "user-friendly rust bindings for the bpf compiler collection",
+      "language": "Rust",
+      "stars": 47,
+      "forks": 3
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9139,
+      "forks": 360
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26356,
+      "forks": 4699
+    },
+    {
+      "author": "rustindia",
+      "name": "Rust-for-undergrads",
+      "href": "https://github.com/rustindia/Rust-for-undergrads",
+      "description": "C/C++ programming probelms re-written in Rust",
+      "language": "Rust",
+      "stars": 51,
+      "forks": 25
+    },
+    {
+      "author": "Pirh",
+      "name": "melo",
+      "href": "https://github.com/Pirh/melo",
+      "description": "A music notation language and compiler to MIDI.",
+      "language": "Rust",
+      "stars": 59,
+      "forks": 1
+    },
+    {
+      "author": "lunaryorn",
+      "name": "mdcat",
+      "href": "https://github.com/lunaryorn/mdcat",
+      "description": "Cat for markdown: Show markdown documents in TTYs",
+      "language": "Rust",
+      "stars": 166,
+      "forks": 5
+    },
+    {
+      "author": "andygrove",
+      "name": "datafusion-rs",
+      "href": "https://github.com/andygrove/datafusion-rs",
+      "description": "Distributed query processing implemented in Rust",
+      "language": "Rust",
+      "stars": 101,
+      "forks": 7
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6193,
+      "forks": 396
+    },
+    {
+      "author": "exonum",
+      "name": "exonum",
+      "href": "https://github.com/exonum/exonum",
+      "description": "Exonum core repository",
+      "language": "Rust",
+      "stars": 404,
+      "forks": 57
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1657,
+      "forks": 481
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3345,
+      "forks": 92
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3506,
+      "forks": 670
+    },
+    {
+      "author": "rbspy",
+      "name": "rbspy",
+      "href": "https://github.com/rbspy/rbspy",
+      "description": "Sampling profiler for Ruby",
+      "language": "Rust",
+      "stars": 939,
+      "forks": 30
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 820,
+      "forks": 159
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1608,
+      "forks": 170
+    },
+    {
+      "author": "sit-it",
+      "name": "sit",
+      "href": "https://github.com/sit-it/sit",
+      "description": "SCM-agnostic, file-based, offline-first, immutable issue tracker",
+      "language": "Rust",
+      "stars": 78,
+      "forks": 7
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "language": "Rust",
+      "stars": 7698,
+      "forks": 286
+    },
+    {
+      "author": "TeXitoi",
+      "name": "structopt",
+      "href": "https://github.com/TeXitoi/structopt",
+      "description": "Parse command line argument by defining a struct.",
+      "language": "Rust",
+      "stars": 351,
+      "forks": 12
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "Asynchronous I/O for Rust",
+      "language": "Rust",
+      "stars": 1060,
+      "forks": 23
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11149,
+      "forks": 1834
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3721,
+      "forks": 246
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2385,
+      "forks": 225
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 3869,
+      "forks": 338
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2694,
+      "forks": 330
+    }
+  ]
+}
