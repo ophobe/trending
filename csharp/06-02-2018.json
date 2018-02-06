@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "aspnet",
+      "name": "Blazor",
+      "href": "https://github.com/aspnet/Blazor",
+      "description": "An experimental web UI framework using C#/Razor and HTML, running in the browser via WebAssembly",
+      "language": "C#",
+      "stars": 120,
+      "forks": 5
+    },
+    {
+      "author": "dotnet",
+      "name": "corefx",
+      "href": "https://github.com/dotnet/corefx",
+      "description": "This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.",
+      "language": "C#",
+      "stars": 13337,
+      "forks": 3767
+    },
+    {
+      "author": "neo-project",
+      "name": "neo",
+      "href": "https://github.com/neo-project/neo",
+      "description": "NEO Smart Economy",
+      "language": "C#",
+      "stars": 1858,
+      "forks": 560
+    },
+    {
+      "author": "aspnet",
+      "name": "Docs",
+      "href": "https://github.com/aspnet/Docs",
+      "description": "Documentation for ASP.NET and ASP.NET Core",
+      "language": "C#",
+      "stars": 2215,
+      "forks": 5392
+    },
+    {
+      "author": "0xd4d",
+      "name": "dnSpy",
+      "href": "https://github.com/0xd4d/dnSpy",
+      "description": ".NET debugger and assembly editor",
+      "language": "C#",
+      "stars": 4118,
+      "forks": 727
+    },
+    {
+      "author": "Sergio0694",
+      "name": "NeuralNetwork.NET",
+      "href": "https://github.com/Sergio0694/NeuralNetwork.NET",
+      "description": "A TensorFlow-inspired neural network library built from scratch in C# 7.2 for .NET Standard 2.0, with GPU support through cuDNN and native memory management",
+      "language": "C#",
+      "stars": 58,
+      "forks": 4
+    },
+    {
+      "author": "i3arnon",
+      "name": "AsyncUtilities",
+      "href": "https://github.com/i3arnon/AsyncUtilities",
+      "description": "A collection of somewhat useful utilities and extension methods for async programming",
+      "language": "C#",
+      "stars": 56,
+      "forks": 3
+    },
+    {
+      "author": "dotnet-architecture",
+      "name": "eShopOnContainers",
+      "href": "https://github.com/dotnet-architecture/eShopOnContainers",
+      "description": "Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.0 and Docker engine. Supports Visual Studio 2017, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+      "language": "C#",
+      "stars": 4638,
+      "forks": 1580
+    },
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "href": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": 9345,
+      "forks": 1409
+    },
+    {
+      "author": "migueldeicaza",
+      "name": "gui.cs",
+      "href": "https://github.com/migueldeicaza/gui.cs",
+      "description": "Console-based user interface toolkit for .NET applications.",
+      "language": "C#",
+      "stars": 341,
+      "forks": 17
+    },
+    {
+      "author": "OpenRA",
+      "name": "OpenRA",
+      "href": "https://github.com/OpenRA/OpenRA",
+      "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+      "language": "C#",
+      "stars": 4886,
+      "forks": 1454
+    },
+    {
+      "author": "NickeManarin",
+      "name": "ScreenToGif",
+      "href": "https://github.com/NickeManarin/ScreenToGif",
+      "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+      "language": "C#",
+      "stars": 2937,
+      "forks": 379
+    },
+    {
+      "author": "gdkchan",
+      "name": "Ryujinx",
+      "href": "https://github.com/gdkchan/Ryujinx",
+      "description": "Experimental Switch emulator written in C#",
+      "language": "C#",
+      "stars": 27,
+      "forks": 3
+    },
+    {
+      "author": "icsharpcode",
+      "name": "ILSpy",
+      "href": "https://github.com/icsharpcode/ILSpy",
+      "description": ".NET Decompiler",
+      "language": "C#",
+      "stars": 4536,
+      "forks": 1197
+    },
+    {
+      "author": "shadowsocksrr",
+      "name": "shadowsocksr-csharp",
+      "href": "https://github.com/shadowsocksrr/shadowsocksr-csharp",
+      "description": null,
+      "language": "C#",
+      "stars": 1469,
+      "forks": 1064
+    },
+    {
+      "author": "Microsoft",
+      "name": "react-native-windows",
+      "href": "https://github.com/Microsoft/react-native-windows",
+      "description": "A framework for building native UWP and WPF apps with React.",
+      "language": "C#",
+      "stars": 3493,
+      "forks": 292
+    },
+    {
+      "author": "aspnet",
+      "name": "Mvc",
+      "href": "https://github.com/aspnet/Mvc",
+      "description": "ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.",
+      "language": "C#",
+      "stars": 5011,
+      "forks": 1972
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "href": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. Polly targets .NET 4.0, .NET 4.5 and .NET Standard 1.1.",
+      "language": "C#",
+      "stars": 3534,
+      "forks": 352
+    },
+    {
+      "author": "TomPallister",
+      "name": "Ocelot",
+      "href": "https://github.com/TomPallister/Ocelot",
+      "description": ".NET core API Gateway.",
+      "language": "C#",
+      "stars": 1029,
+      "forks": 244
+    },
+    {
+      "author": "ButterflyAPM",
+      "name": "butterfly",
+      "href": "https://github.com/ButterflyAPM/butterfly",
+      "description": "A distributed tracing system and application performance management.",
+      "language": "C#",
+      "stars": 106,
+      "forks": 21
+    },
+    {
+      "author": "cefsharp",
+      "name": "CefSharp",
+      "href": "https://github.com/cefsharp/CefSharp",
+      "description": ".NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework",
+      "language": "C#",
+      "stars": 3996,
+      "forks": 1581
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "href": "https://github.com/dotnet/roslyn",
+      "description": "The .NET Compiler Platform (\"Roslyn\") provides open-source C# and Visual Basic compilers with rich code analysis APIs.",
+      "language": "C#",
+      "stars": 8800,
+      "forks": 2126
+    },
+    {
+      "author": "SEFDStuff",
+      "name": "Run-Forrest-Open-Source",
+      "href": "https://github.com/SEFDStuff/Run-Forrest-Open-Source",
+      "description": "its time",
+      "language": "C#",
+      "stars": 61,
+      "forks": 13
+    },
+    {
+      "author": "JeffreySu",
+      "name": "WeiXinMPSDK",
+      "href": "https://github.com/JeffreySu/WeiXinMPSDK",
+      "description": "微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.",
+      "language": "C#",
+      "stars": 2964,
+      "forks": 2425
+    },
+    {
+      "author": "ShareX",
+      "name": "ShareX",
+      "href": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.",
+      "language": "C#",
+      "stars": 7128,
+      "forks": 1122
+    }
+  ]
+}
