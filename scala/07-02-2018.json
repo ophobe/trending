@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 5737,
+      "forks": 319
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16093,
+      "forks": 14894
+    },
+    {
+      "author": "outr",
+      "name": "scribe",
+      "href": "https://github.com/outr/scribe",
+      "description": "Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.",
+      "language": "Scala",
+      "stars": 109,
+      "forks": 6
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8164,
+      "forks": 2604
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2406,
+      "forks": 500
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10147,
+      "forks": 3474
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 6874,
+      "forks": 934
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 2293,
+      "forks": 340
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6272,
+      "forks": 1153
+    },
+    {
+      "author": "json4s",
+      "name": "json4s",
+      "href": "https://github.com/json4s/json4s",
+      "description": "A single AST to be used by other scala json libraries",
+      "language": "Scala",
+      "stars": 1024,
+      "forks": 262
+    },
+    {
+      "author": "akka",
+      "name": "reactive-kafka",
+      "href": "https://github.com/akka/reactive-kafka",
+      "description": "Reactive Streams API for Apache Kafka",
+      "language": "Scala",
+      "stars": 921,
+      "forks": 258
+    },
+    {
+      "author": "eBay",
+      "name": "Neutrino",
+      "href": "https://github.com/eBay/Neutrino",
+      "description": "Neutrino is a software load balancer(SLB)",
+      "language": "Scala",
+      "stars": 239,
+      "forks": 33
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves node application",
+      "language": "Scala",
+      "stars": 452,
+      "forks": 139
+    },
+    {
+      "author": "GetJenny",
+      "name": "starchat",
+      "href": "https://github.com/GetJenny/starchat",
+      "description": "An Open Source, scalable conversational engine for B2B applications.",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 14
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 337,
+      "forks": 77
+    },
+    {
+      "author": "scalastyle",
+      "name": "scalastyle",
+      "href": "https://github.com/scalastyle/scalastyle",
+      "description": "scalastyle",
+      "language": "Scala",
+      "stars": 530,
+      "forks": 175
+    },
+    {
+      "author": "mkotsur",
+      "name": "aws-lambda-scala",
+      "href": "https://github.com/mkotsur/aws-lambda-scala",
+      "description": "Writing AWS Lambdas in Scala",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 7
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 582,
+      "forks": 123
+    },
+    {
+      "author": "exercism",
+      "name": "scala",
+      "href": "https://github.com/exercism/scala",
+      "description": "Exercism exercises in Scala.",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 58
+    },
+    {
+      "author": "dbpedia",
+      "name": "extraction-framework",
+      "href": "https://github.com/dbpedia/extraction-framework",
+      "description": "The software used to extract structured data from Wikipedia",
+      "language": "Scala",
+      "stars": 433,
+      "forks": 216
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 601,
+      "forks": 256
+    },
+    {
+      "author": "scalate",
+      "name": "scalate",
+      "href": "https://github.com/scalate/scalate",
+      "description": "Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.",
+      "language": "Scala",
+      "stars": 503,
+      "forks": 89
+    },
+    {
+      "author": "scalatest",
+      "name": "scalatest",
+      "href": "https://github.com/scalatest/scalatest",
+      "description": "A testing tool for Scala and Java developers",
+      "language": "Scala",
+      "stars": 643,
+      "forks": 221
+    },
+    {
+      "author": "lucidworks",
+      "name": "spark-solr",
+      "href": "https://github.com/lucidworks/spark-solr",
+      "description": "Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.",
+      "language": "Scala",
+      "stars": 276,
+      "forks": 160
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 10995,
+      "forks": 1776
+    }
+  ]
+}
