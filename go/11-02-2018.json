@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON Parser for Go",
+      "language": "Go",
+      "stars": 2368,
+      "forks": 131
+    },
+    {
+      "author": "tidwall",
+      "name": "fastlane",
+      "href": "https://github.com/tidwall/fastlane",
+      "description": "Fast single-producer / single-consumer channels for Go",
+      "language": "Go",
+      "stars": 131,
+      "forks": 3
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 13744,
+      "forks": 4131
+    },
+    {
+      "author": "esimov",
+      "name": "caire",
+      "href": "https://github.com/esimov/caire",
+      "description": "Content aware image resize library",
+      "language": "Go",
+      "stars": 7139,
+      "forks": 176
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 37656,
+      "forks": 5110
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 9817,
+      "forks": 1756
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 32441,
+      "forks": 11470
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 27716,
+      "forks": 3585
+    },
+    {
+      "author": "gonum",
+      "name": "gonum",
+      "href": "https://github.com/gonum/gonum",
+      "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+      "language": "Go",
+      "stars": 1295,
+      "forks": 74
+    },
+    {
+      "author": "serverless",
+      "name": "event-gateway",
+      "href": "https://github.com/serverless/event-gateway",
+      "description": "The Event Gateway combines both API Gateway and Pub/Sub functionality into a single event-driven experience.",
+      "language": "Go",
+      "stars": 943,
+      "forks": 36
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A pluggable RPC framework",
+      "language": "Go",
+      "stars": 3025,
+      "forks": 316
+    },
+    {
+      "author": "gobuffalo",
+      "name": "packr",
+      "href": "https://github.com/gobuffalo/packr",
+      "description": "The simple and easy way to embed static files into Go binaries.",
+      "language": "Go",
+      "stars": 614,
+      "forks": 19
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘工具箱 - Go语言编写",
+      "language": "Go",
+      "stars": 1039,
+      "forks": 117
+    },
+    {
+      "author": "JackyChiu",
+      "name": "slb",
+      "href": "https://github.com/JackyChiu/slb",
+      "description": "Simple Load Balancer",
+      "language": "Go",
+      "stars": 33,
+      "forks": 0
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 14966,
+      "forks": 1746
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 3474,
+      "forks": 2341
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 20724,
+      "forks": 6164
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 23292,
+      "forks": 2946
+    },
+    {
+      "author": "GenesisKernel",
+      "name": "go-genesis",
+      "href": "https://github.com/GenesisKernel/go-genesis",
+      "description": "Public blockchain platform for building digital ecosystems",
+      "language": "Go",
+      "stars": 414,
+      "forks": 46
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 5861,
+      "forks": 746
+    },
+    {
+      "author": "ServiceComb",
+      "name": "go-chassis",
+      "href": "https://github.com/ServiceComb/go-chassis",
+      "description": "Go-Chassis is a Software Development Kit(SDK) for rapid development of microservices in Go",
+      "language": "Go",
+      "stars": 442,
+      "forks": 72
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7519,
+      "forks": 529
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 19379,
+      "forks": 1641
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 9423,
+      "forks": 809
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 15844,
+      "forks": 1180
+    }
+  ]
+}
