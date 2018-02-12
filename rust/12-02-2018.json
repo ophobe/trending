@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "pedrocr",
+      "name": "syncer",
+      "href": "https://github.com/pedrocr/syncer",
+      "description": "A filesystem that pretends you have all your files locally while caching only the most recently used",
+      "language": "Rust",
+      "stars": 74,
+      "forks": 0
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 7799,
+      "forks": 290
+    },
+    {
+      "author": "srijs",
+      "name": "deps.rs",
+      "href": "https://github.com/srijs/deps.rs",
+      "description": "Keep your dependencies up-to-date",
+      "language": "Rust",
+      "stars": 32,
+      "forks": 2
+    },
+    {
+      "author": "antoyo",
+      "name": "tql",
+      "href": "https://github.com/antoyo/tql",
+      "description": "TQL is a compile-time Rust ORM",
+      "language": "Rust",
+      "stars": 112,
+      "forks": 3
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9291,
+      "forks": 363
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3570,
+      "forks": 672
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26451,
+      "forks": 4715
+    },
+    {
+      "author": "lk-geimfari",
+      "name": "awesomo",
+      "href": "https://github.com/lk-geimfari/awesomo",
+      "description": "An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.",
+      "language": "Rust",
+      "stars": 5388,
+      "forks": 307
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 2484,
+      "forks": 74
+    },
+    {
+      "author": "dbrgn",
+      "name": "tealdeer",
+      "href": "https://github.com/dbrgn/tealdeer",
+      "description": "A very fast implementation of tldr in Rust.",
+      "language": "Rust",
+      "stars": 100,
+      "forks": 5
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11198,
+      "forks": 384
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3382,
+      "forks": 93
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 3948,
+      "forks": 125
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 849,
+      "forks": 162
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 1862,
+      "forks": 225
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3773,
+      "forks": 249
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6230,
+      "forks": 395
+    },
+    {
+      "author": "pcwalton",
+      "name": "pathfinder",
+      "href": "https://github.com/pcwalton/pathfinder",
+      "description": "A fast, practical GPU rasterizer for fonts and vector graphics",
+      "language": "Rust",
+      "stars": 860,
+      "forks": 40
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 242,
+      "forks": 18
+    },
+    {
+      "author": "vorner",
+      "name": "corona",
+      "href": "https://github.com/vorner/corona",
+      "description": "Coroutine and async/await support for tokio-based futures",
+      "language": "Rust",
+      "stars": 63,
+      "forks": 2
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1310,
+      "forks": 66
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1673,
+      "forks": 496
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "Asynchronous I/O for Rust",
+      "language": "Rust",
+      "stars": 1099,
+      "forks": 23
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11189,
+      "forks": 1840
+    },
+    {
+      "author": "Aatch",
+      "name": "ramp",
+      "href": "https://github.com/Aatch/ramp",
+      "description": "RAMP - Rust Arithmetic in Multiple Precision",
+      "language": "Rust",
+      "stars": 143,
+      "forks": 27
+    }
+  ]
+}
