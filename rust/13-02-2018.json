@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 7845,
+      "forks": 294
+    },
+    {
+      "author": "pedrocr",
+      "name": "syncer",
+      "href": "https://github.com/pedrocr/syncer",
+      "description": "A filesystem that pretends you have all your files locally while caching only the most recently used",
+      "language": "Rust",
+      "stars": 103,
+      "forks": 1
+    },
+    {
+      "author": "tomaka",
+      "name": "cpal",
+      "href": "https://github.com/tomaka/cpal",
+      "description": "Cross-platform audio I/O library in pure Rust",
+      "language": "Rust",
+      "stars": 199,
+      "forks": 35
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26467,
+      "forks": 4721
+    },
+    {
+      "author": "lk-geimfari",
+      "name": "awesomo",
+      "href": "https://github.com/lk-geimfari/awesomo",
+      "description": "An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.",
+      "language": "Rust",
+      "stars": 5410,
+      "forks": 307
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9307,
+      "forks": 364
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11216,
+      "forks": 383
+    },
+    {
+      "author": "srijs",
+      "name": "deps.rs",
+      "href": "https://github.com/srijs/deps.rs",
+      "description": "Keep your dependencies up-to-date",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 3
+    },
+    {
+      "author": "antoyo",
+      "name": "tql",
+      "href": "https://github.com/antoyo/tql",
+      "description": "TQL is a compile-time Rust ORM",
+      "language": "Rust",
+      "stars": 121,
+      "forks": 3
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11198,
+      "forks": 1840
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to find.",
+      "language": "Rust",
+      "stars": 4737,
+      "forks": 113
+    },
+    {
+      "author": "andygrove",
+      "name": "datafusion-rs",
+      "href": "https://github.com/andygrove/datafusion-rs",
+      "description": "Distributed query processing implemented in Rust",
+      "language": "Rust",
+      "stars": 159,
+      "forks": 8
+    },
+    {
+      "author": "mozilla",
+      "name": "sccache",
+      "href": "https://github.com/mozilla/sccache",
+      "description": "sccache is ccache with cloud storage",
+      "language": "Rust",
+      "stars": 285,
+      "forks": 51
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6238,
+      "forks": 397
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3578,
+      "forks": 674
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 1179,
+      "forks": 20
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 2490,
+      "forks": 75
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web framework",
+      "language": "Rust",
+      "stars": 239,
+      "forks": 16
+    },
+    {
+      "author": "GodotNativeTools",
+      "name": "godot-rust",
+      "href": "https://github.com/GodotNativeTools/godot-rust",
+      "description": "Rust bindings for GDNative",
+      "language": "Rust",
+      "stars": 79,
+      "forks": 5
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 640,
+      "forks": 61
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3781,
+      "forks": 250
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 2883,
+      "forks": 714
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "href": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": 95,
+      "forks": 13
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3388,
+      "forks": 93
+    },
+    {
+      "author": "dbrgn",
+      "name": "tealdeer",
+      "href": "https://github.com/dbrgn/tealdeer",
+      "description": "A very fast implementation of tldr in Rust.",
+      "language": "Rust",
+      "stars": 105,
+      "forks": 5
+    }
+  ]
+}
