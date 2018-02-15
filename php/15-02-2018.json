@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 39630,
+      "forks": 12598
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 8270,
+      "forks": 1546
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 12481,
+      "forks": 5013
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 2070,
+      "forks": 129
+    },
+    {
+      "author": "symfony",
+      "name": "thanks",
+      "href": "https://github.com/symfony/thanks",
+      "description": "Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!",
+      "language": "PHP",
+      "stars": 2111,
+      "forks": 17
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 1732,
+      "forks": 33
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 1740,
+      "forks": 56
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 1702,
+      "forks": 27
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 1922,
+      "forks": 166
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 1645,
+      "forks": 51
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 1643,
+      "forks": 41
+    },
+    {
+      "author": "symfony",
+      "name": "translation",
+      "href": "https://github.com/symfony/translation",
+      "description": "The Translation component provides tools to internationalize your application.",
+      "language": "PHP",
+      "stars": 1496,
+      "forks": 31
+    },
+    {
+      "author": "webmozart",
+      "name": "assert",
+      "href": "https://github.com/webmozart/assert",
+      "description": "Assertions to validate method input/output with nice error messages.",
+      "language": "PHP",
+      "stars": 1780,
+      "forks": 38
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "ReflectionDocBlock",
+      "href": "https://github.com/phpDocumentor/ReflectionDocBlock",
+      "description": null,
+      "language": "PHP",
+      "stars": 1609,
+      "forks": 59
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "TypeResolver",
+      "href": "https://github.com/phpDocumentor/TypeResolver",
+      "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
+      "language": "PHP",
+      "stars": 1509,
+      "forks": 17
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "ReflectionCommon",
+      "href": "https://github.com/phpDocumentor/ReflectionCommon",
+      "description": null,
+      "language": "PHP",
+      "stars": 1448,
+      "forks": 8
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 8409,
+      "forks": 1284
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 13846,
+      "forks": 1955
+    },
+    {
+      "author": "phpspec",
+      "name": "prophecy",
+      "href": "https://github.com/phpspec/prophecy",
+      "description": "Highly opinionated mocking framework for PHP 5.3+",
+      "language": "PHP",
+      "stars": 2413,
+      "forks": 161
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit-mock-objects",
+      "href": "https://github.com/sebastianbergmann/phpunit-mock-objects",
+      "description": "Mock Object library for PHPUnit",
+      "language": "PHP",
+      "stars": 1572,
+      "forks": 147
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "environment",
+      "href": "https://github.com/sebastianbergmann/environment",
+      "description": "Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths",
+      "language": "PHP",
+      "stars": 1447,
+      "forks": 8
+    },
+    {
+      "author": "JakubOnderka",
+      "name": "PHP-Console-Highlighter",
+      "href": "https://github.com/JakubOnderka/PHP-Console-Highlighter",
+      "description": "Highlight PHP code in terminal",
+      "language": "PHP",
+      "stars": 1217,
+      "forks": 9
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 3578,
+      "forks": 645
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 3518,
+      "forks": 177
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 10314,
+      "forks": 5162
+    }
+  ]
+}
