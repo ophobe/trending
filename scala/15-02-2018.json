@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 5932,
+      "forks": 328
+    },
+    {
+      "author": "propensive",
+      "name": "kaleidoscope",
+      "href": "https://github.com/propensive/kaleidoscope",
+      "description": "Compile-time-checked string pattern matching for Scala",
+      "language": "Scala",
+      "stars": 51,
+      "forks": 0
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16175,
+      "forks": 14960
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11041,
+      "forks": 1775
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9740,
+      "forks": 2333
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka",
+      "language": "Scala",
+      "stars": 3825,
+      "forks": 861
+    },
+    {
+      "author": "getquill",
+      "name": "quill",
+      "href": "https://github.com/getquill/quill",
+      "description": "Compile-time Language Integrated Queries for Scala",
+      "language": "Scala",
+      "stars": 1164,
+      "forks": 167
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Production-grade feature-rich service mesh for any platform",
+      "language": "Scala",
+      "stars": 3564,
+      "forks": 354
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2434,
+      "forks": 506
+    },
+    {
+      "author": "lihaoyi",
+      "name": "mill",
+      "href": "https://github.com/lihaoyi/mill",
+      "description": "Your shiny new Scala build tool!",
+      "language": "Scala",
+      "stars": 540,
+      "forks": 21
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-launcher-package",
+      "href": "https://github.com/sbt/sbt-launcher-package",
+      "description": "Packaging for SBT so you can run it natively.",
+      "language": "Scala",
+      "stars": 70,
+      "forks": 64
+    },
+    {
+      "author": "hail-is",
+      "name": "hail",
+      "href": "https://github.com/hail-is/hail",
+      "description": "Scalable genomic data analysis.",
+      "language": "Scala",
+      "stars": 291,
+      "forks": 92
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 588,
+      "forks": 275
+    },
+    {
+      "author": "akka",
+      "name": "akka-persistence-cassandra",
+      "href": "https://github.com/akka/akka-persistence-cassandra",
+      "description": "A replicated Akka Persistence journal backed by Apache Cassandra",
+      "language": "Scala",
+      "stars": 208,
+      "forks": 134
+    },
+    {
+      "author": "typelevel",
+      "name": "frameless",
+      "href": "https://github.com/typelevel/frameless",
+      "description": "Expressive types for Spark.",
+      "language": "Scala",
+      "stars": 344,
+      "forks": 58
+    },
+    {
+      "author": "lihaoyi",
+      "name": "scala.rx",
+      "href": "https://github.com/lihaoyi/scala.rx",
+      "description": "An experimental library for Functional Reactive Programming in Scala",
+      "language": "Scala",
+      "stars": 854,
+      "forks": 67
+    },
+    {
+      "author": "johnynek",
+      "name": "bazel-deps",
+      "href": "https://github.com/johnynek/bazel-deps",
+      "description": "Generate bazel dependencies for maven artifacts",
+      "language": "Scala",
+      "stars": 43,
+      "forks": 24
+    },
+    {
+      "author": "flix",
+      "name": "flix",
+      "href": "https://github.com/flix/flix",
+      "description": "The Flix Programming Language",
+      "language": "Scala",
+      "stars": 151,
+      "forks": 18
+    },
+    {
+      "author": "OpenBankProject",
+      "name": "OBP-API",
+      "href": "https://github.com/OpenBankProject/OBP-API",
+      "description": "An open source RESTful API platform for banks that supports accounts, transactions, counterparties, transfers (payments), entitlements (permissions), metadata (comments, tags, geo tags, urls etc.), multiple views on accounts (my data, shared data, open data), PSD2 compliance etc.",
+      "language": "Scala",
+      "stars": 771,
+      "forks": 215
+    },
+    {
+      "author": "finagle",
+      "name": "finch",
+      "href": "https://github.com/finagle/finch",
+      "description": "Scala combinator library for building Finagle HTTP services",
+      "language": "Scala",
+      "stars": 1163,
+      "forks": 176
+    },
+    {
+      "author": "ReactiveMongo",
+      "name": "Play-ReactiveMongo",
+      "href": "https://github.com/ReactiveMongo/Play-ReactiveMongo",
+      "description": "ReactiveMongo plugin for Playframework",
+      "language": "Scala",
+      "stars": 396,
+      "forks": 134
+    },
+    {
+      "author": "ReactiveMongo",
+      "name": "ReactiveMongo",
+      "href": "https://github.com/ReactiveMongo/ReactiveMongo",
+      "description": "Non-blocking, Reactive MongoDB Driver for Scala",
+      "language": "Scala",
+      "stars": 750,
+      "forks": 220
+    },
+    {
+      "author": "KyleU",
+      "name": "boilerplay",
+      "href": "https://github.com/KyleU/boilerplay",
+      "description": "Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play 2.6, ScalaJS, Silhouette 5, Sangria/GraphQL, and PostgreSQL. It provides a good starting point for whatever you want to build.",
+      "language": "Scala",
+      "stars": 204,
+      "forks": 35
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 3140,
+      "forks": 210
+    },
+    {
+      "author": "eed3si9n",
+      "name": "gigahorse",
+      "href": "https://github.com/eed3si9n/gigahorse",
+      "description": "Gigahorse is an HTTP client for Scala with multiple backend support.",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 10
+    }
+  ]
+}
