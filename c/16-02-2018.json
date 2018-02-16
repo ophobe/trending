@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sit-it",
+      "name": "sit",
+      "href": "https://github.com/sit-it/sit",
+      "description": "SCM-agnostic, file-based, offline-first, immutable issue tracker",
+      "language": "C",
+      "stars": 187,
+      "forks": 12
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 15688,
+      "forks": 4647
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55429,
+      "forks": 20442
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21013,
+      "forks": 12199
+    },
+    {
+      "author": "Eterna1",
+      "name": "puszek-rootkit",
+      "href": "https://github.com/Eterna1/puszek-rootkit",
+      "description": "linux rootkit",
+      "language": "C",
+      "stars": 79,
+      "forks": 20
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27519,
+      "forks": 2294
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11671,
+      "forks": 1468
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9333,
+      "forks": 664
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 9425,
+      "forks": 628
+    },
+    {
+      "author": "lc-soft",
+      "name": "LCUI",
+      "href": "https://github.com/lc-soft/LCUI",
+      "description": "A small C library for building user interfaces with C, XML and CSS.",
+      "language": "C",
+      "stars": 1939,
+      "forks": 153
+    },
+    {
+      "author": "google",
+      "name": "cpu_features",
+      "href": "https://github.com/google/cpu_features",
+      "description": "A cross platform C99 library to get cpu features at runtime.",
+      "language": "C",
+      "stars": 1072,
+      "forks": 41
+    },
+    {
+      "author": "coolstar",
+      "name": "electra",
+      "href": "https://github.com/coolstar/electra",
+      "description": "Electra iOS 11.0 - 11.1.2 jailbreak toolkit based on async_awake",
+      "language": "C",
+      "stars": 258,
+      "forks": 56
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6435,
+      "forks": 2581
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 6720,
+      "forks": 4075
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27548,
+      "forks": 10561
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5885,
+      "forks": 2853
+    },
+    {
+      "author": "chucklefish",
+      "name": "rlua",
+      "href": "https://github.com/chucklefish/rlua",
+      "description": "High level Lua bindings to Rust",
+      "language": "C",
+      "stars": 162,
+      "forks": 11
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 2069,
+      "forks": 90
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8413,
+      "forks": 1401
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 14889,
+      "forks": 1199
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 5627,
+      "forks": 581
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 4653,
+      "forks": 597
+    },
+    {
+      "author": "albfan",
+      "name": "miraclecast",
+      "href": "https://github.com/albfan/miraclecast",
+      "description": "Connect external monitors to your system via Wifi-Display specification also known as Miracast",
+      "language": "C",
+      "stars": 791,
+      "forks": 123
+    },
+    {
+      "author": "IAIK",
+      "name": "meltdown",
+      "href": "https://github.com/IAIK/meltdown",
+      "description": "This repository contains several applications, demonstrating the Meltdown bug.",
+      "language": "C",
+      "stars": 3349,
+      "forks": 353
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 6008,
+      "forks": 1520
+    }
+  ]
+}
