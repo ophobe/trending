@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",
+      "language": "Go",
+      "stars": 4654,
+      "forks": 156
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 37922,
+      "forks": 5138
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 13937,
+      "forks": 4202
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "The ultralight service mesh for Kubernetes",
+      "language": "Go",
+      "stars": 1029,
+      "forks": 51
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 13108,
+      "forks": 1274
+    },
+    {
+      "author": "spotahome",
+      "name": "kooper",
+      "href": "https://github.com/spotahome/kooper",
+      "description": "Kooper is a simple Go library to create Kubernetes operators and controllers.",
+      "language": "Go",
+      "stars": 90,
+      "forks": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 32638,
+      "forks": 11515
+    },
+    {
+      "author": "mitchellh",
+      "name": "go-server-timing",
+      "href": "https://github.com/mitchellh/go-server-timing",
+      "description": "Go (golang) library for creating and consuming HTTP Server-Timing headers",
+      "language": "Go",
+      "stars": 533,
+      "forks": 12
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 27887,
+      "forks": 3603
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 5954,
+      "forks": 757
+    },
+    {
+      "author": "kubernetes",
+      "name": "helm",
+      "href": "https://github.com/kubernetes/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 4135,
+      "forks": 1461
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 32336,
+      "forks": 7742
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 15082,
+      "forks": 1760
+    },
+    {
+      "author": "esimov",
+      "name": "caire",
+      "href": "https://github.com/esimov/caire",
+      "description": "Content aware image resize library",
+      "language": "Go",
+      "stars": 7343,
+      "forks": 179
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 23427,
+      "forks": 2954
+    },
+    {
+      "author": "udhos",
+      "name": "goben",
+      "href": "https://github.com/udhos/goben",
+      "description": "goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.",
+      "language": "Go",
+      "stars": 61,
+      "forks": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 7415,
+      "forks": 1025
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 6456,
+      "forks": 548
+    },
+    {
+      "author": "gojektech",
+      "name": "heimdall",
+      "href": "https://github.com/gojektech/heimdall",
+      "description": "An enchanced HTTP client",
+      "language": "Go",
+      "stars": 155,
+      "forks": 6
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 19438,
+      "forks": 1645
+    },
+    {
+      "author": "rgburke",
+      "name": "grv",
+      "href": "https://github.com/rgburke/grv",
+      "description": "GRV is a terminal interface for viewing git repositories",
+      "language": "Go",
+      "stars": 2709,
+      "forks": 59
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7618,
+      "forks": 535
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 7888,
+      "forks": 969
+    },
+    {
+      "author": "machinebox",
+      "name": "toys",
+      "href": "https://github.com/machinebox/toys",
+      "description": "Tools, scripts, toys, and utilities for Machine Box",
+      "language": "Go",
+      "stars": 27,
+      "forks": 2
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software",
+      "language": "Go",
+      "stars": 2692,
+      "forks": 508
+    }
+  ]
+}
