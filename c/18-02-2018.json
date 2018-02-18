@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 9473,
+      "forks": 634
+    },
+    {
+      "author": "SciresM",
+      "name": "Atmosphere-NX",
+      "href": "https://github.com/SciresM/Atmosphere-NX",
+      "description": "This is a repo for a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 101,
+      "forks": 2
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55470,
+      "forks": 20453
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 15730,
+      "forks": 4650
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 6737,
+      "forks": 4084
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 4908,
+      "forks": 282
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6702,
+      "forks": 1359
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21037,
+      "forks": 12209
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11696,
+      "forks": 1470
+    },
+    {
+      "author": "sustrik",
+      "name": "libdill",
+      "href": "https://github.com/sustrik/libdill",
+      "description": "Structured concurrency in C",
+      "language": "C",
+      "stars": 738,
+      "forks": 59
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27546,
+      "forks": 2297
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 2048,
+      "forks": 1218
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 10747,
+      "forks": 621
+    },
+    {
+      "author": "sit-it",
+      "name": "sit",
+      "href": "https://github.com/sit-it/sit",
+      "description": "SCM-agnostic, file-based, offline-first, immutable issue tracker",
+      "language": "C",
+      "stars": 259,
+      "forks": 16
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5902,
+      "forks": 2857
+    },
+    {
+      "author": "golang-ui",
+      "name": "nuklear",
+      "href": "https://github.com/golang-ui/nuklear",
+      "description": "This project provides Go bindings for nuklear.h — a small ANSI C GUI library.",
+      "language": "C",
+      "stars": 745,
+      "forks": 38
+    },
+    {
+      "author": "nikita36078",
+      "name": "J2ME-Loader",
+      "href": "https://github.com/nikita36078/J2ME-Loader",
+      "description": "A J2ME emulator for Android.",
+      "language": "C",
+      "stars": 167,
+      "forks": 32
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 14902,
+      "forks": 1200
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7504,
+      "forks": 2165
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27558,
+      "forks": 10563
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9786,
+      "forks": 4231
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8524,
+      "forks": 1983
+    },
+    {
+      "author": "DaveDavenport",
+      "name": "rofi",
+      "href": "https://github.com/DaveDavenport/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": 2355,
+      "forks": 160
+    },
+    {
+      "author": "TheOfficialFloW",
+      "name": "VitaShell",
+      "href": "https://github.com/TheOfficialFloW/VitaShell",
+      "description": "VitaShell is a file manager for PS Vita HENkaku",
+      "language": "C",
+      "stars": 483,
+      "forks": 124
+    },
+    {
+      "author": "arduino",
+      "name": "Arduino",
+      "href": "https://github.com/arduino/Arduino",
+      "description": "open-source electronics prototyping platform",
+      "language": "C",
+      "stars": 7736,
+      "forks": 6066
+    }
+  ]
+}
