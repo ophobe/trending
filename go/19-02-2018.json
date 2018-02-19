@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "banzaicloud",
+      "name": "pipeline",
+      "href": "https://github.com/banzaicloud/pipeline",
+      "description": "REST API to provision or reuse managed Kubernetes clusters in the cloud and deploy cloud native apps",
+      "language": "Go",
+      "stars": 184,
+      "forks": 17
+    },
+    {
+      "author": "goreleaser",
+      "name": "nfpm",
+      "href": "https://github.com/goreleaser/nfpm",
+      "description": "NFPM is Not FPM - a simple deb and rpm packager written in Go",
+      "language": "Go",
+      "stars": 165,
+      "forks": 4
+    },
+    {
+      "author": "esimov",
+      "name": "caire",
+      "href": "https://github.com/esimov/caire",
+      "description": "Content aware image resize library",
+      "language": "Go",
+      "stars": 7418,
+      "forks": 192
+    },
+    {
+      "author": "jackdoe",
+      "name": "rochefort",
+      "href": "https://github.com/jackdoe/rochefort",
+      "description": "poor man's kafka",
+      "language": "Go",
+      "stars": 66,
+      "forks": 3
+    },
+    {
+      "author": "fullstorydev",
+      "name": "grpcurl",
+      "href": "https://github.com/fullstorydev/grpcurl",
+      "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+      "language": "Go",
+      "stars": 72,
+      "forks": 2
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 37989,
+      "forks": 5145
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 14010,
+      "forks": 4229
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 13165,
+      "forks": 1275
+    },
+    {
+      "author": "smartcontractkit",
+      "name": "chainlink",
+      "href": "https://github.com/smartcontractkit/chainlink",
+      "description": "bridging on and off-chain computation",
+      "language": "Go",
+      "stars": 56,
+      "forks": 3
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 32672,
+      "forks": 11528
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 27951,
+      "forks": 3611
+    },
+    {
+      "author": "apex",
+      "name": "up",
+      "href": "https://github.com/apex/up",
+      "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",
+      "language": "Go",
+      "stars": 4729,
+      "forks": 158
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 8777,
+      "forks": 559
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 7654,
+      "forks": 537
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 14778,
+      "forks": 1809
+    },
+    {
+      "author": "andlabs",
+      "name": "ui",
+      "href": "https://github.com/andlabs/ui",
+      "description": "Platform-native GUI library for Go.",
+      "language": "Go",
+      "stars": 4805,
+      "forks": 337
+    },
+    {
+      "author": "mitchellh",
+      "name": "go-server-timing",
+      "href": "https://github.com/mitchellh/go-server-timing",
+      "description": "Go (golang) library for creating and consuming HTTP Server-Timing headers",
+      "language": "Go",
+      "stars": 571,
+      "forks": 14
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 23468,
+      "forks": 2957
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 5987,
+      "forks": 760
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 32361,
+      "forks": 7746
+    },
+    {
+      "author": "alphasoc",
+      "name": "flightsim",
+      "href": "https://github.com/alphasoc/flightsim",
+      "description": "A utility to generate malicious network traffic and evaluate controls",
+      "language": "Go",
+      "stars": 91,
+      "forks": 12
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 15115,
+      "forks": 1763
+    },
+    {
+      "author": "fnproject",
+      "name": "fn",
+      "href": "https://github.com/fnproject/fn",
+      "description": "The container native, cloud agnostic serverless platform.",
+      "language": "Go",
+      "stars": 2210,
+      "forks": 149
+    },
+    {
+      "author": "nfnt",
+      "name": "resize",
+      "href": "https://github.com/nfnt/resize",
+      "description": "Pure golang image resizing",
+      "language": "Go",
+      "stars": 1725,
+      "forks": 167
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘工具箱 - Go语言编写",
+      "language": "Go",
+      "stars": 1111,
+      "forks": 128
+    }
+  ]
+}
