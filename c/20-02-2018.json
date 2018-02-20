@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "znuh",
+      "name": "frivpn",
+      "href": "https://github.com/znuh/frivpn",
+      "description": "multithreaded openvpn client (WIP)",
+      "language": "C",
+      "stars": 204,
+      "forks": 7
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55536,
+      "forks": 20477
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 15826,
+      "forks": 4651
+    },
+    {
+      "author": "nuclearcat",
+      "name": "cedarkey",
+      "href": "https://github.com/nuclearcat/cedarkey",
+      "description": "$2 hardware SSH keys storage",
+      "language": "C",
+      "stars": 101,
+      "forks": 4
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27583,
+      "forks": 2304
+    },
+    {
+      "author": "SciresM",
+      "name": "Atmosphere-NX",
+      "href": "https://github.com/SciresM/Atmosphere-NX",
+      "description": "This is a repo for a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 155,
+      "forks": 5
+    },
+    {
+      "author": "trailofbits",
+      "name": "deepstate",
+      "href": "https://github.com/trailofbits/deepstate",
+      "description": "DeepState augments C/C++ Test-Driven Development with Symbolic Execution",
+      "language": "C",
+      "stars": 111,
+      "forks": 9
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 9519,
+      "forks": 637
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21051,
+      "forks": 12222
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27570,
+      "forks": 10573
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 5925,
+      "forks": 2869
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11717,
+      "forks": 1477
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6460,
+      "forks": 2587
+    },
+    {
+      "author": "deepmind",
+      "name": "lab",
+      "href": "https://github.com/deepmind/lab",
+      "description": "A customisable 3D platform for agent-based AI research",
+      "language": "C",
+      "stars": 4786,
+      "forks": 957
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7520,
+      "forks": 2171
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 4931,
+      "forks": 283
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 6753,
+      "forks": 4094
+    },
+    {
+      "author": "cbdevnet",
+      "name": "midimonster",
+      "href": "https://github.com/cbdevnet/midimonster",
+      "description": "Multi-protocol translation software (ArtNet, MIDI, OSC, ...)",
+      "language": "C",
+      "stars": 93,
+      "forks": 4
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9352,
+      "forks": 667
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 14112,
+      "forks": 1681
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8542,
+      "forks": 1984
+    },
+    {
+      "author": "jiangwenyuan",
+      "name": "nuster",
+      "href": "https://github.com/jiangwenyuan/nuster",
+      "description": "A web caching proxy server based on HAProxy",
+      "language": "C",
+      "stars": 551,
+      "forks": 34
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 7943,
+      "forks": 1993
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6716,
+      "forks": 1364
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "href": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to learn videogames programming",
+      "language": "C",
+      "stars": 806,
+      "forks": 97
+    }
+  ]
+}
