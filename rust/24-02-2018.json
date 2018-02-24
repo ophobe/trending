@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sindresorhus",
+      "name": "gifski-app",
+      "href": "https://github.com/sindresorhus/gifski-app",
+      "description": "Convert videos to high-quality GIFs on your Mac",
+      "language": "Rust",
+      "stars": 699,
+      "forks": 12
+    },
+    {
+      "author": "gnzlbg",
+      "name": "cargo-asm",
+      "href": "https://github.com/gnzlbg/cargo-asm",
+      "description": "cargo subcommand that shows the assembly or llvm-ir generated for Rust code",
+      "language": "Rust",
+      "stars": 115,
+      "forks": 0
+    },
+    {
+      "author": "ImageOptim",
+      "name": "gifski",
+      "href": "https://github.com/ImageOptim/gifski",
+      "description": "GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format.",
+      "language": "Rust",
+      "stars": 591,
+      "forks": 11
+    },
+    {
+      "author": "mitsuhiko",
+      "name": "indicatif",
+      "href": "https://github.com/mitsuhiko/indicatif",
+      "description": "A command line progress reporting library for Rust",
+      "language": "Rust",
+      "stars": 501,
+      "forks": 22
+    },
+    {
+      "author": "jhspetersson",
+      "name": "fselect",
+      "href": "https://github.com/jhspetersson/fselect",
+      "description": "Find files with SQL-like queries",
+      "language": "Rust",
+      "stars": 39,
+      "forks": 0
+    },
+    {
+      "author": "brendanzab",
+      "name": "pikelet",
+      "href": "https://github.com/brendanzab/pikelet",
+      "description": "(Please don’t repost, this is still a WIP) A small dependently typed lambda calculus implemented in Rust. 🥞",
+      "language": "Rust",
+      "stars": 27,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26650,
+      "forks": 4748
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 619,
+      "forks": 37
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9438,
+      "forks": 373
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11338,
+      "forks": 392
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6322,
+      "forks": 405
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1386,
+      "forks": 69
+    },
+    {
+      "author": "pop-os",
+      "name": "distinst",
+      "href": "https://github.com/pop-os/distinst",
+      "description": "WIP Installer Backend",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 5
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11241,
+      "forks": 1851
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 413,
+      "forks": 22
+    },
+    {
+      "author": "pingcap",
+      "name": "raft-rs",
+      "href": "https://github.com/pingcap/raft-rs",
+      "description": "Raft distributed consensus algorithm implemented in Rust.",
+      "language": "Rust",
+      "stars": 82,
+      "forks": 8
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 708,
+      "forks": 67
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 909,
+      "forks": 166
+    },
+    {
+      "author": "rayon-rs",
+      "name": "rayon",
+      "href": "https://github.com/rayon-rs/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 1735,
+      "forks": 133
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3646,
+      "forks": 693
+    },
+    {
+      "author": "withoutboats",
+      "name": "failure",
+      "href": "https://github.com/withoutboats/failure",
+      "description": "Error management",
+      "language": "Rust",
+      "stars": 612,
+      "forks": 45
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "href": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of libp2p networking stack.",
+      "language": "Rust",
+      "stars": 139,
+      "forks": 13
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8028,
+      "forks": 311
+    },
+    {
+      "author": "gotham-rs",
+      "name": "gotham",
+      "href": "https://github.com/gotham-rs/gotham",
+      "description": "A flexible web framework that promotes stability, safety, security and speed.",
+      "language": "Rust",
+      "stars": 651,
+      "forks": 37
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3453,
+      "forks": 99
+    }
+  ]
+}
