@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sindresorhus",
+      "name": "gifski-app",
+      "href": "https://github.com/sindresorhus/gifski-app",
+      "description": "Convert videos to high-quality GIFs on your Mac",
+      "language": "Rust",
+      "stars": 898,
+      "forks": 14
+    },
+    {
+      "author": "jhspetersson",
+      "name": "fselect",
+      "href": "https://github.com/jhspetersson/fselect",
+      "description": "Find files with SQL-like queries",
+      "language": "Rust",
+      "stars": 89,
+      "forks": 1
+    },
+    {
+      "author": "gnzlbg",
+      "name": "cargo-asm",
+      "href": "https://github.com/gnzlbg/cargo-asm",
+      "description": "cargo subcommand that shows the assembly or llvm-ir generated for Rust code",
+      "language": "Rust",
+      "stars": 128,
+      "forks": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26665,
+      "forks": 4745
+    },
+    {
+      "author": "pop-os",
+      "name": "distinst",
+      "href": "https://github.com/pop-os/distinst",
+      "description": "WIP Installer Backend",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 5
+    },
+    {
+      "author": "brendanzab",
+      "name": "pikelet",
+      "href": "https://github.com/brendanzab/pikelet",
+      "description": "(Please don’t repost, this is still a WIP) A small dependently typed lambda calculus implemented in Rust. 🥞",
+      "language": "Rust",
+      "stars": 39,
+      "forks": 2
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 424,
+      "forks": 22
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1397,
+      "forks": 70
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9446,
+      "forks": 373
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8037,
+      "forks": 311
+    },
+    {
+      "author": "ImageOptim",
+      "name": "gifski",
+      "href": "https://github.com/ImageOptim/gifski",
+      "description": "GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format.",
+      "language": "Rust",
+      "stars": 602,
+      "forks": 11
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11349,
+      "forks": 393
+    },
+    {
+      "author": "xliiv",
+      "name": "fui",
+      "href": "https://github.com/xliiv/fui",
+      "description": "Add form interface to your CLI program.",
+      "language": "Rust",
+      "stars": 77,
+      "forks": 1
+    },
+    {
+      "author": "three-rs",
+      "name": "three",
+      "href": "https://github.com/three-rs/three",
+      "description": "Totally not inspired Rust 3D library",
+      "language": "Rust",
+      "stars": 155,
+      "forks": 25
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6328,
+      "forks": 405
+    },
+    {
+      "author": "withoutboats",
+      "name": "failure",
+      "href": "https://github.com/withoutboats/failure",
+      "description": "Error management",
+      "language": "Rust",
+      "stars": 619,
+      "forks": 45
+    },
+    {
+      "author": "pingcap",
+      "name": "raft-rs",
+      "href": "https://github.com/pingcap/raft-rs",
+      "description": "Raft distributed consensus algorithm implemented in Rust.",
+      "language": "Rust",
+      "stars": 89,
+      "forks": 8
+    },
+    {
+      "author": "exonum",
+      "name": "exonum",
+      "href": "https://github.com/exonum/exonum",
+      "description": "Exonum core repository",
+      "language": "Rust",
+      "stars": 457,
+      "forks": 63
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11245,
+      "forks": 1851
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "Asynchronous I/O for Rust",
+      "language": "Rust",
+      "stars": 1182,
+      "forks": 30
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 731,
+      "forks": 12
+    },
+    {
+      "author": "osa1",
+      "name": "tiny",
+      "href": "https://github.com/osa1/tiny",
+      "description": "A console IRC client",
+      "language": "Rust",
+      "stars": 164,
+      "forks": 12
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3458,
+      "forks": 100
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 623,
+      "forks": 37
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web framework for Rust",
+      "language": "Rust",
+      "stars": 320,
+      "forks": 21
+    }
+  ]
+}
