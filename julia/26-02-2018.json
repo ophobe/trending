@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 10235,
+      "forks": 2278
+    },
+    {
+      "author": "QuantEcon",
+      "name": "QuantEcon.jl",
+      "href": "https://github.com/QuantEcon/QuantEcon.jl",
+      "description": "Julia implementation of QuantEcon routines",
+      "language": "Julia",
+      "stars": 179,
+      "forks": 205
+    },
+    {
+      "author": "simonster",
+      "name": "JLD2.jl",
+      "href": "https://github.com/simonster/JLD2.jl",
+      "description": "HDF5-compatible file format in pure Julia",
+      "language": "Julia",
+      "stars": 56,
+      "forks": 11
+    },
+    {
+      "author": "JuliaInterop",
+      "name": "ZMQ.jl",
+      "href": "https://github.com/JuliaInterop/ZMQ.jl",
+      "description": "Julia interface to ZMQ",
+      "language": "Julia",
+      "stars": 62,
+      "forks": 36
+    },
+    {
+      "author": "QuantStack",
+      "name": "Xtensor.jl",
+      "href": "https://github.com/QuantStack/Xtensor.jl",
+      "description": "Julia bindings for xtensor",
+      "language": "Julia",
+      "stars": 22,
+      "forks": 5
+    },
+    {
+      "author": "jipolanco",
+      "name": "WriteVTK.jl",
+      "href": "https://github.com/jipolanco/WriteVTK.jl",
+      "description": "Julia module for writing VTK XML files.",
+      "language": "Julia",
+      "stars": 21,
+      "forks": 9
+    },
+    {
+      "author": "yunjhongwu",
+      "name": "TensorDecompositions.jl",
+      "href": "https://github.com/yunjhongwu/TensorDecompositions.jl",
+      "description": "A Julia implementation of tensor decomposition algorithms",
+      "language": "Julia",
+      "stars": 21,
+      "forks": 10
+    },
+    {
+      "author": "JuliaDiff",
+      "name": "TaylorSeries.jl",
+      "href": "https://github.com/JuliaDiff/TaylorSeries.jl",
+      "description": "A julia package for Taylor expansions in one or more independent variables.",
+      "language": "Julia",
+      "stars": 31,
+      "forks": 16
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "Sundials.jl",
+      "href": "https://github.com/JuliaDiffEq/Sundials.jl",
+      "description": "Julia interface to Sundials, including a nonlinear solver (KINSOL), ODE's (CVODE and ARKODE), and DAE's (IDA).",
+      "language": "Julia",
+      "stars": 67,
+      "forks": 42
+    },
+    {
+      "author": "JuliaStats",
+      "name": "StatsBase.jl",
+      "href": "https://github.com/JuliaStats/StatsBase.jl",
+      "description": "Basic statistics for Julia",
+      "language": "Julia",
+      "stars": 143,
+      "forks": 88
+    },
+    {
+      "author": "dfdx",
+      "name": "Spark.jl",
+      "href": "https://github.com/dfdx/Spark.jl",
+      "description": "Julia binding for Apache Spark",
+      "language": "Julia",
+      "stars": 53,
+      "forks": 15
+    },
+    {
+      "author": "mauro3",
+      "name": "SimpleTraits.jl",
+      "href": "https://github.com/mauro3/SimpleTraits.jl",
+      "description": "Simple Traits for Julia",
+      "language": "Julia",
+      "stars": 28,
+      "forks": 7
+    },
+    {
+      "author": "BenLauwens",
+      "name": "SimJulia.jl",
+      "href": "https://github.com/BenLauwens/SimJulia.jl",
+      "description": "A discrete event process oriented simulation framework written in Julia",
+      "language": "Julia",
+      "stars": 64,
+      "forks": 17
+    },
+    {
+      "author": "PoisotLab",
+      "name": "EcologicalNetwork.jl",
+      "href": "https://github.com/PoisotLab/EcologicalNetwork.jl",
+      "description": "Analysis of ecological networks in Julia",
+      "language": "Julia",
+      "stars": 26,
+      "forks": 7
+    },
+    {
+      "author": "JuliaGraphs",
+      "name": "LightGraphs.jl",
+      "href": "https://github.com/JuliaGraphs/LightGraphs.jl",
+      "description": "An optimized graphs package for Julia",
+      "language": "Julia",
+      "stars": 173,
+      "forks": 73
+    },
+    {
+      "author": "JuliaDynamics",
+      "name": "DynamicalSystems.jl",
+      "href": "https://github.com/JuliaDynamics/DynamicalSystems.jl",
+      "description": "A Julia software library for chaos and nonlinear dynamics",
+      "language": "Julia",
+      "stars": 48,
+      "forks": 11
+    },
+    {
+      "author": "JuliaDocs",
+      "name": "Documenter.jl",
+      "href": "https://github.com/JuliaDocs/Documenter.jl",
+      "description": "A documentation generator for Julia.",
+      "language": "Julia",
+      "stars": 120,
+      "forks": 97
+    },
+    {
+      "author": "JuliaEditorSupport",
+      "name": "LanguageServer.jl",
+      "href": "https://github.com/JuliaEditorSupport/LanguageServer.jl",
+      "description": "An implementation of the Microsoft Language Server Protocol for the julia language.",
+      "language": "Julia",
+      "stars": 45,
+      "forks": 12
+    },
+    {
+      "author": "JuliaStats",
+      "name": "Distances.jl",
+      "href": "https://github.com/JuliaStats/Distances.jl",
+      "description": "A Julia package for evaluating distances(metrics) between vectors.",
+      "language": "Julia",
+      "stars": 96,
+      "forks": 39
+    },
+    {
+      "author": "qojulia",
+      "name": "QuantumOptics.jl",
+      "href": "https://github.com/qojulia/QuantumOptics.jl",
+      "description": "Library for the numerical simulation of closed as well as open quantum systems.",
+      "language": "Julia",
+      "stars": 123,
+      "forks": 18
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 473,
+      "forks": 104
+    },
+    {
+      "author": "JuliaFEM",
+      "name": "JuliaFEM.jl",
+      "href": "https://github.com/JuliaFEM/JuliaFEM.jl",
+      "description": "The JuliaFEM software library is a framework that allows for the distributed processing of large Finite Element Models across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage.",
+      "language": "Julia",
+      "stars": 54,
+      "forks": 22
+    },
+    {
+      "author": "timholy",
+      "name": "ProgressMeter.jl",
+      "href": "https://github.com/timholy/ProgressMeter.jl",
+      "description": "Progress meter for long-running computations",
+      "language": "Julia",
+      "stars": 132,
+      "forks": 34
+    },
+    {
+      "author": "JuliaComputing",
+      "name": "JuliaDB.jl",
+      "href": "https://github.com/JuliaComputing/JuliaDB.jl",
+      "description": "Analytical database in pure Julia",
+      "language": "Julia",
+      "stars": 73,
+      "forks": 13
+    },
+    {
+      "author": "JuliaIO",
+      "name": "JSON.jl",
+      "href": "https://github.com/JuliaIO/JSON.jl",
+      "description": "JSON parsing and printing",
+      "language": "Julia",
+      "stars": 108,
+      "forks": 57
+    }
+  ]
+}
