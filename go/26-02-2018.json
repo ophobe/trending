@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "zricethezav",
+      "name": "gitleaks",
+      "href": "https://github.com/zricethezav/gitleaks",
+      "description": "Searches full repo history for secrets and keys 🔑",
+      "language": "Go",
+      "stars": 2401,
+      "forks": 112
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 14392,
+      "forks": 4364
+    },
+    {
+      "author": "jessfraz",
+      "name": "img",
+      "href": "https://github.com/jessfraz/img",
+      "description": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+      "language": "Go",
+      "stars": 884,
+      "forks": 32
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 38269,
+      "forks": 5186
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 32938,
+      "forks": 11613
+    },
+    {
+      "author": "rs",
+      "name": "jplot",
+      "href": "https://github.com/rs/jplot",
+      "description": "iTerm2 expvar/JSON monitoring tool",
+      "language": "Go",
+      "stars": 132,
+      "forks": 3
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software",
+      "language": "Go",
+      "stars": 2812,
+      "forks": 532
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The state of the art network attack and monitoring framework.",
+      "language": "Go",
+      "stars": 748,
+      "forks": 70
+    },
+    {
+      "author": "yeasy",
+      "name": "blockchain_guide",
+      "href": "https://github.com/yeasy/blockchain_guide",
+      "description": "Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.",
+      "language": "Go",
+      "stars": 3165,
+      "forks": 961
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 6893,
+      "forks": 1424
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 6153,
+      "forks": 781
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 3683,
+      "forks": 2420
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 15233,
+      "forks": 1770
+    },
+    {
+      "author": "rakyll",
+      "name": "statik",
+      "href": "https://github.com/rakyll/statik",
+      "description": "Embed files into a Go executable",
+      "language": "Go",
+      "stars": 1148,
+      "forks": 65
+    },
+    {
+      "author": "golang",
+      "name": "vgo",
+      "href": "https://github.com/golang/vgo",
+      "description": "[mirror] Versioned Go Prototype",
+      "language": "Go",
+      "stars": 456,
+      "forks": 11
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 20891,
+      "forks": 6206
+    },
+    {
+      "author": "boltdb",
+      "name": "bolt",
+      "href": "https://github.com/boltdb/bolt",
+      "description": "An embedded key/value database for Go.",
+      "language": "Go",
+      "stars": 7938,
+      "forks": 671
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 14911,
+      "forks": 1832
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 11807,
+      "forks": 1589
+    },
+    {
+      "author": "huntsman-li",
+      "name": "go-cache",
+      "href": "https://github.com/huntsman-li/go-cache",
+      "description": "This project encapsulates multiple db servers, redis、ledis、memcache、file、memory、nosql、postgresql",
+      "language": "Go",
+      "stars": 113,
+      "forks": 3
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 28166,
+      "forks": 3631
+    },
+    {
+      "author": "TruthHun",
+      "name": "BookStack",
+      "href": "https://github.com/TruthHun/BookStack",
+      "description": "BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。",
+      "language": "Go",
+      "stars": 29,
+      "forks": 6
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 23634,
+      "forks": 2957
+    },
+    {
+      "author": "smallnest",
+      "name": "glean",
+      "href": "https://github.com/smallnest/glean",
+      "description": "hotfix for go applications via plugin, supports Linux and MacOS",
+      "language": "Go",
+      "stars": 77,
+      "forks": 4
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 16049,
+      "forks": 1201
+    }
+  ]
+}
