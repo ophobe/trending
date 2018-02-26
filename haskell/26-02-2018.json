@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 2104,
+      "forks": 298
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Luna programming language",
+      "language": "Haskell",
+      "stars": 2032,
+      "forks": 47
+    },
+    {
+      "author": "dbousamra",
+      "name": "hnes",
+      "href": "https://github.com/dbousamra/hnes",
+      "description": "NES Emulator written in Haskell",
+      "language": "Haskell",
+      "stars": 233,
+      "forks": 8
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 10200,
+      "forks": 532
+    },
+    {
+      "author": "begriffs",
+      "name": "postgrest",
+      "href": "https://github.com/begriffs/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 10394,
+      "forks": 459
+    },
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 10917,
+      "forks": 1306
+    },
+    {
+      "author": "lehins",
+      "name": "massiv",
+      "href": "https://github.com/lehins/massiv",
+      "description": "Efficient Haskell Arrays featuring Parallel computation",
+      "language": "Haskell",
+      "stars": 121,
+      "forks": 5
+    },
+    {
+      "author": "Porges",
+      "name": "email-validate-hs",
+      "href": "https://github.com/Porges/email-validate-hs",
+      "description": "Email address validation for Haskell",
+      "language": "Haskell",
+      "stars": 25,
+      "forks": 11
+    },
+    {
+      "author": "ekmett",
+      "name": "bifunctors",
+      "href": "https://github.com/ekmett/bifunctors",
+      "description": "Haskell 98 bifunctors, bifoldables and bitraversables",
+      "language": "Haskell",
+      "stars": 35,
+      "forks": 25
+    },
+    {
+      "author": "tibbe",
+      "name": "hashable",
+      "href": "https://github.com/tibbe/hashable",
+      "description": "A class for types that can be converted to a hash value",
+      "language": "Haskell",
+      "stars": 62,
+      "forks": 44
+    },
+    {
+      "author": "sol",
+      "name": "doctest",
+      "href": "https://github.com/sol/doctest",
+      "description": "An implementation of Python's doctest for Haskell",
+      "language": "Haskell",
+      "stars": 237,
+      "forks": 46
+    },
+    {
+      "author": "gregorycollins",
+      "name": "hashtables",
+      "href": "https://github.com/gregorycollins/hashtables",
+      "description": "Mutable hash tables for Haskell, in the ST monad",
+      "language": "Haskell",
+      "stars": 87,
+      "forks": 22
+    },
+    {
+      "author": "haskell",
+      "name": "HTTP",
+      "href": "https://github.com/haskell/HTTP",
+      "description": "Haskell HTTP package",
+      "language": "Haskell",
+      "stars": 125,
+      "forks": 51
+    },
+    {
+      "author": "pcapriotti",
+      "name": "optparse-applicative",
+      "href": "https://github.com/pcapriotti/optparse-applicative",
+      "description": "Applicative option parser",
+      "language": "Haskell",
+      "stars": 418,
+      "forks": 65
+    },
+    {
+      "author": "fpco",
+      "name": "unliftio",
+      "href": "https://github.com/fpco/unliftio",
+      "description": "The MonadUnliftIO typeclass for unlifting monads to IO",
+      "language": "Haskell",
+      "stars": 26,
+      "forks": 7
+    },
+    {
+      "author": "serokell",
+      "name": "universum",
+      "href": "https://github.com/serokell/universum",
+      "description": "🌌 Prelude used in @Serokell",
+      "language": "Haskell",
+      "stars": 33,
+      "forks": 7
+    },
+    {
+      "author": "llvm-hs",
+      "name": "llvm-hs",
+      "href": "https://github.com/llvm-hs/llvm-hs",
+      "description": "Haskell bindings for LLVM",
+      "language": "Haskell",
+      "stars": 167,
+      "forks": 27
+    },
+    {
+      "author": "ekmett",
+      "name": "comonad",
+      "href": "https://github.com/ekmett/comonad",
+      "description": "Haskell 98 comonads",
+      "language": "Haskell",
+      "stars": 51,
+      "forks": 20
+    },
+    {
+      "author": "dapphub",
+      "name": "hevm",
+      "href": "https://github.com/dapphub/hevm",
+      "description": "A debug-oriented Ethereum VM (EVM)",
+      "language": "Haskell",
+      "stars": 92,
+      "forks": 11
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 4501,
+      "forks": 368
+    },
+    {
+      "author": "elm-lang",
+      "name": "elm-compiler",
+      "href": "https://github.com/elm-lang/elm-compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4405,
+      "forks": 324
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3056,
+      "forks": 259
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2593,
+      "forks": 540
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2305,
+      "forks": 554
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2050,
+      "forks": 830
+    }
+  ]
+}
