@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sindresorhus",
+      "name": "gifski-app",
+      "href": "https://github.com/sindresorhus/gifski-app",
+      "description": "Convert videos to high-quality GIFs on your Mac",
+      "language": "Rust",
+      "stars": 1236,
+      "forks": 23
+    },
+    {
+      "author": "ImageOptim",
+      "name": "gifski",
+      "href": "https://github.com/ImageOptim/gifski",
+      "description": "GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format.",
+      "language": "Rust",
+      "stars": 664,
+      "forks": 12
+    },
+    {
+      "author": "jhspetersson",
+      "name": "fselect",
+      "href": "https://github.com/jhspetersson/fselect",
+      "description": "Find files with SQL-like queries",
+      "language": "Rust",
+      "stars": 182,
+      "forks": 5
+    },
+    {
+      "author": "ivanceras",
+      "name": "svgbobrus",
+      "href": "https://github.com/ivanceras/svgbobrus",
+      "description": "Convert your ascii diagram scribbles into happy little SVG",
+      "language": "Rust",
+      "stars": 550,
+      "forks": 16
+    },
+    {
+      "author": "TheBlueMatt",
+      "name": "rust-lightning",
+      "href": "https://github.com/TheBlueMatt/rust-lightning",
+      "description": "Rust-Lightning, not Rusty's Lightning",
+      "language": "Rust",
+      "stars": 46,
+      "forks": 4
+    },
+    {
+      "author": "ah-",
+      "name": "anne-key",
+      "href": "https://github.com/ah-/anne-key",
+      "description": "Firmware for Anne Pro Keyboard written in Rust",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 2
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8081,
+      "forks": 312
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9498,
+      "forks": 375
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26729,
+      "forks": 4746
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1417,
+      "forks": 71
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 2551,
+      "forks": 78
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3681,
+      "forks": 702
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3479,
+      "forks": 101
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11378,
+      "forks": 396
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11266,
+      "forks": 1856
+    },
+    {
+      "author": "brandur",
+      "name": "redis-cell",
+      "href": "https://github.com/brandur/redis-cell",
+      "description": "A Redis module that provides rate limiting in Redis as a single command.",
+      "language": "Rust",
+      "stars": 285,
+      "forks": 14
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3869,
+      "forks": 255
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2752,
+      "forks": 334
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "Asynchronous I/O for Rust",
+      "language": "Rust",
+      "stars": 1193,
+      "forks": 32
+    },
+    {
+      "author": "gluon-lang",
+      "name": "gluon",
+      "href": "https://github.com/gluon-lang/gluon",
+      "description": "A static, type inferred and embeddable language written in Rust.",
+      "language": "Rust",
+      "stars": 933,
+      "forks": 50
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 624,
+      "forks": 24
+    },
+    {
+      "author": "bodil",
+      "name": "im-rs",
+      "href": "https://github.com/bodil/im-rs",
+      "description": "Assorted immutable collection datatypes for Rust",
+      "language": "Rust",
+      "stars": 148,
+      "forks": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1751,
+      "forks": 525
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 1889,
+      "forks": 235
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'.",
+      "language": "Rust",
+      "stars": 4844,
+      "forks": 120
+    }
+  ]
+}
