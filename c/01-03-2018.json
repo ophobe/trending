@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55840,
+      "forks": 20586
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21165,
+      "forks": 12316
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16143,
+      "forks": 4674
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27809,
+      "forks": 2320
+    },
+    {
+      "author": "yulingtianxia",
+      "name": "BlockHook",
+      "href": "https://github.com/yulingtianxia/BlockHook",
+      "description": "Hook Objective-C block with libffi. (Developing)",
+      "language": "C",
+      "stars": 51,
+      "forks": 1
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27693,
+      "forks": 10626
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 6031,
+      "forks": 2936
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8011,
+      "forks": 2005
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8628,
+      "forks": 2002
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The missing terminal file browser for X",
+      "language": "C",
+      "stars": 988,
+      "forks": 43
+    },
+    {
+      "author": "memcached",
+      "name": "memcached",
+      "href": "https://github.com/memcached/memcached",
+      "description": "memcached development tree",
+      "language": "C",
+      "stars": 7341,
+      "forks": 2283
+    },
+    {
+      "author": "coolstar",
+      "name": "electra",
+      "href": "https://github.com/coolstar/electra",
+      "description": "Electra iOS 11.0 - 11.1.2 jailbreak toolkit based on async_awake",
+      "language": "C",
+      "stars": 355,
+      "forks": 90
+    },
+    {
+      "author": "acl-dev",
+      "name": "libfiber",
+      "href": "https://github.com/acl-dev/libfiber",
+      "description": "The high performance coroutine library for Linux/FreeBSD/Windows, supporting select/poll/epoll/kqueue/iocp/windows GUI",
+      "language": "C",
+      "stars": 112,
+      "forks": 5
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6823,
+      "forks": 1382
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9892,
+      "forks": 4257
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6566,
+      "forks": 2614
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 6832,
+      "forks": 4162
+    },
+    {
+      "author": "arduino",
+      "name": "Arduino",
+      "href": "https://github.com/arduino/Arduino",
+      "description": "open-source electronics prototyping platform",
+      "language": "C",
+      "stars": 7797,
+      "forks": 6100
+    },
+    {
+      "author": "calvinwilliams",
+      "name": "tcplstat",
+      "href": "https://github.com/calvinwilliams/tcplstat",
+      "description": "TCP packets monitor and statistical tool",
+      "language": "C",
+      "stars": 38,
+      "forks": 13
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2058,
+      "forks": 3393
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7453,
+      "forks": 4494
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7614,
+      "forks": 2190
+    },
+    {
+      "author": "switchbrew",
+      "name": "nx-hbmenu",
+      "href": "https://github.com/switchbrew/nx-hbmenu",
+      "description": null,
+      "language": "C",
+      "stars": 103,
+      "forks": 16
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "href": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": 3391,
+      "forks": 865
+    },
+    {
+      "author": "ImageMagick",
+      "name": "ImageMagick",
+      "href": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick",
+      "language": "C",
+      "stars": 1496,
+      "forks": 318
+    }
+  ]
+}
