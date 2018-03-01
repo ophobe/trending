@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ah-",
+      "name": "anne-key",
+      "href": "https://github.com/ah-/anne-key",
+      "description": "Firmware for Anne Pro Keyboard written in Rust",
+      "language": "Rust",
+      "stars": 88,
+      "forks": 4
+    },
+    {
+      "author": "sindresorhus",
+      "name": "gifski-app",
+      "href": "https://github.com/sindresorhus/gifski-app",
+      "description": "Convert videos to high-quality GIFs on your Mac",
+      "language": "Rust",
+      "stars": 1272,
+      "forks": 24
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, extremely fast, web framework for Rust.",
+      "language": "Rust",
+      "stars": 363,
+      "forks": 24
+    },
+    {
+      "author": "jhspetersson",
+      "name": "fselect",
+      "href": "https://github.com/jhspetersson/fselect",
+      "description": "Find files with SQL-like queries",
+      "language": "Rust",
+      "stars": 212,
+      "forks": 5
+    },
+    {
+      "author": "gnzlbg",
+      "name": "cargo-asm",
+      "href": "https://github.com/gnzlbg/cargo-asm",
+      "description": "cargo subcommand that shows the assembly or llvm-ir generated for Rust code",
+      "language": "Rust",
+      "stars": 169,
+      "forks": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26749,
+      "forks": 4745
+    },
+    {
+      "author": "indradb",
+      "name": "indradb",
+      "href": "https://github.com/indradb/indradb",
+      "description": "A graph database written in rust",
+      "language": "Rust",
+      "stars": 32,
+      "forks": 1
+    },
+    {
+      "author": "gotham-rs",
+      "name": "gotham",
+      "href": "https://github.com/gotham-rs/gotham",
+      "description": "A flexible web framework that promotes stability, safety, security and speed.",
+      "language": "Rust",
+      "stars": 673,
+      "forks": 41
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 11395,
+      "forks": 395
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9513,
+      "forks": 374
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 452,
+      "forks": 24
+    },
+    {
+      "author": "brandur",
+      "name": "redis-cell",
+      "href": "https://github.com/brandur/redis-cell",
+      "description": "A Redis module that provides rate limiting in Redis as a single command.",
+      "language": "Rust",
+      "stars": 296,
+      "forks": 14
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8091,
+      "forks": 312
+    },
+    {
+      "author": "kpcyrd",
+      "name": "rshijack",
+      "href": "https://github.com/kpcyrd/rshijack",
+      "description": "tcp connection hijacker, rust rewrite of shijack",
+      "language": "Rust",
+      "stars": 28,
+      "forks": 1
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11273,
+      "forks": 1857
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1425,
+      "forks": 72
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3687,
+      "forks": 705
+    },
+    {
+      "author": "TheBlueMatt",
+      "name": "rust-lightning",
+      "href": "https://github.com/TheBlueMatt/rust-lightning",
+      "description": "Rust-Lightning, not Rusty's Lightning",
+      "language": "Rust",
+      "stars": 53,
+      "forks": 6
+    },
+    {
+      "author": "japaric",
+      "name": "embedded-hal",
+      "href": "https://github.com/japaric/embedded-hal",
+      "description": "A Hardware Abstraction Layer (HAL) for embedded systems",
+      "language": "Rust",
+      "stars": 100,
+      "forks": 12
+    },
+    {
+      "author": "ivanceras",
+      "name": "svgbobrus",
+      "href": "https://github.com/ivanceras/svgbobrus",
+      "description": "Convert your ascii diagram scribbles into happy little SVG",
+      "language": "Rust",
+      "stars": 558,
+      "forks": 16
+    },
+    {
+      "author": "japaric",
+      "name": "discovery",
+      "href": "https://github.com/japaric/discovery",
+      "description": "Discover the world of microcontrollers through Rust!",
+      "language": "Rust",
+      "stars": 289,
+      "forks": 41
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1757,
+      "forks": 528
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2757,
+      "forks": 337
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3876,
+      "forks": 256
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 749,
+      "forks": 13
+    }
+  ]
+}
