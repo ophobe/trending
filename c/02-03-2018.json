@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55885,
+      "forks": 20609
+    },
+    {
+      "author": "idea4good",
+      "name": "spectre",
+      "href": "https://github.com/idea4good/spectre",
+      "description": "Demo Spectre with 70 lines code",
+      "language": "C",
+      "stars": 61,
+      "forks": 8
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16191,
+      "forks": 4678
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27842,
+      "forks": 2324
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27719,
+      "forks": 10639
+    },
+    {
+      "author": "memcached",
+      "name": "memcached",
+      "href": "https://github.com/memcached/memcached",
+      "description": "memcached development tree",
+      "language": "C",
+      "stars": 7366,
+      "forks": 2288
+    },
+    {
+      "author": "chucklefish",
+      "name": "rlua",
+      "href": "https://github.com/chucklefish/rlua",
+      "description": "High level Lua bindings to Rust",
+      "language": "C",
+      "stars": 201,
+      "forks": 12
+    },
+    {
+      "author": "jiangwenyuan",
+      "name": "nuster",
+      "href": "https://github.com/jiangwenyuan/nuster",
+      "description": "A web caching proxy server based on HAProxy",
+      "language": "C",
+      "stars": 634,
+      "forks": 40
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 6843,
+      "forks": 4168
+    },
+    {
+      "author": "yulingtianxia",
+      "name": "BlockHook",
+      "href": "https://github.com/yulingtianxia/BlockHook",
+      "description": "Hook Objective-C block with libffi. (Developing)",
+      "language": "C",
+      "stars": 67,
+      "forks": 1
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8025,
+      "forks": 2006
+    },
+    {
+      "author": "khenidak",
+      "name": "dysk",
+      "href": "https://github.com/khenidak/dysk",
+      "description": "Attach Azure disks in < 1 second. Attach as many as you want. Attach them where ever you want. dysk mounts Azure disks as Linux block devices directly on VMs without dependency on the host.",
+      "language": "C",
+      "stars": 109,
+      "forks": 9
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21174,
+      "forks": 12318
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11811,
+      "forks": 1492
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 6042,
+      "forks": 2941
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 10867,
+      "forks": 629
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The missing terminal file browser for X",
+      "language": "C",
+      "stars": 999,
+      "forks": 43
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8639,
+      "forks": 2006
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 6487,
+      "forks": 3218
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 14600,
+      "forks": 943
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9903,
+      "forks": 4257
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 7273,
+      "forks": 1723
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 9649,
+      "forks": 648
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 4883,
+      "forks": 735
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8520,
+      "forks": 1421
+    }
+  ]
+}
