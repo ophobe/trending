@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55917,
+      "forks": 20616
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16210,
+      "forks": 4679
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6841,
+      "forks": 1384
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21180,
+      "forks": 12320
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7634,
+      "forks": 2190
+    },
+    {
+      "author": "InsaneYoungStunner",
+      "name": "ngx_http_access_bloom_filter_module",
+      "href": "https://github.com/InsaneYoungStunner/ngx_http_access_bloom_filter_module",
+      "description": "ngx_http_access_bloom_filter_module can deny selected IP4 via bloom filter algorithm",
+      "language": "C",
+      "stars": 46,
+      "forks": 1
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 6054,
+      "forks": 2943
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 9659,
+      "forks": 650
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8529,
+      "forks": 1422
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27849,
+      "forks": 2325
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 14186,
+      "forks": 1687
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 4029,
+      "forks": 709
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27725,
+      "forks": 10641
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2066,
+      "forks": 3411
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7464,
+      "forks": 4499
+    },
+    {
+      "author": "P-H-C",
+      "name": "phc-winner-argon2",
+      "href": "https://github.com/P-H-C/phc-winner-argon2",
+      "description": "The password hash Argon2, winner of PHC",
+      "language": "C",
+      "stars": 2077,
+      "forks": 161
+    },
+    {
+      "author": "SciresM",
+      "name": "Atmosphere-NX",
+      "href": "https://github.com/SciresM/Atmosphere-NX",
+      "description": "This is a repo for a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 225,
+      "forks": 9
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 3278,
+      "forks": 218
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 1115,
+      "forks": 216
+    },
+    {
+      "author": "erincatto",
+      "name": "Box2D",
+      "href": "https://github.com/erincatto/Box2D",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": 2426,
+      "forks": 521
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 2182,
+      "forks": 96
+    },
+    {
+      "author": "google",
+      "name": "resumable-assert",
+      "href": "https://github.com/google/resumable-assert",
+      "description": "Assert replacement to continue execution in debugger",
+      "language": "C",
+      "stars": 23,
+      "forks": 0
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11817,
+      "forks": 1492
+    },
+    {
+      "author": "jp9000",
+      "name": "obs-studio",
+      "href": "https://github.com/jp9000/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8644,
+      "forks": 2005
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6576,
+      "forks": 2620
+    }
+  ]
+}
