@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 55981,
+      "forks": 20633
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16272,
+      "forks": 4679
+    },
+    {
+      "author": "REhints",
+      "name": "Publications",
+      "href": "https://github.com/REhints/Publications",
+      "description": "Conference slides and White-papers",
+      "language": "C",
+      "stars": 200,
+      "forks": 57
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21207,
+      "forks": 12345
+    },
+    {
+      "author": "rain-1",
+      "name": "s",
+      "href": "https://github.com/rain-1/s",
+      "description": "the s shell",
+      "language": "C",
+      "stars": 80,
+      "forks": 4
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27766,
+      "forks": 10657
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 6083,
+      "forks": 2958
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8554,
+      "forks": 1422
+    },
+    {
+      "author": "InsaneYoungStunner",
+      "name": "ngx_http_access_bloom_filter_module",
+      "href": "https://github.com/InsaneYoungStunner/ngx_http_access_bloom_filter_module",
+      "description": "ngx_http_access_bloom_filter_module can deny selected IP4 via bloom filter algorithm",
+      "language": "C",
+      "stars": 75,
+      "forks": 1
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 14621,
+      "forks": 944
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 1150,
+      "forks": 221
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 27876,
+      "forks": 2330
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9458,
+      "forks": 674
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 11842,
+      "forks": 1493
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6862,
+      "forks": 1390
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6596,
+      "forks": 2620
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2081,
+      "forks": 3441
+    },
+    {
+      "author": "linux-noah",
+      "name": "noah",
+      "href": "https://github.com/linux-noah/noah",
+      "description": "Bash on Ubuntu on macOS",
+      "language": "C",
+      "stars": 315,
+      "forks": 15
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7653,
+      "forks": 2194
+    },
+    {
+      "author": "awslabs",
+      "name": "s2n",
+      "href": "https://github.com/awslabs/s2n",
+      "description": "s2n : an implementation of the TLS/SSL protocols",
+      "language": "C",
+      "stars": 3070,
+      "forks": 294
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 4047,
+      "forks": 712
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8041,
+      "forks": 2011
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 6880,
+      "forks": 1223
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 5337,
+      "forks": 2234
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 9926,
+      "forks": 4264
+    }
+  ]
+}
