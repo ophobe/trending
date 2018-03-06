@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 2754,
+      "forks": 33
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 11533,
+      "forks": 400
+    },
+    {
+      "author": "carols10cents",
+      "name": "rustlings",
+      "href": "https://github.com/carols10cents/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code",
+      "language": "Rust",
+      "stars": 2274,
+      "forks": 149
+    },
+    {
+      "author": "sindresorhus",
+      "name": "gifski-app",
+      "href": "https://github.com/sindresorhus/gifski-app",
+      "description": "Convert videos to high-quality GIFs on your Mac",
+      "language": "Rust",
+      "stars": 1454,
+      "forks": 28
+    },
+    {
+      "author": "cgag",
+      "name": "loc",
+      "href": "https://github.com/cgag/loc",
+      "description": "Count lines of code quickly.",
+      "language": "Rust",
+      "stars": 614,
+      "forks": 54
+    },
+    {
+      "author": "fcsonline",
+      "name": "drill",
+      "href": "https://github.com/fcsonline/drill",
+      "description": "Drill is a HTTP load testing application written in Rust inspired by Ansible syntax",
+      "language": "Rust",
+      "stars": 136,
+      "forks": 6
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9581,
+      "forks": 375
+    },
+    {
+      "author": "softprops",
+      "name": "atty",
+      "href": "https://github.com/softprops/atty",
+      "description": "are you or are you not a tty?",
+      "language": "Rust",
+      "stars": 57,
+      "forks": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 26816,
+      "forks": 4749
+    },
+    {
+      "author": "jhspetersson",
+      "name": "fselect",
+      "href": "https://github.com/jhspetersson/fselect",
+      "description": "Find files with SQL-like queries",
+      "language": "Rust",
+      "stars": 243,
+      "forks": 6
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2780,
+      "forks": 343
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 2600,
+      "forks": 82
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3740,
+      "forks": 714
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 3921,
+      "forks": 257
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "ena",
+      "href": "https://github.com/rust-lang-nursery/ena",
+      "description": "An implementation of union-find / congruence-closure in Rust. Extracted from rustc for indepdendent experimentation.",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 5
+    },
+    {
+      "author": "vulkano-rs",
+      "name": "vulkano",
+      "href": "https://github.com/vulkano-rs/vulkano",
+      "description": "Safe and rich Rust wrapper around the Vulkan API",
+      "language": "Rust",
+      "stars": 1149,
+      "forks": 115
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1233,
+      "forks": 36
+    },
+    {
+      "author": "Luminarys",
+      "name": "synapse",
+      "href": "https://github.com/Luminarys/synapse",
+      "description": "Synapse BitTorrent Daemon",
+      "language": "Rust",
+      "stars": 433,
+      "forks": 13
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "conrod",
+      "href": "https://github.com/PistonDevelopers/conrod",
+      "description": "An easy-to-use, 2D GUI library written entirely in Rust.",
+      "language": "Rust",
+      "stars": 1489,
+      "forks": 169
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8139,
+      "forks": 319
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11297,
+      "forks": 1864
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2460,
+      "forks": 238
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A high-performance, bindless graphics API for Rust.",
+      "language": "Rust",
+      "stars": 1479,
+      "forks": 226
+    },
+    {
+      "author": "cobalt-org",
+      "name": "cobalt.rs",
+      "href": "https://github.com/cobalt-org/cobalt.rs",
+      "description": "Static site generator written in Rust",
+      "language": "Rust",
+      "stars": 502,
+      "forks": 66
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1458,
+      "forks": 76
+    }
+  ]
+}
