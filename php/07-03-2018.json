@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "swoft-cloud",
+      "name": "swoft",
+      "href": "https://github.com/swoft-cloud/swoft",
+      "description": "Modern High performance AOP and Coroutine PHP Framework, base on Swoole 2",
+      "language": "PHP",
+      "stars": 938,
+      "forks": 144
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 40837,
+      "forks": 12773
+    },
+    {
+      "author": "bingcool",
+      "name": "swoolefy",
+      "href": "https://github.com/bingcool/swoolefy",
+      "description": "swoolefy是一个基于swoole扩展实现的轻量级高性能的MVC框架",
+      "language": "PHP",
+      "stars": 93,
+      "forks": 12
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 13224,
+      "forks": 5032
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 14459,
+      "forks": 1983
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 10985,
+      "forks": 5209
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 9019,
+      "forks": 1294
+    },
+    {
+      "author": "php-fig",
+      "name": "simple-cache",
+      "href": "https://github.com/php-fig/simple-cache",
+      "description": null,
+      "language": "PHP",
+      "stars": 2282,
+      "forks": 15
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 6723,
+      "forks": 743
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 4105,
+      "forks": 180
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 5231,
+      "forks": 481
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 8078,
+      "forks": 896
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 8929,
+      "forks": 1562
+    },
+    {
+      "author": "doctrine",
+      "name": "instantiator",
+      "href": "https://github.com/doctrine/instantiator",
+      "description": null,
+      "language": "PHP",
+      "stars": 2359,
+      "forks": 29
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": null,
+      "language": "PHP",
+      "stars": 2418,
+      "forks": 66
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 2275,
+      "forks": 21
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 2337,
+      "forks": 27
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 2550,
+      "forks": 172
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 2721,
+      "forks": 132
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 2372,
+      "forks": 57
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 2369,
+      "forks": 34
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 2333,
+      "forks": 34
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 2277,
+      "forks": 40
+    },
+    {
+      "author": "jsdecena",
+      "name": "laracom",
+      "href": "https://github.com/jsdecena/laracom",
+      "description": "Laravel Ecommerce",
+      "language": "PHP",
+      "stars": 124,
+      "forks": 84
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "php-code-coverage",
+      "href": "https://github.com/sebastianbergmann/php-code-coverage",
+      "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+      "language": "PHP",
+      "stars": 2755,
+      "forks": 232
+    }
+  ]
+}
