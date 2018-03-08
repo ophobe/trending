@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "skaffold",
+      "href": "https://github.com/GoogleCloudPlatform/skaffold",
+      "description": "Easy and Repeatable Kubernetes Development",
+      "language": "Go",
+      "stars": 1034,
+      "forks": 20
+    },
+    {
+      "author": "github",
+      "name": "git-sizer",
+      "href": "https://github.com/github/git-sizer",
+      "description": "Compute various size metrics for a Git repository, flagging those that might cause problems",
+      "language": "Go",
+      "stars": 690,
+      "forks": 15
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "href": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": 626,
+      "forks": 16
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 15074,
+      "forks": 4625
+    },
+    {
+      "author": "erroneousboat",
+      "name": "slack-term",
+      "href": "https://github.com/erroneousboat/slack-term",
+      "description": "Slack client for your terminal",
+      "language": "Go",
+      "stars": 2837,
+      "forks": 89
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 38742,
+      "forks": 5257
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 33474,
+      "forks": 11878
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 32977,
+      "forks": 7860
+    },
+    {
+      "author": "caffix",
+      "name": "amass",
+      "href": "https://github.com/caffix/amass",
+      "description": "Subdomain Enumeration in Go",
+      "language": "Go",
+      "stars": 86,
+      "forks": 8
+    },
+    {
+      "author": "tidwall",
+      "name": "tile38",
+      "href": "https://github.com/tidwall/tile38",
+      "description": "Tile38 is a geospatial database, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. 🌐",
+      "language": "Go",
+      "stars": 4454,
+      "forks": 207
+    },
+    {
+      "author": "balacode",
+      "name": "one-file-pdf",
+      "href": "https://github.com/balacode/one-file-pdf",
+      "description": "A minimalist Go PDF writer in <2K lines and 1 file",
+      "language": "Go",
+      "stars": 212,
+      "forks": 5
+    },
+    {
+      "author": "zricethezav",
+      "name": "gitleaks",
+      "href": "https://github.com/zricethezav/gitleaks",
+      "description": "Searches full repo history for secrets and keys 🔑",
+      "language": "Go",
+      "stars": 3118,
+      "forks": 144
+    },
+    {
+      "author": "RadhiFadlillah",
+      "name": "shiori",
+      "href": "https://github.com/RadhiFadlillah/shiori",
+      "description": "Simple bookmark manager built with Go",
+      "language": "Go",
+      "stars": 1476,
+      "forks": 54
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 15499,
+      "forks": 1811
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 28504,
+      "forks": 3658
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 3977,
+      "forks": 2530
+    },
+    {
+      "author": "hajimehoshi",
+      "name": "ebiten",
+      "href": "https://github.com/hajimehoshi/ebiten",
+      "description": "A dead simple 2D game library in Go",
+      "language": "Go",
+      "stars": 677,
+      "forks": 54
+    },
+    {
+      "author": "Azure",
+      "name": "draft",
+      "href": "https://github.com/Azure/draft",
+      "description": "A tool for developers to create cloud-native applications on Kubernetes.",
+      "language": "Go",
+      "stars": 1820,
+      "forks": 148
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 12011,
+      "forks": 1627
+    },
+    {
+      "author": "bcicen",
+      "name": "grmon",
+      "href": "https://github.com/bcicen/grmon",
+      "description": "Command line monitoring for goroutines",
+      "language": "Go",
+      "stars": 910,
+      "forks": 17
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 47930,
+      "forks": 14137
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 15122,
+      "forks": 1856
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 21073,
+      "forks": 6265
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 23894,
+      "forks": 2983
+    },
+    {
+      "author": "solo-io",
+      "name": "gloo",
+      "href": "https://github.com/solo-io/gloo",
+      "description": "The Function Gateway built on top of Envoy",
+      "language": "Go",
+      "stars": 154,
+      "forks": 5
+    }
+  ]
+}
