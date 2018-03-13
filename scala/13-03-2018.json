@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16462,
+      "forks": 15182
+    },
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 6459,
+      "forks": 359
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8281,
+      "forks": 2637
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9874,
+      "forks": 2357
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2930,
+      "forks": 550
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "lichess.org: the forever free, adless and open source chess server.",
+      "language": "Scala",
+      "stars": 3876,
+      "forks": 651
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Production-grade feature-rich service mesh for any platform",
+      "language": "Scala",
+      "stars": 3694,
+      "forks": 364
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11116,
+      "forks": 1782
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 2411,
+      "forks": 350
+    },
+    {
+      "author": "datastax",
+      "name": "spark-cassandra-connector",
+      "href": "https://github.com/datastax/spark-cassandra-connector",
+      "description": "DataStax Spark Cassandra Connector",
+      "language": "Scala",
+      "stars": 1386,
+      "forks": 647
+    },
+    {
+      "author": "fthomas",
+      "name": "refined",
+      "href": "https://github.com/fthomas/refined",
+      "description": "Simple refinement types for Scala",
+      "language": "Scala",
+      "stars": 647,
+      "forks": 58
+    },
+    {
+      "author": "uber",
+      "name": "sql-differential-privacy",
+      "href": "https://github.com/uber/sql-differential-privacy",
+      "description": "Dataflow analysis & differential privacy for SQL queries",
+      "language": "Scala",
+      "stars": 137,
+      "forks": 17
+    },
+    {
+      "author": "TheHive-Project",
+      "name": "Cortex",
+      "href": "https://github.com/TheHive-Project/Cortex",
+      "description": "Powerful Observable Analysis Engine",
+      "language": "Scala",
+      "stars": 173,
+      "forks": 25
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 655,
+      "forks": 212
+    },
+    {
+      "author": "guardian",
+      "name": "prism",
+      "href": "https://github.com/guardian/prism",
+      "description": "Tool for collecting live data about infrastructure so it can be easily queried by users and automated tooling",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 5
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 610,
+      "forks": 287
+    },
+    {
+      "author": "FRosner",
+      "name": "cluster-broccoli",
+      "href": "https://github.com/FRosner/cluster-broccoli",
+      "description": "Self service for Nomad based on templates.",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 8
+    },
+    {
+      "author": "cb372",
+      "name": "scalacache",
+      "href": "https://github.com/cb372/scalacache",
+      "description": "Simple caching in Scala",
+      "language": "Scala",
+      "stars": 498,
+      "forks": 54
+    },
+    {
+      "author": "twitter",
+      "name": "util",
+      "href": "https://github.com/twitter/util",
+      "description": "Wonderful reusable code from Twitter",
+      "language": "Scala",
+      "stars": 2031,
+      "forks": 455
+    },
+    {
+      "author": "BlueBrain",
+      "name": "nexus",
+      "href": "https://github.com/BlueBrain/nexus",
+      "description": "Blue Brain Nexus - A knowledge graph for data-driven science",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 9
+    },
+    {
+      "author": "databricks",
+      "name": "spark-avro",
+      "href": "https://github.com/databricks/spark-avro",
+      "description": "Avro support for Spark, SQL, and DataFrames",
+      "language": "Scala",
+      "stars": 452,
+      "forks": 259
+    },
+    {
+      "author": "apache",
+      "name": "carbondata",
+      "href": "https://github.com/apache/carbondata",
+      "description": "Mirror of Apache CarbonData",
+      "language": "Scala",
+      "stars": 616,
+      "forks": 392
+    },
+    {
+      "author": "sifive",
+      "name": "freedom",
+      "href": "https://github.com/sifive/freedom",
+      "description": "Source files for SiFive's Freedom platforms",
+      "language": "Scala",
+      "stars": 322,
+      "forks": 71
+    },
+    {
+      "author": "databricks",
+      "name": "spark-xml",
+      "href": "https://github.com/databricks/spark-xml",
+      "description": "XML data source for Spark SQL and DataFrames",
+      "language": "Scala",
+      "stars": 162,
+      "forks": 87
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3",
+      "language": "Scala",
+      "stars": 309,
+      "forks": 89
+    }
+  ]
+}
