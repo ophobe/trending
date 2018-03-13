@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 11060,
+      "forks": 1321
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 10331,
+      "forks": 537
+    },
+    {
+      "author": "trailofbits",
+      "name": "echidna",
+      "href": "https://github.com/trailofbits/echidna",
+      "description": "Ethereum fuzz testing framework",
+      "language": "Haskell",
+      "stars": 64,
+      "forks": 6
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 2213,
+      "forks": 318
+    },
+    {
+      "author": "begriffs",
+      "name": "postgrest",
+      "href": "https://github.com/begriffs/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 10481,
+      "forks": 461
+    },
+    {
+      "author": "facebook",
+      "name": "duckling",
+      "href": "https://github.com/facebook/duckling",
+      "description": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
+      "language": "Haskell",
+      "stars": 1405,
+      "forks": 177
+    },
+    {
+      "author": "huangz1990",
+      "name": "real-world-haskell-cn",
+      "href": "https://github.com/huangz1990/real-world-haskell-cn",
+      "description": "《Real World Haskell》中文翻译项目",
+      "language": "Haskell",
+      "stars": 941,
+      "forks": 157
+    },
+    {
+      "author": "google",
+      "name": "codeworld",
+      "href": "https://github.com/google/codeworld",
+      "description": "Educational computer programming environment using Haskell",
+      "language": "Haskell",
+      "stars": 732,
+      "forks": 106
+    },
+    {
+      "author": "colah",
+      "name": "ImplicitCAD",
+      "href": "https://github.com/colah/ImplicitCAD",
+      "description": "A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D; gcode generation...",
+      "language": "Haskell",
+      "stars": 632,
+      "forks": 91
+    },
+    {
+      "author": "haskell",
+      "name": "cabal",
+      "href": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
+      "language": "Haskell",
+      "stars": 813,
+      "forks": 432
+    },
+    {
+      "author": "kazu-yamamoto",
+      "name": "iproute",
+      "href": "https://github.com/kazu-yamamoto/iproute",
+      "description": "IP Routing Table in Haskell",
+      "language": "Haskell",
+      "stars": 35,
+      "forks": 17
+    },
+    {
+      "author": "reflex-frp",
+      "name": "reflex",
+      "href": "https://github.com/reflex-frp/reflex",
+      "description": null,
+      "language": "Haskell",
+      "stars": 546,
+      "forks": 89
+    },
+    {
+      "author": "brendanhay",
+      "name": "gogol",
+      "href": "https://github.com/brendanhay/gogol",
+      "description": "A comprehensive Google Services SDK for Haskell.",
+      "language": "Haskell",
+      "stars": 137,
+      "forks": 37
+    },
+    {
+      "author": "tomjaguarpaw",
+      "name": "haskell-opaleye",
+      "href": "https://github.com/tomjaguarpaw/haskell-opaleye",
+      "description": null,
+      "language": "Haskell",
+      "stars": 364,
+      "forks": 78
+    },
+    {
+      "author": "xmonad",
+      "name": "xmonad-contrib",
+      "href": "https://github.com/xmonad/xmonad-contrib",
+      "description": "Contributed modules for xmonad",
+      "language": "Haskell",
+      "stars": 160,
+      "forks": 119
+    },
+    {
+      "author": "ghc",
+      "name": "ghc",
+      "href": "https://github.com/ghc/ghc",
+      "description": "Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). First time contributors are encouraged to get started by just sending a Pull Req…",
+      "language": "Haskell",
+      "stars": 1800,
+      "forks": 485
+    },
+    {
+      "author": "diagrams",
+      "name": "diagrams-svg",
+      "href": "https://github.com/diagrams/diagrams-svg",
+      "description": "An SVG backend for diagrams",
+      "language": "Haskell",
+      "stars": 31,
+      "forks": 23
+    },
+    {
+      "author": "lpsmith",
+      "name": "postgresql-simple",
+      "href": "https://github.com/lpsmith/postgresql-simple",
+      "description": "Mid-level client library for accessing PostgreSQL from Haskell",
+      "language": "Haskell",
+      "stars": 170,
+      "forks": 70
+    },
+    {
+      "author": "bos",
+      "name": "text-icu",
+      "href": "https://github.com/bos/text-icu",
+      "description": "This package provides the Haskell Data.Text.ICU library, for performing complex manipulation of Unicode text.",
+      "language": "Haskell",
+      "stars": 28,
+      "forks": 18
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 4553,
+      "forks": 369
+    },
+    {
+      "author": "elm-lang",
+      "name": "elm-compiler",
+      "href": "https://github.com/elm-lang/elm-compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4426,
+      "forks": 327
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3070,
+      "forks": 261
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2611,
+      "forks": 549
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2336,
+      "forks": 560
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2088,
+      "forks": 833
+    }
+  ]
+}
