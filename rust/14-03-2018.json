@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 5528,
+      "forks": 100
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 27004,
+      "forks": 4768
+    },
+    {
+      "author": "LegNeato",
+      "name": "asciinema-rs",
+      "href": "https://github.com/LegNeato/asciinema-rs",
+      "description": "Asciinema client written in Rust",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "valeriansaliou",
+      "name": "vigil",
+      "href": "https://github.com/valeriansaliou/vigil",
+      "description": "🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts to Slack.",
+      "language": "Rust",
+      "stars": 77,
+      "forks": 4
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9703,
+      "forks": 378
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 11850,
+      "forks": 413
+    },
+    {
+      "author": "ashleygwilliams",
+      "name": "wasm-pack",
+      "href": "https://github.com/ashleygwilliams/wasm-pack",
+      "description": "📦✨ pack up the wasm and publish it to npm!",
+      "language": "Rust",
+      "stars": 77,
+      "forks": 4
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8237,
+      "forks": 330
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6497,
+      "forks": 417
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3583,
+      "forks": 109
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1504,
+      "forks": 81
+    },
+    {
+      "author": "alexcrichton",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/alexcrichton/wasm-bindgen",
+      "description": "Interoperating JS and Rust code",
+      "language": "Rust",
+      "stars": 250,
+      "forks": 16
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 1314,
+      "forks": 165
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11355,
+      "forks": 1875
+    },
+    {
+      "author": "gyscos",
+      "name": "Cursive",
+      "href": "https://github.com/gyscos/Cursive",
+      "description": "A Text User Interface library for the Rust programming language",
+      "language": "Rust",
+      "stars": 558,
+      "forks": 40
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 1793,
+      "forks": 545
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3810,
+      "forks": 735
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 951,
+      "forks": 43
+    },
+    {
+      "author": "redox-os",
+      "name": "relibc",
+      "href": "https://github.com/redox-os/relibc",
+      "description": "C Library in Rust for Redox and Linux (WIP)",
+      "language": "Rust",
+      "stars": 404,
+      "forks": 22
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2820,
+      "forks": 349
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rls",
+      "href": "https://github.com/rust-lang-nursery/rls",
+      "description": "Repository for the Rust Language Server (aka RLS)",
+      "language": "Rust",
+      "stars": 1395,
+      "forks": 126
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1290,
+      "forks": 49
+    },
+    {
+      "author": "rust-lang",
+      "name": "regex",
+      "href": "https://github.com/rust-lang/regex",
+      "description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.",
+      "language": "Rust",
+      "stars": 663,
+      "forks": 131
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, extremely fast, web framework for Rust.",
+      "language": "Rust",
+      "stars": 451,
+      "forks": 39
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 947,
+      "forks": 152
+    }
+  ]
+}
