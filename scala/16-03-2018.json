@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mullerhai",
+      "name": "HsunTzu",
+      "href": "https://github.com/mullerhai/HsunTzu",
+      "description": "HDFS compress tar zip snappy gzip uncompress untar codec hadoop spark",
+      "language": "Scala",
+      "stars": 126,
+      "forks": 31
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16521,
+      "forks": 15221
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Production-grade feature-rich service mesh for any platform",
+      "language": "Scala",
+      "stars": 3714,
+      "forks": 370
+    },
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 6502,
+      "forks": 363
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2948,
+      "forks": 556
+    },
+    {
+      "author": "Sizmek",
+      "name": "fast-string-interpolator",
+      "href": "https://github.com/Sizmek/fast-string-interpolator",
+      "description": "Scala macro that generates ultra-fast string interpolators.",
+      "language": "Scala",
+      "stars": 28,
+      "forks": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 265,
+      "forks": 43
+    },
+    {
+      "author": "graphcool",
+      "name": "graphcool-framework",
+      "href": "https://github.com/graphcool/graphcool-framework",
+      "description": null,
+      "language": "Scala",
+      "stars": 238,
+      "forks": 21
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "lichess.org: the forever free, adless and open source chess server.",
+      "language": "Scala",
+      "stars": 3886,
+      "forks": 652
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4934,
+      "forks": 1292
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9890,
+      "forks": 2359
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 1975,
+      "forks": 818
+    },
+    {
+      "author": "lihaoyi",
+      "name": "mill",
+      "href": "https://github.com/lihaoyi/mill",
+      "description": "Your shiny new Scala build tool!",
+      "language": "Scala",
+      "stars": 727,
+      "forks": 56
+    },
+    {
+      "author": "lightbend",
+      "name": "kafka-streams-scala",
+      "href": "https://github.com/lightbend/kafka-streams-scala",
+      "description": "Thin Scala wrapper around Kafka Streams Java API",
+      "language": "Scala",
+      "stars": 108,
+      "forks": 17
+    },
+    {
+      "author": "mikolak-net",
+      "name": "travesty",
+      "href": "https://github.com/mikolak-net/travesty",
+      "description": "Diagram- and graph-generating library for Akka Streams",
+      "language": "Scala",
+      "stars": 48,
+      "forks": 1
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 3512,
+      "forks": 757
+    },
+    {
+      "author": "eed3si9n",
+      "name": "scalaxb",
+      "href": "https://github.com/eed3si9n/scalaxb",
+      "description": "scalaxb is an XML data binding tool for Scala.",
+      "language": "Scala",
+      "stars": 246,
+      "forks": 108
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The Scala HTTP client you always wanted!",
+      "language": "Scala",
+      "stars": 397,
+      "forks": 32
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-site",
+      "href": "https://github.com/sbt/sbt-site",
+      "description": "Site generation for sbt",
+      "language": "Scala",
+      "stars": 141,
+      "forks": 49
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Reactive Enterprise Integration — Alpakka",
+      "language": "Scala",
+      "stars": 617,
+      "forks": 273
+    },
+    {
+      "author": "scalacenter",
+      "name": "scalafix",
+      "href": "https://github.com/scalacenter/scalafix",
+      "description": "Refactoring and linting tool for Scala",
+      "language": "Scala",
+      "stars": 270,
+      "forks": 69
+    },
+    {
+      "author": "scalamacros",
+      "name": "sbt-example-paradise",
+      "href": "https://github.com/scalamacros/sbt-example-paradise",
+      "description": "An example SBT project which uses macro paradise (Scala 2.10/2.11 with the macro paradise plugin, SBT 0.13)",
+      "language": "Scala",
+      "stars": 37,
+      "forks": 25
+    },
+    {
+      "author": "lihaoyi",
+      "name": "scalatags",
+      "href": "https://github.com/lihaoyi/scalatags",
+      "description": "ScalaTags is a small XML/HTML construction library for Scala.",
+      "language": "Scala",
+      "stars": 547,
+      "forks": 91
+    },
+    {
+      "author": "nadimbahadoor",
+      "name": "allaboutscala",
+      "href": "https://github.com/nadimbahadoor/allaboutscala",
+      "description": "Source code for www.allaboutscala.com tutorials",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 27
+    },
+    {
+      "author": "vlovgr",
+      "name": "ciris",
+      "href": "https://github.com/vlovgr/ciris",
+      "description": "Lightweight, extensible, and validated configuration loading in Scala",
+      "language": "Scala",
+      "stars": 128,
+      "forks": 10
+    }
+  ]
+}
