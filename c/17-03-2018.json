@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jakogut",
+      "name": "tinyvm",
+      "href": "https://github.com/jakogut/tinyvm",
+      "description": "TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.",
+      "language": "C",
+      "stars": 1445,
+      "forks": 149
+    },
+    {
+      "author": "pervognsen",
+      "name": "bitwise",
+      "href": "https://github.com/pervognsen/bitwise",
+      "description": "Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.",
+      "language": "C",
+      "stars": 3105,
+      "forks": 74
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 3656,
+      "forks": 154
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 56487,
+      "forks": 20774
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16629,
+      "forks": 4695
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 27979,
+      "forks": 10744
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21401,
+      "forks": 12461
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28094,
+      "forks": 2354
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 7749,
+      "forks": 1321
+    },
+    {
+      "author": "linw7",
+      "name": "Skill-Tree",
+      "href": "https://github.com/linw7/Skill-Tree",
+      "description": "🐼 准备秋招，欢迎来树上取果实",
+      "language": "C",
+      "stars": 433,
+      "forks": 180
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9572,
+      "forks": 683
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7620,
+      "forks": 4547
+    },
+    {
+      "author": "rswier",
+      "name": "c4",
+      "href": "https://github.com/rswier/c4",
+      "description": "C in four functions",
+      "language": "C",
+      "stars": 4268,
+      "forks": 822
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2126,
+      "forks": 3566
+    },
+    {
+      "author": "CoolerVoid",
+      "name": "firefox_tunnel",
+      "href": "https://github.com/CoolerVoid/firefox_tunnel",
+      "description": "The way to use firefox to make a tunnel to remote communication, bypass any firewall",
+      "language": "C",
+      "stars": 28,
+      "forks": 5
+    },
+    {
+      "author": "xebd",
+      "name": "accel-ppp",
+      "href": "https://github.com/xebd/accel-ppp",
+      "description": "High performance PPTP/L2TP/PPPoE/IPoE server for Linux",
+      "language": "C",
+      "stars": 76,
+      "forks": 32
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12002,
+      "forks": 1508
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "⚙️ 🐧 systemd System and Service Manager",
+      "language": "C",
+      "stars": 2915,
+      "forks": 1170
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8804,
+      "forks": 2038
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 14275,
+      "forks": 1701
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8686,
+      "forks": 1433
+    },
+    {
+      "author": "varnishcache",
+      "name": "varnish-cache",
+      "href": "https://github.com/varnishcache/varnish-cache",
+      "description": "Varnish Cache source code repository",
+      "language": "C",
+      "stars": 1062,
+      "forks": 163
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 6951,
+      "forks": 1405
+    },
+    {
+      "author": "Microsoft",
+      "name": "checkedc",
+      "href": "https://github.com/Microsoft/checkedc",
+      "description": "Checked C is an extension of C that adds bounds checking to C. This repo contains the specification for the extension, test code, and samples.",
+      "language": "C",
+      "stars": 1411,
+      "forks": 102
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 6994,
+      "forks": 1245
+    }
+  ]
+}
