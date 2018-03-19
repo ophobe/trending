@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 41293,
+      "forks": 12870
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 14782,
+      "forks": 1998
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 11308,
+      "forks": 5254
+    },
+    {
+      "author": "vlucas",
+      "name": "phpdotenv",
+      "href": "https://github.com/vlucas/phpdotenv",
+      "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+      "language": "PHP",
+      "stars": 6285,
+      "forks": 335
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 13537,
+      "forks": 5050
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 8351,
+      "forks": 912
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 9290,
+      "forks": 1296
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 6983,
+      "forks": 750
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": null,
+      "language": "PHP",
+      "stars": 2677,
+      "forks": 68
+    },
+    {
+      "author": "dragonmantank",
+      "name": "cron-expression",
+      "href": "https://github.com/dragonmantank/cron-expression",
+      "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
+      "language": "PHP",
+      "stars": 811,
+      "forks": 211
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 2584,
+      "forks": 30
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 9203,
+      "forks": 1571
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 4530,
+      "forks": 301
+    },
+    {
+      "author": "symfony",
+      "name": "thanks",
+      "href": "https://github.com/symfony/thanks",
+      "description": "Give thanks (in the form of a GitHub ★) to your fellow PHP package maintainers (not limited to Symfony components)!",
+      "language": "PHP",
+      "stars": 3015,
+      "forks": 17
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 2968,
+      "forks": 133
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 2525,
+      "forks": 51
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 2795,
+      "forks": 174
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 2620,
+      "forks": 58
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 2514,
+      "forks": 22
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 2522,
+      "forks": 40
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 4385,
+      "forks": 650
+    },
+    {
+      "author": "phpspec",
+      "name": "prophecy",
+      "href": "https://github.com/phpspec/prophecy",
+      "description": "Highly opinionated mocking framework for PHP 5.3+",
+      "language": "PHP",
+      "stars": 3225,
+      "forks": 163
+    },
+    {
+      "author": "PuShaoWei",
+      "name": "arithmetic-php",
+      "href": "https://github.com/PuShaoWei/arithmetic-php",
+      "description": "🍭🍭 如果说各种编程语言是程序员的招式,那么数据结构和算法就相当于程序员的内功 ,用PHP的方式来修炼内功吧",
+      "language": "PHP",
+      "stars": 617,
+      "forks": 174
+    },
+    {
+      "author": "guzzle",
+      "name": "psr7",
+      "href": "https://github.com/guzzle/psr7",
+      "description": "PSR-7 HTTP message library",
+      "language": "PHP",
+      "stars": 1608,
+      "forks": 126
+    },
+    {
+      "author": "Maatwebsite",
+      "name": "Laravel-Excel",
+      "href": "https://github.com/Maatwebsite/Laravel-Excel",
+      "description": "Laravel Flavoured PhpSpreadsheet",
+      "language": "PHP",
+      "stars": 4693,
+      "forks": 843
+    }
+  ]
+}
