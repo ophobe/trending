@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 41330,
+      "forks": 12883
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.",
+      "language": "PHP",
+      "stars": 12195,
+      "forks": 4024
+    },
+    {
+      "author": "spatie",
+      "name": "laravel-medialibrary",
+      "href": "https://github.com/spatie/laravel-medialibrary",
+      "description": "Associate files with Eloquent models",
+      "language": "PHP",
+      "stars": 1932,
+      "forks": 266
+    },
+    {
+      "author": "vlucas",
+      "name": "phpdotenv",
+      "href": "https://github.com/vlucas/phpdotenv",
+      "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+      "language": "PHP",
+      "stars": 6305,
+      "forks": 335
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 11323,
+      "forks": 5257
+    },
+    {
+      "author": "guzzle",
+      "name": "psr7",
+      "href": "https://github.com/guzzle/psr7",
+      "description": "PSR-7 HTTP message library",
+      "language": "PHP",
+      "stars": 1624,
+      "forks": 126
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 13556,
+      "forks": 5052
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 14799,
+      "forks": 1998
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 8368,
+      "forks": 913
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 9305,
+      "forks": 1298
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 17023,
+      "forks": 6108
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 6997,
+      "forks": 751
+    },
+    {
+      "author": "yiisoft",
+      "name": "yii2",
+      "href": "https://github.com/yiisoft/yii2",
+      "description": "Yii 2: The Fast, Secure and Professional PHP Framework",
+      "language": "PHP",
+      "stars": 11729,
+      "forks": 6345
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 2984,
+      "forks": 134
+    },
+    {
+      "author": "yhf7952",
+      "name": "91pornMobile",
+      "href": "https://github.com/yhf7952/91pornMobile",
+      "description": "91Porn手机版，完全无广告，无多余信息，突破游客每天只能看10次的限制。",
+      "language": "PHP",
+      "stars": 40,
+      "forks": 26
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "href": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": 10695,
+      "forks": 5894
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 4543,
+      "forks": 301
+    },
+    {
+      "author": "spatie",
+      "name": "laravel-permission",
+      "href": "https://github.com/spatie/laravel-permission",
+      "description": "Associate users with roles and permissions",
+      "language": "PHP",
+      "stars": 3149,
+      "forks": 438
+    },
+    {
+      "author": "z-song",
+      "name": "laravel-admin",
+      "href": "https://github.com/z-song/laravel-admin",
+      "description": "Build a full-featured administrative interface in ten minutes",
+      "language": "PHP",
+      "stars": 3102,
+      "forks": 880
+    },
+    {
+      "author": "tymondesigns",
+      "name": "jwt-auth",
+      "href": "https://github.com/tymondesigns/jwt-auth",
+      "description": "🔐 JSON Web Token Authentication for Laravel & Lumen",
+      "language": "PHP",
+      "stars": 5745,
+      "forks": 750
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 4399,
+      "forks": 651
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 9216,
+      "forks": 1572
+    },
+    {
+      "author": "lxerxa",
+      "name": "actionview",
+      "href": "https://github.com/lxerxa/actionview",
+      "description": "An issue tracking tool for small and medium-sized enterprises, open-source and free, similar to Jira.",
+      "language": "PHP",
+      "stars": 115,
+      "forks": 31
+    },
+    {
+      "author": "monicahq",
+      "name": "monica",
+      "href": "https://github.com/monicahq/monica",
+      "description": "Intuitive web application to remember everything about your friends and family.",
+      "language": "PHP",
+      "stars": 4160,
+      "forks": 473
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": null,
+      "language": "PHP",
+      "stars": 2689,
+      "forks": 68
+    }
+  ]
+}
