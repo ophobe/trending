@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "twilio",
+      "name": "guardrail",
+      "href": "https://github.com/twilio/guardrail",
+      "description": "Principled code generation for Scala services",
+      "language": "Scala",
+      "stars": 51,
+      "forks": 2
+    },
+    {
+      "author": "akka",
+      "name": "akka-grpc",
+      "href": "https://github.com/akka/akka-grpc",
+      "description": "Akka gRPC",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 1
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16635,
+      "forks": 15288
+    },
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 6696,
+      "forks": 377
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 2997,
+      "forks": 561
+    },
+    {
+      "author": "milessabin",
+      "name": "shapeless",
+      "href": "https://github.com/milessabin/shapeless",
+      "description": "Generic programming for Scala",
+      "language": "Scala",
+      "stars": 2405,
+      "forks": 395
+    },
+    {
+      "author": "wireapp",
+      "name": "wire-android-sync-engine",
+      "href": "https://github.com/wireapp/wire-android-sync-engine",
+      "description": "Sync library for Android.",
+      "language": "Scala",
+      "stars": 54,
+      "forks": 23
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11162,
+      "forks": 1795
+    },
+    {
+      "author": "monix",
+      "name": "monix",
+      "href": "https://github.com/monix/monix",
+      "description": "Asynchronous, Reactive Programming for Scala and Scala.js.",
+      "language": "Scala",
+      "stars": 1115,
+      "forks": 118
+    },
+    {
+      "author": "scalaprops",
+      "name": "scalaprops",
+      "href": "https://github.com/scalaprops/scalaprops",
+      "description": "property based testing library for Scala",
+      "language": "Scala",
+      "stars": 195,
+      "forks": 13
+    },
+    {
+      "author": "msgpack4z",
+      "name": "msgpack4z-core",
+      "href": "https://github.com/msgpack4z/msgpack4z-core",
+      "description": "typeclass based functional msgpack serializer/deserializer for Scala. support scala.js and scala-native / msgpack.org[Scala]",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 5
+    },
+    {
+      "author": "rickynils",
+      "name": "scalacheck",
+      "href": "https://github.com/rickynils/scalacheck",
+      "description": "Property-based testing for Scala",
+      "language": "Scala",
+      "stars": 1331,
+      "forks": 279
+    },
+    {
+      "author": "lihaoyi",
+      "name": "utest",
+      "href": "https://github.com/lihaoyi/utest",
+      "description": "A simple testing framework for Scala",
+      "language": "Scala",
+      "stars": 277,
+      "forks": 50
+    },
+    {
+      "author": "alexarchambault",
+      "name": "case-app",
+      "href": "https://github.com/alexarchambault/case-app",
+      "description": "Type-level & seamless command-line argument parsing for Scala",
+      "language": "Scala",
+      "stars": 138,
+      "forks": 13
+    },
+    {
+      "author": "argonaut-io",
+      "name": "argonaut",
+      "href": "https://github.com/argonaut-io/argonaut",
+      "description": "Purely functional JSON parser and library in scala.",
+      "language": "Scala",
+      "stars": 433,
+      "forks": 97
+    },
+    {
+      "author": "alexarchambault",
+      "name": "argonaut-shapeless",
+      "href": "https://github.com/alexarchambault/argonaut-shapeless",
+      "description": "Automatic argonaut codec derivation with shapeless",
+      "language": "Scala",
+      "stars": 83,
+      "forks": 21
+    },
+    {
+      "author": "fthomas",
+      "name": "refined",
+      "href": "https://github.com/fthomas/refined",
+      "description": "Simple refinement types for Scala",
+      "language": "Scala",
+      "stars": 650,
+      "forks": 62
+    },
+    {
+      "author": "lihaoyi",
+      "name": "PPrint",
+      "href": "https://github.com/lihaoyi/PPrint",
+      "description": "Pretty-printing value, types and type-signatures in Scala",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 6
+    },
+    {
+      "author": "lihaoyi",
+      "name": "sourcecode",
+      "href": "https://github.com/lihaoyi/sourcecode",
+      "description": "Scala library providing \"source\" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__.",
+      "language": "Scala",
+      "stars": 289,
+      "forks": 31
+    },
+    {
+      "author": "scodec",
+      "name": "scodec-bits",
+      "href": "https://github.com/scodec/scodec-bits",
+      "description": "Provides immutable datatypes for working with bits and bytes",
+      "language": "Scala",
+      "stars": 64,
+      "forks": 40
+    },
+    {
+      "author": "outr",
+      "name": "scribe",
+      "href": "https://github.com/outr/scribe",
+      "description": "Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.",
+      "language": "Scala",
+      "stars": 130,
+      "forks": 8
+    },
+    {
+      "author": "vlovgr",
+      "name": "ciris",
+      "href": "https://github.com/vlovgr/ciris",
+      "description": "Lightweight, extensible, and validated configuration loading in Scala",
+      "language": "Scala",
+      "stars": 131,
+      "forks": 12
+    },
+    {
+      "author": "propensive",
+      "name": "magnolia",
+      "href": "https://github.com/propensive/magnolia",
+      "description": "A better generic macro for Scala",
+      "language": "Scala",
+      "stars": 155,
+      "forks": 22
+    },
+    {
+      "author": "thomsonreuters",
+      "name": "CM-Well",
+      "href": "https://github.com/thomsonreuters/CM-Well",
+      "description": "CM-Well - a data warehouse for your knowledge graph",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 26
+    },
+    {
+      "author": "rkuhn",
+      "name": "akka-typed-session",
+      "href": "https://github.com/rkuhn/akka-typed-session",
+      "description": "add-on to Akka Typed that tracks effects for use with Session Types",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 8
+    }
+  ]
+}
