@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 16678,
+      "forks": 15317
+    },
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 6742,
+      "forks": 380
+    },
+    {
+      "author": "graphcool",
+      "name": "graphcool-framework",
+      "href": "https://github.com/graphcool/graphcool-framework",
+      "description": null,
+      "language": "Scala",
+      "stars": 300,
+      "forks": 26
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 4980,
+      "forks": 1311
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 9927,
+      "forks": 2371
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 2410,
+      "forks": 353
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8344,
+      "forks": 2656
+    },
+    {
+      "author": "lihaoyi",
+      "name": "Ammonite",
+      "href": "https://github.com/lihaoyi/Ammonite",
+      "description": "Scala Scripting",
+      "language": "Scala",
+      "stars": 1601,
+      "forks": 249
+    },
+    {
+      "author": "lihaoyi",
+      "name": "mill",
+      "href": "https://github.com/lihaoyi/mill",
+      "description": "Your shiny new Scala build tool!",
+      "language": "Scala",
+      "stars": 730,
+      "forks": 62
+    },
+    {
+      "author": "sbt",
+      "name": "website",
+      "href": "https://github.com/sbt/website",
+      "description": "The source for scala-sbt.org",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 199
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Non Blocking, Type Safe, HTTP, REST API, TCP",
+      "language": "Scala",
+      "stars": 1125,
+      "forks": 441
+    },
+    {
+      "author": "Verizon",
+      "name": "helm",
+      "href": "https://github.com/Verizon/helm",
+      "description": "A native Scala client for interacting with Consul",
+      "language": "Scala",
+      "stars": 52,
+      "forks": 7
+    },
+    {
+      "author": "ucb-bar",
+      "name": "riscv-boom",
+      "href": "https://github.com/ucb-bar/riscv-boom",
+      "description": "Berkeley Out-of-Order Machine",
+      "language": "Scala",
+      "stars": 186,
+      "forks": 47
+    },
+    {
+      "author": "ing-bank",
+      "name": "baker",
+      "href": "https://github.com/ing-bank/baker",
+      "description": "Orchestrate (micro)service-based process flows",
+      "language": "Scala",
+      "stars": 64,
+      "forks": 19
+    },
+    {
+      "author": "archivesunleashed",
+      "name": "aut",
+      "href": "https://github.com/archivesunleashed/aut",
+      "description": "The Archives Unleashed Toolkit is an open-source platform for analyzing web archives.",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 9
+    },
+    {
+      "author": "RayRoestenburg",
+      "name": "akka-in-action",
+      "href": "https://github.com/RayRoestenburg/akka-in-action",
+      "description": "Accompanying source code for akka in action",
+      "language": "Scala",
+      "stars": 559,
+      "forks": 321
+    },
+    {
+      "author": "ing-bank",
+      "name": "scruid",
+      "href": "https://github.com/ing-bank/scruid",
+      "description": "Scala + Druid: Scruid. A library that allows you to compose queries in Scala, and parse the result back into typesafe classes.",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 7
+    },
+    {
+      "author": "mnogu",
+      "name": "gatling-mqtt",
+      "href": "https://github.com/mnogu/gatling-mqtt",
+      "description": "A Gatling stress test plugin for MQTT",
+      "language": "Scala",
+      "stars": 21,
+      "forks": 33
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 280,
+      "forks": 46
+    },
+    {
+      "author": "scalacenter",
+      "name": "scaladex",
+      "href": "https://github.com/scalacenter/scaladex",
+      "description": "The Scala Package Index",
+      "language": "Scala",
+      "stars": 117,
+      "forks": 48
+    },
+    {
+      "author": "spotify",
+      "name": "ratatool",
+      "href": "https://github.com/spotify/ratatool",
+      "description": "A tool for random data sampling and generation",
+      "language": "Scala",
+      "stars": 122,
+      "forks": 20
+    },
+    {
+      "author": "lagom",
+      "name": "online-auction-scala",
+      "href": "https://github.com/lagom/online-auction-scala",
+      "description": null,
+      "language": "Scala",
+      "stars": 136,
+      "forks": 82
+    },
+    {
+      "author": "typelevel",
+      "name": "frameless",
+      "href": "https://github.com/typelevel/frameless",
+      "description": "Expressive types for Spark.",
+      "language": "Scala",
+      "stars": 379,
+      "forks": 67
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11173,
+      "forks": 1797
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10291,
+      "forks": 3499
+    }
+  ]
+}
