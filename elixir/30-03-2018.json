@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "elixir-lang",
+      "name": "elixir",
+      "href": "https://github.com/elixir-lang/elixir",
+      "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+      "language": "Elixir",
+      "stars": 12627,
+      "forks": 1844
+    },
+    {
+      "author": "elixir-ecto",
+      "name": "ecto",
+      "href": "https://github.com/elixir-ecto/ecto",
+      "description": "A database wrapper and language integrated query for Elixir",
+      "language": "Elixir",
+      "stars": 3406,
+      "forks": 817
+    },
+    {
+      "author": "lexmag",
+      "name": "statix",
+      "href": "https://github.com/lexmag/statix",
+      "description": "Fast and reliable Elixir client for StatsD-compatible servers",
+      "language": "Elixir",
+      "stars": 101,
+      "forks": 19
+    },
+    {
+      "author": "elixirkoans",
+      "name": "elixir-koans",
+      "href": "https://github.com/elixirkoans/elixir-koans",
+      "description": "Elixir learning exercises",
+      "language": "Elixir",
+      "stars": 902,
+      "forks": 262
+    },
+    {
+      "author": "falood",
+      "name": "file_system",
+      "href": "https://github.com/falood/file_system",
+      "description": "Filesystem monitor for elixir",
+      "language": "Elixir",
+      "stars": 78,
+      "forks": 26
+    },
+    {
+      "author": "Nebo15",
+      "name": "ecto_mnesia",
+      "href": "https://github.com/Nebo15/ecto_mnesia",
+      "description": "Ecto adapter for Mnesia Erlang term database. Work on this adapter is in progress.",
+      "language": "Elixir",
+      "stars": 106,
+      "forks": 16
+    },
+    {
+      "author": "ex-aws",
+      "name": "ex_aws",
+      "href": "https://github.com/ex-aws/ex_aws",
+      "description": "A flexible, easy to use set of clients AWS APIs for Elixir",
+      "language": "Elixir",
+      "stars": 614,
+      "forks": 248
+    },
+    {
+      "author": "phoenixframework",
+      "name": "phoenix",
+      "href": "https://github.com/phoenixframework/phoenix",
+      "description": "Productive. Reliable. Fast.",
+      "language": "Elixir",
+      "stars": 11514,
+      "forks": 1400
+    },
+    {
+      "author": "h4cc",
+      "name": "awesome-elixir",
+      "href": "https://github.com/h4cc/awesome-elixir",
+      "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+      "language": "Elixir",
+      "stars": 7837,
+      "forks": 761
+    },
+    {
+      "author": "christopheradams",
+      "name": "elixir_style_guide",
+      "href": "https://github.com/christopheradams/elixir_style_guide",
+      "description": "A community driven style guide for Elixir",
+      "language": "Elixir",
+      "stars": 2627,
+      "forks": 203
+    },
+    {
+      "author": "rrrene",
+      "name": "credo",
+      "href": "https://github.com/rrrene/credo",
+      "description": "A static code analysis tool for the Elixir language with a focus on code consistency and teaching.",
+      "language": "Elixir",
+      "stars": 2369,
+      "forks": 166
+    },
+    {
+      "author": "seven1m",
+      "name": "30-days-of-elixir",
+      "href": "https://github.com/seven1m/30-days-of-elixir",
+      "description": "A walk through the Elixir language in 30 exercises.",
+      "language": "Elixir",
+      "stars": 2254,
+      "forks": 324
+    },
+    {
+      "author": "ueberauth",
+      "name": "guardian",
+      "href": "https://github.com/ueberauth/guardian",
+      "description": "Elixir Authentication",
+      "language": "Elixir",
+      "stars": 2110,
+      "forks": 217
+    },
+    {
+      "author": "sergiotapia",
+      "name": "magnetissimo",
+      "href": "https://github.com/sergiotapia/magnetissimo",
+      "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+      "language": "Elixir",
+      "stars": 2089,
+      "forks": 136
+    },
+    {
+      "author": "absinthe-graphql",
+      "name": "absinthe",
+      "href": "https://github.com/absinthe-graphql/absinthe",
+      "description": "The GraphQL toolkit for Elixir",
+      "language": "Elixir",
+      "stars": 1876,
+      "forks": 147
+    },
+    {
+      "author": "elixir-plug",
+      "name": "plug",
+      "href": "https://github.com/elixir-plug/plug",
+      "description": "A specification and conveniences for composable modules between web applications",
+      "language": "Elixir",
+      "stars": 1705,
+      "forks": 359
+    },
+    {
+      "author": "bitwalker",
+      "name": "distillery",
+      "href": "https://github.com/bitwalker/distillery",
+      "description": "A pure Elixir implementation of release packaging functionality for the Erlang VM",
+      "language": "Elixir",
+      "stars": 1699,
+      "forks": 218
+    },
+    {
+      "author": "edeliver",
+      "name": "edeliver",
+      "href": "https://github.com/edeliver/edeliver",
+      "description": "Deployment for Elixir and Erlang",
+      "language": "Elixir",
+      "stars": 1476,
+      "forks": 131
+    },
+    {
+      "author": "devinus",
+      "name": "poison",
+      "href": "https://github.com/devinus/poison",
+      "description": "An incredibly fast, pure Elixir JSON library",
+      "language": "Elixir",
+      "stars": 1387,
+      "forks": 164
+    },
+    {
+      "author": "thechangelog",
+      "name": "changelog.com",
+      "href": "https://github.com/thechangelog/changelog.com",
+      "description": "Hacker to the 💚",
+      "language": "Elixir",
+      "stars": 1323,
+      "forks": 124
+    },
+    {
+      "author": "edgurgel",
+      "name": "httpoison",
+      "href": "https://github.com/edgurgel/httpoison",
+      "description": "Yet Another HTTP client for Elixir powered by hackney",
+      "language": "Elixir",
+      "stars": 1286,
+      "forks": 221
+    },
+    {
+      "author": "elixirscript",
+      "name": "elixirscript",
+      "href": "https://github.com/elixirscript/elixirscript",
+      "description": "Converts Elixir to JavaScript",
+      "language": "Elixir",
+      "stars": 1153,
+      "forks": 53
+    },
+    {
+      "author": "dynamo",
+      "name": "dynamo",
+      "href": "https://github.com/dynamo/dynamo",
+      "description": "Run, Dynamo, Run!",
+      "language": "Elixir",
+      "stars": 1092,
+      "forks": 157
+    },
+    {
+      "author": "thoughtbot",
+      "name": "ex_machina",
+      "href": "https://github.com/thoughtbot/ex_machina",
+      "description": "Create test data for Elixir applications",
+      "language": "Elixir",
+      "stars": 965,
+      "forks": 92
+    },
+    {
+      "author": "elixir-maru",
+      "name": "maru",
+      "href": "https://github.com/elixir-maru/maru",
+      "description": "Elixir RESTful Framework",
+      "language": "Elixir",
+      "stars": 954,
+      "forks": 68
+    }
+  ]
+}
