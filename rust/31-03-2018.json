@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6108,
+      "forks": 122
+    },
+    {
+      "author": "databricks",
+      "name": "click",
+      "href": "https://github.com/databricks/click",
+      "description": "The \"Command Line Interactive Controller for Kubernetes\"",
+      "language": "Rust",
+      "stars": 463,
+      "forks": 17
+    },
+    {
+      "author": "Limeth",
+      "name": "euclider",
+      "href": "https://github.com/Limeth/euclider",
+      "description": "A non-euclidean raytracing prototype",
+      "language": "Rust",
+      "stars": 52,
+      "forks": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 27387,
+      "forks": 4812
+    },
+    {
+      "author": "nbp",
+      "name": "holyjit",
+      "href": "https://github.com/nbp/holyjit",
+      "description": "Generic purpose Just-In-time compiler for Rust.",
+      "language": "Rust",
+      "stars": 1009,
+      "forks": 24
+    },
+    {
+      "author": "rcoh",
+      "name": "angle-grinder",
+      "href": "https://github.com/rcoh/angle-grinder",
+      "description": "Slice and dice log files on the command line",
+      "language": "Rust",
+      "stars": 39,
+      "forks": 1
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 9912,
+      "forks": 391
+    },
+    {
+      "author": "spacekookie",
+      "name": "thunder",
+      "href": "https://github.com/spacekookie/thunder",
+      "description": "⚡ Doing zero-boilerplate commandline argument parsing in Rust",
+      "language": "Rust",
+      "stars": 94,
+      "forks": 1
+    },
+    {
+      "author": "zeyla",
+      "name": "is-rust",
+      "href": "https://github.com/zeyla/is-rust",
+      "description": "A library for checking whether a value is rust.",
+      "language": "Rust",
+      "stars": 21,
+      "forks": 3
+    },
+    {
+      "author": "fitzgen",
+      "name": "intrusive_splay_tree",
+      "href": "https://github.com/fitzgen/intrusive_splay_tree",
+      "description": "An intrusive splay tree implementation that is no-std compatible and free from allocation and moves",
+      "language": "Rust",
+      "stars": 27,
+      "forks": 1
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12058,
+      "forks": 417
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6685,
+      "forks": 433
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 5032,
+      "forks": 125
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3014,
+      "forks": 742
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8420,
+      "forks": 336
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2903,
+      "forks": 360
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, extremely fast, web framework for Rust.",
+      "language": "Rust",
+      "stars": 706,
+      "forks": 49
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4161,
+      "forks": 276
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3945,
+      "forks": 774
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3724,
+      "forks": 117
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1751,
+      "forks": 186
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11445,
+      "forks": 1893
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3328,
+      "forks": 552
+    },
+    {
+      "author": "ierror",
+      "name": "ssh-permit-a38",
+      "href": "https://github.com/ierror/ssh-permit-a38",
+      "description": "Central management and deployment for SSH keys",
+      "language": "Rust",
+      "stars": 373,
+      "forks": 13
+    },
+    {
+      "author": "tantivy-search",
+      "name": "bitpacking",
+      "href": "https://github.com/tantivy-search/bitpacking",
+      "description": "SIMD algorithms for integer compression via bitpacking. This crate is a port of a C library called simdcomp.",
+      "language": "Rust",
+      "stars": 41,
+      "forks": 2
+    }
+  ]
+}
