@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 57125,
+      "forks": 21015
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 6851,
+      "forks": 3286
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 4249,
+      "forks": 187
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 6990,
+      "forks": 609
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28302,
+      "forks": 10901
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16944,
+      "forks": 4744
+    },
+    {
+      "author": "MagicStack",
+      "name": "immutables",
+      "href": "https://github.com/MagicStack/immutables",
+      "description": "A high-performance immutable mapping type for Python.",
+      "language": "C",
+      "stars": 52,
+      "forks": 1
+    },
+    {
+      "author": "jiangwenyuan",
+      "name": "nuster",
+      "href": "https://github.com/jiangwenyuan/nuster",
+      "description": "A web caching proxy server based on HAProxy",
+      "language": "C",
+      "stars": 739,
+      "forks": 49
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28569,
+      "forks": 2382
+    },
+    {
+      "author": "glouw",
+      "name": "tinn",
+      "href": "https://github.com/glouw/tinn",
+      "description": "The tiny neural network library",
+      "language": "C",
+      "stars": 148,
+      "forks": 16
+    },
+    {
+      "author": "ziutek",
+      "name": "emgo",
+      "href": "https://github.com/ziutek/emgo",
+      "description": "Emgo: Bare metal Go (language for programming embedded systems)",
+      "language": "C",
+      "stars": 285,
+      "forks": 20
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 15359,
+      "forks": 1243
+    },
+    {
+      "author": "masonicboom",
+      "name": "ipscrub",
+      "href": "https://github.com/masonicboom/ipscrub",
+      "description": "IP address anonymizer module for nginx",
+      "language": "C",
+      "stars": 101,
+      "forks": 3
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7905,
+      "forks": 2257
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7050,
+      "forks": 4362
+    },
+    {
+      "author": "goodpaul6",
+      "name": "SpriteExtractor",
+      "href": "https://github.com/goodpaul6/SpriteExtractor",
+      "description": "Processes images with inconsistent spacing to produce fixed size or tightly packed spritesheets.",
+      "language": "C",
+      "stars": 61,
+      "forks": 0
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21632,
+      "forks": 12607
+    },
+    {
+      "author": "pervognsen",
+      "name": "bitwise",
+      "href": "https://github.com/pervognsen/bitwise",
+      "description": "Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.",
+      "language": "C",
+      "stars": 3637,
+      "forks": 92
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6852,
+      "forks": 2685
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 2600,
+      "forks": 681
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 7087,
+      "forks": 1418
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2198,
+      "forks": 3728
+    },
+    {
+      "author": "AlexAltea",
+      "name": "orbital",
+      "href": "https://github.com/AlexAltea/orbital",
+      "description": "Experimental PlayStation 4 emulator",
+      "language": "C",
+      "stars": 337,
+      "forks": 18
+    },
+    {
+      "author": "getdnsapi",
+      "name": "stubby",
+      "href": "https://github.com/getdnsapi/stubby",
+      "description": "Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).",
+      "language": "C",
+      "stars": 135,
+      "forks": 18
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 5557,
+      "forks": 2303
+    }
+  ]
+}
