@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 57202,
+      "forks": 21036
+    },
+    {
+      "author": "MagicStack",
+      "name": "immutables",
+      "href": "https://github.com/MagicStack/immutables",
+      "description": "A high-performance immutable mapping type for Python.",
+      "language": "C",
+      "stars": 162,
+      "forks": 2
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 4319,
+      "forks": 191
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 6923,
+      "forks": 3321
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21673,
+      "forks": 12634
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28345,
+      "forks": 10916
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 16999,
+      "forks": 4744
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28618,
+      "forks": 2390
+    },
+    {
+      "author": "Gnucash",
+      "name": "gnucash",
+      "href": "https://github.com/Gnucash/gnucash",
+      "description": "GnuCash Double-Entry Accounting Program.",
+      "language": "C",
+      "stars": 964,
+      "forks": 350
+    },
+    {
+      "author": "moby",
+      "name": "hyperkit",
+      "href": "https://github.com/moby/hyperkit",
+      "description": "A toolkit for embedding hypervisor capabilities in your application",
+      "language": "C",
+      "stars": 1315,
+      "forks": 146
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 11091,
+      "forks": 637
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12197,
+      "forks": 1535
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 8992,
+      "forks": 2074
+    },
+    {
+      "author": "pervognsen",
+      "name": "bitwise",
+      "href": "https://github.com/pervognsen/bitwise",
+      "description": "Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.",
+      "language": "C",
+      "stars": 3667,
+      "forks": 92
+    },
+    {
+      "author": "maierfelix",
+      "name": "glmw",
+      "href": "https://github.com/maierfelix/glmw",
+      "description": "WebAssembly powered Matrix and Vector library",
+      "language": "C",
+      "stars": 41,
+      "forks": 0
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7785,
+      "forks": 4607
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6872,
+      "forks": 2690
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 7930,
+      "forks": 2260
+    },
+    {
+      "author": "wargio",
+      "name": "r2dec-js",
+      "href": "https://github.com/wargio/r2dec-js",
+      "description": "radare2 plugin - converts asm to pseudo-C code. (experimental)",
+      "language": "C",
+      "stars": 35,
+      "forks": 3
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 2264,
+      "forks": 1334
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 10319,
+      "forks": 4377
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7068,
+      "forks": 4381
+    },
+    {
+      "author": "ccache",
+      "name": "ccache",
+      "href": "https://github.com/ccache/ccache",
+      "description": "ccache – a fast compiler cache",
+      "language": "C",
+      "stars": 361,
+      "forks": 141
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern, portable, easy to use crypto library",
+      "language": "C",
+      "stars": 5482,
+      "forks": 804
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9754,
+      "forks": 698
+    }
+  ]
+}
