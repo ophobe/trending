@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 27543,
+      "forks": 4842
+    },
+    {
+      "author": "bodil",
+      "name": "im-rs",
+      "href": "https://github.com/bodil/im-rs",
+      "description": "Assorted immutable collection datatypes for Rust",
+      "language": "Rust",
+      "stars": 281,
+      "forks": 6
+    },
+    {
+      "author": "mesalock-linux",
+      "name": "mesalink",
+      "href": "https://github.com/mesalock-linux/mesalink",
+      "description": "MesaLink is a memory-safe and OpenSSL-compatible TLS library.",
+      "language": "Rust",
+      "stars": 603,
+      "forks": 18
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6308,
+      "forks": 124
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6746,
+      "forks": 434
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1382,
+      "forks": 76
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "href": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of libp2p networking stack.",
+      "language": "Rust",
+      "stars": 193,
+      "forks": 22
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11483,
+      "forks": 1897
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8488,
+      "forks": 337
+    },
+    {
+      "author": "tcr",
+      "name": "edit-text",
+      "href": "https://github.com/tcr/edit-text",
+      "description": "Collaborative rich text editor for the web. Written in Rust, cross-compiled to WebAssembly.",
+      "language": "Rust",
+      "stars": 35,
+      "forks": 0
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10041,
+      "forks": 396
+    },
+    {
+      "author": "rcoh",
+      "name": "angle-grinder",
+      "href": "https://github.com/rcoh/angle-grinder",
+      "description": "Slice and dice log files on the command line",
+      "language": "Rust",
+      "stars": 102,
+      "forks": 3
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Interoperating JS and Rust code",
+      "language": "Rust",
+      "stars": 502,
+      "forks": 26
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12130,
+      "forks": 423
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3042,
+      "forks": 749
+    },
+    {
+      "author": "substantic",
+      "name": "rain",
+      "href": "https://github.com/substantic/rain",
+      "description": "Framework for large distributed pipelines",
+      "language": "Rust",
+      "stars": 165,
+      "forks": 9
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower-h2",
+      "href": "https://github.com/tower-rs/tower-h2",
+      "description": "An HTTP/2.0 client and server `Service` implementation.",
+      "language": "Rust",
+      "stars": 39,
+      "forks": 5
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 3983,
+      "forks": 788
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3776,
+      "forks": 119
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, extremely fast, web framework for Rust.",
+      "language": "Rust",
+      "stars": 763,
+      "forks": 56
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2945,
+      "forks": 364
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1775,
+      "forks": 187
+    },
+    {
+      "author": "way-cooler",
+      "name": "way-cooler",
+      "href": "https://github.com/way-cooler/way-cooler",
+      "description": "Customizable Wayland compositor (window manager)",
+      "language": "Rust",
+      "stars": 1500,
+      "forks": 59
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 944,
+      "forks": 90
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 648,
+      "forks": 43
+    }
+  ]
+}
