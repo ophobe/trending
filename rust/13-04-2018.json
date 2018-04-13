@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "orium",
+      "name": "rpds",
+      "href": "https://github.com/orium/rpds",
+      "description": "Rust Persistent Data Structures",
+      "language": "Rust",
+      "stars": 177,
+      "forks": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 27660,
+      "forks": 4851
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10119,
+      "forks": 396
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8543,
+      "forks": 338
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 131,
+      "forks": 4
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6792,
+      "forks": 438
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Interoperating JS and Rust code",
+      "language": "Rust",
+      "stars": 584,
+      "forks": 33
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6408,
+      "forks": 129
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": 830,
+      "forks": 59
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12191,
+      "forks": 426
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3828,
+      "forks": 119
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 672,
+      "forks": 54
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4021,
+      "forks": 797
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 2967,
+      "forks": 368
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4272,
+      "forks": 275
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1418,
+      "forks": 77
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1065,
+      "forks": 101
+    },
+    {
+      "author": "rust-fuzz",
+      "name": "honggfuzz-rs",
+      "href": "https://github.com/rust-fuzz/honggfuzz-rs",
+      "description": "Fuzz your Rust code with Google-developped Honggfuzz !",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 1
+    },
+    {
+      "author": "stevedonovan",
+      "name": "gentle-intro",
+      "href": "https://github.com/stevedonovan/gentle-intro",
+      "description": "A gentle Rust tutorial",
+      "language": "Rust",
+      "stars": 459,
+      "forks": 42
+    },
+    {
+      "author": "sozu-proxy",
+      "name": "sozu",
+      "href": "https://github.com/sozu-proxy/sozu",
+      "description": "Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more",
+      "language": "Rust",
+      "stars": 493,
+      "forks": 44
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11507,
+      "forks": 1897
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3066,
+      "forks": 752
+    },
+    {
+      "author": "toidiu",
+      "name": "learn-rust",
+      "href": "https://github.com/toidiu/learn-rust",
+      "description": null,
+      "language": "Rust",
+      "stars": 325,
+      "forks": 12
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2027,
+      "forks": 271
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 1016,
+      "forks": 161
+    }
+  ]
+}
