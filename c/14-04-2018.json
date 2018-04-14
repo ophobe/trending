@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Microsoft",
+      "name": "winfile",
+      "href": "https://github.com/Microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 4059,
+      "forks": 439
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 57589,
+      "forks": 21164
+    },
+    {
+      "author": "nginx",
+      "name": "unit",
+      "href": "https://github.com/nginx/unit",
+      "description": "An official read-only mirror of http://hg.nginx.org/unit/",
+      "language": "C",
+      "stars": 1411,
+      "forks": 94
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28519,
+      "forks": 10987
+    },
+    {
+      "author": "FeralInteractive",
+      "name": "gamemode",
+      "href": "https://github.com/FeralInteractive/gamemode",
+      "description": "Optimise Linux system performance on demand",
+      "language": "C",
+      "stars": 533,
+      "forks": 22
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 2571,
+      "forks": 124
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 4605,
+      "forks": 205
+    },
+    {
+      "author": "glouw",
+      "name": "tinn",
+      "href": "https://github.com/glouw/tinn",
+      "description": "The tiny neural network library",
+      "language": "C",
+      "stars": 1358,
+      "forks": 78
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28821,
+      "forks": 2404
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17206,
+      "forks": 4750
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21830,
+      "forks": 12720
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7159,
+      "forks": 3452
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12308,
+      "forks": 1553
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9847,
+      "forks": 704
+    },
+    {
+      "author": "NightDiveStudios",
+      "name": "shockmac",
+      "href": "https://github.com/NightDiveStudios/shockmac",
+      "description": "System Shock (PowerMac version / Official GPL Release)",
+      "language": "C",
+      "stars": 1210,
+      "forks": 150
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6938,
+      "forks": 2703
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8947,
+      "forks": 1489
+    },
+    {
+      "author": "git-up",
+      "name": "GitUp",
+      "href": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
+      "language": "C",
+      "stars": 7471,
+      "forks": 447
+    },
+    {
+      "author": "zfsonlinux",
+      "name": "zfs",
+      "href": "https://github.com/zfsonlinux/zfs",
+      "description": "ZFS on Linux - the official OpenZFS implementation for Linux.",
+      "language": "C",
+      "stars": 3215,
+      "forks": 747
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 15519,
+      "forks": 1260
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 18550,
+      "forks": 5232
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "⚙️ 🐧 systemd System and Service Manager",
+      "language": "C",
+      "stars": 3041,
+      "forks": 1213
+    },
+    {
+      "author": "jx-sec",
+      "name": "jxwaf",
+      "href": "https://github.com/jx-sec/jxwaf",
+      "description": "JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的下一代web应用防火墙",
+      "language": "C",
+      "stars": 38,
+      "forks": 6
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "href": "https://github.com/topjohnwu/Magisk",
+      "description": "A Magic Mask to Alter Android System Systemless-ly",
+      "language": "C",
+      "stars": 1354,
+      "forks": 196
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 7686,
+      "forks": 1038
+    }
+  ]
+}
