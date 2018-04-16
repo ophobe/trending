@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "teh-cmc",
+      "name": "go-internals",
+      "href": "https://github.com/teh-cmc/go-internals",
+      "description": "A book about the internals of the Go programming language.",
+      "language": "Go",
+      "stars": 4440,
+      "forks": 138
+    },
+    {
+      "author": "dinedal",
+      "name": "textql",
+      "href": "https://github.com/dinedal/textql",
+      "description": "Execute SQL against structured text like CSV or TSV",
+      "language": "Go",
+      "stars": 7031,
+      "forks": 227
+    },
+    {
+      "author": "felixangell",
+      "name": "phi-editor",
+      "href": "https://github.com/felixangell/phi-editor",
+      "description": "phi-editor, wip side-project",
+      "language": "Go",
+      "stars": 121,
+      "forks": 5
+    },
+    {
+      "author": "google",
+      "name": "netstack",
+      "href": "https://github.com/google/netstack",
+      "description": "IPv4 and IPv6 userland network stack",
+      "language": "Go",
+      "stars": 1892,
+      "forks": 128
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kaniko",
+      "href": "https://github.com/GoogleCloudPlatform/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": 155,
+      "forks": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 35121,
+      "forks": 12431
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 40353,
+      "forks": 5474
+    },
+    {
+      "author": "uber",
+      "name": "prototool",
+      "href": "https://github.com/uber/prototool",
+      "description": "Your Swiss Army Knife for Protocol Buffers",
+      "language": "Go",
+      "stars": 1875,
+      "forks": 34
+    },
+    {
+      "author": "thecodingmachine",
+      "name": "gotenberg",
+      "href": "https://github.com/thecodingmachine/gotenberg",
+      "description": "📜 A stateless API for converting Markdown files, HTML files and Office documents to PDF",
+      "language": "Go",
+      "stars": 137,
+      "forks": 4
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 16680,
+      "forks": 5267
+    },
+    {
+      "author": "izumin5210",
+      "name": "grapi",
+      "href": "https://github.com/izumin5210/grapi",
+      "description": "😮 A surprisingly easy API server and generator in gRPC and Go",
+      "language": "Go",
+      "stars": 88,
+      "forks": 5
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 1036,
+      "forks": 17
+    },
+    {
+      "author": "vedhavyas",
+      "name": "zwfp",
+      "href": "https://github.com/vedhavyas/zwfp",
+      "description": "Zero-Width fingerprinting",
+      "language": "Go",
+      "stars": 179,
+      "forks": 5
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 11377,
+      "forks": 2079
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 29806,
+      "forks": 3834
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 14525,
+      "forks": 1427
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 21955,
+      "forks": 6455
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 3546,
+      "forks": 187
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 12695,
+      "forks": 1728
+    },
+    {
+      "author": "sch00lb0y",
+      "name": "vegamcache",
+      "href": "https://github.com/sch00lb0y/vegamcache",
+      "description": "Distributed in-memory cache using gossip protocol in go-lang",
+      "language": "Go",
+      "stars": 43,
+      "forks": 1
+    },
+    {
+      "author": "google",
+      "name": "trillian",
+      "href": "https://github.com/google/trillian",
+      "description": "Trillian implements a Merkle tree whose contents are served from a data storage layer, to allow scalability to extremely large trees.",
+      "language": "Go",
+      "stars": 993,
+      "forks": 119
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software",
+      "language": "Go",
+      "stars": 3774,
+      "forks": 704
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 8602,
+      "forks": 604
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 1541,
+      "forks": 341
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 4131,
+      "forks": 312
+    }
+  ]
+}
