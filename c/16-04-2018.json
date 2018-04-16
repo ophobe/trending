@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 3745,
+      "forks": 267
+    },
+    {
+      "author": "Microsoft",
+      "name": "winfile",
+      "href": "https://github.com/Microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 4290,
+      "forks": 470
+    },
+    {
+      "author": "glouw",
+      "name": "tinn",
+      "href": "https://github.com/glouw/tinn",
+      "description": "The tiny neural network library",
+      "language": "C",
+      "stars": 1442,
+      "forks": 88
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 57662,
+      "forks": 21224
+    },
+    {
+      "author": "vberlier",
+      "name": "unicorn",
+      "href": "https://github.com/vberlier/unicorn",
+      "description": "A magical unit testing framework for C.",
+      "language": "C",
+      "stars": 54,
+      "forks": 3
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28554,
+      "forks": 11007
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7201,
+      "forks": 3472
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28859,
+      "forks": 2404
+    },
+    {
+      "author": "ziutek",
+      "name": "emgo",
+      "href": "https://github.com/ziutek/emgo",
+      "description": "Emgo: Bare metal Go (language for programming embedded systems)",
+      "language": "C",
+      "stars": 400,
+      "forks": 21
+    },
+    {
+      "author": "jx-sec",
+      "name": "jxwaf",
+      "href": "https://github.com/jx-sec/jxwaf",
+      "description": "JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的下一代web应用防火墙",
+      "language": "C",
+      "stars": 67,
+      "forks": 20
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 18574,
+      "forks": 5237
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8075,
+      "forks": 2267
+    },
+    {
+      "author": "iosmanthus",
+      "name": "Osmanthus",
+      "href": "https://github.com/iosmanthus/Osmanthus",
+      "description": "A developing operating system",
+      "language": "C",
+      "stars": 27,
+      "forks": 1
+    },
+    {
+      "author": "nginx",
+      "name": "unit",
+      "href": "https://github.com/nginx/unit",
+      "description": "An official read-only mirror of http://hg.nginx.org/unit/",
+      "language": "C",
+      "stars": 1446,
+      "forks": 96
+    },
+    {
+      "author": "dstogov",
+      "name": "php-ffi",
+      "href": "https://github.com/dstogov/php-ffi",
+      "description": "PHP Foreign Function Interface",
+      "language": "C",
+      "stars": 43,
+      "forks": 5
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 9873,
+      "forks": 705
+    },
+    {
+      "author": "FeralInteractive",
+      "name": "gamemode",
+      "href": "https://github.com/FeralInteractive/gamemode",
+      "description": "Optimise Linux system performance on demand",
+      "language": "C",
+      "stars": 564,
+      "forks": 26
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 8974,
+      "forks": 1491
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 4639,
+      "forks": 208
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21848,
+      "forks": 12736
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12328,
+      "forks": 1555
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 2595,
+      "forks": 124
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 9956,
+      "forks": 679
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17228,
+      "forks": 4752
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7898,
+      "forks": 4643
+    }
+  ]
+}
