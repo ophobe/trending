@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 57833,
+      "forks": 21296
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 4540,
+      "forks": 194
+    },
+    {
+      "author": "tehw0lf",
+      "name": "airbash",
+      "href": "https://github.com/tehw0lf/airbash",
+      "description": "a fully automated WPA PSK handshake capture script aimed at penetration testing",
+      "language": "C",
+      "stars": 133,
+      "forks": 24
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28649,
+      "forks": 11052
+    },
+    {
+      "author": "id-Software",
+      "name": "Quake-III-Arena",
+      "href": "https://github.com/id-Software/Quake-III-Arena",
+      "description": "Quake III Arena GPL Source Release",
+      "language": "C",
+      "stars": 3348,
+      "forks": 993
+    },
+    {
+      "author": "ziutek",
+      "name": "emgo",
+      "href": "https://github.com/ziutek/emgo",
+      "description": "Emgo: Bare metal Go (language for programming embedded systems)",
+      "language": "C",
+      "stars": 440,
+      "forks": 25
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7292,
+      "forks": 3532
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17315,
+      "forks": 4753
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28942,
+      "forks": 2415
+    },
+    {
+      "author": "dstogov",
+      "name": "php-ffi",
+      "href": "https://github.com/dstogov/php-ffi",
+      "description": "PHP Foreign Function Interface",
+      "language": "C",
+      "stars": 119,
+      "forks": 9
+    },
+    {
+      "author": "iqiyi",
+      "name": "xHook",
+      "href": "https://github.com/iqiyi/xHook",
+      "description": "xhook is a PLT (Procedure Linkage Table) hook library for Android native ELF (executable and shared libraries).",
+      "language": "C",
+      "stars": 165,
+      "forks": 20
+    },
+    {
+      "author": "jx-sec",
+      "name": "jxwaf",
+      "href": "https://github.com/jx-sec/jxwaf",
+      "description": "JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的下一代web应用防火墙",
+      "language": "C",
+      "stars": 129,
+      "forks": 35
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12378,
+      "forks": 1563
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4054,
+      "forks": 277
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8137,
+      "forks": 2273
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21918,
+      "forks": 12768
+    },
+    {
+      "author": "Microsoft",
+      "name": "winfile",
+      "href": "https://github.com/Microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 4405,
+      "forks": 485
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9013,
+      "forks": 1504
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 10503,
+      "forks": 4430
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8496,
+      "forks": 2088
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 15594,
+      "forks": 1266
+    },
+    {
+      "author": "pymumu",
+      "name": "tinylog",
+      "href": "https://github.com/pymumu/tinylog",
+      "description": "A lightweight C-language log component for UNIX environment, It is a high performance, asynchronized, thread-safe and process-safe log library for C/C++; tinylog是一个专为UNIX设计的轻量级的C／C++日志模块，其提供了高性能，异步，线程安全，进程安全的日志功能。",
+      "language": "C",
+      "stars": 27,
+      "forks": 2
+    },
+    {
+      "author": "vberlier",
+      "name": "unicorn",
+      "href": "https://github.com/vberlier/unicorn",
+      "description": "A magical unit testing framework for C.",
+      "language": "C",
+      "stars": 80,
+      "forks": 3
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6991,
+      "forks": 2714
+    },
+    {
+      "author": "postgres",
+      "name": "postgres",
+      "href": "https://github.com/postgres/postgres",
+      "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see http://wiki.postgresql.org/wiki/Submitting_a_Patch",
+      "language": "C",
+      "stars": 3859,
+      "forks": 1309
+    }
+  ]
+}
