@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 57843,
+      "forks": 21302
+    },
+    {
+      "author": "Moddable-OpenSource",
+      "name": "moddable",
+      "href": "https://github.com/Moddable-OpenSource/moddable",
+      "description": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+      "language": "C",
+      "stars": 97,
+      "forks": 17
+    },
+    {
+      "author": "pymumu",
+      "name": "tinylog",
+      "href": "https://github.com/pymumu/tinylog",
+      "description": "A lightweight C-language log component for UNIX environment, It is a high performance, asynchronized, thread-safe and process-safe log library for C/C++; tinylog是一个专为UNIX设计的轻量级的C／C++日志模块，其提供了高性能，异步，线程安全，进程安全的日志功能。",
+      "language": "C",
+      "stars": 48,
+      "forks": 7
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 10520,
+      "forks": 4432
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 4561,
+      "forks": 194
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 28946,
+      "forks": 2417
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17331,
+      "forks": 4755
+    },
+    {
+      "author": "aircrack-ng",
+      "name": "aircrack-ng",
+      "href": "https://github.com/aircrack-ng/aircrack-ng",
+      "description": "WiFi security auditing tools suite",
+      "language": "C",
+      "stars": 163,
+      "forks": 20
+    },
+    {
+      "author": "tehw0lf",
+      "name": "airbash",
+      "href": "https://github.com/tehw0lf/airbash",
+      "description": "a fully automated WPA PSK handshake capture script aimed at penetration testing",
+      "language": "C",
+      "stars": 148,
+      "forks": 25
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7306,
+      "forks": 3535
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8150,
+      "forks": 2275
+    },
+    {
+      "author": "deeponion",
+      "name": "deeponion",
+      "href": "https://github.com/deeponion/deeponion",
+      "description": "Official Source Repo for DeepOnion - Anonymous Cryptocurrency on TOR Network",
+      "language": "C",
+      "stars": 212,
+      "forks": 68
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12387,
+      "forks": 1568
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4064,
+      "forks": 282
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 21923,
+      "forks": 12773
+    },
+    {
+      "author": "sergey-dryabzhinsky",
+      "name": "nginx-rtmp-module",
+      "href": "https://github.com/sergey-dryabzhinsky/nginx-rtmp-module",
+      "description": "NGINX-based Media Streaming Server",
+      "language": "C",
+      "stars": 363,
+      "forks": 1884
+    },
+    {
+      "author": "peterljq",
+      "name": "Data-Structure-C-Language-Exercises",
+      "href": "https://github.com/peterljq/Data-Structure-C-Language-Exercises",
+      "description": "Exercises of Data Structure using C Language. Approximately total 100 questions. Suitable to freshmen of C. 适合C语言零基础的练习，练习题目来自南洋理工，上传的答案设由我编写测试，感谢西交大和上交大同僚提供的帮助。",
+      "language": "C",
+      "stars": 24,
+      "forks": 0
+    },
+    {
+      "author": "dstogov",
+      "name": "php-ffi",
+      "href": "https://github.com/dstogov/php-ffi",
+      "description": "PHP Foreign Function Interface",
+      "language": "C",
+      "stars": 133,
+      "forks": 10
+    },
+    {
+      "author": "Microsoft",
+      "name": "winfile",
+      "href": "https://github.com/Microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 4414,
+      "forks": 489
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28648,
+      "forks": 11056
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7166,
+      "forks": 4484
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 5714,
+      "forks": 2353
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 10003,
+      "forks": 685
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 7941,
+      "forks": 4655
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 6997,
+      "forks": 2719
+    }
+  ]
+}
