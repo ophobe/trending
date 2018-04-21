@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "facebookincubator",
+      "name": "fastmod",
+      "href": "https://github.com/facebookincubator/fastmod",
+      "description": "A fast partial replacement for the codemod tool",
+      "language": "Rust",
+      "stars": 437,
+      "forks": 7
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1467,
+      "forks": 80
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10262,
+      "forks": 400
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 27798,
+      "forks": 4861
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6535,
+      "forks": 133
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": 880,
+      "forks": 64
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12297,
+      "forks": 431
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6852,
+      "forks": 442
+    },
+    {
+      "author": "ashleygwilliams",
+      "name": "wasm-pack",
+      "href": "https://github.com/ashleygwilliams/wasm-pack",
+      "description": "📦✨ pack up the wasm and publish it to npm!",
+      "language": "Rust",
+      "stars": 464,
+      "forks": 18
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8606,
+      "forks": 342
+    },
+    {
+      "author": "google",
+      "name": "rerast",
+      "href": "https://github.com/google/rerast",
+      "description": "A tool for transforming Rust code using rules",
+      "language": "Rust",
+      "stars": 326,
+      "forks": 12
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "href": "https://github.com/solana-labs/solana",
+      "description": "High Performance Blockchain",
+      "language": "Rust",
+      "stars": 134,
+      "forks": 16
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 364,
+      "forks": 20
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1809,
+      "forks": 190
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1526,
+      "forks": 69
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 996,
+      "forks": 46
+    },
+    {
+      "author": "rcoh",
+      "name": "angle-grinder",
+      "href": "https://github.com/rcoh/angle-grinder",
+      "description": "Slice and dice log files on the command line",
+      "language": "Rust",
+      "stars": 302,
+      "forks": 9
+    },
+    {
+      "author": "yoshuawuyts",
+      "name": "human-panic",
+      "href": "https://github.com/yoshuawuyts/human-panic",
+      "description": "Panic messages for humans.",
+      "language": "Rust",
+      "stars": 146,
+      "forks": 9
+    },
+    {
+      "author": "rustwasm",
+      "name": "twiggy",
+      "href": "https://github.com/rustwasm/twiggy",
+      "description": "Twiggy is a code size profiler",
+      "language": "Rust",
+      "stars": 83,
+      "forks": 7
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Interoperating JS and Rust code",
+      "language": "Rust",
+      "stars": 638,
+      "forks": 37
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "href": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": 257,
+      "forks": 30
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 475,
+      "forks": 11
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 3888,
+      "forks": 121
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4328,
+      "forks": 277
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 707,
+      "forks": 47
+    }
+  ]
+}
