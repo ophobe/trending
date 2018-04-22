@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 17030,
+      "forks": 15599
+    },
+    {
+      "author": "graphcool",
+      "name": "prisma",
+      "href": "https://github.com/graphcool/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 7114,
+      "forks": 393
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 2585,
+      "forks": 360
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8463,
+      "forks": 2692
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka",
+      "language": "Scala",
+      "stars": 3987,
+      "forks": 878
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 766,
+      "forks": 152
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10096,
+      "forks": 2403
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Production-grade feature-rich service mesh for any platform",
+      "language": "Scala",
+      "stars": 3914,
+      "forks": 393
+    },
+    {
+      "author": "LukaJCB",
+      "name": "cats-bio",
+      "href": "https://github.com/LukaJCB/cats-bio",
+      "description": "Cats Bifunctor IO",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 0
+    },
+    {
+      "author": "spirom",
+      "name": "spark-streaming-with-kafka",
+      "href": "https://github.com/spirom/spark-streaming-with-kafka",
+      "description": "Self-contained examples of Apache Spark streaming integrated with Apache Kafka.",
+      "language": "Scala",
+      "stars": 78,
+      "forks": 44
+    },
+    {
+      "author": "unibas-gravis",
+      "name": "scalismo-faces",
+      "href": "https://github.com/unibas-gravis/scalismo-faces",
+      "description": "Scalable Image Analysis and Shape Modelling: Module to work with 2d images, with a focus on face images",
+      "language": "Scala",
+      "stars": 31,
+      "forks": 9
+    },
+    {
+      "author": "earldouglas",
+      "name": "xsbt-web-plugin",
+      "href": "https://github.com/earldouglas/xsbt-web-plugin",
+      "description": "Build J2EE Web applications in Scala",
+      "language": "Scala",
+      "stars": 361,
+      "forks": 98
+    },
+    {
+      "author": "julienrf",
+      "name": "endpoints",
+      "href": "https://github.com/julienrf/endpoints",
+      "description": "Scala library to define HTTP-based communication protocols",
+      "language": "Scala",
+      "stars": 142,
+      "forks": 18
+    },
+    {
+      "author": "slick",
+      "name": "slick",
+      "href": "https://github.com/slick/slick",
+      "description": "Scala Language Integrated Connection Kit",
+      "language": "Scala",
+      "stars": 2010,
+      "forks": 473
+    },
+    {
+      "author": "thomsonreuters",
+      "name": "CM-Well",
+      "href": "https://github.com/thomsonreuters/CM-Well",
+      "description": "CM-Well - a data warehouse for your knowledge graph",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 27
+    },
+    {
+      "author": "sbt",
+      "name": "zinc",
+      "href": "https://github.com/sbt/zinc",
+      "description": "Scala incremental compiler library, originally part of sbt",
+      "language": "Scala",
+      "stars": 146,
+      "forks": 65
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle",
+      "href": "https://github.com/lihaoyi/upickle",
+      "description": "uPickle: a simple, fast, dependency-free JSON serialization library for Scala",
+      "language": "Scala",
+      "stars": 339,
+      "forks": 90
+    },
+    {
+      "author": "AlexITC",
+      "name": "crypto-coin-alerts",
+      "href": "https://github.com/AlexITC/crypto-coin-alerts",
+      "description": "An application that let you set alerts for the prices of several crypto currencies",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 8
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Non Blocking, Type Safe, HTTP, REST API, TCP",
+      "language": "Scala",
+      "stars": 1145,
+      "forks": 450
+    },
+    {
+      "author": "ACINQ",
+      "name": "eclair",
+      "href": "https://github.com/ACINQ/eclair",
+      "description": "A scala implementation of the Lightning Network.",
+      "language": "Scala",
+      "stars": 559,
+      "forks": 106
+    },
+    {
+      "author": "lendup",
+      "name": "fs2-blobstore",
+      "href": "https://github.com/lendup/fs2-blobstore",
+      "description": "Minimal, idiomatic, stream-based Scala interface for key/value store implementations",
+      "language": "Scala",
+      "stars": 56,
+      "forks": 12
+    },
+    {
+      "author": "squeryl",
+      "name": "squeryl",
+      "href": "https://github.com/squeryl/squeryl",
+      "description": "A Scala DSL for talking with databases with minimum verbosity and maximum type safety",
+      "language": "Scala",
+      "stars": 501,
+      "forks": 121
+    },
+    {
+      "author": "playframework",
+      "name": "play-ws",
+      "href": "https://github.com/playframework/play-ws",
+      "description": "Standalone Play WS, an async HTTP client with fluent API",
+      "language": "Scala",
+      "stars": 106,
+      "forks": 39
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11230,
+      "forks": 1808
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10365,
+      "forks": 3517
+    }
+  ]
+}
