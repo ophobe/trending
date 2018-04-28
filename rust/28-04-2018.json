@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nokia",
+      "name": "nperf",
+      "href": "https://github.com/nokia/nperf",
+      "description": "A sampling CPU profiler for Linux",
+      "language": "Rust",
+      "stars": 195,
+      "forks": 2
+    },
+    {
+      "author": "QCGPU",
+      "name": "qcgpu-rust",
+      "href": "https://github.com/QCGPU/qcgpu-rust",
+      "description": "A High Performance, Hardware accelerated, Quantum computer simulator in Rust",
+      "language": "Rust",
+      "stars": 219,
+      "forks": 10
+    },
+    {
+      "author": "ashleygwilliams",
+      "name": "wasm-pack",
+      "href": "https://github.com/ashleygwilliams/wasm-pack",
+      "description": "📦✨ pack up the wasm and publish it to npm!",
+      "language": "Rust",
+      "stars": 572,
+      "forks": 21
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 27954,
+      "forks": 4881
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": 955,
+      "forks": 69
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6655,
+      "forks": 138
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10413,
+      "forks": 409
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12358,
+      "forks": 433
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8673,
+      "forks": 345
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "href": "https://github.com/solana-labs/solana",
+      "description": "High Performance Blockchain",
+      "language": "Rust",
+      "stars": 174,
+      "forks": 19
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 6902,
+      "forks": 446
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11562,
+      "forks": 1900
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 5240,
+      "forks": 132
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Interoperating JS and Rust code",
+      "language": "Rust",
+      "stars": 689,
+      "forks": 40
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 745,
+      "forks": 49
+    },
+    {
+      "author": "SubstratumNetwork",
+      "name": "SubstratumNode",
+      "href": "https://github.com/SubstratumNetwork/SubstratumNode",
+      "description": "WE ARE THE FOUNDATION OF THE DECENTRALIZED WEB.",
+      "language": "Rust",
+      "stars": 127,
+      "forks": 24
+    },
+    {
+      "author": "tensorflow",
+      "name": "rust",
+      "href": "https://github.com/tensorflow/rust",
+      "description": "Rust language bindings for TensorFlow",
+      "language": "Rust",
+      "stars": 1091,
+      "forks": 129
+    },
+    {
+      "author": "redox-os",
+      "name": "tfs",
+      "href": "https://github.com/redox-os/tfs",
+      "description": "Next Generation File System",
+      "language": "Rust",
+      "stars": 2552,
+      "forks": 106
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1523,
+      "forks": 86
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2633,
+      "forks": 260
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1558,
+      "forks": 71
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 758,
+      "forks": 224
+    },
+    {
+      "author": "alexcrichton",
+      "name": "cc-rs",
+      "href": "https://github.com/alexcrichton/cc-rs",
+      "description": "Rust library for build scripts to compile C/C++ code into a Rust library",
+      "language": "Rust",
+      "stars": 268,
+      "forks": 113
+    },
+    {
+      "author": "lfairy",
+      "name": "maud",
+      "href": "https://github.com/lfairy/maud",
+      "description": "📝 Compile-time HTML templates for Rust",
+      "language": "Rust",
+      "stars": 351,
+      "forks": 30
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1817,
+      "forks": 192
+    }
+  ]
+}
