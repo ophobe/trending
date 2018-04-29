@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "openemr",
+      "name": "openemr",
+      "href": "https://github.com/openemr/openemr",
+      "description": "OpenEMR is the most popular open source electronic health records and medical practice management solution. ONC certified with international usage, OpenEMR's goal is a superior alternative to its proprietary counterparts.",
+      "language": "PHP",
+      "stars": 732,
+      "forks": 627
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 42531,
+      "forks": 13182
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 12007,
+      "forks": 5363
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 14299,
+      "forks": 5093
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 15521,
+      "forks": 2044
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 9998,
+      "forks": 1331
+    },
+    {
+      "author": "docker",
+      "name": "labs",
+      "href": "https://github.com/docker/labs",
+      "description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+      "language": "PHP",
+      "stars": 5349,
+      "forks": 2021
+    },
+    {
+      "author": "mailcow",
+      "name": "mailcow-dockerized",
+      "href": "https://github.com/mailcow/mailcow-dockerized",
+      "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+      "language": "PHP",
+      "stars": 881,
+      "forks": 209
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 9818,
+      "forks": 1595
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 6138,
+      "forks": 495
+    },
+    {
+      "author": "ramsey",
+      "name": "uuid",
+      "href": "https://github.com/ramsey/uuid",
+      "description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
+      "language": "PHP",
+      "stars": 5505,
+      "forks": 244
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 3323,
+      "forks": 177
+    },
+    {
+      "author": "doctrine",
+      "name": "instantiator",
+      "href": "https://github.com/doctrine/instantiator",
+      "description": null,
+      "language": "PHP",
+      "stars": 3156,
+      "forks": 33
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 3126,
+      "forks": 35
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 4831,
+      "forks": 186
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 6200,
+      "forks": 447
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": null,
+      "language": "PHP",
+      "stars": 3252,
+      "forks": 75
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-mbstring",
+      "href": "https://github.com/symfony/polyfill-mbstring",
+      "description": "This component provides a partial, native PHP implementation for the Mbstring extension.",
+      "language": "PHP",
+      "stars": 3094,
+      "forks": 13
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 3037,
+      "forks": 23
+    },
+    {
+      "author": "doctrine",
+      "name": "lexer",
+      "href": "https://github.com/doctrine/lexer",
+      "description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.",
+      "language": "PHP",
+      "stars": 3114,
+      "forks": 18
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 3035,
+      "forks": 55
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 3030,
+      "forks": 41
+    },
+    {
+      "author": "Askedio",
+      "name": "laravel-soft-cascade",
+      "href": "https://github.com/Askedio/laravel-soft-cascade",
+      "description": "Cascade Delete & Restore when using Laravel SoftDeletes",
+      "language": "PHP",
+      "stars": 170,
+      "forks": 19
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 8919,
+      "forks": 939
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 3512,
+      "forks": 139
+    }
+  ]
+}
