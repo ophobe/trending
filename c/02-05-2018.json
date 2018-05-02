@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "hasura",
+      "name": "skor",
+      "href": "https://github.com/hasura/skor",
+      "description": "Listen to postgres events and forward them as JSON payloads to a webhook",
+      "language": "C",
+      "stars": 304,
+      "forks": 1
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 58256,
+      "forks": 21436
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 5314,
+      "forks": 312
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 5421,
+      "forks": 245
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22118,
+      "forks": 12860
+    },
+    {
+      "author": "boazsegev",
+      "name": "iodine",
+      "href": "https://github.com/boazsegev/iodine",
+      "description": "iodine - HTTP / Websocket Server with Pub/Sub support, optimized for Ruby MRI on Linux / BSD",
+      "language": "C",
+      "stars": 397,
+      "forks": 17
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29202,
+      "forks": 2444
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 28844,
+      "forks": 11143
+    },
+    {
+      "author": "ohler55",
+      "name": "agoo",
+      "href": "https://github.com/ohler55/agoo",
+      "description": "A High Performance HTTP Server for Ruby",
+      "language": "C",
+      "stars": 55,
+      "forks": 2
+    },
+    {
+      "author": "Simon-Leeeeeeeee",
+      "name": "XCodeScanner",
+      "href": "https://github.com/Simon-Leeeeeeeee/XCodeScanner",
+      "description": "A new frame for decode QR code and bar code on Android. It's faster, simpler and more accurate.",
+      "language": "C",
+      "stars": 296,
+      "forks": 22
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 10686,
+      "forks": 4472
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4162,
+      "forks": 300
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7495,
+      "forks": 3671
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12508,
+      "forks": 1577
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 614,
+      "forks": 56
+    },
+    {
+      "author": "nwert",
+      "name": "hekate",
+      "href": "https://github.com/nwert/hekate",
+      "description": "Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": 120,
+      "forks": 24
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 15732,
+      "forks": 1275
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9122,
+      "forks": 1523
+    },
+    {
+      "author": "troglobit",
+      "name": "nemesis",
+      "href": "https://github.com/troglobit/nemesis",
+      "description": "A command-line network packet crafting and injection utility",
+      "language": "C",
+      "stars": 164,
+      "forks": 13
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8245,
+      "forks": 2301
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 7264,
+      "forks": 1367
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 2853,
+      "forks": 136
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 5634,
+      "forks": 1329
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9247,
+      "forks": 2128
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "ESP8266 deauther",
+      "language": "C",
+      "stars": 2799,
+      "forks": 729
+    }
+  ]
+}
