@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 2745,
+      "forks": 85
+    },
+    {
+      "author": "github",
+      "name": "gh-ost",
+      "href": "https://github.com/github/gh-ost",
+      "description": "GitHub's Online Schema Migrations for MySQL",
+      "language": "Go",
+      "stars": 4285,
+      "forks": 313
+    },
+    {
+      "author": "iotexproject",
+      "name": "iotex-core",
+      "href": "https://github.com/iotexproject/iotex-core",
+      "description": "Connecting the physical world, block by block.",
+      "language": "Go",
+      "stars": 412,
+      "forks": 46
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 298,
+      "forks": 21
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 35865,
+      "forks": 12649
+    },
+    {
+      "author": "linclin",
+      "name": "gopub",
+      "href": "https://github.com/linclin/gopub",
+      "description": "vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数",
+      "language": "Go",
+      "stars": 271,
+      "forks": 50
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 41124,
+      "forks": 5593
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 30376,
+      "forks": 3921
+    },
+    {
+      "author": "benjojo",
+      "name": "yubiTLS",
+      "href": "https://github.com/benjojo/yubiTLS",
+      "description": "A Go TLS/HTTPS server demo that uses a Yubikey as the backend for it's private key",
+      "language": "Go",
+      "stars": 57,
+      "forks": 2
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 17212,
+      "forks": 5480
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 128,
+      "forks": 10
+    },
+    {
+      "author": "google",
+      "name": "netstack",
+      "href": "https://github.com/google/netstack",
+      "description": "IPv4 and IPv6 userland network stack",
+      "language": "Go",
+      "stars": 2019,
+      "forks": 142
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 2672,
+      "forks": 378
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "skaffold",
+      "href": "https://github.com/GoogleContainerTools/skaffold",
+      "description": "Easy and Repeatable Kubernetes Development",
+      "language": "Go",
+      "stars": 3447,
+      "forks": 140
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 11766,
+      "forks": 2156
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 16939,
+      "forks": 1982
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 48751,
+      "forks": 14298
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 25335,
+      "forks": 3088
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 18129,
+      "forks": 3569
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 22348,
+      "forks": 6529
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 371,
+      "forks": 52
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 8348,
+      "forks": 827
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 13090,
+      "forks": 1771
+    },
+    {
+      "author": "dutchcoders",
+      "name": "slackarchive",
+      "href": "https://github.com/dutchcoders/slackarchive",
+      "description": "Archiver for Slack Teams",
+      "language": "Go",
+      "stars": 91,
+      "forks": 6
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 2191,
+      "forks": 410
+    }
+  ]
+}
