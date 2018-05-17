@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 58770,
+      "forks": 21616
+    },
+    {
+      "author": "r0hi7",
+      "name": "BinExp",
+      "href": "https://github.com/r0hi7/BinExp",
+      "description": "Linux Binary Exploitation",
+      "language": "C",
+      "stars": 89,
+      "forks": 8
+    },
+    {
+      "author": "lemire",
+      "name": "fastvalidate-utf-8",
+      "href": "https://github.com/lemire/fastvalidate-utf-8",
+      "description": "header-only library to validate utf-8 strings at high speeds (using SIMD instructions)",
+      "language": "C",
+      "stars": 93,
+      "forks": 5
+    },
+    {
+      "author": "viabtc",
+      "name": "viabtc_exchange_server",
+      "href": "https://github.com/viabtc/viabtc_exchange_server",
+      "description": "A trading engine with high-speed performance and real-time notification",
+      "language": "C",
+      "stars": 1030,
+      "forks": 622
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7804,
+      "forks": 3860
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29090,
+      "forks": 11271
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12768,
+      "forks": 1608
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 5777,
+      "forks": 769
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22323,
+      "forks": 12994
+    },
+    {
+      "author": "MicrosoftArchive",
+      "name": "redis",
+      "href": "https://github.com/MicrosoftArchive/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes",
+      "language": "C",
+      "stars": 9575,
+      "forks": 11271
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 19049,
+      "forks": 5336
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8822,
+      "forks": 2124
+    },
+    {
+      "author": "mohamed-anwar",
+      "name": "Aquila",
+      "href": "https://github.com/mohamed-anwar/Aquila",
+      "description": "AquilaOS: UNIX-like Operating System",
+      "language": "C",
+      "stars": 170,
+      "forks": 8
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 10879,
+      "forks": 4517
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7237,
+      "forks": 2768
+    },
+    {
+      "author": "OWASP",
+      "name": "iGoat-Swift",
+      "href": "https://github.com/OWASP/iGoat-Swift",
+      "description": "OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS",
+      "language": "C",
+      "stars": 38,
+      "forks": 10
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7114,
+      "forks": 3450
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29491,
+      "forks": 2476
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17690,
+      "forks": 4809
+    },
+    {
+      "author": "RedisLabsModules",
+      "name": "RediSearch",
+      "href": "https://github.com/RedisLabsModules/RediSearch",
+      "description": "FullText Search module for redis",
+      "language": "C",
+      "stars": 1159,
+      "forks": 137
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 829,
+      "forks": 90
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 7368,
+      "forks": 1459
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8367,
+      "forks": 2334
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 7371,
+      "forks": 1411
+    },
+    {
+      "author": "quiet",
+      "name": "quiet",
+      "href": "https://github.com/quiet/quiet",
+      "description": "Transmit data with sound. Includes binaries for soundcards and .wav files.",
+      "language": "C",
+      "stars": 742,
+      "forks": 57
+    }
+  ]
+}
