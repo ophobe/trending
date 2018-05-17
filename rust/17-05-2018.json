@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 2503,
+      "forks": 70
+    },
+    {
+      "author": "joncatanio",
+      "name": "cannoli",
+      "href": "https://github.com/joncatanio/cannoli",
+      "description": "Cannoli Programming Language",
+      "language": "Rust",
+      "stars": 144,
+      "forks": 2
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2440,
+      "forks": 32
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28289,
+      "forks": 4921
+    },
+    {
+      "author": "spacekookie",
+      "name": "thunder",
+      "href": "https://github.com/spacekookie/thunder",
+      "description": "⚡ Doing zero-boilerplate commandline argument parsing in Rust",
+      "language": "Rust",
+      "stars": 205,
+      "forks": 4
+    },
+    {
+      "author": "svenstaro",
+      "name": "miniserve",
+      "href": "https://github.com/svenstaro/miniserve",
+      "description": "🌟 For when you really just want to serve some files over HTTP right now!",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 2
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 3051,
+      "forks": 123
+    },
+    {
+      "author": "djc",
+      "name": "askama",
+      "href": "https://github.com/djc/askama",
+      "description": "Type-safe, compiled Jinja-like templates for Rust",
+      "language": "Rust",
+      "stars": 372,
+      "forks": 19
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 2082,
+      "forks": 259
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8943,
+      "forks": 354
+    },
+    {
+      "author": "square",
+      "name": "sudo_pair",
+      "href": "https://github.com/square/sudo_pair",
+      "description": "Plugin for sudo that requires another human to approve and monitor privileged sudo sessions",
+      "language": "Rust",
+      "stars": 578,
+      "forks": 14
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of static analysis tools, linters and code quality checkers for various programming languages",
+      "language": "Rust",
+      "stars": 3005,
+      "forks": 363
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6904,
+      "forks": 150
+    },
+    {
+      "author": "dtolnay",
+      "name": "reflect",
+      "href": "https://github.com/dtolnay/reflect",
+      "description": "Compile-time reflection API for developing robust procedural macros",
+      "language": "Rust",
+      "stars": 104,
+      "forks": 2
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1121,
+      "forks": 76
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-rust",
+      "href": "https://github.com/shadowsocks/shadowsocks-rust",
+      "description": "A Rust port of shadowsocks",
+      "language": "Rust",
+      "stars": 666,
+      "forks": 195
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1674,
+      "forks": 93
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 5508,
+      "forks": 137
+    },
+    {
+      "author": "frol",
+      "name": "completely-unscientific-benchmarks",
+      "href": "https://github.com/frol/completely-unscientific-benchmarks",
+      "description": "Naive performance comparison of a few programming languages (JavaScript, Kotlin, Rust, Swift, Nim, Python, Go, Haskell, D, C++, Java, C#, Object Pascal, Ada)",
+      "language": "Rust",
+      "stars": 103,
+      "forks": 35
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10612,
+      "forks": 424
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11701,
+      "forks": 1903
+    },
+    {
+      "author": "slide-rs",
+      "name": "specs",
+      "href": "https://github.com/slide-rs/specs",
+      "description": "Specs - Parallel ECS",
+      "language": "Rust",
+      "stars": 600,
+      "forks": 67
+    },
+    {
+      "author": "bluejekyll",
+      "name": "trust-dns",
+      "href": "https://github.com/bluejekyll/trust-dns",
+      "description": "A Rust based DNS client, server, and resolver",
+      "language": "Rust",
+      "stars": 806,
+      "forks": 66
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4469,
+      "forks": 295
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A high-performance, bindless graphics API for Rust.",
+      "language": "Rust",
+      "stars": 1650,
+      "forks": 251
+    }
+  ]
+}
