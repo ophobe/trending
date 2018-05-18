@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "r0hi7",
+      "name": "BinExp",
+      "href": "https://github.com/r0hi7/BinExp",
+      "description": "Linux Binary Exploitation",
+      "language": "C",
+      "stars": 159,
+      "forks": 17
+    },
+    {
+      "author": "dstogov",
+      "name": "php-tensorflow",
+      "href": "https://github.com/dstogov/php-tensorflow",
+      "description": "PHP TensorFlow Binding",
+      "language": "C",
+      "stars": 66,
+      "forks": 0
+    },
+    {
+      "author": "namhyung",
+      "name": "uftrace",
+      "href": "https://github.com/namhyung/uftrace",
+      "description": "Function (graph) tracer for user-space",
+      "language": "C",
+      "stars": 812,
+      "forks": 112
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 58809,
+      "forks": 21629
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22354,
+      "forks": 13005
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12799,
+      "forks": 1609
+    },
+    {
+      "author": "Lede-Inc",
+      "name": "cetus",
+      "href": "https://github.com/Lede-Inc/cetus",
+      "description": "专注于稳定、性能和分布式事务的MySQL数据库中间件",
+      "language": "C",
+      "stars": 519,
+      "forks": 113
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29112,
+      "forks": 11281
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17712,
+      "forks": 4809
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29517,
+      "forks": 2477
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8843,
+      "forks": 2124
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 7819,
+      "forks": 3878
+    },
+    {
+      "author": "viabtc",
+      "name": "viabtc_exchange_server",
+      "href": "https://github.com/viabtc/viabtc_exchange_server",
+      "description": "A trading engine with high-speed performance and real-time notification",
+      "language": "C",
+      "stars": 1049,
+      "forks": 628
+    },
+    {
+      "author": "MicrosoftArchive",
+      "name": "redis",
+      "href": "https://github.com/MicrosoftArchive/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes",
+      "language": "C",
+      "stars": 9595,
+      "forks": 11281
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 3066,
+      "forks": 145
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 19063,
+      "forks": 5339
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7327,
+      "forks": 4642
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 10892,
+      "forks": 4521
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7129,
+      "forks": 3451
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 14684,
+      "forks": 1728
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 15161,
+      "forks": 966
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 7381,
+      "forks": 1459
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 5708,
+      "forks": 268
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9262,
+      "forks": 1549
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 6531,
+      "forks": 1718
+    }
+  ]
+}
