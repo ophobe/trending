@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12642,
+      "forks": 435
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 2692,
+      "forks": 77
+    },
+    {
+      "author": "frankmcsherry",
+      "name": "datafrog",
+      "href": "https://github.com/frankmcsherry/datafrog",
+      "description": "A lightweight Datalog engine in Rust",
+      "language": "Rust",
+      "stars": 90,
+      "forks": 5
+    },
+    {
+      "author": "joncatanio",
+      "name": "cannoli",
+      "href": "https://github.com/joncatanio/cannoli",
+      "description": "Cannoli Programming Language",
+      "language": "Rust",
+      "stars": 527,
+      "forks": 12
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 1057,
+      "forks": 48
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2489,
+      "forks": 33
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10640,
+      "forks": 426
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 6941,
+      "forks": 153
+    },
+    {
+      "author": "chancancode",
+      "name": "rust-delegate",
+      "href": "https://github.com/chancancode/rust-delegate",
+      "description": "Rust method delegation with less boilerplate",
+      "language": "Rust",
+      "stars": 39,
+      "forks": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28336,
+      "forks": 4926
+    },
+    {
+      "author": "mitsuhiko",
+      "name": "systemfd",
+      "href": "https://github.com/mitsuhiko/systemfd",
+      "description": "Development helper utility for helping with auto reloading for projects supporting systemd socket activation",
+      "language": "Rust",
+      "stars": 29,
+      "forks": 0
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1153,
+      "forks": 115
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 4136,
+      "forks": 131
+    },
+    {
+      "author": "frankmcsherry",
+      "name": "differential-dataflow",
+      "href": "https://github.com/frankmcsherry/differential-dataflow",
+      "description": "An implementation of differential dataflow using timely dataflow on Rust.",
+      "language": "Rust",
+      "stars": 357,
+      "forks": 28
+    },
+    {
+      "author": "svenstaro",
+      "name": "miniserve",
+      "href": "https://github.com/svenstaro/miniserve",
+      "description": "🌟 For when you really just want to serve some files over HTTP right now!",
+      "language": "Rust",
+      "stars": 104,
+      "forks": 3
+    },
+    {
+      "author": "Plume-org",
+      "name": "Plume",
+      "href": "https://github.com/Plume-org/Plume",
+      "description": "WIP — Federated blog engine (Medium but with ActivityPub)",
+      "language": "Rust",
+      "stars": 146,
+      "forks": 8
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 8962,
+      "forks": 353
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4480,
+      "forks": 296
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 1099,
+      "forks": 172
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "polonius",
+      "href": "https://github.com/rust-lang-nursery/polonius",
+      "description": "Defines the Rust borrow checker.",
+      "language": "Rust",
+      "stars": 100,
+      "forks": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2069,
+      "forks": 621
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11712,
+      "forks": 1902
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 3068,
+      "forks": 126
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1688,
+      "forks": 94
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 733,
+      "forks": 55
+    }
+  ]
+}
