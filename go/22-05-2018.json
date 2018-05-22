@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 993,
+      "forks": 65
+    },
+    {
+      "author": "francoispqt",
+      "name": "gojay",
+      "href": "https://github.com/francoispqt/gojay",
+      "description": "highly performant JSON encoder/decoder with powerful stream API for Golang",
+      "language": "Go",
+      "stars": 1195,
+      "forks": 23
+    },
+    {
+      "author": "benjojo",
+      "name": "bgp-battleships",
+      "href": "https://github.com/benjojo/bgp-battleships",
+      "description": "Play battleships using BGP",
+      "language": "Go",
+      "stars": 160,
+      "forks": 2
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 41827,
+      "forks": 5698
+    },
+    {
+      "author": "aQuaYi",
+      "name": "LeetCode-in-Go",
+      "href": "https://github.com/aQuaYi/LeetCode-in-Go",
+      "description": "🎓 Go Solution for LeetCode algorithm problems, 100% coverage, continually updating.",
+      "language": "Go",
+      "stars": 421,
+      "forks": 65
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 36633,
+      "forks": 12888
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 5714,
+      "forks": 224
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 17865,
+      "forks": 5726
+    },
+    {
+      "author": "improbable-eng",
+      "name": "thanos",
+      "href": "https://github.com/improbable-eng/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities.",
+      "language": "Go",
+      "stars": 1143,
+      "forks": 46
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 17415,
+      "forks": 2051
+    },
+    {
+      "author": "strongdm",
+      "name": "comply",
+      "href": "https://github.com/strongdm/comply",
+      "description": "Compliance automation framework, focused on SOC2",
+      "language": "Go",
+      "stars": 78,
+      "forks": 6
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 2523,
+      "forks": 447
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 31005,
+      "forks": 3993
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 4375,
+      "forks": 329
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 25821,
+      "forks": 3124
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴",
+      "language": "Go",
+      "stars": 35007,
+      "forks": 8178
+    },
+    {
+      "author": "eugene-eeo",
+      "name": "orchid",
+      "href": "https://github.com/eugene-eeo/orchid",
+      "description": "very tiny music player",
+      "language": "Go",
+      "stars": 37,
+      "forks": 3
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 8166,
+      "forks": 1101
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 12252,
+      "forks": 2263
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Go 夜读 - Gopher 每周三或周四晚上 Go 源码阅读技术分享。",
+      "language": "Go",
+      "stars": 306,
+      "forks": 19
+    },
+    {
+      "author": "kubernetes",
+      "name": "helm",
+      "href": "https://github.com/kubernetes/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 5625,
+      "forks": 1948
+    },
+    {
+      "author": "shadowsocks",
+      "name": "go-shadowsocks2",
+      "href": "https://github.com/shadowsocks/go-shadowsocks2",
+      "description": "Next-generation Shadowsocks in Go",
+      "language": "Go",
+      "stars": 691,
+      "forks": 329
+    },
+    {
+      "author": "U-Network",
+      "name": "UNetwork",
+      "href": "https://github.com/U-Network/UNetwork",
+      "description": "U Network Public Blockchain",
+      "language": "Go",
+      "stars": 170,
+      "forks": 14
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 22763,
+      "forks": 6643
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 24937,
+      "forks": 2904
+    }
+  ]
+}
