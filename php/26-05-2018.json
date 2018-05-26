@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "phan",
+      "name": "phan",
+      "href": "https://github.com/phan/phan",
+      "description": "Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.",
+      "language": "PHP",
+      "stars": 2988,
+      "forks": 210
+    },
+    {
+      "author": "spatie",
+      "name": "typed",
+      "href": "https://github.com/spatie/typed",
+      "description": "Improvements to PHP's type system in userland: generics, typed lists, tuples and structs",
+      "language": "PHP",
+      "stars": 107,
+      "forks": 2
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 43220,
+      "forks": 13400
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 12748,
+      "forks": 1726
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 14719,
+      "forks": 5150
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 10129,
+      "forks": 1604
+    },
+    {
+      "author": "Roave",
+      "name": "BackwardCompatibilityCheck",
+      "href": "https://github.com/Roave/BackwardCompatibilityCheck",
+      "description": "🆎 Tool to compare two revisions of a class API to check for BC breaks",
+      "language": "PHP",
+      "stars": 100,
+      "forks": 6
+    },
+    {
+      "author": "overtrue",
+      "name": "laravel-emoji",
+      "href": "https://github.com/overtrue/laravel-emoji",
+      "description": "😄 This package assist you in getting started with emoji easily.",
+      "language": "PHP",
+      "stars": 85,
+      "forks": 4
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 10372,
+      "forks": 1349
+    },
+    {
+      "author": "matomo-org",
+      "name": "matomo",
+      "href": "https://github.com/matomo-org/matomo",
+      "description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!",
+      "language": "PHP",
+      "stars": 9377,
+      "forks": 1577
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 12407,
+      "forks": 5418
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "href": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": 2618,
+      "forks": 887
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 17651,
+      "forks": 6220
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 15897,
+      "forks": 2079
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 3790,
+      "forks": 142
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 3584,
+      "forks": 178
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 3281,
+      "forks": 44
+    },
+    {
+      "author": "hhxsv5",
+      "name": "laravel-s",
+      "href": "https://github.com/hhxsv5/laravel-s",
+      "description": "🚀 LaravelS: speed up Laravel/Lumen by Swoole, let's fly.",
+      "language": "PHP",
+      "stars": 770,
+      "forks": 87
+    },
+    {
+      "author": "swooletw",
+      "name": "laravel-swoole",
+      "href": "https://github.com/swooletw/laravel-swoole",
+      "description": "High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.",
+      "language": "PHP",
+      "stars": 743,
+      "forks": 46
+    },
+    {
+      "author": "bcit-ci",
+      "name": "CodeIgniter",
+      "href": "https://github.com/bcit-ci/CodeIgniter",
+      "description": "Open Source PHP Framework (originally from EllisLab)",
+      "language": "PHP",
+      "stars": 16145,
+      "forks": 7398
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 5185,
+      "forks": 673
+    },
+    {
+      "author": "paragonie",
+      "name": "random_compat",
+      "href": "https://github.com/paragonie/random_compat",
+      "description": "PHP 5.x support for random_bytes() and random_int()",
+      "language": "PHP",
+      "stars": 3570,
+      "forks": 71
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 3383,
+      "forks": 35
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 3300,
+      "forks": 26
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 3360,
+      "forks": 31
+    }
+  ]
+}
