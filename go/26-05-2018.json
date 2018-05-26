@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter.",
+      "language": "Go",
+      "stars": 138,
+      "forks": 2
+    },
+    {
+      "author": "intenthq",
+      "name": "anon",
+      "href": "https://github.com/intenthq/anon",
+      "description": "A UNIX Command To Anonymise Data",
+      "language": "Go",
+      "stars": 287,
+      "forks": 7
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 41993,
+      "forks": 5724
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 36823,
+      "forks": 12933
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 17978,
+      "forks": 5785
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software",
+      "language": "Go",
+      "stars": 4483,
+      "forks": 829
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 31118,
+      "forks": 4010
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 22856,
+      "forks": 6667
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Gitea: Git with a cup of tea",
+      "language": "Go",
+      "stars": 6902,
+      "forks": 715
+    },
+    {
+      "author": "ketchuphq",
+      "name": "ketchup",
+      "href": "https://github.com/ketchuphq/ketchup",
+      "description": "A simple CMS 🍅",
+      "language": "Go",
+      "stars": 304,
+      "forks": 16
+    },
+    {
+      "author": "genuinetools",
+      "name": "img",
+      "href": "https://github.com/genuinetools/img",
+      "description": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+      "language": "Go",
+      "stars": 1484,
+      "forks": 54
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 20664,
+      "forks": 1759
+    },
+    {
+      "author": "gogits",
+      "name": "gogs",
+      "href": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 25045,
+      "forks": 2916
+    },
+    {
+      "author": "gobuffalo",
+      "name": "pop",
+      "href": "https://github.com/gobuffalo/pop",
+      "description": "A Tasty Treat For All Your Database Needs",
+      "language": "Go",
+      "stars": 214,
+      "forks": 102
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 15409,
+      "forks": 1528
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 25938,
+      "forks": 3130
+    },
+    {
+      "author": "keybase",
+      "name": "saltpack",
+      "href": "https://github.com/keybase/saltpack",
+      "description": "a modern crypto messaging format",
+      "language": "Go",
+      "stars": 351,
+      "forks": 16
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 5517,
+      "forks": 1574
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 18494,
+      "forks": 3670
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 8316,
+      "forks": 1763
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 12365,
+      "forks": 2289
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 14642,
+      "forks": 587
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 5797,
+      "forks": 235
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 9068,
+      "forks": 1290
+    },
+    {
+      "author": "gobuffalo",
+      "name": "buffalo",
+      "href": "https://github.com/gobuffalo/buffalo",
+      "description": "Rapid Web Development w/ Go",
+      "language": "Go",
+      "stars": 2870,
+      "forks": 216
+    }
+  ]
+}
