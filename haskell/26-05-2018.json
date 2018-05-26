@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 11706,
+      "forks": 1380
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3162,
+      "forks": 266
+    },
+    {
+      "author": "tathougies",
+      "name": "beam",
+      "href": "https://github.com/tathougies/beam",
+      "description": "A type-safe, non-TH Haskell SQL library and ORM",
+      "language": "Haskell",
+      "stars": 208,
+      "forks": 43
+    },
+    {
+      "author": "composewell",
+      "name": "streamly",
+      "href": "https://github.com/composewell/streamly",
+      "description": "Beautiful Streaming, Concurrent and Reactive Composition (Haskell)",
+      "language": "Haskell",
+      "stars": 126,
+      "forks": 12
+    },
+    {
+      "author": "aloiscochard",
+      "name": "codex",
+      "href": "https://github.com/aloiscochard/codex",
+      "description": "A ctags file generator for cabal/stack project dependencies.",
+      "language": "Haskell",
+      "stars": 136,
+      "forks": 25
+    },
+    {
+      "author": "conal",
+      "name": "concat",
+      "href": "https://github.com/conal/concat",
+      "description": "Constrained categories",
+      "language": "Haskell",
+      "stars": 180,
+      "forks": 17
+    },
+    {
+      "author": "lierdakil",
+      "name": "pandoc-crossref",
+      "href": "https://github.com/lierdakil/pandoc-crossref",
+      "description": "Pandoc filter for cross-references",
+      "language": "Haskell",
+      "stars": 245,
+      "forks": 26
+    },
+    {
+      "author": "brendanhay",
+      "name": "amazonka",
+      "href": "https://github.com/brendanhay/amazonka",
+      "description": "A comprehensive Amazon Web Services SDK for Haskell.",
+      "language": "Haskell",
+      "stars": 301,
+      "forks": 91
+    },
+    {
+      "author": "google",
+      "name": "codeworld",
+      "href": "https://github.com/google/codeworld",
+      "description": "Educational computer programming environment using Haskell",
+      "language": "Haskell",
+      "stars": 766,
+      "forks": 111
+    },
+    {
+      "author": "fpco",
+      "name": "unliftio",
+      "href": "https://github.com/fpco/unliftio",
+      "description": "The MonadUnliftIO typeclass for unlifting monads to IO",
+      "language": "Haskell",
+      "stars": 35,
+      "forks": 11
+    },
+    {
+      "author": "geophf",
+      "name": "1HaskellADay",
+      "href": "https://github.com/geophf/1HaskellADay",
+      "description": null,
+      "language": "Haskell",
+      "stars": 177,
+      "forks": 34
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 11215,
+      "forks": 582
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 10802,
+      "forks": 478
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 4804,
+      "forks": 373
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4550,
+      "forks": 334
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2708,
+      "forks": 578
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 2564,
+      "forks": 406
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2428,
+      "forks": 575
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2266,
+      "forks": 875
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2257,
+      "forks": 120
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2224,
+      "forks": 54
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2132,
+      "forks": 77
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 2054,
+      "forks": 167
+    },
+    {
+      "author": "ghcjs",
+      "name": "ghcjs",
+      "href": "https://github.com/ghcjs/ghcjs",
+      "description": "Haskell to JavaScript compiler, based on GHC",
+      "language": "Haskell",
+      "stars": 1947,
+      "forks": 143
+    },
+    {
+      "author": "yesodweb",
+      "name": "yesod",
+      "href": "https://github.com/yesodweb/yesod",
+      "description": "A RESTful Haskell web framework built on WAI.",
+      "language": "Haskell",
+      "stars": 1932,
+      "forks": 314
+    }
+  ]
+}
