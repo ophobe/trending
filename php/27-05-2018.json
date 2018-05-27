@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "phan",
+      "name": "phan",
+      "href": "https://github.com/phan/phan",
+      "description": "Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.",
+      "language": "PHP",
+      "stars": 3058,
+      "forks": 211
+    },
+    {
+      "author": "Roave",
+      "name": "BackwardCompatibilityCheck",
+      "href": "https://github.com/Roave/BackwardCompatibilityCheck",
+      "description": "🆎 Tool to compare two revisions of a class API to check for BC breaks",
+      "language": "PHP",
+      "stars": 119,
+      "forks": 7
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 43234,
+      "forks": 13404
+    },
+    {
+      "author": "spatie",
+      "name": "typed",
+      "href": "https://github.com/spatie/typed",
+      "description": "Improvements to PHP's type system in userland: generics, typed lists, tuples and structs",
+      "language": "PHP",
+      "stars": 122,
+      "forks": 4
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 12416,
+      "forks": 5421
+    },
+    {
+      "author": "danog",
+      "name": "MadelineProto",
+      "href": "https://github.com/danog/MadelineProto",
+      "description": "PHP client/server for the telegram MTProto protocol (better tg-cli).",
+      "language": "PHP",
+      "stars": 510,
+      "forks": 139
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 17660,
+      "forks": 6221
+    },
+    {
+      "author": "the-control-group",
+      "name": "voyager",
+      "href": "https://github.com/the-control-group/voyager",
+      "description": "Voyager - The Missing Laravel Admin",
+      "language": "PHP",
+      "stars": 6238,
+      "forks": 1406
+    },
+    {
+      "author": "mnapoli",
+      "name": "bref",
+      "href": "https://github.com/mnapoli/bref",
+      "description": "Serverless framework for PHP",
+      "language": "PHP",
+      "stars": 200,
+      "forks": 8
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "href": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": 3775,
+      "forks": 242
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 15904,
+      "forks": 2080
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "href": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": 11134,
+      "forks": 6166
+    },
+    {
+      "author": "bcit-ci",
+      "name": "CodeIgniter",
+      "href": "https://github.com/bcit-ci/CodeIgniter",
+      "description": "Open Source PHP Framework (originally from EllisLab)",
+      "language": "PHP",
+      "stars": 16149,
+      "forks": 7398
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 12753,
+      "forks": 1726
+    },
+    {
+      "author": "overtrue",
+      "name": "laravel-emoji",
+      "href": "https://github.com/overtrue/laravel-emoji",
+      "description": "😄 This package assist you in getting started with emoji easily.",
+      "language": "PHP",
+      "stars": 92,
+      "forks": 4
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "href": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 4465,
+      "forks": 772
+    },
+    {
+      "author": "pojome",
+      "name": "elementor",
+      "href": "https://github.com/pojome/elementor",
+      "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+      "language": "PHP",
+      "stars": 1420,
+      "forks": 331
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 2907,
+      "forks": 473
+    },
+    {
+      "author": "matomo-org",
+      "name": "matomo",
+      "href": "https://github.com/matomo-org/matomo",
+      "description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!",
+      "language": "PHP",
+      "stars": 9382,
+      "forks": 1577
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 9208,
+      "forks": 945
+    },
+    {
+      "author": "swoft-cloud",
+      "name": "swoft",
+      "href": "https://github.com/swoft-cloud/swoft",
+      "description": "Modern High performance AOP and Coroutine PHP Framework, base on Swoole 2",
+      "language": "PHP",
+      "stars": 1430,
+      "forks": 229
+    },
+    {
+      "author": "ofcold",
+      "name": "identity-card",
+      "href": "https://github.com/ofcold/identity-card",
+      "description": "A simple proof of identity card of the people's Republic of China.",
+      "language": "PHP",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "NimaQu",
+      "name": "ss-panel-v3-mod_Uim",
+      "href": "https://github.com/NimaQu/ss-panel-v3-mod_Uim",
+      "description": "基于ss-panel-v3-mod的 UI 修改版",
+      "language": "PHP",
+      "stars": 254,
+      "forks": 315
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 10131,
+      "forks": 1604
+    },
+    {
+      "author": "cviebrock",
+      "name": "eloquent-sluggable",
+      "href": "https://github.com/cviebrock/eloquent-sluggable",
+      "description": "Easy creation of slugs for your Eloquent models in Laravel",
+      "language": "PHP",
+      "stars": 2036,
+      "forks": 299
+    }
+  ]
+}
