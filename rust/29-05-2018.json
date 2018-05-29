@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "sled likes eating data: alpha modern embedded database",
+      "language": "Rust",
+      "stars": 1220,
+      "forks": 37
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28489,
+      "forks": 4952
+    },
+    {
+      "author": "djc",
+      "name": "quinn",
+      "href": "https://github.com/djc/quinn",
+      "description": "Futures-based QUIC implementation in Rust",
+      "language": "Rust",
+      "stars": 47,
+      "forks": 5
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2653,
+      "forks": 38
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7017,
+      "forks": 156
+    },
+    {
+      "author": "rustlings",
+      "name": "rustlings",
+      "href": "https://github.com/rustlings/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code",
+      "language": "Rust",
+      "stars": 2518,
+      "forks": 162
+    },
+    {
+      "author": "bodil",
+      "name": "im-rs",
+      "href": "https://github.com/bodil/im-rs",
+      "description": "Assorted immutable collection datatypes for Rust",
+      "language": "Rust",
+      "stars": 369,
+      "forks": 12
+    },
+    {
+      "author": "dotcypress",
+      "name": "mtproxy",
+      "href": "https://github.com/dotcypress/mtproxy",
+      "description": "[WIP] MTProto proxy server",
+      "language": "Rust",
+      "stars": 118,
+      "forks": 9
+    },
+    {
+      "author": "da-x",
+      "name": "tetris-demo",
+      "href": "https://github.com/da-x/tetris-demo",
+      "description": "A Tetris example written in Rust using Piston",
+      "language": "Rust",
+      "stars": 34,
+      "forks": 1
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9049,
+      "forks": 358
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10736,
+      "forks": 436
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 4217,
+      "forks": 134
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 2918,
+      "forks": 89
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 1124,
+      "forks": 50
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1897,
+      "forks": 200
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1243,
+      "forks": 81
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 749,
+      "forks": 20
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 3198,
+      "forks": 406
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3218,
+      "forks": 773
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1715,
+      "forks": 96
+    },
+    {
+      "author": "joncatanio",
+      "name": "cannoli",
+      "href": "https://github.com/joncatanio/cannoli",
+      "description": "Cannoli Programming Language",
+      "language": "Rust",
+      "stars": 676,
+      "forks": 14
+    },
+    {
+      "author": "databricks",
+      "name": "click",
+      "href": "https://github.com/databricks/click",
+      "description": "The \"Command Line Interactive Controller for Kubernetes\"",
+      "language": "Rust",
+      "stars": 660,
+      "forks": 29
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 101,
+      "forks": 0
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4535,
+      "forks": 298
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4300,
+      "forks": 854
+    }
+  ]
+}
