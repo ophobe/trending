@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 59130,
+      "forks": 21746
+    },
+    {
+      "author": "baoleiji",
+      "name": "QilinBaoleiji",
+      "href": "https://github.com/baoleiji/QilinBaoleiji",
+      "description": "堡垒机-麒麟堡垒机，集堡垒机、SSLVPN-堡垒机内置、动态口令-堡垒机内置、应用审计-堡垒机内置、数据库审计-堡垒机内置、CA证书-堡垒机内置-堡垒机内置、云桌面-堡垒机内置、密码自动修改为一体的堡垒机系统",
+      "language": "C",
+      "stars": 286,
+      "forks": 31
+    },
+    {
+      "author": "ixty",
+      "name": "mandibule",
+      "href": "https://github.com/ixty/mandibule",
+      "description": "linux elf injector for x86 x86_64 arm arm64",
+      "language": "C",
+      "stars": 55,
+      "forks": 11
+    },
+    {
+      "author": "openzfsonwindows",
+      "name": "ZFSin",
+      "href": "https://github.com/openzfsonwindows/ZFSin",
+      "description": "OpenZFS ports",
+      "language": "C",
+      "stars": 350,
+      "forks": 14
+    },
+    {
+      "author": "dyu",
+      "name": "ffi-overhead",
+      "href": "https://github.com/dyu/ffi-overhead",
+      "description": "comparing the c ffi overhead on various programming languages",
+      "language": "C",
+      "stars": 174,
+      "forks": 19
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29693,
+      "forks": 2498
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29281,
+      "forks": 11352
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 7054,
+      "forks": 357
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 3214,
+      "forks": 150
+    },
+    {
+      "author": "CosmiQ",
+      "name": "yolt",
+      "href": "https://github.com/CosmiQ/yolt",
+      "description": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery",
+      "language": "C",
+      "stars": 48,
+      "forks": 19
+    },
+    {
+      "author": "jiangwenyuan",
+      "name": "nuster",
+      "href": "https://github.com/jiangwenyuan/nuster",
+      "description": "A caching proxy server based on HAProxy",
+      "language": "C",
+      "stars": 1008,
+      "forks": 70
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8004,
+      "forks": 4015
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17861,
+      "forks": 4828
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22573,
+      "forks": 13111
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 8236,
+      "forks": 4739
+    },
+    {
+      "author": "f0rb1dd3n",
+      "name": "Reptile",
+      "href": "https://github.com/f0rb1dd3n/Reptile",
+      "description": "LKM Linux rootkit",
+      "language": "C",
+      "stars": 746,
+      "forks": 152
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11045,
+      "forks": 4557
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 12927,
+      "forks": 1627
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7232,
+      "forks": 3480
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 5815,
+      "forks": 1362
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 8986,
+      "forks": 2138
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9365,
+      "forks": 1559
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 5823,
+      "forks": 287
+    },
+    {
+      "author": "OWASP",
+      "name": "iGoat-Swift",
+      "href": "https://github.com/OWASP/iGoat-Swift",
+      "description": "OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS",
+      "language": "C",
+      "stars": 71,
+      "forks": 18
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7337,
+      "forks": 2774
+    }
+  ]
+}
