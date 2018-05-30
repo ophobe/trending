@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "myntra",
+      "name": "golimit",
+      "href": "https://github.com/myntra/golimit",
+      "description": "Golimit is Uber ringpop based distributed and decentralized rate limiter",
+      "language": "Go",
+      "stars": 307,
+      "forks": 6
+    },
+    {
+      "author": "mgechev",
+      "name": "revive",
+      "href": "https://github.com/mgechev/revive",
+      "description": "Fast, configurable, extensible, flexible, and beautiful linter for Go.",
+      "language": "Go",
+      "stars": 84,
+      "forks": 0
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 42165,
+      "forks": 5745
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 18092,
+      "forks": 5832
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 36989,
+      "forks": 12976
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 89,
+      "forks": 9
+    },
+    {
+      "author": "senorprogrammer",
+      "name": "wtf",
+      "href": "https://github.com/senorprogrammer/wtf",
+      "description": "A personal information dashboard for your terminal.",
+      "language": "Go",
+      "stars": 201,
+      "forks": 7
+    },
+    {
+      "author": "schollz",
+      "name": "recursive-recipes",
+      "href": "https://github.com/schollz/recursive-recipes",
+      "description": "Visualize the recursive nature of recipes 🍰 🍪",
+      "language": "Go",
+      "stars": 60,
+      "forks": 3
+    },
+    {
+      "author": "ry",
+      "name": "v8worker2",
+      "href": "https://github.com/ry/v8worker2",
+      "description": "Minimal golang binding to V8",
+      "language": "Go",
+      "stars": 103,
+      "forks": 4
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 12490,
+      "forks": 2307
+    },
+    {
+      "author": "seeleteam",
+      "name": "go-seele",
+      "href": "https://github.com/seeleteam/go-seele",
+      "description": "Seele is powered by an up-scalable Neural Consensus protocol for high throughput concurrency among large scale heterogeneous nodes and is able to form a unique heterogeneous forest multi-chain ecosystem",
+      "language": "Go",
+      "stars": 127,
+      "forks": 43
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "hub helps you win at git.",
+      "language": "Go",
+      "stars": 12935,
+      "forks": 1279
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 31225,
+      "forks": 4034
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 17600,
+      "forks": 2078
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 5885,
+      "forks": 240
+    },
+    {
+      "author": "valyala",
+      "name": "fastjson",
+      "href": "https://github.com/valyala/fastjson",
+      "description": "Fast JSON parsing for Go",
+      "language": "Go",
+      "stars": 96,
+      "forks": 4
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 16637,
+      "forks": 2121
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 13485,
+      "forks": 1826
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 5486,
+      "forks": 3197
+    },
+    {
+      "author": "moncho",
+      "name": "dry",
+      "href": "https://github.com/moncho/dry",
+      "description": "dry - A Docker manager for the terminal @",
+      "language": "Go",
+      "stars": 1036,
+      "forks": 38
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 49076,
+      "forks": 14348
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 25123,
+      "forks": 2923
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 441,
+      "forks": 13
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 22947,
+      "forks": 6694
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 8340,
+      "forks": 1129
+    }
+  ]
+}
