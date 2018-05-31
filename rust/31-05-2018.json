@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 1146,
+      "forks": 32
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1047,
+      "forks": 58
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1401,
+      "forks": 85
+    },
+    {
+      "author": "cervus-v",
+      "name": "cervus",
+      "href": "https://github.com/cervus-v/cervus",
+      "description": "The Cervus Subsystem for Linux",
+      "language": "Rust",
+      "stars": 474,
+      "forks": 10
+    },
+    {
+      "author": "jgavris",
+      "name": "rs-git-fsmonitor",
+      "href": "https://github.com/jgavris/rs-git-fsmonitor",
+      "description": "A fast git core.fsmonitor hook written in Rust",
+      "language": "Rust",
+      "stars": 57,
+      "forks": 2
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of static analysis tools, linters and code quality checkers for various programming languages",
+      "language": "Rust",
+      "stars": 3139,
+      "forks": 382
+    },
+    {
+      "author": "cretonne",
+      "name": "cretonne",
+      "href": "https://github.com/cretonne/cretonne",
+      "description": "Cretonne code generator",
+      "language": "Rust",
+      "stars": 716,
+      "forks": 69
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2685,
+      "forks": 39
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28528,
+      "forks": 4954
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "sled likes eating data: alpha modern embedded database",
+      "language": "Rust",
+      "stars": 1284,
+      "forks": 38
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9068,
+      "forks": 359
+    },
+    {
+      "author": "trezm",
+      "name": "Thruster",
+      "href": "https://github.com/trezm/Thruster",
+      "description": "A fast, middleware based, web framework written in Rust",
+      "language": "Rust",
+      "stars": 128,
+      "forks": 6
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 47,
+      "forks": 18
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 2939,
+      "forks": 88
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4549,
+      "forks": 297
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4319,
+      "forks": 864
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10753,
+      "forks": 438
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1726,
+      "forks": 100
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 136,
+      "forks": 0
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7139,
+      "forks": 452
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2120,
+      "forks": 633
+    },
+    {
+      "author": "ashleygwilliams",
+      "name": "wasm-pack",
+      "href": "https://github.com/ashleygwilliams/wasm-pack",
+      "description": "📦✨ pack up the wasm and publish it to npm!",
+      "language": "Rust",
+      "stars": 646,
+      "forks": 22
+    },
+    {
+      "author": "da-x",
+      "name": "tetris-demo",
+      "href": "https://github.com/da-x/tetris-demo",
+      "description": "A Tetris example written in Rust using Piston in under 500 lines of code",
+      "language": "Rust",
+      "stars": 49,
+      "forks": 1
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1762,
+      "forks": 106
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 4234,
+      "forks": 136
+    }
+  ]
+}
