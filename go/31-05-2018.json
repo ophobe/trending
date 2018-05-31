@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "senorprogrammer",
+      "name": "wtf",
+      "href": "https://github.com/senorprogrammer/wtf",
+      "description": "A personal information dashboard for your terminal.",
+      "language": "Go",
+      "stars": 1370,
+      "forks": 50
+    },
+    {
+      "author": "mgechev",
+      "name": "revive",
+      "href": "https://github.com/mgechev/revive",
+      "description": "Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.",
+      "language": "Go",
+      "stars": 332,
+      "forks": 3
+    },
+    {
+      "author": "myntra",
+      "name": "golimit",
+      "href": "https://github.com/myntra/golimit",
+      "description": "Golimit is Uber ringpop based distributed and decentralized rate limiter",
+      "language": "Go",
+      "stars": 394,
+      "forks": 9
+    },
+    {
+      "author": "ry",
+      "name": "v8worker2",
+      "href": "https://github.com/ry/v8worker2",
+      "description": "Minimal golang binding to V8",
+      "language": "Go",
+      "stars": 184,
+      "forks": 4
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 12551,
+      "forks": 2309
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 42220,
+      "forks": 5748
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 37032,
+      "forks": 12990
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 18136,
+      "forks": 5848
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 134,
+      "forks": 9
+    },
+    {
+      "author": "valyala",
+      "name": "fastjson",
+      "href": "https://github.com/valyala/fastjson",
+      "description": "Fast JSON parsing for Go",
+      "language": "Go",
+      "stars": 148,
+      "forks": 6
+    },
+    {
+      "author": "Bilibili",
+      "name": "discovery",
+      "href": "https://github.com/Bilibili/discovery",
+      "description": "A registry for resilient mid-tier load balancing and failover.",
+      "language": "Go",
+      "stars": 57,
+      "forks": 4
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "Træfik, a modern reverse proxy",
+      "language": "Go",
+      "stars": 15527,
+      "forks": 1538
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 31264,
+      "forks": 4041
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 26049,
+      "forks": 3136
+    },
+    {
+      "author": "moncho",
+      "name": "dry",
+      "href": "https://github.com/moncho/dry",
+      "description": "dry - A Docker manager for the terminal @",
+      "language": "Go",
+      "stars": 1068,
+      "forks": 40
+    },
+    {
+      "author": "b3log",
+      "name": "pipe",
+      "href": "https://github.com/b3log/pipe",
+      "description": "🎷 A small and beautiful blogging platform. 小而美的博客平台。",
+      "language": "Go",
+      "stars": 972,
+      "forks": 148
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 22967,
+      "forks": 6706
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 8370,
+      "forks": 1135
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 17626,
+      "forks": 2083
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 16660,
+      "forks": 2126
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 18579,
+      "forks": 3689
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 25139,
+      "forks": 2931
+    },
+    {
+      "author": "palash25",
+      "name": "foaas-cli",
+      "href": "https://github.com/palash25/foaas-cli",
+      "description": "A terminal client to interact with Fuck Off 🖕 as a Service API.",
+      "language": "Go",
+      "stars": 33,
+      "forks": 1
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 49089,
+      "forks": 14347
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 11571,
+      "forks": 991
+    }
+  ]
+}
