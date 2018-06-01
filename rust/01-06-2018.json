@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ImageOptim",
+      "name": "gifski",
+      "href": "https://github.com/ImageOptim/gifski",
+      "description": "GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format.",
+      "language": "Rust",
+      "stars": 909,
+      "forks": 20
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1095,
+      "forks": 58
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 1190,
+      "forks": 32
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1430,
+      "forks": 85
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28554,
+      "forks": 4957
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2706,
+      "forks": 39
+    },
+    {
+      "author": "cervus-v",
+      "name": "cervus",
+      "href": "https://github.com/cervus-v/cervus",
+      "description": "The Cervus Subsystem for Linux",
+      "language": "Rust",
+      "stars": 491,
+      "forks": 11
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7155,
+      "forks": 454
+    },
+    {
+      "author": "square",
+      "name": "sudo_pair",
+      "href": "https://github.com/square/sudo_pair",
+      "description": "Plugin for sudo that requires another human to approve and monitor privileged sudo sessions",
+      "language": "Rust",
+      "stars": 645,
+      "forks": 21
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9082,
+      "forks": 359
+    },
+    {
+      "author": "ivanceras",
+      "name": "diwata",
+      "href": "https://github.com/ivanceras/diwata",
+      "description": "A user-friendly database interface",
+      "language": "Rust",
+      "stars": 144,
+      "forks": 1
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 4245,
+      "forks": 136
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of static analysis tools, linters and code quality checkers for various programming languages",
+      "language": "Rust",
+      "stars": 3151,
+      "forks": 382
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10760,
+      "forks": 438
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4330,
+      "forks": 864
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 2949,
+      "forks": 88
+    },
+    {
+      "author": "cretonne",
+      "name": "cretonne",
+      "href": "https://github.com/cretonne/cretonne",
+      "description": "Cretonne code generator",
+      "language": "Rust",
+      "stars": 726,
+      "forks": 69
+    },
+    {
+      "author": "trezm",
+      "name": "Thruster",
+      "href": "https://github.com/trezm/Thruster",
+      "description": "A fast, middleware based, web framework written in Rust",
+      "language": "Rust",
+      "stars": 138,
+      "forks": 6
+    },
+    {
+      "author": "jgavris",
+      "name": "rs-git-fsmonitor",
+      "href": "https://github.com/jgavris/rs-git-fsmonitor",
+      "description": "A fast git core.fsmonitor hook written in Rust",
+      "language": "Rust",
+      "stars": 65,
+      "forks": 2
+    },
+    {
+      "author": "dotcypress",
+      "name": "mtproxy",
+      "href": "https://github.com/dotcypress/mtproxy",
+      "description": "[WIP] MTProto proxy server",
+      "language": "Rust",
+      "stars": 142,
+      "forks": 12
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7031,
+      "forks": 156
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4557,
+      "forks": 297
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "sled likes eating data: alpha modern embedded database",
+      "language": "Rust",
+      "stars": 1290,
+      "forks": 38
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 53,
+      "forks": 18
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11770,
+      "forks": 1908
+    }
+  ]
+}
