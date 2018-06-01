@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "TelegramMessenger",
+      "name": "MTProxy",
+      "href": "https://github.com/TelegramMessenger/MTProxy",
+      "description": null,
+      "language": "C",
+      "stars": 520,
+      "forks": 56
+    },
+    {
+      "author": "yandex",
+      "name": "odyssey",
+      "href": "https://github.com/yandex/odyssey",
+      "description": "Scalable PostgreSQL connection pooler",
+      "language": "C",
+      "stars": 732,
+      "forks": 10
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 59256,
+      "forks": 21768
+    },
+    {
+      "author": "iqiyi",
+      "name": "xHook",
+      "href": "https://github.com/iqiyi/xHook",
+      "description": "🔥 A PLT hook library for Android native ELF (executable and shared libraries). Support Android 4.0+ (API level 14+). Support armeabi-v7a, arm64-v8a, x86 and x86_64.",
+      "language": "C",
+      "stars": 563,
+      "forks": 96
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 7118,
+      "forks": 360
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8058,
+      "forks": 4052
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29339,
+      "forks": 11379
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22650,
+      "forks": 13136
+    },
+    {
+      "author": "yrutschle",
+      "name": "sslh",
+      "href": "https://github.com/yrutschle/sslh",
+      "description": "Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)",
+      "language": "C",
+      "stars": 1759,
+      "forks": 164
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9419,
+      "forks": 1567
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9532,
+      "forks": 2173
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29767,
+      "forks": 2509
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17910,
+      "forks": 4834
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9041,
+      "forks": 2140
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7266,
+      "forks": 3492
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10382,
+      "forks": 723
+    },
+    {
+      "author": "iqiyi",
+      "name": "dpvs",
+      "href": "https://github.com/iqiyi/dpvs",
+      "description": "DPVS is a high performance Layer-4 load balancer based on DPDK.",
+      "language": "C",
+      "stars": 815,
+      "forks": 224
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 7452,
+      "forks": 1436
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11081,
+      "forks": 4566
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8496,
+      "forks": 2358
+    },
+    {
+      "author": "David-Reguera-Garcia-Dreg",
+      "name": "lsrootkit",
+      "href": "https://github.com/David-Reguera-Garcia-Dreg/lsrootkit",
+      "description": "Rootkit Detector for UNIX",
+      "language": "C",
+      "stars": 25,
+      "forks": 2
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 5853,
+      "forks": 288
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7364,
+      "forks": 2783
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2468,
+      "forks": 4326
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 4905,
+      "forks": 211
+    }
+  ]
+}
