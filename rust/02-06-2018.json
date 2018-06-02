@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 1202,
+      "forks": 32
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1448,
+      "forks": 88
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1115,
+      "forks": 58
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2719,
+      "forks": 39
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28562,
+      "forks": 4960
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9091,
+      "forks": 359
+    },
+    {
+      "author": "square",
+      "name": "sudo_pair",
+      "href": "https://github.com/square/sudo_pair",
+      "description": "Plugin for sudo that requires another human to approve and monitor privileged sudo sessions",
+      "language": "Rust",
+      "stars": 653,
+      "forks": 21
+    },
+    {
+      "author": "ivanceras",
+      "name": "diwata",
+      "href": "https://github.com/ivanceras/diwata",
+      "description": "A user-friendly database interface",
+      "language": "Rust",
+      "stars": 157,
+      "forks": 1
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7164,
+      "forks": 454
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 2957,
+      "forks": 88
+    },
+    {
+      "author": "dotcypress",
+      "name": "mtproxy",
+      "href": "https://github.com/dotcypress/mtproxy",
+      "description": "[WIP] MTProto proxy server",
+      "language": "Rust",
+      "stars": 148,
+      "forks": 12
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1772,
+      "forks": 109
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11776,
+      "forks": 1908
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 2727,
+      "forks": 268
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "sled likes eating data: alpha modern embedded database",
+      "language": "Rust",
+      "stars": 1295,
+      "forks": 38
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4333,
+      "forks": 868
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12739,
+      "forks": 438
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7037,
+      "forks": 156
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1737,
+      "forks": 100
+    },
+    {
+      "author": "maidsafe",
+      "name": "crust",
+      "href": "https://github.com/maidsafe/crust",
+      "description": "Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects",
+      "language": "Rust",
+      "stars": 640,
+      "forks": 87
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3515,
+      "forks": 570
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10761,
+      "forks": 438
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4562,
+      "forks": 297
+    },
+    {
+      "author": "nical",
+      "name": "lyon",
+      "href": "https://github.com/nical/lyon",
+      "description": "2D graphics rendering experiments in rust.",
+      "language": "Rust",
+      "stars": 542,
+      "forks": 40
+    },
+    {
+      "author": "cervus-v",
+      "name": "cervus",
+      "href": "https://github.com/cervus-v/cervus",
+      "description": "The Cervus Subsystem for Linux",
+      "language": "Rust",
+      "stars": 493,
+      "forks": 11
+    }
+  ]
+}
