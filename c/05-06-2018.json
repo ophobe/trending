@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 59367,
+      "forks": 21793
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22726,
+      "forks": 13164
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "MTProxy",
+      "href": "https://github.com/TelegramMessenger/MTProxy",
+      "description": null,
+      "language": "C",
+      "stars": 718,
+      "forks": 81
+    },
+    {
+      "author": "OpenDUNE",
+      "name": "OpenDUNE",
+      "href": "https://github.com/OpenDUNE/OpenDUNE",
+      "description": "DUNE, REINVENTED",
+      "language": "C",
+      "stars": 1031,
+      "forks": 74
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8115,
+      "forks": 4102
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29410,
+      "forks": 11407
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29806,
+      "forks": 2512
+    },
+    {
+      "author": "yandex",
+      "name": "odyssey",
+      "href": "https://github.com/yandex/odyssey",
+      "description": "Scalable PostgreSQL connection pooler",
+      "language": "C",
+      "stars": 828,
+      "forks": 13
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9082,
+      "forks": 2148
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4332,
+      "forks": 332
+    },
+    {
+      "author": "miloyip",
+      "name": "json-tutorial",
+      "href": "https://github.com/miloyip/json-tutorial",
+      "description": "从零开始的 JSON 库教程",
+      "language": "C",
+      "stars": 1750,
+      "forks": 1394
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11107,
+      "forks": 4570
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9470,
+      "forks": 1567
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 17944,
+      "forks": 4837
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 7197,
+      "forks": 364
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection",
+      "language": "C",
+      "stars": 1424,
+      "forks": 4102
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8521,
+      "forks": 2361
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7291,
+      "forks": 3504
+    },
+    {
+      "author": "yrutschle",
+      "name": "sslh",
+      "href": "https://github.com/yrutschle/sslh",
+      "description": "Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)",
+      "language": "C",
+      "stars": 1790,
+      "forks": 165
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9545,
+      "forks": 2177
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "href": "https://github.com/floooh/sokol",
+      "description": "minimal 3D API wrapper as header-only C library",
+      "language": "C",
+      "stars": 357,
+      "forks": 15
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 7490,
+      "forks": 1483
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7422,
+      "forks": 4730
+    },
+    {
+      "author": "Microsoft",
+      "name": "winfile",
+      "href": "https://github.com/Microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 4799,
+      "forks": 526
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 1041,
+      "forks": 109
+    }
+  ]
+}
