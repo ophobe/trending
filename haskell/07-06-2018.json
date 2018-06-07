@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 11316,
+      "forks": 585
+    },
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 11804,
+      "forks": 1386
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 2640,
+      "forks": 418
+    },
+    {
+      "author": "haskell-hvr",
+      "name": "uuid",
+      "href": "https://github.com/haskell-hvr/uuid",
+      "description": "A Haskell library for creating, printing and parsing UUIDs",
+      "language": "Haskell",
+      "stars": 33,
+      "forks": 17
+    },
+    {
+      "author": "ekmett",
+      "name": "semigroupoids",
+      "href": "https://github.com/ekmett/semigroupoids",
+      "description": null,
+      "language": "Haskell",
+      "stars": 40,
+      "forks": 24
+    },
+    {
+      "author": "dhall-lang",
+      "name": "dhall-haskell",
+      "href": "https://github.com/dhall-lang/dhall-haskell",
+      "description": "A configuration language guaranteed to terminate",
+      "language": "Haskell",
+      "stars": 320,
+      "forks": 53
+    },
+    {
+      "author": "input-output-hk",
+      "name": "iohk-ops",
+      "href": "https://github.com/input-output-hk/iohk-ops",
+      "description": "NixOps deployment configuration for IOHK devops",
+      "language": "Haskell",
+      "stars": 65,
+      "forks": 24
+    },
+    {
+      "author": "trailofbits",
+      "name": "echidna",
+      "href": "https://github.com/trailofbits/echidna",
+      "description": "Ethereum fuzz testing framework",
+      "language": "Haskell",
+      "stars": 168,
+      "forks": 27
+    },
+    {
+      "author": "ghc",
+      "name": "ghc",
+      "href": "https://github.com/ghc/ghc",
+      "description": "Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). First time contributors are encouraged to get started by just sending a Pull Req…",
+      "language": "Haskell",
+      "stars": 1866,
+      "forks": 509
+    },
+    {
+      "author": "uber",
+      "name": "queryparser",
+      "href": "https://github.com/uber/queryparser",
+      "description": "Parsing and analysis of Vertica, Hive, and Presto SQL.",
+      "language": "Haskell",
+      "stars": 443,
+      "forks": 41
+    },
+    {
+      "author": "yesodweb",
+      "name": "persistent",
+      "href": "https://github.com/yesodweb/persistent",
+      "description": "Persistence interface for Haskell allowing multiple storage methods.",
+      "language": "Haskell",
+      "stars": 276,
+      "forks": 190
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "intero",
+      "href": "https://github.com/commercialhaskell/intero",
+      "description": "Complete interactive development program for Haskell",
+      "language": "Haskell",
+      "stars": 800,
+      "forks": 103
+    },
+    {
+      "author": "Gabriel439",
+      "name": "Haskell-Foldl-Library",
+      "href": "https://github.com/Gabriel439/Haskell-Foldl-Library",
+      "description": "Composable, streaming, and efficient left folds",
+      "language": "Haskell",
+      "stars": 84,
+      "forks": 37
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 10848,
+      "forks": 476
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 4817,
+      "forks": 375
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4555,
+      "forks": 336
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3182,
+      "forks": 265
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2715,
+      "forks": 581
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2437,
+      "forks": 576
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2288,
+      "forks": 880
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2262,
+      "forks": 119
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2246,
+      "forks": 55
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2137,
+      "forks": 75
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 2060,
+      "forks": 167
+    },
+    {
+      "author": "ghcjs",
+      "name": "ghcjs",
+      "href": "https://github.com/ghcjs/ghcjs",
+      "description": "Haskell to JavaScript compiler, based on GHC",
+      "language": "Haskell",
+      "stars": 1950,
+      "forks": 143
+    }
+  ]
+}
