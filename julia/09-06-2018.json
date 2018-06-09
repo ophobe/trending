@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 11210,
+      "forks": 2374
+    },
+    {
+      "author": "JuliaLang",
+      "name": "METADATA.jl",
+      "href": "https://github.com/JuliaLang/METADATA.jl",
+      "description": "Metadata for registered Julia packages.",
+      "language": "Julia",
+      "stars": 178,
+      "forks": 735
+    },
+    {
+      "author": "simonster",
+      "name": "JLD2.jl",
+      "href": "https://github.com/simonster/JLD2.jl",
+      "description": "HDF5-compatible file format in pure Julia",
+      "language": "Julia",
+      "stars": 66,
+      "forks": 16
+    },
+    {
+      "author": "JuliaGPU",
+      "name": "CuArrays.jl",
+      "href": "https://github.com/JuliaGPU/CuArrays.jl",
+      "description": "A Curious Cumulation of CUDA Cuisine",
+      "language": "Julia",
+      "stars": 47,
+      "forks": 15
+    },
+    {
+      "author": "JuliaLang",
+      "name": "Pkg.jl",
+      "href": "https://github.com/JuliaLang/Pkg.jl",
+      "description": null,
+      "language": "Julia",
+      "stars": 79,
+      "forks": 19
+    },
+    {
+      "author": "JuliaData",
+      "name": "DataFrames.jl",
+      "href": "https://github.com/JuliaData/DataFrames.jl",
+      "description": "Library for working with tabular data in Julia",
+      "language": "Julia",
+      "stars": 473,
+      "forks": 206
+    },
+    {
+      "author": "JuliaMath",
+      "name": "Polynomials.jl",
+      "href": "https://github.com/JuliaMath/Polynomials.jl",
+      "description": "Polynomial manipulations in Julia",
+      "language": "Julia",
+      "stars": 42,
+      "forks": 32
+    },
+    {
+      "author": "lanl-ansi",
+      "name": "PowerModels.jl",
+      "href": "https://github.com/lanl-ansi/PowerModels.jl",
+      "description": "A Julia/JuMP Package for Power Network Optimization",
+      "language": "Julia",
+      "stars": 40,
+      "forks": 19
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1254,
+      "forks": 217
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1165,
+      "forks": 199
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1047,
+      "forks": 239
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia language.",
+      "language": "Julia",
+      "stars": 599,
+      "forks": 135
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 570,
+      "forks": 116
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 509,
+      "forks": 43
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "JuMP.jl",
+      "href": "https://github.com/JuliaOpt/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+      "language": "Julia",
+      "stars": 495,
+      "forks": 129
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 494,
+      "forks": 123
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 438,
+      "forks": 84
+    },
+    {
+      "author": "FRBNY-DSGE",
+      "name": "DSGE.jl",
+      "href": "https://github.com/FRBNY-DSGE/DSGE.jl",
+      "description": "Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)",
+      "language": "Julia",
+      "stars": 415,
+      "forks": 86
+    },
+    {
+      "author": "adambom",
+      "name": "dictionary",
+      "href": "https://github.com/adambom/dictionary",
+      "description": "A JSON representation of Webster's Unabridged Dictionary",
+      "language": "Julia",
+      "stars": 392,
+      "forks": 125
+    },
+    {
+      "author": "FluxML",
+      "name": "Flux.jl",
+      "href": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "stars": 348,
+      "forks": 73
+    },
+    {
+      "author": "Keno",
+      "name": "Cxx.jl",
+      "href": "https://github.com/Keno/Cxx.jl",
+      "description": "The Julia C++ Interface",
+      "language": "Julia",
+      "stars": 341,
+      "forks": 68
+    },
+    {
+      "author": "malmaud",
+      "name": "TensorFlow.jl",
+      "href": "https://github.com/malmaud/TensorFlow.jl",
+      "description": "A Julia wrapper for TensorFlow",
+      "language": "Julia",
+      "stars": 337,
+      "forks": 60
+    },
+    {
+      "author": "JuliaStats",
+      "name": "Distributions.jl",
+      "href": "https://github.com/JuliaStats/Distributions.jl",
+      "description": "A Julia package for probability distributions and associated functions.",
+      "language": "Julia",
+      "stars": 308,
+      "forks": 176
+    },
+    {
+      "author": "dmlc",
+      "name": "MXNet.jl",
+      "href": "https://github.com/dmlc/MXNet.jl",
+      "description": "MXNet Julia Package - flexible and efficient deep learning in Julia",
+      "language": "Julia",
+      "stars": 303,
+      "forks": 63
+    },
+    {
+      "author": "JuliaNLSolvers",
+      "name": "Optim.jl",
+      "href": "https://github.com/JuliaNLSolvers/Optim.jl",
+      "description": "Optimization functions for Julia",
+      "language": "Julia",
+      "stars": 300,
+      "forks": 104
+    }
+  ]
+}
