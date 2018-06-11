@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1228,
+      "forks": 64
+    },
+    {
+      "author": "ryanisaacg",
+      "name": "quicksilver",
+      "href": "https://github.com/ryanisaacg/quicksilver",
+      "description": "A simple game framework for 2D games in pure Rust",
+      "language": "Rust",
+      "stars": 95,
+      "forks": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28704,
+      "forks": 4968
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1554,
+      "forks": 93
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9173,
+      "forks": 360
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10837,
+      "forks": 444
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7296,
+      "forks": 165
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7239,
+      "forks": 459
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1777,
+      "forks": 113
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 3016,
+      "forks": 89
+    },
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam-channel",
+      "href": "https://github.com/crossbeam-rs/crossbeam-channel",
+      "description": "Multi-producer multi-consumer channels for message passing",
+      "language": "Rust",
+      "stars": 155,
+      "forks": 17
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 3244,
+      "forks": 416
+    },
+    {
+      "author": "nannou-org",
+      "name": "nannou",
+      "href": "https://github.com/nannou-org/nannou",
+      "description": "A Creative Coding Framework for Rust.",
+      "language": "Rust",
+      "stars": 127,
+      "forks": 11
+    },
+    {
+      "author": "sebcrozet",
+      "name": "kiss3d",
+      "href": "https://github.com/sebcrozet/kiss3d",
+      "description": "Keep it simple, stupid 3d graphics engine for Rust.",
+      "language": "Rust",
+      "stars": 415,
+      "forks": 43
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 3131,
+      "forks": 137
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rustup.rs",
+      "href": "https://github.com/rust-lang-nursery/rustup.rs",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 1804,
+      "forks": 273
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11802,
+      "forks": 1905
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4382,
+      "forks": 882
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12793,
+      "forks": 443
+    },
+    {
+      "author": "alyssais",
+      "name": "memsocket",
+      "href": "https://github.com/alyssais/memsocket",
+      "description": "An asynchronous in-memory socket-like interface for Rust",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "ggez",
+      "name": "ggez",
+      "href": "https://github.com/ggez/ggez",
+      "description": "Rust library to create a Good Game Easily",
+      "language": "Rust",
+      "stars": 728,
+      "forks": 94
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3550,
+      "forks": 575
+    },
+    {
+      "author": "cretonne",
+      "name": "cretonne",
+      "href": "https://github.com/cretonne/cretonne",
+      "description": "Cretonne code generator",
+      "language": "Rust",
+      "stars": 741,
+      "forks": 71
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 1115,
+      "forks": 105
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4595,
+      "forks": 299
+    }
+  ]
+}
