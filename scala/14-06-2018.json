@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 17697,
+      "forks": 16122
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 8806,
+      "forks": 497
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-zio",
+      "href": "https://github.com/scalaz/scalaz-zio",
+      "description": "ZIO — A principled, powerful, standalone effect data type for any Scala project.",
+      "language": "Scala",
+      "stars": 122,
+      "forks": 16
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8656,
+      "forks": 2752
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10515,
+      "forks": 3557
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10306,
+      "forks": 2444
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 4149,
+      "forks": 674
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 464,
+      "forks": 107
+    },
+    {
+      "author": "scalaz",
+      "name": "ioeffect",
+      "href": "https://github.com/scalaz/ioeffect",
+      "description": "An effect monad for Scalaz 7.x.",
+      "language": "Scala",
+      "stars": 46,
+      "forks": 12
+    },
+    {
+      "author": "ing-bank",
+      "name": "scruid",
+      "href": "https://github.com/ing-bank/scruid",
+      "description": "Scala + Druid: Scruid. A library that allows you to compose queries in Scala, and parse the result back into typesafe classes.",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 12
+    },
+    {
+      "author": "actionml",
+      "name": "harness",
+      "href": "https://github.com/actionml/harness",
+      "description": "Harness ML/AI Server using mirco-service architecture for online and batch learning",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 6
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-stdlib",
+      "href": "https://github.com/scala-exercises/exercises-stdlib",
+      "description": "Scala Exercises' lessons for the standard library",
+      "language": "Scala",
+      "stars": 79,
+      "forks": 180
+    },
+    {
+      "author": "dnvriend",
+      "name": "akka-persistence-jdbc",
+      "href": "https://github.com/dnvriend/akka-persistence-jdbc",
+      "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+      "language": "Scala",
+      "stars": 186,
+      "forks": 85
+    },
+    {
+      "author": "akka",
+      "name": "akka-samples",
+      "href": "https://github.com/akka/akka-samples",
+      "description": "Akka Sample Projects",
+      "language": "Scala",
+      "stars": 341,
+      "forks": 186
+    },
+    {
+      "author": "opencypher",
+      "name": "cypher-for-apache-spark",
+      "href": "https://github.com/opencypher/cypher-for-apache-spark",
+      "description": "Cypher for Apache Spark brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark.",
+      "language": "Scala",
+      "stars": 89,
+      "forks": 15
+    },
+    {
+      "author": "SpinGo",
+      "name": "op-rabbit",
+      "href": "https://github.com/SpinGo/op-rabbit",
+      "description": "The Opinionated RabbitMQ Library for Scala and Akka",
+      "language": "Scala",
+      "stars": 202,
+      "forks": 59
+    },
+    {
+      "author": "circe",
+      "name": "circe-derivation",
+      "href": "https://github.com/circe/circe-derivation",
+      "description": "Fast type class instance derivation for circe",
+      "language": "Scala",
+      "stars": 45,
+      "forks": 6
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 713,
+      "forks": 305
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 704,
+      "forks": 228
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11320,
+      "forks": 1826
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7151,
+      "forks": 991
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6518,
+      "forks": 1190
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5408,
+      "forks": 1403
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 5330,
+      "forks": 281
+    },
+    {
+      "author": "airbnb",
+      "name": "aerosolve",
+      "href": "https://github.com/airbnb/aerosolve",
+      "description": "A machine learning package built for humans.",
+      "language": "Scala",
+      "stars": 4372,
+      "forks": 559
+    }
+  ]
+}
