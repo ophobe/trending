@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 4346,
+      "forks": 213
+    },
+    {
+      "author": "blackpixel",
+      "name": "IAPKit",
+      "href": "https://github.com/blackpixel/IAPKit",
+      "description": "A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.",
+      "language": "C",
+      "stars": 96,
+      "forks": 1
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 59724,
+      "forks": 21900
+    },
+    {
+      "author": "id-Software",
+      "name": "Quake-III-Arena",
+      "href": "https://github.com/id-Software/Quake-III-Arena",
+      "description": "Quake III Arena GPL Source Release",
+      "language": "C",
+      "stars": 3698,
+      "forks": 1023
+    },
+    {
+      "author": "Interrupt",
+      "name": "systemshock",
+      "href": "https://github.com/Interrupt/systemshock",
+      "description": "Shockolate - Same great System Shock, new great taste.",
+      "language": "C",
+      "stars": 104,
+      "forks": 4
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22872,
+      "forks": 13261
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 29972,
+      "forks": 2530
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18111,
+      "forks": 4848
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29580,
+      "forks": 11458
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9189,
+      "forks": 2153
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 16362,
+      "forks": 1333
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13035,
+      "forks": 1644
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 8173,
+      "forks": 1382
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8258,
+      "forks": 4192
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 6126,
+      "forks": 2473
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "MTProxy",
+      "href": "https://github.com/TelegramMessenger/MTProxy",
+      "description": null,
+      "language": "C",
+      "stars": 854,
+      "forks": 104
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 15331,
+      "forks": 972
+    },
+    {
+      "author": "Microsoft",
+      "name": "Freeflow",
+      "href": "https://github.com/Microsoft/Freeflow",
+      "description": "High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.",
+      "language": "C",
+      "stars": 197,
+      "forks": 6
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11219,
+      "forks": 4587
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection",
+      "language": "C",
+      "stars": 1529,
+      "forks": 4192
+    },
+    {
+      "author": "Electrux",
+      "name": "ls_extended",
+      "href": "https://github.com/Electrux/ls_extended",
+      "description": "ls with coloring and icons",
+      "language": "C",
+      "stars": 130,
+      "forks": 10
+    },
+    {
+      "author": "h2o",
+      "name": "h2o",
+      "href": "https://github.com/h2o/h2o",
+      "description": "H2O - the optimized HTTP/1, HTTP/2 server",
+      "language": "C",
+      "stars": 7549,
+      "forks": 583
+    },
+    {
+      "author": "h2o",
+      "name": "quicly",
+      "href": "https://github.com/h2o/quicly",
+      "description": "Our own QUIC implementation",
+      "language": "C",
+      "stars": 105,
+      "forks": 5
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9564,
+      "forks": 1585
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 19409,
+      "forks": 5405
+    }
+  ]
+}
