@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28802,
+      "forks": 4978
+    },
+    {
+      "author": "termoshtt",
+      "name": "accel",
+      "href": "https://github.com/termoshtt/accel",
+      "description": "GPGPU Framework for Rust",
+      "language": "Rust",
+      "stars": 124,
+      "forks": 1
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10883,
+      "forks": 449
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7359,
+      "forks": 165
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1610,
+      "forks": 97
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 1214,
+      "forks": 53
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 1538,
+      "forks": 25
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 799,
+      "forks": 49
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9215,
+      "forks": 365
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4621,
+      "forks": 302
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1217,
+      "forks": 121
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2206,
+      "forks": 305
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 3264,
+      "forks": 419
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3570,
+      "forks": 578
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12834,
+      "forks": 447
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 3069,
+      "forks": 89
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "dyon",
+      "href": "https://github.com/PistonDevelopers/dyon",
+      "description": "A rusty dynamically typed scripting language",
+      "language": "Rust",
+      "stars": 588,
+      "forks": 27
+    },
+    {
+      "author": "MaikKlein",
+      "name": "rlsl",
+      "href": "https://github.com/MaikKlein/rlsl",
+      "description": "Rust to SPIR-V compiler",
+      "language": "Rust",
+      "stars": 139,
+      "forks": 2
+    },
+    {
+      "author": "maidsafe",
+      "name": "crust",
+      "href": "https://github.com/maidsafe/crust",
+      "description": "Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects",
+      "language": "Rust",
+      "stars": 660,
+      "forks": 91
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": null,
+      "language": "Rust",
+      "stars": 107,
+      "forks": 143
+    },
+    {
+      "author": "gyscos",
+      "name": "Cursive",
+      "href": "https://github.com/gyscos/Cursive",
+      "description": "A Text User Interface library for the Rust programming language",
+      "language": "Rust",
+      "stars": 693,
+      "forks": 48
+    },
+    {
+      "author": "Stoeoef",
+      "name": "spade",
+      "href": "https://github.com/Stoeoef/spade",
+      "description": "Spatial Data Structures for Rust",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 6
+    },
+    {
+      "author": "brendanzab",
+      "name": "cgmath",
+      "href": "https://github.com/brendanzab/cgmath",
+      "description": "A linear algebra and mathematics library for computer graphics.",
+      "language": "Rust",
+      "stars": 421,
+      "forks": 102
+    },
+    {
+      "author": "paupino",
+      "name": "rust-decimal",
+      "href": "https://github.com/paupino/rust-decimal",
+      "description": "A Decimal Implementation written in pure Rust suitable for financial calculations.",
+      "language": "Rust",
+      "stars": 48,
+      "forks": 14
+    },
+    {
+      "author": "rustcc",
+      "name": "forustm",
+      "href": "https://github.com/rustcc/forustm",
+      "description": "A forum for rust community, using Rust, and Sapper.",
+      "language": "Rust",
+      "stars": 45,
+      "forks": 19
+    }
+  ]
+}
