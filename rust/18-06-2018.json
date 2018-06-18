@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jackmott",
+      "name": "rust-simd-noise",
+      "href": "https://github.com/jackmott/rust-simd-noise",
+      "description": "SIMD noise library for Rust",
+      "language": "Rust",
+      "stars": 86,
+      "forks": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28833,
+      "forks": 4985
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7382,
+      "forks": 167
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 1018,
+      "forks": 87
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages",
+      "language": "Rust",
+      "stars": 3302,
+      "forks": 396
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4636,
+      "forks": 305
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1627,
+      "forks": 98
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 2853,
+      "forks": 45
+    },
+    {
+      "author": "termoshtt",
+      "name": "accel",
+      "href": "https://github.com/termoshtt/accel",
+      "description": "GPGPU Framework for Rust",
+      "language": "Rust",
+      "stars": 144,
+      "forks": 1
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9227,
+      "forks": 367
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11846,
+      "forks": 1907
+    },
+    {
+      "author": "anordal",
+      "name": "shellharden",
+      "href": "https://github.com/anordal/shellharden",
+      "description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables",
+      "language": "Rust",
+      "stars": 3081,
+      "forks": 89
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12840,
+      "forks": 447
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 4315,
+      "forks": 140
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1841,
+      "forks": 111
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1872,
+      "forks": 102
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1817,
+      "forks": 119
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 1276,
+      "forks": 33
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4417,
+      "forks": 890
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3579,
+      "forks": 577
+    },
+    {
+      "author": "kbknapp",
+      "name": "clap-rs",
+      "href": "https://github.com/kbknapp/clap-rs",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 1941,
+      "forks": 206
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 1222,
+      "forks": 53
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Interoperating JS and Rust code",
+      "language": "Rust",
+      "stars": 842,
+      "forks": 54
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "dyon",
+      "href": "https://github.com/PistonDevelopers/dyon",
+      "description": "A rusty dynamically typed scripting language",
+      "language": "Rust",
+      "stars": 601,
+      "forks": 27
+    },
+    {
+      "author": "pingcap",
+      "name": "raft-rs",
+      "href": "https://github.com/pingcap/raft-rs",
+      "description": "Raft distributed consensus algorithm implemented in Rust.",
+      "language": "Rust",
+      "stars": 267,
+      "forks": 33
+    }
+  ]
+}
