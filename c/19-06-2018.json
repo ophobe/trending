@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 4745,
+      "forks": 240
+    },
+    {
+      "author": "phoenhex",
+      "name": "files",
+      "href": "https://github.com/phoenhex/files",
+      "description": null,
+      "language": "C",
+      "stars": 231,
+      "forks": 83
+    },
+    {
+      "author": "grz0zrg",
+      "name": "fbg",
+      "href": "https://github.com/grz0zrg/fbg",
+      "description": "FBGraphics (FBG) is a simple C 24 bpp graphics library for the Linux framebuffer with parallelism support.",
+      "language": "C",
+      "stars": 222,
+      "forks": 14
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 59890,
+      "forks": 21952
+    },
+    {
+      "author": "blackpixel",
+      "name": "IAPKit",
+      "href": "https://github.com/blackpixel/IAPKit",
+      "description": "A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.",
+      "language": "C",
+      "stars": 313,
+      "forks": 8
+    },
+    {
+      "author": "externalist",
+      "name": "exploit_playground",
+      "href": "https://github.com/externalist/exploit_playground",
+      "description": "Analysis of public exploits or my 1day exploits",
+      "language": "C",
+      "stars": 249,
+      "forks": 28
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29653,
+      "forks": 11489
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30048,
+      "forks": 2531
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 8203,
+      "forks": 1383
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 19458,
+      "forks": 5416
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "⚙️ 🐧 systemd System and Service Manager",
+      "language": "C",
+      "stars": 3292,
+      "forks": 1259
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9238,
+      "forks": 2162
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18163,
+      "forks": 4854
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 14895,
+      "forks": 1754
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8625,
+      "forks": 2387
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8303,
+      "forks": 4228
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 22925,
+      "forks": 13307
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 8021,
+      "forks": 1080
+    },
+    {
+      "author": "hackgnar",
+      "name": "ble_ctf",
+      "href": "https://github.com/hackgnar/ble_ctf",
+      "description": "A Bluetooth low energy capture the flag",
+      "language": "C",
+      "stars": 78,
+      "forks": 3
+    },
+    {
+      "author": "droe",
+      "name": "xnumon",
+      "href": "https://github.com/droe/xnumon",
+      "description": "monitor macOS for malicious activity",
+      "language": "C",
+      "stars": 62,
+      "forks": 3
+    },
+    {
+      "author": "andlabs",
+      "name": "libui",
+      "href": "https://github.com/andlabs/libui",
+      "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+      "language": "C",
+      "stars": 7320,
+      "forks": 373
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "iOS-Apfs-Persistence-Exploit",
+      "href": "https://github.com/pwn20wndstuff/iOS-Apfs-Persistence-Exploit",
+      "description": "A 0day exploit for ur0‘s apfs bug by me (Pwn20wnd)",
+      "language": "C",
+      "stars": 60,
+      "forks": 10
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2525,
+      "forks": 4474
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9606,
+      "forks": 1593
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 5364,
+      "forks": 673
+    }
+  ]
+}
