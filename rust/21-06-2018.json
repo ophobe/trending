@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dropbox",
+      "name": "divans",
+      "href": "https://github.com/dropbox/divans",
+      "description": "Building better compression together",
+      "language": "Rust",
+      "stars": 103,
+      "forks": 2
+    },
+    {
+      "author": "ozkriff",
+      "name": "zemeroth",
+      "href": "https://github.com/ozkriff/zemeroth",
+      "description": "Zemeroth is a 2D turn-based tactical game in Rust.",
+      "language": "Rust",
+      "stars": 239,
+      "forks": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28889,
+      "forks": 4997
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for making client web apps",
+      "language": "Rust",
+      "stars": 4346,
+      "forks": 144
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10927,
+      "forks": 446
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9255,
+      "forks": 368
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A high-performance, bindless graphics API for Rust.",
+      "language": "Rust",
+      "stars": 1768,
+      "forks": 257
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2198,
+      "forks": 657
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7418,
+      "forks": 167
+    },
+    {
+      "author": "CodeChain-io",
+      "name": "codechain",
+      "href": "https://github.com/CodeChain-io/codechain",
+      "description": "Programmable multi-asset chain",
+      "language": "Rust",
+      "stars": 48,
+      "forks": 10
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1653,
+      "forks": 104
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1317,
+      "forks": 68
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 867,
+      "forks": 64
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1840,
+      "forks": 119
+    },
+    {
+      "author": "pingcap",
+      "name": "tikv",
+      "href": "https://github.com/pingcap/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 3290,
+      "forks": 421
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 1865,
+      "forks": 111
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 1153,
+      "forks": 178
+    },
+    {
+      "author": "ron-rs",
+      "name": "ron",
+      "href": "https://github.com/ron-rs/ron",
+      "description": "Rusty Object Notation",
+      "language": "Rust",
+      "stars": 399,
+      "forks": 16
+    },
+    {
+      "author": "maciejkula",
+      "name": "sbr-rs",
+      "href": "https://github.com/maciejkula/sbr-rs",
+      "description": "Deep recommender systems for Rust",
+      "language": "Rust",
+      "stars": 28,
+      "forks": 0
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1227,
+      "forks": 124
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 1155,
+      "forks": 108
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2224,
+      "forks": 308
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11863,
+      "forks": 1905
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3592,
+      "forks": 579
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages",
+      "language": "Rust",
+      "stars": 3324,
+      "forks": 396
+    }
+  ]
+}
