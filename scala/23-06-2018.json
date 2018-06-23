@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 8961,
+      "forks": 506
+    },
+    {
+      "author": "rdbc-io",
+      "name": "rdbc",
+      "href": "https://github.com/rdbc-io/rdbc",
+      "description": "Asynchronous database access for Scala and Java",
+      "language": "Scala",
+      "stars": 45,
+      "forks": 1
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8681,
+      "forks": 2756
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 3284,
+      "forks": 625
+    },
+    {
+      "author": "Comcast",
+      "name": "ip4s",
+      "href": "https://github.com/Comcast/ip4s",
+      "description": "Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types",
+      "language": "Scala",
+      "stars": 67,
+      "forks": 0
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Library to read, analyze, transform and generate Scala programs",
+      "language": "Scala",
+      "stars": 635,
+      "forks": 134
+    },
+    {
+      "author": "Lemonjing",
+      "name": "SwordOffer",
+      "href": "https://github.com/Lemonjing/SwordOffer",
+      "description": "🔥剑指offer题解（Java & Scala实现）",
+      "language": "Scala",
+      "stars": 63,
+      "forks": 24
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz",
+      "href": "https://github.com/scalaz/scalaz",
+      "description": "An extension to the core Scala library for functional programming.",
+      "language": "Scala",
+      "stars": 3735,
+      "forks": 624
+    },
+    {
+      "author": "Landoop",
+      "name": "stream-reactor",
+      "href": "https://github.com/Landoop/stream-reactor",
+      "description": "Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more.",
+      "language": "Scala",
+      "stars": 438,
+      "forks": 152
+    },
+    {
+      "author": "underscoreio",
+      "name": "essential-slick-code",
+      "href": "https://github.com/underscoreio/essential-slick-code",
+      "description": "Source Code for the examples in Essential Slick",
+      "language": "Scala",
+      "stars": 56,
+      "forks": 30
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "🚧 WIP Language Server for Scala 🚧",
+      "language": "Scala",
+      "stars": 218,
+      "forks": 32
+    },
+    {
+      "author": "vmunier",
+      "name": "play-scalajs.g8",
+      "href": "https://github.com/vmunier/play-scalajs.g8",
+      "description": "Giter8 template to get started with Play and Scala.js.",
+      "language": "Scala",
+      "stars": 367,
+      "forks": 111
+    },
+    {
+      "author": "pheymann",
+      "name": "typedapi",
+      "href": "https://github.com/pheymann/typedapi",
+      "description": "Build your web API on the type level.",
+      "language": "Scala",
+      "stars": 83,
+      "forks": 7
+    },
+    {
+      "author": "freechipsproject",
+      "name": "rocket-chip",
+      "href": "https://github.com/freechipsproject/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 653,
+      "forks": 300
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6527,
+      "forks": 1195
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-spark",
+      "href": "https://github.com/mongodb/mongo-spark",
+      "description": "The MongoDB Spark Connector",
+      "language": "Scala",
+      "stars": 386,
+      "forks": 152
+    },
+    {
+      "author": "scalaz",
+      "name": "ioeffect",
+      "href": "https://github.com/scalaz/ioeffect",
+      "description": "An effect monad for Scalaz 7.2",
+      "language": "Scala",
+      "stars": 48,
+      "forks": 13
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 368,
+      "forks": 68
+    },
+    {
+      "author": "JetBrains",
+      "name": "sbt-structure",
+      "href": "https://github.com/JetBrains/sbt-structure",
+      "description": "SBT plugin to collect information about project structure",
+      "language": "Scala",
+      "stars": 58,
+      "forks": 24
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 17812,
+      "forks": 16210
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11336,
+      "forks": 1830
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10535,
+      "forks": 3560
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10340,
+      "forks": 2458
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7178,
+      "forks": 996
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5439,
+      "forks": 1412
+    }
+  ]
+}
