@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gluon-lang",
+      "name": "gluon",
+      "href": "https://github.com/gluon-lang/gluon",
+      "description": "A static, type inferred and embeddable language written in Rust.",
+      "language": "Rust",
+      "stars": 1214,
+      "forks": 65
+    },
+    {
+      "author": "trezm",
+      "name": "Thruster",
+      "href": "https://github.com/trezm/Thruster",
+      "description": "A fast, middleware based, web framework written in Rust",
+      "language": "Rust",
+      "stars": 187,
+      "forks": 7
+    },
+    {
+      "author": "immunant",
+      "name": "c2rust",
+      "href": "https://github.com/immunant/c2rust",
+      "description": "C to Rust translation, refactoring, and cross-checking",
+      "language": "Rust",
+      "stars": 59,
+      "forks": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 28935,
+      "forks": 5003
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 853,
+      "forks": 49
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7338,
+      "forks": 465
+    },
+    {
+      "author": "dropbox",
+      "name": "divans",
+      "href": "https://github.com/dropbox/divans",
+      "description": "Building better compression together",
+      "language": "Rust",
+      "stars": 131,
+      "forks": 3
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7454,
+      "forks": 170
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 1856,
+      "forks": 121
+    },
+    {
+      "author": "wahn",
+      "name": "rs_pbrt",
+      "href": "https://github.com/wahn/rs_pbrt",
+      "description": "Rust crate to implement at least parts of the PBRT book's C++ code.",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 1
+    },
+    {
+      "author": "r-darwish",
+      "name": "topgrade",
+      "href": "https://github.com/r-darwish/topgrade",
+      "description": "Upgrade all the things",
+      "language": "Rust",
+      "stars": 86,
+      "forks": 2
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1663,
+      "forks": 105
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4668,
+      "forks": 305
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3605,
+      "forks": 579
+    },
+    {
+      "author": "Plume-org",
+      "name": "Plume",
+      "href": "https://github.com/Plume-org/Plume",
+      "description": "WIP — Federated blog engine (Medium but with ActivityPub)",
+      "language": "Rust",
+      "stars": 198,
+      "forks": 14
+    },
+    {
+      "author": "standbyme",
+      "name": "jvm-rs",
+      "href": "https://github.com/standbyme/jvm-rs",
+      "description": "JVM-RS -- A Demo Memory-Safe JVM on Rust",
+      "language": "Rust",
+      "stars": 68,
+      "forks": 4
+    },
+    {
+      "author": "bluejekyll",
+      "name": "trust-dns",
+      "href": "https://github.com/bluejekyll/trust-dns",
+      "description": "A Rust based DNS client, server, and resolver",
+      "language": "Rust",
+      "stars": 833,
+      "forks": 74
+    },
+    {
+      "author": "mitsuhiko",
+      "name": "indicatif",
+      "href": "https://github.com/mitsuhiko/indicatif",
+      "description": "A command line progress reporting library for Rust",
+      "language": "Rust",
+      "stars": 598,
+      "forks": 30
+    },
+    {
+      "author": "hopey-dishwasher",
+      "name": "termpix",
+      "href": "https://github.com/hopey-dishwasher/termpix",
+      "description": "Display images in an ANSI terminal",
+      "language": "Rust",
+      "stars": 195,
+      "forks": 19
+    },
+    {
+      "author": "japaric",
+      "name": "embedded-hal",
+      "href": "https://github.com/japaric/embedded-hal",
+      "description": "A Hardware Abstraction Layer (HAL) for embedded systems",
+      "language": "Rust",
+      "stars": 166,
+      "forks": 24
+    },
+    {
+      "author": "redox-os",
+      "name": "ion",
+      "href": "https://github.com/redox-os/ion",
+      "description": "Mirror of https://gitlab.redox-os.org/redox-os/ion",
+      "language": "Rust",
+      "stars": 611,
+      "forks": 123
+    },
+    {
+      "author": "ctz",
+      "name": "rustls",
+      "href": "https://github.com/ctz/rustls",
+      "description": "A modern TLS library in Rust",
+      "language": "Rust",
+      "stars": 723,
+      "forks": 69
+    },
+    {
+      "author": "gimli-rs",
+      "name": "gimli",
+      "href": "https://github.com/gimli-rs/gimli",
+      "description": "A lazy, zero-copy parser for the DWARF debugging format.",
+      "language": "Rust",
+      "stars": 175,
+      "forks": 31
+    },
+    {
+      "author": "indiv0",
+      "name": "lazycell",
+      "href": "https://github.com/indiv0/lazycell",
+      "description": "Rust library providing a lazily filled Cell",
+      "language": "Rust",
+      "stars": 24,
+      "forks": 10
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12872,
+      "forks": 448
+    }
+  ]
+}
