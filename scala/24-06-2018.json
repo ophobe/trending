@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 17819,
+      "forks": 16216
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 8969,
+      "forks": 506
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8686,
+      "forks": 2757
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1344,
+      "forks": 284
+    },
+    {
+      "author": "bkirwi",
+      "name": "decline",
+      "href": "https://github.com/bkirwi/decline",
+      "description": "A composable command-line parser for Scala.",
+      "language": "Scala",
+      "stars": 129,
+      "forks": 14
+    },
+    {
+      "author": "midonet",
+      "name": "midonet",
+      "href": "https://github.com/midonet/midonet",
+      "description": "MidoNet is an Open Source network virtualization system for Openstack clouds",
+      "language": "Scala",
+      "stars": 195,
+      "forks": 80
+    },
+    {
+      "author": "lightbend",
+      "name": "genjavadoc",
+      "href": "https://github.com/lightbend/genjavadoc",
+      "description": "A compiler plugin for generating doc’able Java source from Scala source",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 25
+    },
+    {
+      "author": "slamdata",
+      "name": "quasar",
+      "href": "https://github.com/slamdata/quasar",
+      "description": "A compiler and columnar analytics engine for a SQL dialect with support for heterogeneous structured data",
+      "language": "Scala",
+      "stars": 647,
+      "forks": 95
+    },
+    {
+      "author": "pepegar",
+      "name": "hammock",
+      "href": "https://github.com/pepegar/hammock",
+      "description": "Purely functional HTTP client",
+      "language": "Scala",
+      "stars": 101,
+      "forks": 13
+    },
+    {
+      "author": "harsha2010",
+      "name": "magellan",
+      "href": "https://github.com/harsha2010/magellan",
+      "description": "Geo Spatial Data Analytics on Spark",
+      "language": "Scala",
+      "stars": 401,
+      "forks": 120
+    },
+    {
+      "author": "sksamuel",
+      "name": "scapegoat",
+      "href": "https://github.com/sksamuel/scapegoat",
+      "description": "Scala compiler plugin for static code analysis",
+      "language": "Scala",
+      "stars": 260,
+      "forks": 46
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle",
+      "href": "https://github.com/lihaoyi/upickle",
+      "description": "uPickle: a simple, fast, dependency-free JSON serialization library for Scala",
+      "language": "Scala",
+      "stars": 356,
+      "forks": 92
+    },
+    {
+      "author": "ChristopherDavenport",
+      "name": "log4cats",
+      "href": "https://github.com/ChristopherDavenport/log4cats",
+      "description": "Logging Tools For Interaction with cats-effect",
+      "language": "Scala",
+      "stars": 49,
+      "forks": 6
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 2589,
+      "forks": 623
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-slick-example",
+      "href": "https://github.com/playframework/play-scala-slick-example",
+      "description": "Example Play Scala project with Slick",
+      "language": "Scala",
+      "stars": 48,
+      "forks": 36
+    },
+    {
+      "author": "twitter",
+      "name": "scalding",
+      "href": "https://github.com/twitter/scalding",
+      "description": "A Scala API for Cascading",
+      "language": "Scala",
+      "stars": 3021,
+      "forks": 650
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11340,
+      "forks": 1830
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10536,
+      "forks": 3559
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10343,
+      "forks": 2460
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7180,
+      "forks": 996
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6530,
+      "forks": 1195
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5442,
+      "forks": 1411
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 5334,
+      "forks": 281
+    },
+    {
+      "author": "airbnb",
+      "name": "aerosolve",
+      "href": "https://github.com/airbnb/aerosolve",
+      "description": "A machine learning package built for humans.",
+      "language": "Scala",
+      "stars": 4378,
+      "forks": 559
+    },
+    {
+      "author": "twitter",
+      "name": "snowflake",
+      "href": "https://github.com/twitter/snowflake",
+      "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+      "language": "Scala",
+      "stars": 4319,
+      "forks": 752
+    }
+  ]
+}
