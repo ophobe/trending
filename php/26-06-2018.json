@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 43931,
+      "forks": 13605
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "href": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": 3994,
+      "forks": 253
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 15091,
+      "forks": 5175
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 13055,
+      "forks": 1749
+    },
+    {
+      "author": "nesk",
+      "name": "puphpeteer",
+      "href": "https://github.com/nesk/puphpeteer",
+      "description": "A Puppeteer bridge for PHP, supporting the full API.",
+      "language": "PHP",
+      "stars": 144,
+      "forks": 6
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 13401,
+      "forks": 4575
+    },
+    {
+      "author": "MrSqar-Ye",
+      "name": "BadMod",
+      "href": "https://github.com/MrSqar-Ye/BadMod",
+      "description": "BadMod detect websites cms & auto exploit :D",
+      "language": "PHP",
+      "stars": 139,
+      "forks": 58
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 10734,
+      "forks": 1365
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 16287,
+      "forks": 2109
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 10453,
+      "forks": 1618
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 6773,
+      "forks": 504
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 3806,
+      "forks": 77
+    },
+    {
+      "author": "tenancy",
+      "name": "tenancy",
+      "href": "https://github.com/tenancy/tenancy",
+      "description": "Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.",
+      "language": "PHP",
+      "stars": 230,
+      "forks": 3
+    },
+    {
+      "author": "nunomaduro",
+      "name": "collision",
+      "href": "https://github.com/nunomaduro/collision",
+      "description": "Error Reporting for console/command-line PHP applications",
+      "language": "PHP",
+      "stars": 2036,
+      "forks": 34
+    },
+    {
+      "author": "myclabs",
+      "name": "DeepCopy",
+      "href": "https://github.com/myclabs/DeepCopy",
+      "description": "Create deep copies (clones) of your objects",
+      "language": "PHP",
+      "stars": 3274,
+      "forks": 45
+    },
+    {
+      "author": "xaboy",
+      "name": "form-builder",
+      "href": "https://github.com/xaboy/form-builder",
+      "description": "PHP表单生成器，快速生成现代化的form表单。包含复选框、单选框、输入框、下拉选择框等元素以及,省市区三级联动,时间选择,日期选择,颜色选择,文件/图片上传等功能。",
+      "language": "PHP",
+      "stars": 21,
+      "forks": 2
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 3204,
+      "forks": 517
+    },
+    {
+      "author": "Pomax",
+      "name": "BezierInfo-2",
+      "href": "https://github.com/Pomax/BezierInfo-2",
+      "description": "A from-the-ground-up rewrite of https://pomax.github.io/bezierinfo, using react, babel, webpack, and other modern things.",
+      "language": "PHP",
+      "stars": 1025,
+      "forks": 111
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 5416,
+      "forks": 675
+    },
+    {
+      "author": "webonyx",
+      "name": "graphql-php",
+      "href": "https://github.com/webonyx/graphql-php",
+      "description": "A PHP port of GraphQL reference implementation",
+      "language": "PHP",
+      "stars": 2231,
+      "forks": 208
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 9473,
+      "forks": 958
+    },
+    {
+      "author": "egulias",
+      "name": "EmailValidator",
+      "href": "https://github.com/egulias/EmailValidator",
+      "description": "PHP Email validator library inspired in @dominicsayers isemail function https://github.com/dominicsayers/isemail",
+      "language": "PHP",
+      "stars": 3614,
+      "forks": 61
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "ReflectionDocBlock",
+      "href": "https://github.com/phpDocumentor/ReflectionDocBlock",
+      "description": null,
+      "language": "PHP",
+      "stars": 3449,
+      "forks": 61
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "href": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": 11309,
+      "forks": 6233
+    },
+    {
+      "author": "docker",
+      "name": "labs",
+      "href": "https://github.com/docker/labs",
+      "description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+      "language": "PHP",
+      "stars": 5708,
+      "forks": 2218
+    }
+  ]
+}
