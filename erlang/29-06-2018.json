@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 4222,
+      "forks": 1102
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5040,
+      "forks": 925
+    },
+    {
+      "author": "eproxus",
+      "name": "meck",
+      "href": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "Erlang",
+      "stars": 567,
+      "forks": 190
+    },
+    {
+      "author": "mazenharake",
+      "name": "entop",
+      "href": "https://github.com/mazenharake/entop",
+      "description": "A top-like tool for monitoring an Erlang node",
+      "language": "Erlang",
+      "stars": 245,
+      "forks": 51
+    },
+    {
+      "author": "Vagabond",
+      "name": "gen_smtp",
+      "href": "https://github.com/Vagabond/gen_smtp",
+      "description": "A generic Erlang SMTP server and client that can be extended via callback modules",
+      "language": "Erlang",
+      "stars": 457,
+      "forks": 189
+    },
+    {
+      "author": "for-GET",
+      "name": "jesse",
+      "href": "https://github.com/for-GET/jesse",
+      "description": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+      "language": "Erlang",
+      "stars": 57,
+      "forks": 31
+    },
+    {
+      "author": "massemanet",
+      "name": "redbug",
+      "href": "https://github.com/massemanet/redbug",
+      "description": "erlang tracing debugger",
+      "language": "Erlang",
+      "stars": 48,
+      "forks": 5
+    },
+    {
+      "author": "uwiger",
+      "name": "jobs",
+      "href": "https://github.com/uwiger/jobs",
+      "description": "Job scheduler for load regulation",
+      "language": "Erlang",
+      "stars": 210,
+      "forks": 65
+    },
+    {
+      "author": "uwiger",
+      "name": "setup",
+      "href": "https://github.com/uwiger/setup",
+      "description": "Generic setup utility for Erlang-based systems",
+      "language": "Erlang",
+      "stars": 54,
+      "forks": 45
+    },
+    {
+      "author": "erlio",
+      "name": "vernemq",
+      "href": "https://github.com/erlio/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1320,
+      "forks": 137
+    },
+    {
+      "author": "devinus",
+      "name": "poolboy",
+      "href": "https://github.com/devinus/poolboy",
+      "description": "A hunky Erlang worker pool factory",
+      "language": "Erlang",
+      "stars": 1059,
+      "forks": 264
+    },
+    {
+      "author": "klarna",
+      "name": "circuit_breaker",
+      "href": "https://github.com/klarna/circuit_breaker",
+      "description": "💥 An Erlang library for breaking out of faulty services",
+      "language": "Erlang",
+      "stars": 76,
+      "forks": 6
+    },
+    {
+      "author": "klarna",
+      "name": "kafka_protocol",
+      "href": "https://github.com/klarna/kafka_protocol",
+      "description": "Kafka protocol erlang library",
+      "language": "Erlang",
+      "stars": 23,
+      "forks": 13
+    },
+    {
+      "author": "klarna",
+      "name": "erlavro",
+      "href": "https://github.com/klarna/erlavro",
+      "description": "Avro support for Erlang/Elixir (http://avro.apache.org/)",
+      "language": "Erlang",
+      "stars": 46,
+      "forks": 17
+    },
+    {
+      "author": "matehat",
+      "name": "cqerl",
+      "href": "https://github.com/matehat/cqerl",
+      "description": "Native Erlang CQL client for Cassandra",
+      "language": "Erlang",
+      "stars": 181,
+      "forks": 84
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 6815,
+      "forks": 1773
+    },
+    {
+      "author": "apache",
+      "name": "couchdb",
+      "href": "https://github.com/apache/couchdb",
+      "description": "Apache CouchDB",
+      "language": "Erlang",
+      "stars": 3705,
+      "forks": 783
+    },
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, ubiquitous and massively scalable Jabber / XMPP Instant Messaging platform",
+      "language": "Erlang",
+      "stars": 3566,
+      "forks": 1128
+    },
+    {
+      "author": "emqtt",
+      "name": "emqttd",
+      "href": "https://github.com/emqtt/emqttd",
+      "description": "EMQ - Erlang MQTT Broker",
+      "language": "Erlang",
+      "stars": 3267,
+      "forks": 662
+    },
+    {
+      "author": "happi",
+      "name": "theBeamBook",
+      "href": "https://github.com/happi/theBeamBook",
+      "description": "A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.",
+      "language": "Erlang",
+      "stars": 1947,
+      "forks": 166
+    },
+    {
+      "author": "ChicagoBoss",
+      "name": "ChicagoBoss",
+      "href": "https://github.com/ChicagoBoss/ChicagoBoss",
+      "description": "Erlang web MVC, now featuring Comet",
+      "language": "Erlang",
+      "stars": 1728,
+      "forks": 307
+    },
+    {
+      "author": "biokoda",
+      "name": "actordb",
+      "href": "https://github.com/biokoda/actordb",
+      "description": "ActorDB distributed SQL database",
+      "language": "Erlang",
+      "stars": 1628,
+      "forks": 58
+    },
+    {
+      "author": "mochi",
+      "name": "mochiweb",
+      "href": "https://github.com/mochi/mochiweb",
+      "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+      "language": "Erlang",
+      "stars": 1607,
+      "forks": 427
+    },
+    {
+      "author": "rvirding",
+      "name": "lfe",
+      "href": "https://github.com/rvirding/lfe",
+      "description": "Lisp Flavoured Erlang (LFE)",
+      "language": "Erlang",
+      "stars": 1601,
+      "forks": 97
+    },
+    {
+      "author": "processone",
+      "name": "tsung",
+      "href": "https://github.com/processone/tsung",
+      "description": "Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.",
+      "language": "Erlang",
+      "stars": 1575,
+      "forks": 351
+    }
+  ]
+}
