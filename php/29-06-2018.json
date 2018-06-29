@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dubbo",
+      "name": "dubbo-php-framework",
+      "href": "https://github.com/dubbo/dubbo-php-framework",
+      "description": "php dubbo framework",
+      "language": "PHP",
+      "stars": 102,
+      "forks": 10
+    },
+    {
+      "author": "tightenco",
+      "name": "parental",
+      "href": "https://github.com/tightenco/parental",
+      "description": "Use single table inheritance in your Laravel app",
+      "language": "PHP",
+      "stars": 119,
+      "forks": 4
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 15135,
+      "forks": 5179
+    },
+    {
+      "author": "tormjens",
+      "name": "eventy",
+      "href": "https://github.com/tormjens/eventy",
+      "description": "WordPress-like actions and filters for Laravel",
+      "language": "PHP",
+      "stars": 77,
+      "forks": 18
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 10773,
+      "forks": 1369
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 3838,
+      "forks": 77
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 3854,
+      "forks": 183
+    },
+    {
+      "author": "php-fig",
+      "name": "container",
+      "href": "https://github.com/php-fig/container",
+      "description": null,
+      "language": "PHP",
+      "stars": 3706,
+      "forks": 18
+    },
+    {
+      "author": "egulias",
+      "name": "EmailValidator",
+      "href": "https://github.com/egulias/EmailValidator",
+      "description": "PHP Email validator library inspired in @dominicsayers isemail function https://github.com/dominicsayers/isemail",
+      "language": "PHP",
+      "stars": 3648,
+      "forks": 61
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 13089,
+      "forks": 1753
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 6804,
+      "forks": 506
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 4071,
+      "forks": 142
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 3570,
+      "forks": 26
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 3623,
+      "forks": 32
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 16323,
+      "forks": 2109
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 6722,
+      "forks": 455
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 3654,
+      "forks": 36
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 3532,
+      "forks": 57
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 3537,
+      "forks": 45
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 10485,
+      "forks": 1620
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 3501,
+      "forks": 41
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 17933,
+      "forks": 6283
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 3236,
+      "forks": 529
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 9505,
+      "forks": 959
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 5444,
+      "forks": 676
+    }
+  ]
+}
