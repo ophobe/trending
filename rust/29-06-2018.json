@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Plume-org",
+      "name": "Plume",
+      "href": "https://github.com/Plume-org/Plume",
+      "description": "WIP — Federated blog engine (Medium but with ActivityPub)",
+      "language": "Rust",
+      "stars": 469,
+      "forks": 23
+    },
+    {
+      "author": "Miserlou",
+      "name": "Loop",
+      "href": "https://github.com/Miserlou/Loop",
+      "description": "UNIX's missing `loop` command",
+      "language": "Rust",
+      "stars": 136,
+      "forks": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 29066,
+      "forks": 5021
+    },
+    {
+      "author": "danielpclark",
+      "name": "rutie",
+      "href": "https://github.com/danielpclark/rutie",
+      "description": "“The Tie Between Ruby and Rust.”",
+      "language": "Rust",
+      "stars": 45,
+      "forks": 0
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 10997,
+      "forks": 453
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7502,
+      "forks": 172
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11917,
+      "forks": 1908
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages",
+      "language": "Rust",
+      "stars": 3384,
+      "forks": 405
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 2002,
+      "forks": 115
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 4414,
+      "forks": 146
+    },
+    {
+      "author": "oxy-secure",
+      "name": "oxy",
+      "href": "https://github.com/oxy-secure/oxy",
+      "description": "A secure remote access tool",
+      "language": "Rust",
+      "stars": 316,
+      "forks": 17
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1730,
+      "forks": 113
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 1306,
+      "forks": 33
+    },
+    {
+      "author": "gluon-lang",
+      "name": "gluon",
+      "href": "https://github.com/gluon-lang/gluon",
+      "description": "A static, type inferred and embeddable language written in Rust.",
+      "language": "Rust",
+      "stars": 1302,
+      "forks": 70
+    },
+    {
+      "author": "immunant",
+      "name": "c2rust",
+      "href": "https://github.com/immunant/c2rust",
+      "description": "C to Rust translation, refactoring, and cross-checking",
+      "language": "Rust",
+      "stars": 239,
+      "forks": 5
+    },
+    {
+      "author": "phaazon",
+      "name": "luminance-rs",
+      "href": "https://github.com/phaazon/luminance-rs",
+      "description": "Type-safe, type-level and stateless Rust graphics framework",
+      "language": "Rust",
+      "stars": 167,
+      "forks": 10
+    },
+    {
+      "author": "darakian",
+      "name": "ddh",
+      "href": "https://github.com/darakian/ddh",
+      "description": "Mangage duplicate files",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 2
+    },
+    {
+      "author": "nannou-org",
+      "name": "nannou",
+      "href": "https://github.com/nannou-org/nannou",
+      "description": "A Creative Coding Framework for Rust.",
+      "language": "Rust",
+      "stars": 297,
+      "forks": 20
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4728,
+      "forks": 307
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2236,
+      "forks": 669
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1367,
+      "forks": 69
+    },
+    {
+      "author": "llogiq",
+      "name": "mutagen",
+      "href": "https://github.com/llogiq/mutagen",
+      "description": "Breaking your Rust code for fun and profit",
+      "language": "Rust",
+      "stars": 229,
+      "forks": 16
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12905,
+      "forks": 451
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 1901,
+      "forks": 105
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9327,
+      "forks": 372
+    }
+  ]
+}
