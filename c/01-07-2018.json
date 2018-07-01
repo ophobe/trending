@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 60291,
+      "forks": 22132
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4173,
+      "forks": 719
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29870,
+      "forks": 11561
+    },
+    {
+      "author": "merbanan",
+      "name": "rtl_433",
+      "href": "https://github.com/merbanan/rtl_433",
+      "description": "Program to decode traffic from Devices that are broadcasting on 433.9 MHz like temperature sensors",
+      "language": "C",
+      "stars": 970,
+      "forks": 364
+    },
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 5003,
+      "forks": 266
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "href": "https://github.com/CTCaer/hekate",
+      "description": "Nintendo Switch Bootloader - CTCaer mod",
+      "language": "C",
+      "stars": 209,
+      "forks": 59
+    },
+    {
+      "author": "algorithm-archivists",
+      "name": "algorithm-archive",
+      "href": "https://github.com/algorithm-archivists/algorithm-archive",
+      "description": "A collaborative book on algorithms",
+      "language": "C",
+      "stars": 214,
+      "forks": 70
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23105,
+      "forks": 13403
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13161,
+      "forks": 1662
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 5447,
+      "forks": 679
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9720,
+      "forks": 1606
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10622,
+      "forks": 726
+    },
+    {
+      "author": "larsbrinkhoff",
+      "name": "emacs-history",
+      "href": "https://github.com/larsbrinkhoff/emacs-history",
+      "description": "Historical Emacs Software Preservation",
+      "language": "C",
+      "stars": 83,
+      "forks": 7
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7571,
+      "forks": 2832
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30270,
+      "forks": 2570
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "href": "https://github.com/topjohnwu/Magisk",
+      "description": "A Magic Mask to Alter Android System Systemless-ly",
+      "language": "C",
+      "stars": 1783,
+      "forks": 254
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9770,
+      "forks": 2215
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8731,
+      "forks": 2410
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11398,
+      "forks": 4640
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 1269,
+      "forks": 147
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4454,
+      "forks": 345
+    },
+    {
+      "author": "skywalker212",
+      "name": "tiny-shell",
+      "href": "https://github.com/skywalker212/tiny-shell",
+      "description": "A bash-like shell that performs basic functions of a shell. Made as a project for my course of System Software.",
+      "language": "C",
+      "stars": 37,
+      "forks": 2
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8424,
+      "forks": 4338
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 3929,
+      "forks": 5674
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 8069,
+      "forks": 1089
+    }
+  ]
+}
