@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 60354,
+      "forks": 22156
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30325,
+      "forks": 2574
+    },
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 5053,
+      "forks": 270
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4234,
+      "forks": 721
+    },
+    {
+      "author": "algorithm-archivists",
+      "name": "algorithm-archive",
+      "href": "https://github.com/algorithm-archivists/algorithm-archive",
+      "description": "A collaborative book on algorithms",
+      "language": "C",
+      "stars": 241,
+      "forks": 81
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 29910,
+      "forks": 11578
+    },
+    {
+      "author": "google",
+      "name": "google-ctf",
+      "href": "https://github.com/google/google-ctf",
+      "description": "Google CTF",
+      "language": "C",
+      "stars": 515,
+      "forks": 49
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8454,
+      "forks": 4360
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23133,
+      "forks": 13410
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9430,
+      "forks": 2191
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18350,
+      "forks": 4881
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 7704,
+      "forks": 1512
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11424,
+      "forks": 4652
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 6288,
+      "forks": 2514
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 10394,
+      "forks": 730
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13180,
+      "forks": 1665
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2599,
+      "forks": 4647
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7583,
+      "forks": 2838
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7492,
+      "forks": 3574
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 14996,
+      "forks": 1761
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 3415,
+      "forks": 160
+    },
+    {
+      "author": "bingoogolapple",
+      "name": "BGAQRCode-Android",
+      "href": "https://github.com/bingoogolapple/BGAQRCode-Android",
+      "description": "QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式",
+      "language": "C",
+      "stars": 3987,
+      "forks": 1001
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9781,
+      "forks": 2219
+    },
+    {
+      "author": "uber",
+      "name": "h3",
+      "href": "https://github.com/uber/h3",
+      "description": "Hexagonal hierarchical geospatial indexing system",
+      "language": "C",
+      "stars": 755,
+      "forks": 44
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10641,
+      "forks": 727
+    }
+  ]
+}
