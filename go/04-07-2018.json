@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 4994,
+      "forks": 172
+    },
+    {
+      "author": "joncalhoun",
+      "name": "form",
+      "href": "https://github.com/joncalhoun/form",
+      "description": "Easily create HTML forms with Go structs.",
+      "language": "Go",
+      "stars": 72,
+      "forks": 1
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 43629,
+      "forks": 5907
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 38326,
+      "forks": 13407
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 32615,
+      "forks": 4197
+    },
+    {
+      "author": "uprt",
+      "name": "labean",
+      "href": "https://github.com/uprt/labean",
+      "description": "Simple HTTP/HTTPS port knocker for GNU/Linux written in Go",
+      "language": "Go",
+      "stars": 52,
+      "forks": 2
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 18515,
+      "forks": 2180
+    },
+    {
+      "author": "hunterlong",
+      "name": "statup",
+      "href": "https://github.com/hunterlong/statup",
+      "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+      "language": "Go",
+      "stars": 246,
+      "forks": 4
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 26828,
+      "forks": 3190
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 22552,
+      "forks": 4004
+    },
+    {
+      "author": "guptarohit",
+      "name": "asciigraph",
+      "href": "https://github.com/guptarohit/asciigraph",
+      "description": "Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.",
+      "language": "Go",
+      "stars": 723,
+      "forks": 18
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 19014,
+      "forks": 6262
+    },
+    {
+      "author": "segmentio",
+      "name": "kafka-go",
+      "href": "https://github.com/segmentio/kafka-go",
+      "description": "Kafka library in Go",
+      "language": "Go",
+      "stars": 479,
+      "forks": 35
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 23719,
+      "forks": 6876
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 2226,
+      "forks": 325
+    },
+    {
+      "author": "b3log",
+      "name": "pipe",
+      "href": "https://github.com/b3log/pipe",
+      "description": "🎷 A small and beautiful blogging platform. 小而美的博客平台。",
+      "language": "Go",
+      "stars": 1082,
+      "forks": 155
+    },
+    {
+      "author": "kubernetes",
+      "name": "helm",
+      "href": "https://github.com/kubernetes/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 6353,
+      "forks": 2193
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 9080,
+      "forks": 1254
+    },
+    {
+      "author": "subfinder",
+      "name": "subfinder",
+      "href": "https://github.com/subfinder/subfinder",
+      "description": "SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+      "language": "Go",
+      "stars": 632,
+      "forks": 74
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 8904,
+      "forks": 841
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 8816,
+      "forks": 2917
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 9679,
+      "forks": 1372
+    },
+    {
+      "author": "kris-nova",
+      "name": "krex",
+      "href": "https://github.com/kris-nova/krex",
+      "description": "Kubernetes Resource Explorer",
+      "language": "Go",
+      "stars": 21,
+      "forks": 6
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 49429,
+      "forks": 14431
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 17323,
+      "forks": 2245
+    }
+  ]
+}
