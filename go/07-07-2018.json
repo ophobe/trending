@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 5736,
+      "forks": 200
+    },
+    {
+      "author": "hazbo",
+      "name": "httpu",
+      "href": "https://github.com/hazbo/httpu",
+      "description": "The terminal-first http client",
+      "language": "Go",
+      "stars": 301,
+      "forks": 9
+    },
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 150,
+      "forks": 4
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 32723,
+      "forks": 4219
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 38448,
+      "forks": 13444
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 43760,
+      "forks": 5924
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 26927,
+      "forks": 3194
+    },
+    {
+      "author": "solo-io",
+      "name": "gloo",
+      "href": "https://github.com/solo-io/gloo",
+      "description": "The Function Gateway built on top of Envoy",
+      "language": "Go",
+      "stars": 684,
+      "forks": 38
+    },
+    {
+      "author": "aldor007",
+      "name": "mort",
+      "href": "https://github.com/aldor007/mort",
+      "description": "Storage and image processing server written in Go",
+      "language": "Go",
+      "stars": 209,
+      "forks": 4
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 4482,
+      "forks": 644
+    },
+    {
+      "author": "salihciftci",
+      "name": "liman",
+      "href": "https://github.com/salihciftci/liman",
+      "description": "Web application for monitoring docker. Monitor docker inside the docker.",
+      "language": "Go",
+      "stars": 399,
+      "forks": 20
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 19093,
+      "forks": 6302
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 18595,
+      "forks": 2191
+    },
+    {
+      "author": "alash3al",
+      "name": "lightify",
+      "href": "https://github.com/alash3al/lightify",
+      "description": "a reverse proxy that just minify and compress the output",
+      "language": "Go",
+      "stars": 66,
+      "forks": 2
+    },
+    {
+      "author": "joncalhoun",
+      "name": "form",
+      "href": "https://github.com/joncalhoun/form",
+      "description": "Easily create HTML forms with Go structs.",
+      "language": "Go",
+      "stars": 211,
+      "forks": 5
+    },
+    {
+      "author": "loadimpact",
+      "name": "k6",
+      "href": "https://github.com/loadimpact/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": 3979,
+      "forks": 168
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 23774,
+      "forks": 6890
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 8953,
+      "forks": 841
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 9738,
+      "forks": 1378
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 49464,
+      "forks": 14437
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 12018,
+      "forks": 1045
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 26030,
+      "forks": 3014
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 9142,
+      "forks": 1275
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 17669,
+      "forks": 1343
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 15204,
+      "forks": 604
+    }
+  ]
+}
