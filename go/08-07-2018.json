@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 5851,
+      "forks": 205
+    },
+    {
+      "author": "hazbo",
+      "name": "httpu",
+      "href": "https://github.com/hazbo/httpu",
+      "description": "The terminal-first http client",
+      "language": "Go",
+      "stars": 362,
+      "forks": 10
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 43788,
+      "forks": 5928
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 38475,
+      "forks": 13449
+    },
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 178,
+      "forks": 5
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 26950,
+      "forks": 3195
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 4500,
+      "forks": 649
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 32745,
+      "forks": 4221
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 19107,
+      "forks": 6307
+    },
+    {
+      "author": "aldor007",
+      "name": "mort",
+      "href": "https://github.com/aldor007/mort",
+      "description": "Storage and image processing server written in Go",
+      "language": "Go",
+      "stars": 230,
+      "forks": 4
+    },
+    {
+      "author": "alash3al",
+      "name": "lightify",
+      "href": "https://github.com/alash3al/lightify",
+      "description": "a reverse proxy that boosts the web app performance!",
+      "language": "Go",
+      "stars": 82,
+      "forks": 2
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 19105,
+      "forks": 3796
+    },
+    {
+      "author": "philippgille",
+      "name": "ln-paywall",
+      "href": "https://github.com/philippgille/ln-paywall",
+      "description": "Go middleware for monetizing your API on a per-request basis with Bitcoin and Lightning ⚡️",
+      "language": "Go",
+      "stars": 30,
+      "forks": 0
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 9603,
+      "forks": 711
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 8967,
+      "forks": 841
+    },
+    {
+      "author": "genuinetools",
+      "name": "reg",
+      "href": "https://github.com/genuinetools/reg",
+      "description": "Docker registry v2 command line client.",
+      "language": "Go",
+      "stars": 553,
+      "forks": 58
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 17396,
+      "forks": 2263
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 5944,
+      "forks": 3447
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 21145,
+      "forks": 1800
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 10921,
+      "forks": 963
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 18607,
+      "forks": 2192
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 15215,
+      "forks": 604
+    },
+    {
+      "author": "salihciftci",
+      "name": "liman",
+      "href": "https://github.com/salihciftci/liman",
+      "description": "Self-hosted web application for monitoring docker.",
+      "language": "Go",
+      "stars": 412,
+      "forks": 20
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 8953,
+      "forks": 1922
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 9151,
+      "forks": 1278
+    }
+  ]
+}
