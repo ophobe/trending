@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 17997,
+      "forks": 16366
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 9238,
+      "forks": 519
+    },
+    {
+      "author": "dotty-staging",
+      "name": "dotty",
+      "href": "https://github.com/dotty-staging/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 56,
+      "forks": 390
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10401,
+      "forks": 2471
+    },
+    {
+      "author": "lihaoyi",
+      "name": "workbench",
+      "href": "https://github.com/lihaoyi/workbench",
+      "description": "Tooling around scala-js",
+      "language": "Scala",
+      "stars": 210,
+      "forks": 43
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 489,
+      "forks": 116
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1919,
+      "forks": 413
+    },
+    {
+      "author": "tensorflow",
+      "name": "ecosystem",
+      "href": "https://github.com/tensorflow/ecosystem",
+      "description": "Integration of TensorFlow with other open-source frameworks",
+      "language": "Scala",
+      "stars": 621,
+      "forks": 187
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Library to read, analyze, transform and generate Scala programs",
+      "language": "Scala",
+      "stars": 639,
+      "forks": 138
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 2083,
+      "forks": 853
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 716,
+      "forks": 233
+    },
+    {
+      "author": "locationtech",
+      "name": "geomesa",
+      "href": "https://github.com/locationtech/geomesa",
+      "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+      "language": "Scala",
+      "stars": 518,
+      "forks": 193
+    },
+    {
+      "author": "aws",
+      "name": "sagemaker-spark",
+      "href": "https://github.com/aws/sagemaker-spark",
+      "description": "A Spark library for Amazon SageMaker.",
+      "language": "Scala",
+      "stars": 69,
+      "forks": 38
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7215,
+      "forks": 1000
+    },
+    {
+      "author": "Azure",
+      "name": "azure-cosmosdb-spark",
+      "href": "https://github.com/Azure/azure-cosmosdb-spark",
+      "description": "Apache Spark Connector for Azure Cosmos DB",
+      "language": "Scala",
+      "stars": 76,
+      "forks": 50
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 375,
+      "forks": 74
+    },
+    {
+      "author": "mesosphere",
+      "name": "marathon",
+      "href": "https://github.com/mesosphere/marathon",
+      "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+      "language": "Scala",
+      "stars": 3690,
+      "forks": 849
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11362,
+      "forks": 1836
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10559,
+      "forks": 3564
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8729,
+      "forks": 2768
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6555,
+      "forks": 1198
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5524,
+      "forks": 1424
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 5353,
+      "forks": 280
+    },
+    {
+      "author": "airbnb",
+      "name": "aerosolve",
+      "href": "https://github.com/airbnb/aerosolve",
+      "description": "A machine learning package built for humans.",
+      "language": "Scala",
+      "stars": 4385,
+      "forks": 560
+    },
+    {
+      "author": "twitter",
+      "name": "snowflake",
+      "href": "https://github.com/twitter/snowflake",
+      "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+      "language": "Scala",
+      "stars": 4355,
+      "forks": 755
+    }
+  ]
+}
