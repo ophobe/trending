@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "saschagrunert",
+      "name": "webapp.rs",
+      "href": "https://github.com/saschagrunert/webapp.rs",
+      "description": "An web application completely written in Rust.",
+      "language": "Rust",
+      "stars": 168,
+      "forks": 10
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 4528,
+      "forks": 145
+    },
+    {
+      "author": "atom",
+      "name": "eon",
+      "href": "https://github.com/atom/eon",
+      "description": "Real-Time Conflict-Free Version Control System",
+      "language": "Rust",
+      "stars": 79,
+      "forks": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 29226,
+      "forks": 5045
+    },
+    {
+      "author": "harababurel",
+      "name": "gcsf",
+      "href": "https://github.com/harababurel/gcsf",
+      "description": "a FUSE file system based on Google Drive",
+      "language": "Rust",
+      "stars": 1695,
+      "forks": 41
+    },
+    {
+      "author": "runconduit",
+      "name": "conduit",
+      "href": "https://github.com/runconduit/conduit",
+      "description": "Ultralight service mesh for Kubernetes",
+      "language": "Rust",
+      "stars": 2098,
+      "forks": 122
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 3101,
+      "forks": 50
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 5875,
+      "forks": 149
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1815,
+      "forks": 119
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9412,
+      "forks": 374
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7445,
+      "forks": 474
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3675,
+      "forks": 587
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4782,
+      "forks": 312
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 972,
+      "forks": 96
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 12960,
+      "forks": 454
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 11086,
+      "forks": 456
+    },
+    {
+      "author": "phil-opp",
+      "name": "blog_os",
+      "href": "https://github.com/phil-opp/blog_os",
+      "description": "Writing an OS in Rust",
+      "language": "Rust",
+      "stars": 1546,
+      "forks": 148
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1389,
+      "forks": 72
+    },
+    {
+      "author": "jackmott",
+      "name": "simdeez",
+      "href": "https://github.com/jackmott/simdeez",
+      "description": "easy simd",
+      "language": "Rust",
+      "stars": 32,
+      "forks": 1
+    },
+    {
+      "author": "frankmcsherry",
+      "name": "timely-dataflow",
+      "href": "https://github.com/frankmcsherry/timely-dataflow",
+      "description": "A modular implementation of timely dataflow in Rust",
+      "language": "Rust",
+      "stars": 749,
+      "forks": 79
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-openssl",
+      "href": "https://github.com/sfackler/rust-openssl",
+      "description": "OpenSSL bindings for Rust",
+      "language": "Rust",
+      "stars": 387,
+      "forks": 276
+    },
+    {
+      "author": "glium",
+      "name": "glium",
+      "href": "https://github.com/glium/glium",
+      "description": "Safe OpenGL wrapper for the Rust language.",
+      "language": "Rust",
+      "stars": 1589,
+      "forks": 180
+    },
+    {
+      "author": "georust",
+      "name": "rust-geojson",
+      "href": "https://github.com/georust/rust-geojson",
+      "description": "Library for serializing the GeoJSON vector GIS file format",
+      "language": "Rust",
+      "stars": 52,
+      "forks": 20
+    },
+    {
+      "author": "llogiq",
+      "name": "flamer",
+      "href": "https://github.com/llogiq/flamer",
+      "description": "A compiler plugin to insert flame calls",
+      "language": "Rust",
+      "stars": 115,
+      "forks": 10
+    },
+    {
+      "author": "tomaka",
+      "name": "winit",
+      "href": "https://github.com/tomaka/winit",
+      "description": "Window handling library in pure Rust",
+      "language": "Rust",
+      "stars": 351,
+      "forks": 145
+    }
+  ]
+}
