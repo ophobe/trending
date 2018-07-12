@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18046,
+      "forks": 16407
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Open source service mesh for cloud-native applications",
+      "language": "Scala",
+      "stars": 4374,
+      "forks": 439
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5549,
+      "forks": 1432
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7228,
+      "forks": 1004
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8742,
+      "forks": 2775
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 9294,
+      "forks": 522
+    },
+    {
+      "author": "schmitch",
+      "name": "sbt-jib",
+      "href": "https://github.com/schmitch/sbt-jib",
+      "description": "sbt version of sbt jib: https://github.com/GoogleContainerTools/jib",
+      "language": "Scala",
+      "stars": 27,
+      "forks": 2
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1371,
+      "forks": 288
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-zio",
+      "href": "https://github.com/scalaz/scalaz-zio",
+      "description": "ZIO — A principled, powerful, standalone effect data type for any Scala project.",
+      "language": "Scala",
+      "stars": 211,
+      "forks": 34
+    },
+    {
+      "author": "sksamuel",
+      "name": "scapegoat",
+      "href": "https://github.com/sksamuel/scapegoat",
+      "description": "Scala compiler plugin for static code analysis",
+      "language": "Scala",
+      "stars": 265,
+      "forks": 50
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 737,
+      "forks": 323
+    },
+    {
+      "author": "snowflakedb",
+      "name": "spark-snowflake",
+      "href": "https://github.com/snowflakedb/spark-snowflake",
+      "description": "Snowflake Data Source for Apache Spark.",
+      "language": "Scala",
+      "stars": 26,
+      "forks": 11
+    },
+    {
+      "author": "freechipsproject",
+      "name": "firrtl",
+      "href": "https://github.com/freechipsproject/firrtl",
+      "description": "Flexible Intermediate Representation for RTL",
+      "language": "Scala",
+      "stars": 101,
+      "forks": 49
+    },
+    {
+      "author": "lucidworks",
+      "name": "spark-solr",
+      "href": "https://github.com/lucidworks/spark-solr",
+      "description": "Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.",
+      "language": "Scala",
+      "stars": 310,
+      "forks": 184
+    },
+    {
+      "author": "softwaremill",
+      "name": "codebrag",
+      "href": "https://github.com/softwaremill/codebrag",
+      "description": "Your daily code review tool",
+      "language": "Scala",
+      "stars": 632,
+      "forks": 87
+    },
+    {
+      "author": "fthomas",
+      "name": "refined",
+      "href": "https://github.com/fthomas/refined",
+      "description": "Simple refinement types for Scala",
+      "language": "Scala",
+      "stars": 722,
+      "forks": 69
+    },
+    {
+      "author": "lightbend",
+      "name": "kafka-streams-scala",
+      "href": "https://github.com/lightbend/kafka-streams-scala",
+      "description": "Thin Scala wrapper around Kafka Streams Java API",
+      "language": "Scala",
+      "stars": 157,
+      "forks": 31
+    },
+    {
+      "author": "opencypher",
+      "name": "cypher-for-apache-spark",
+      "href": "https://github.com/opencypher/cypher-for-apache-spark",
+      "description": "Cypher for Apache Spark brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark.",
+      "language": "Scala",
+      "stars": 91,
+      "forks": 18
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The Scala HTTP client you always wanted!",
+      "language": "Scala",
+      "stars": 499,
+      "forks": 61
+    },
+    {
+      "author": "datastax",
+      "name": "spark-cassandra-connector",
+      "href": "https://github.com/datastax/spark-cassandra-connector",
+      "description": "DataStax Spark Cassandra Connector",
+      "language": "Scala",
+      "stars": 1447,
+      "forks": 695
+    },
+    {
+      "author": "ing-bank",
+      "name": "baker",
+      "href": "https://github.com/ing-bank/baker",
+      "description": "Orchestrate (micro)service-based process flows",
+      "language": "Scala",
+      "stars": 82,
+      "forks": 23
+    },
+    {
+      "author": "s12v",
+      "name": "sns",
+      "href": "https://github.com/s12v/sns",
+      "description": "Fake Amazon SNS",
+      "language": "Scala",
+      "stars": 53,
+      "forks": 26
+    },
+    {
+      "author": "phatak-dev",
+      "name": "spark2.0-examples",
+      "href": "https://github.com/phatak-dev/spark2.0-examples",
+      "description": "Examples of Spark 2.0",
+      "language": "Scala",
+      "stars": 118,
+      "forks": 113
+    },
+    {
+      "author": "tpolecat",
+      "name": "doobie",
+      "href": "https://github.com/tpolecat/doobie",
+      "description": "principled database access for scala",
+      "language": "Scala",
+      "stars": 1175,
+      "forks": 177
+    },
+    {
+      "author": "apache",
+      "name": "carbondata",
+      "href": "https://github.com/apache/carbondata",
+      "description": "Mirror of Apache CarbonData",
+      "language": "Scala",
+      "stars": 712,
+      "forks": 435
+    }
+  ]
+}
