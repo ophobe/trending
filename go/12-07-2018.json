@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 1119,
+      "forks": 32
+    },
+    {
+      "author": "ory",
+      "name": "oathkeeper",
+      "href": "https://github.com/ory/oathkeeper",
+      "description": "A cloud native Identity & Access Proxy (IAP) which authenticates and authorizes incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+      "language": "Go",
+      "stars": 794,
+      "forks": 25
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 6546,
+      "forks": 229
+    },
+    {
+      "author": "cosmos72",
+      "name": "gomacro",
+      "href": "https://github.com/cosmos72/gomacro",
+      "description": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+      "language": "Go",
+      "stars": 355,
+      "forks": 14
+    },
+    {
+      "author": "perlin-network",
+      "name": "noise",
+      "href": "https://github.com/perlin-network/noise",
+      "description": "A decentralized P2P networking stack written in Go.",
+      "language": "Go",
+      "stars": 446,
+      "forks": 24
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 2703,
+      "forks": 88
+    },
+    {
+      "author": "josephyzhou",
+      "name": "github-trending",
+      "href": "https://github.com/josephyzhou/github-trending",
+      "description": "Tracking the most popular Github repos, updated daily",
+      "language": "Go",
+      "stars": 1631,
+      "forks": 122
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 43984,
+      "forks": 5951
+    },
+    {
+      "author": "gotoz",
+      "name": "runq",
+      "href": "https://github.com/gotoz/runq",
+      "description": "run regular Docker images in KVM/Qemu",
+      "language": "Go",
+      "stars": 257,
+      "forks": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 38653,
+      "forks": 13519
+    },
+    {
+      "author": "integrii",
+      "name": "flaggy",
+      "href": "https://github.com/integrii/flaggy",
+      "description": "Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.",
+      "language": "Go",
+      "stars": 192,
+      "forks": 1
+    },
+    {
+      "author": "fogleman",
+      "name": "rush",
+      "href": "https://github.com/fogleman/rush",
+      "description": "Rush Hour / Unblock Me puzzle solver and generator.",
+      "language": "Go",
+      "stars": 148,
+      "forks": 2
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 32896,
+      "forks": 4241
+    },
+    {
+      "author": "iawia002",
+      "name": "annie",
+      "href": "https://github.com/iawia002/annie",
+      "description": "👾 Fast, simple and clean video downloader",
+      "language": "Go",
+      "stars": 3152,
+      "forks": 205
+    },
+    {
+      "author": "ory",
+      "name": "hydra",
+      "href": "https://github.com/ory/hydra",
+      "description": "OpenID Connect compliant OAuth2 Server - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.",
+      "language": "Go",
+      "stars": 4412,
+      "forks": 338
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 19211,
+      "forks": 6361
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 9265,
+      "forks": 1293
+    },
+    {
+      "author": "kubernetes",
+      "name": "helm",
+      "href": "https://github.com/kubernetes/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 6474,
+      "forks": 2236
+    },
+    {
+      "author": "yahoo",
+      "name": "yfuzz",
+      "href": "https://github.com/yahoo/yfuzz",
+      "description": "A project to run fuzzing jobs at scale with Kubernetes.",
+      "language": "Go",
+      "stars": 68,
+      "forks": 3
+    },
+    {
+      "author": "liyuechun",
+      "name": "blockchain_go_videos",
+      "href": "https://github.com/liyuechun/blockchain_go_videos",
+      "description": "Golang公链开发系统视频教程",
+      "language": "Go",
+      "stars": 31,
+      "forks": 16
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 16292,
+      "forks": 1633
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 9815,
+      "forks": 1382
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 23865,
+      "forks": 6914
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 13595,
+      "forks": 2487
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 4593,
+      "forks": 663
+    }
+  ]
+}
