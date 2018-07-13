@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 1339,
+      "forks": 43
+    },
+    {
+      "author": "cosmos72",
+      "name": "gomacro",
+      "href": "https://github.com/cosmos72/gomacro",
+      "description": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+      "language": "Go",
+      "stars": 530,
+      "forks": 15
+    },
+    {
+      "author": "perlin-network",
+      "name": "noise",
+      "href": "https://github.com/perlin-network/noise",
+      "description": "A decentralized P2P networking stack written in Go.",
+      "language": "Go",
+      "stars": 551,
+      "forks": 29
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 6644,
+      "forks": 231
+    },
+    {
+      "author": "josephyzhou",
+      "name": "github-trending",
+      "href": "https://github.com/josephyzhou/github-trending",
+      "description": "Tracking the most popular Github repos, updated daily",
+      "language": "Go",
+      "stars": 1726,
+      "forks": 122
+    },
+    {
+      "author": "ory",
+      "name": "oathkeeper",
+      "href": "https://github.com/ory/oathkeeper",
+      "description": "A cloud native Identity & Access Proxy (IAP) which authenticates and authorizes incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+      "language": "Go",
+      "stars": 884,
+      "forks": 29
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 38701,
+      "forks": 13540
+    },
+    {
+      "author": "integrii",
+      "name": "flaggy",
+      "href": "https://github.com/integrii/flaggy",
+      "description": "Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.",
+      "language": "Go",
+      "stars": 251,
+      "forks": 3
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 44026,
+      "forks": 5958
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 2748,
+      "forks": 90
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 32930,
+      "forks": 4245
+    },
+    {
+      "author": "didi",
+      "name": "falcon-log-agent",
+      "href": "https://github.com/didi/falcon-log-agent",
+      "description": "用于监控系统的日志采集agent，可无缝对接open-falcon",
+      "language": "Go",
+      "stars": 49,
+      "forks": 8
+    },
+    {
+      "author": "gotoz",
+      "name": "runq",
+      "href": "https://github.com/gotoz/runq",
+      "description": "run regular Docker images in KVM/Qemu",
+      "language": "Go",
+      "stars": 298,
+      "forks": 8
+    },
+    {
+      "author": "alipay",
+      "name": "sofa-mosn",
+      "href": "https://github.com/alipay/sofa-mosn",
+      "description": null,
+      "language": "Go",
+      "stars": 39,
+      "forks": 9
+    },
+    {
+      "author": "hazbo",
+      "name": "httpu",
+      "href": "https://github.com/hazbo/httpu",
+      "description": "The terminal-first http client",
+      "language": "Go",
+      "stars": 496,
+      "forks": 16
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 19234,
+      "forks": 6374
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 9296,
+      "forks": 1298
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 17502,
+      "forks": 2270
+    },
+    {
+      "author": "oklog",
+      "name": "ulid",
+      "href": "https://github.com/oklog/ulid",
+      "description": "Universally Unique Lexicographically Sortable Identifier (ULID) in Go",
+      "language": "Go",
+      "stars": 1221,
+      "forks": 34
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 23889,
+      "forks": 6919
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 26127,
+      "forks": 3026
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 27138,
+      "forks": 3203
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 4614,
+      "forks": 671
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 15274,
+      "forks": 606
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 13618,
+      "forks": 2488
+    }
+  ]
+}
