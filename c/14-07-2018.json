@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "hnes",
+      "name": "libaco",
+      "href": "https://github.com/hnes/libaco",
+      "description": "A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞",
+      "language": "C",
+      "stars": 408,
+      "forks": 18
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2449,
+      "forks": 34
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 7830,
+      "forks": 1906
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 60759,
+      "forks": 22255
+    },
+    {
+      "author": "pdpdds",
+      "name": "SkyOS",
+      "href": "https://github.com/pdpdds/SkyOS",
+      "description": "C++ OS",
+      "language": "C",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8626,
+      "forks": 4479
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23292,
+      "forks": 13508
+    },
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 5235,
+      "forks": 298
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18482,
+      "forks": 4901
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13284,
+      "forks": 1684
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9886,
+      "forks": 2233
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2645,
+      "forks": 4770
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7657,
+      "forks": 2878
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7567,
+      "forks": 3602
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30093,
+      "forks": 11644
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15073,
+      "forks": 1769
+    },
+    {
+      "author": "movidius",
+      "name": "ncappzoo",
+      "href": "https://github.com/movidius/ncappzoo",
+      "description": "Contains examples for the Movidius Neural Compute Stick.",
+      "language": "C",
+      "stars": 380,
+      "forks": 180
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30507,
+      "forks": 2597
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9527,
+      "forks": 2209
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8818,
+      "forks": 2432
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "href": "https://github.com/topjohnwu/Magisk",
+      "description": "A Magic Mask to Alter Android System Systemless-ly",
+      "language": "C",
+      "stars": 1888,
+      "forks": 270
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 7552,
+      "forks": 663
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7626,
+      "forks": 4954
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11542,
+      "forks": 4677
+    },
+    {
+      "author": "lieff",
+      "name": "minimp3",
+      "href": "https://github.com/lieff/minimp3",
+      "description": "Minimalistic MP3 decoder single header library",
+      "language": "C",
+      "stars": 223,
+      "forks": 17
+    }
+  ]
+}
