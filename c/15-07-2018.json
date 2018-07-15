@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "hnes",
+      "name": "libaco",
+      "href": "https://github.com/hnes/libaco",
+      "description": "A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞",
+      "language": "C",
+      "stars": 561,
+      "forks": 22
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2487,
+      "forks": 36
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 60789,
+      "forks": 22266
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 7855,
+      "forks": 1908
+    },
+    {
+      "author": "przemub",
+      "name": "polinux",
+      "href": "https://github.com/przemub/polinux",
+      "description": "Polonizacja komunikatów jądra",
+      "language": "Python",
+      "stars": 62,
+      "forks": 22266
+    },
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 5249,
+      "forks": 299
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13295,
+      "forks": 1687
+    },
+    {
+      "author": "pdpdds",
+      "name": "SkyOS",
+      "href": "https://github.com/pdpdds/SkyOS",
+      "description": "C++ OS",
+      "language": "C",
+      "stars": 36,
+      "forks": 2
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9898,
+      "forks": 2235
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8637,
+      "forks": 4487
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23299,
+      "forks": 13514
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10737,
+      "forks": 737
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 5536,
+      "forks": 683
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 7200,
+      "forks": 519
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "href": "https://github.com/topjohnwu/Magisk",
+      "description": "A Magic Mask to Alter Android System Systemless-ly",
+      "language": "C",
+      "stars": 1898,
+      "forks": 270
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 2639,
+      "forks": 1593
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8825,
+      "forks": 2433
+    },
+    {
+      "author": "Harlonxl",
+      "name": "minFTPD",
+      "href": "https://github.com/Harlonxl/minFTPD",
+      "description": "minFTPD provide most of functions of FTP server. it's very simple, in order to learn the principle of FTP server.",
+      "language": "C",
+      "stars": 24,
+      "forks": 12
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30097,
+      "forks": 11649
+    },
+    {
+      "author": "lpereira",
+      "name": "lwan",
+      "href": "https://github.com/lpereira/lwan",
+      "description": "Experimental, scalable, high performance HTTP server",
+      "language": "C",
+      "stars": 4239,
+      "forks": 485
+    },
+    {
+      "author": "AppImage",
+      "name": "AppImageKit",
+      "href": "https://github.com/AppImage/AppImageKit",
+      "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net",
+      "language": "C",
+      "stars": 3309,
+      "forks": 219
+    },
+    {
+      "author": "xiph",
+      "name": "rav1e",
+      "href": "https://github.com/xiph/rav1e",
+      "description": "The fastest and safest AV1 encoder.",
+      "language": "C",
+      "stars": 180,
+      "forks": 23
+    },
+    {
+      "author": "rene-dev",
+      "name": "stmbl",
+      "href": "https://github.com/rene-dev/stmbl",
+      "description": "AC Servo Driver for STM32F4",
+      "language": "C",
+      "stars": 177,
+      "forks": 90
+    },
+    {
+      "author": "tsoding",
+      "name": "nothing",
+      "href": "https://github.com/tsoding/nothing",
+      "description": "A simple platformer about nothing. No Engines, no Box2D. Only C and SDL2",
+      "language": "C",
+      "stars": 51,
+      "forks": 9
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7661,
+      "forks": 2878
+    }
+  ]
+}
