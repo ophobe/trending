@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitstack",
+      "name": "rabbitc",
+      "href": "https://github.com/rabbitstack/rabbitc",
+      "description": "Micro container runtime",
+      "language": "Rust",
+      "stars": 53,
+      "forks": 2
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 11189,
+      "forks": 461
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 29383,
+      "forks": 5063
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 1461,
+      "forks": 34
+    },
+    {
+      "author": "cessen",
+      "name": "ropey",
+      "href": "https://github.com/cessen/ropey",
+      "description": "A utf8 text rope for manipulating and editing large texts.",
+      "language": "Rust",
+      "stars": 94,
+      "forks": 1
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 1923,
+      "forks": 126
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 4709,
+      "forks": 150
+    },
+    {
+      "author": "japaric",
+      "name": "libm",
+      "href": "https://github.com/japaric/libm",
+      "description": "A port of MUSL's libm to Rust.",
+      "language": "Rust",
+      "stars": 35,
+      "forks": 15
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1433,
+      "forks": 74
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 1222,
+      "forks": 188
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9478,
+      "forks": 379
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 3182,
+      "forks": 51
+    },
+    {
+      "author": "lfairy",
+      "name": "maud",
+      "href": "https://github.com/lfairy/maud",
+      "description": "📝 Compile-time HTML templates for Rust",
+      "language": "Rust",
+      "stars": 395,
+      "forks": 31
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4821,
+      "forks": 314
+    },
+    {
+      "author": "cswinter",
+      "name": "LocustDB",
+      "href": "https://github.com/cswinter/LocustDB",
+      "description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.",
+      "language": "Rust",
+      "stars": 614,
+      "forks": 9
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 11982,
+      "forks": 1920
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 4512,
+      "forks": 147
+    },
+    {
+      "author": "paritytech",
+      "name": "parity",
+      "href": "https://github.com/paritytech/parity",
+      "description": "Fast, light, robust Ethereum implementation.",
+      "language": "Rust",
+      "stars": 4540,
+      "forks": 931
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3323,
+      "forks": 786
+    },
+    {
+      "author": "carllerche",
+      "name": "mio",
+      "href": "https://github.com/carllerche/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 2601,
+      "forks": 315
+    },
+    {
+      "author": "saschagrunert",
+      "name": "webapp.rs",
+      "href": "https://github.com/saschagrunert/webapp.rs",
+      "description": "A web application completely written in Rust.",
+      "language": "Rust",
+      "stars": 456,
+      "forks": 24
+    },
+    {
+      "author": "alexcrichton",
+      "name": "cookie-rs",
+      "href": "https://github.com/alexcrichton/cookie-rs",
+      "description": "HTTP cookie parsing and cookie jar management for rust",
+      "language": "Rust",
+      "stars": 58,
+      "forks": 60
+    },
+    {
+      "author": "hazama-yuinyan",
+      "name": "book",
+      "href": "https://github.com/hazama-yuinyan/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 67,
+      "forks": 689
+    },
+    {
+      "author": "rust-lang",
+      "name": "libc",
+      "href": "https://github.com/rust-lang/libc",
+      "description": "Raw bindings to platform APIs for Rust",
+      "language": "Rust",
+      "stars": 365,
+      "forks": 293
+    },
+    {
+      "author": "gfx-rs",
+      "name": "portability",
+      "href": "https://github.com/gfx-rs/portability",
+      "description": "Vulkan Portability Implementation",
+      "language": "Rust",
+      "stars": 102,
+      "forks": 8
+    }
+  ]
+}
