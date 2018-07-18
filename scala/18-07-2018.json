@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18113,
+      "forks": 16464
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 9384,
+      "forks": 524
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-zio",
+      "href": "https://github.com/scalaz/scalaz-zio",
+      "description": "ZIO — A principled, powerful, standalone effect data type for any Scala project.",
+      "language": "Scala",
+      "stars": 249,
+      "forks": 40
+    },
+    {
+      "author": "opticdev",
+      "name": "optic",
+      "href": "https://github.com/opticdev/optic",
+      "description": "An API for Code. The engine behind Optic",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 1
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The Scala HTTP client you always wanted!",
+      "language": "Scala",
+      "stars": 520,
+      "forks": 64
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10442,
+      "forks": 2471
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5586,
+      "forks": 1442
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and on-premise with Kafka",
+      "language": "Scala",
+      "stars": 4174,
+      "forks": 902
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6579,
+      "forks": 1202
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 3349,
+      "forks": 631
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10581,
+      "forks": 3573
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Open source service mesh for cloud-native applications",
+      "language": "Scala",
+      "stars": 4397,
+      "forks": 440
+    },
+    {
+      "author": "prismagraphql",
+      "name": "graphcool-framework",
+      "href": "https://github.com/prismagraphql/graphcool-framework",
+      "description": null,
+      "language": "Scala",
+      "stars": 724,
+      "forks": 60
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-tagless",
+      "href": "https://github.com/typelevel/cats-tagless",
+      "description": "Library of utilities for tagless final encoded algebras",
+      "language": "Scala",
+      "stars": 36,
+      "forks": 1
+    },
+    {
+      "author": "akka",
+      "name": "akka-management",
+      "href": "https://github.com/akka/akka-management",
+      "description": null,
+      "language": "Scala",
+      "stars": 103,
+      "forks": 61
+    },
+    {
+      "author": "Azure",
+      "name": "azure-event-hubs-spark",
+      "href": "https://github.com/Azure/azure-event-hubs-spark",
+      "description": "Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs",
+      "language": "Scala",
+      "stars": 75,
+      "forks": 59
+    },
+    {
+      "author": "fiadliel",
+      "name": "fs2-grpc",
+      "href": "https://github.com/fiadliel/fs2-grpc",
+      "description": "gRPC implementation for FS2/cats-effect",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 6
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle",
+      "href": "https://github.com/lihaoyi/upickle",
+      "description": "uPickle: a simple, fast, dependency-free JSON serialization library for Scala",
+      "language": "Scala",
+      "stars": 360,
+      "forks": 94
+    },
+    {
+      "author": "fthomas",
+      "name": "refined",
+      "href": "https://github.com/fthomas/refined",
+      "description": "Simple refinement types for Scala",
+      "language": "Scala",
+      "stars": 723,
+      "forks": 71
+    },
+    {
+      "author": "freechipsproject",
+      "name": "firrtl",
+      "href": "https://github.com/freechipsproject/firrtl",
+      "description": "Flexible Intermediate Representation for RTL",
+      "language": "Scala",
+      "stars": 103,
+      "forks": 50
+    },
+    {
+      "author": "json4s",
+      "name": "json4s",
+      "href": "https://github.com/json4s/json4s",
+      "description": "A single AST to be used by other scala json libraries",
+      "language": "Scala",
+      "stars": 1094,
+      "forks": 271
+    },
+    {
+      "author": "MightyPirates",
+      "name": "OpenComputers",
+      "href": "https://github.com/MightyPirates/OpenComputers",
+      "description": "Home of the OpenComputers mod for Minecraft.",
+      "language": "Scala",
+      "stars": 667,
+      "forks": 231
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 3728,
+      "forks": 803
+    },
+    {
+      "author": "eed3si9n",
+      "name": "gigahorse",
+      "href": "https://github.com/eed3si9n/gigahorse",
+      "description": "Gigahorse is an HTTP client for Scala with multiple backend support.",
+      "language": "Scala",
+      "stars": 97,
+      "forks": 12
+    },
+    {
+      "author": "playframework",
+      "name": "play-ws",
+      "href": "https://github.com/playframework/play-ws",
+      "description": "Standalone Play WS, an async HTTP client with fluent API",
+      "language": "Scala",
+      "stars": 124,
+      "forks": 44
+    }
+  ]
+}
