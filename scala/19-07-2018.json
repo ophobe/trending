@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "opticdev",
+      "name": "optic",
+      "href": "https://github.com/opticdev/optic",
+      "description": "An API for Code. The engine behind Optic",
+      "language": "Scala",
+      "stars": 71,
+      "forks": 1
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 9406,
+      "forks": 525
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18130,
+      "forks": 16471
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8774,
+      "forks": 2794
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-zio",
+      "href": "https://github.com/scalaz/scalaz-zio",
+      "description": "ZIO — A principled, powerful, standalone effect data type for any Scala project.",
+      "language": "Scala",
+      "stars": 258,
+      "forks": 41
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5594,
+      "forks": 1443
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10446,
+      "forks": 2471
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Open source service mesh for cloud-native applications",
+      "language": "Scala",
+      "stars": 4402,
+      "forks": 441
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The Scala HTTP client you always wanted!",
+      "language": "Scala",
+      "stars": 526,
+      "forks": 64
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 2797,
+      "forks": 398
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 873,
+      "forks": 183
+    },
+    {
+      "author": "mesos",
+      "name": "chronos",
+      "href": "https://github.com/mesos/chronos",
+      "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules",
+      "language": "Scala",
+      "stars": 3994,
+      "forks": 548
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-websocket-example",
+      "href": "https://github.com/playframework/play-scala-websocket-example",
+      "description": "Example Play Scala application showing WebSocket use with Akka actors",
+      "language": "Scala",
+      "stars": 191,
+      "forks": 74
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-tls-example",
+      "href": "https://github.com/playframework/play-scala-tls-example",
+      "description": "A Play application using HTTPS and WS with optional client authentication",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 25
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-streaming-example",
+      "href": "https://github.com/playframework/play-scala-streaming-example",
+      "description": "Example Play application showing Comet and Server Sent Events in Scala",
+      "language": "Scala",
+      "stars": 36,
+      "forks": 21
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-slick-example",
+      "href": "https://github.com/playframework/play-scala-slick-example",
+      "description": "Example Play Scala project with Slick",
+      "language": "Scala",
+      "stars": 49,
+      "forks": 37
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-seed.g8",
+      "href": "https://github.com/playframework/play-scala-seed.g8",
+      "description": "Play Scala Seed Template: run \"sbt new playframework/play-scala-seed.g8\"",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 65
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-secure-session-example",
+      "href": "https://github.com/playframework/play-scala-secure-session-example",
+      "description": "An example Play application showing encrypted session management",
+      "language": "Scala",
+      "stars": 49,
+      "forks": 14
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-macwire-di-example",
+      "href": "https://github.com/playframework/play-scala-macwire-di-example",
+      "description": "Sample project for compile-time DI with Macwire",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 19
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-isolated-slick-example",
+      "href": "https://github.com/playframework/play-scala-isolated-slick-example",
+      "description": "Example Play Slick Project",
+      "language": "Scala",
+      "stars": 150,
+      "forks": 35
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-fileupload-example",
+      "href": "https://github.com/playframework/play-scala-fileupload-example",
+      "description": "An example Play application showing custom multiform fileupload in Scala",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 16
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-compile-di-example",
+      "href": "https://github.com/playframework/play-scala-compile-di-example",
+      "description": "Example Play Project using compile time dependency injection and Play WS with ScalaTest",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 14
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-chatroom-example",
+      "href": "https://github.com/playframework/play-scala-chatroom-example",
+      "description": "Play chatroom with Scala API",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 21
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-anorm-example",
+      "href": "https://github.com/playframework/play-scala-anorm-example",
+      "description": "Example Play Database Application using Anorm",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 40
+    },
+    {
+      "author": "opencypher",
+      "name": "cypher-for-apache-spark",
+      "href": "https://github.com/opencypher/cypher-for-apache-spark",
+      "description": "Cypher for Apache Spark brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark.",
+      "language": "Scala",
+      "stars": 94,
+      "forks": 19
+    }
+  ]
+}
