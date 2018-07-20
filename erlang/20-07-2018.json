@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "emqtt",
+      "name": "emqttd",
+      "href": "https://github.com/emqtt/emqttd",
+      "description": "EMQ - Erlang MQTT Broker",
+      "language": "Erlang",
+      "stars": 3369,
+      "forks": 676
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 4285,
+      "forks": 1126
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5075,
+      "forks": 930
+    },
+    {
+      "author": "OtoloNetworks",
+      "name": "rebar3_osv",
+      "href": "https://github.com/OtoloNetworks/rebar3_osv",
+      "description": "Turn an Erlang/OTP application into a Unikernel image",
+      "language": "Erlang",
+      "stars": 21,
+      "forks": 0
+    },
+    {
+      "author": "emqx",
+      "name": "emqx-auth-mysql",
+      "href": "https://github.com/emqx/emqx-auth-mysql",
+      "description": "Authentication, ACL with MySQL Database",
+      "language": "Erlang",
+      "stars": 22,
+      "forks": 24
+    },
+    {
+      "author": "emqx",
+      "name": "emqx-coap",
+      "href": "https://github.com/emqx/emqx-coap",
+      "description": "EMQ X CoAP Gateway",
+      "language": "Erlang",
+      "stars": 21,
+      "forks": 12
+    },
+    {
+      "author": "uwiger",
+      "name": "gproc",
+      "href": "https://github.com/uwiger/gproc",
+      "description": "Extended process registry for Erlang",
+      "language": "Erlang",
+      "stars": 836,
+      "forks": 189
+    },
+    {
+      "author": "erszcz",
+      "name": "docsh",
+      "href": "https://github.com/erszcz/docsh",
+      "description": "Erlang Docs in the Shell",
+      "language": "Erlang",
+      "stars": 85,
+      "forks": 6
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 6888,
+      "forks": 1792
+    },
+    {
+      "author": "apache",
+      "name": "couchdb",
+      "href": "https://github.com/apache/couchdb",
+      "description": "Apache CouchDB",
+      "language": "Erlang",
+      "stars": 3736,
+      "forks": 782
+    },
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, ubiquitous and massively scalable Jabber / XMPP Instant Messaging platform",
+      "language": "Erlang",
+      "stars": 3596,
+      "forks": 1136
+    },
+    {
+      "author": "happi",
+      "name": "theBeamBook",
+      "href": "https://github.com/happi/theBeamBook",
+      "description": "A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.",
+      "language": "Erlang",
+      "stars": 1972,
+      "forks": 170
+    },
+    {
+      "author": "ChicagoBoss",
+      "name": "ChicagoBoss",
+      "href": "https://github.com/ChicagoBoss/ChicagoBoss",
+      "description": "Erlang web MVC, now featuring Comet",
+      "language": "Erlang",
+      "stars": 1730,
+      "forks": 306
+    },
+    {
+      "author": "biokoda",
+      "name": "actordb",
+      "href": "https://github.com/biokoda/actordb",
+      "description": "ActorDB distributed SQL database",
+      "language": "Erlang",
+      "stars": 1650,
+      "forks": 60
+    },
+    {
+      "author": "mochi",
+      "name": "mochiweb",
+      "href": "https://github.com/mochi/mochiweb",
+      "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+      "language": "Erlang",
+      "stars": 1615,
+      "forks": 427
+    },
+    {
+      "author": "rvirding",
+      "name": "lfe",
+      "href": "https://github.com/rvirding/lfe",
+      "description": "Lisp Flavoured Erlang (LFE)",
+      "language": "Erlang",
+      "stars": 1605,
+      "forks": 98
+    },
+    {
+      "author": "processone",
+      "name": "tsung",
+      "href": "https://github.com/processone/tsung",
+      "description": "Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.",
+      "language": "Erlang",
+      "stars": 1597,
+      "forks": 352
+    },
+    {
+      "author": "discoproject",
+      "name": "disco",
+      "href": "https://github.com/discoproject/disco",
+      "description": "a Map/Reduce framework for distributed computing",
+      "language": "Erlang",
+      "stars": 1549,
+      "forks": 256
+    },
+    {
+      "author": "webmachine",
+      "name": "webmachine",
+      "href": "https://github.com/webmachine/webmachine",
+      "description": "A REST-based system for building web applications.",
+      "language": "Erlang",
+      "stars": 1403,
+      "forks": 273
+    },
+    {
+      "author": "erlio",
+      "name": "vernemq",
+      "href": "https://github.com/erlio/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1344,
+      "forks": 139
+    },
+    {
+      "author": "leo-project",
+      "name": "leofs",
+      "href": "https://github.com/leo-project/leofs",
+      "description": "The LeoFS Storage System",
+      "language": "Erlang",
+      "stars": 1187,
+      "forks": 135
+    },
+    {
+      "author": "synrc",
+      "name": "n2o",
+      "href": "https://github.com/synrc/n2o",
+      "description": "🔵🔵🔴 N2O: Protocol Server for WebSockets",
+      "language": "Erlang",
+      "stars": 1107,
+      "forks": 155
+    },
+    {
+      "author": "basho",
+      "name": "rebar",
+      "href": "https://github.com/basho/rebar",
+      "description": "ATTENTION: Please find the canonical repository here:",
+      "language": "Erlang",
+      "stars": 1090,
+      "forks": 264
+    },
+    {
+      "author": "klacke",
+      "name": "yaws",
+      "href": "https://github.com/klacke/yaws",
+      "description": "Yaws webserver",
+      "language": "Erlang",
+      "stars": 1067,
+      "forks": 230
+    },
+    {
+      "author": "devinus",
+      "name": "poolboy",
+      "href": "https://github.com/devinus/poolboy",
+      "description": "A hunky Erlang worker pool factory",
+      "language": "Erlang",
+      "stars": 1065,
+      "forks": 267
+    }
+  ]
+}
