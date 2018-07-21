@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 60984,
+      "forks": 22341
+    },
+    {
+      "author": "hnes",
+      "name": "libaco",
+      "href": "https://github.com/hnes/libaco",
+      "description": "A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞",
+      "language": "C",
+      "stars": 1010,
+      "forks": 44
+    },
+    {
+      "author": "MatrixAINetwork",
+      "name": "MATRIXAI",
+      "href": "https://github.com/MatrixAINetwork/MATRIXAI",
+      "description": "Matrix's AI research and related contents",
+      "language": "C",
+      "stars": 87,
+      "forks": 65
+    },
+    {
+      "author": "kstenerud",
+      "name": "bo",
+      "href": "https://github.com/kstenerud/bo",
+      "description": "The Swiss army knife of data examination and manipulation",
+      "language": "C",
+      "stars": 253,
+      "forks": 7
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30226,
+      "forks": 11696
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2699,
+      "forks": 43
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 1396,
+      "forks": 163
+    },
+    {
+      "author": "coolstar",
+      "name": "electra1131",
+      "href": "https://github.com/coolstar/electra1131",
+      "description": "Electra for iOS 11.0 - 11.3.1",
+      "language": "C",
+      "stars": 249,
+      "forks": 105
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4394,
+      "forks": 745
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8724,
+      "forks": 4550
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10799,
+      "forks": 741
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18579,
+      "forks": 4906
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 7706,
+      "forks": 1544
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23371,
+      "forks": 13569
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8911,
+      "forks": 2444
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7713,
+      "forks": 2889
+    },
+    {
+      "author": "Adubbz",
+      "name": "Tinfoil",
+      "href": "https://github.com/Adubbz/Tinfoil",
+      "description": "Nintendo Switch homebrew to manage titles.",
+      "language": "C",
+      "stars": 60,
+      "forks": 6
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "MTProxy",
+      "href": "https://github.com/TelegramMessenger/MTProxy",
+      "description": null,
+      "language": "C",
+      "stars": 1108,
+      "forks": 135
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30616,
+      "forks": 2609
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 2667,
+      "forks": 1612
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7626,
+      "forks": 3624
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9869,
+      "forks": 1620
+    },
+    {
+      "author": "s-matyukevich",
+      "name": "raspberry-pi-os",
+      "href": "https://github.com/s-matyukevich/raspberry-pi-os",
+      "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+      "language": "C",
+      "stars": 5293,
+      "forks": 302
+    },
+    {
+      "author": "lpereira",
+      "name": "lwan",
+      "href": "https://github.com/lpereira/lwan",
+      "description": "Experimental, scalable, high performance HTTP server",
+      "language": "C",
+      "stars": 4660,
+      "forks": 499
+    },
+    {
+      "author": "erincatto",
+      "name": "Box2D",
+      "href": "https://github.com/erincatto/Box2D",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": 2717,
+      "forks": 563
+    }
+  ]
+}
