@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "hnes",
+      "name": "libaco",
+      "href": "https://github.com/hnes/libaco",
+      "description": "A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞",
+      "language": "C",
+      "stars": 1117,
+      "forks": 54
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 61007,
+      "forks": 22351
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30628,
+      "forks": 2611
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30235,
+      "forks": 11698
+    },
+    {
+      "author": "gnif",
+      "name": "LookingGlass",
+      "href": "https://github.com/gnif/LookingGlass",
+      "description": "An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.",
+      "language": "C",
+      "stars": 910,
+      "forks": 40
+    },
+    {
+      "author": "FeralInteractive",
+      "name": "gamemode",
+      "href": "https://github.com/FeralInteractive/gamemode",
+      "description": "Optimise Linux system performance on demand",
+      "language": "C",
+      "stars": 735,
+      "forks": 28
+    },
+    {
+      "author": "coolstar",
+      "name": "electra1131",
+      "href": "https://github.com/coolstar/electra1131",
+      "description": "Electra for iOS 11.0 - 11.3.1",
+      "language": "C",
+      "stars": 259,
+      "forks": 109
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18587,
+      "forks": 4908
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 7938,
+      "forks": 1925
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8919,
+      "forks": 2445
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 9974,
+      "forks": 2247
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2708,
+      "forks": 44
+    },
+    {
+      "author": "kstenerud",
+      "name": "bo",
+      "href": "https://github.com/kstenerud/bo",
+      "description": "The Swiss army knife of data examination and manipulation",
+      "language": "C",
+      "stars": 261,
+      "forks": 7
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2687,
+      "forks": 4876
+    },
+    {
+      "author": "MatrixAINetwork",
+      "name": "MATRIXAI",
+      "href": "https://github.com/MatrixAINetwork/MATRIXAI",
+      "description": "Matrix's AI research and related contents",
+      "language": "C",
+      "stars": 93,
+      "forks": 72
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7717,
+      "forks": 2895
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8728,
+      "forks": 4562
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23379,
+      "forks": 13569
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4403,
+      "forks": 745
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7632,
+      "forks": 3623
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10804,
+      "forks": 741
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 8546,
+      "forks": 4824
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 7710,
+      "forks": 1545
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11621,
+      "forks": 4703
+    },
+    {
+      "author": "rene-dev",
+      "name": "stmbl",
+      "href": "https://github.com/rene-dev/stmbl",
+      "description": "AC Servo Driver for STM32F4",
+      "language": "C",
+      "stars": 197,
+      "forks": 97
+    }
+  ]
+}
