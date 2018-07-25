@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "go-cloud",
+      "href": "https://github.com/google/go-cloud",
+      "description": "A library and tools for open cloud development in Go.",
+      "language": "Go",
+      "stars": 1904,
+      "forks": 45
+    },
+    {
+      "author": "knative",
+      "name": "docs",
+      "href": "https://github.com/knative/docs",
+      "description": "Documentation for users of Knative components",
+      "language": "Go",
+      "stars": 372,
+      "forks": 42
+    },
+    {
+      "author": "knative",
+      "name": "serving",
+      "href": "https://github.com/knative/serving",
+      "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+      "language": "Go",
+      "stars": 346,
+      "forks": 41
+    },
+    {
+      "author": "HitChainFoundation",
+      "name": "hitchain",
+      "href": "https://github.com/HitChainFoundation/hitchain",
+      "description": "HitChain is a blockchain technology based ‘self-governed’ community of global developers, which is ‘By developers, Of developers, For developers’.",
+      "language": "Go",
+      "stars": 284,
+      "forks": 10
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "An open platform to connect, manage, and secure microservices.",
+      "language": "Go",
+      "stars": 9634,
+      "forks": 1362
+    },
+    {
+      "author": "knative",
+      "name": "build",
+      "href": "https://github.com/knative/build",
+      "description": "A K8s-native Build resource.",
+      "language": "Go",
+      "stars": 120,
+      "forks": 16
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Go 夜读 - 每周四晚上 Go 源码阅读以及线下技术讨论。",
+      "language": "Go",
+      "stars": 617,
+      "forks": 44
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 39165,
+      "forks": 13674
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 44594,
+      "forks": 6053
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 4969,
+      "forks": 709
+    },
+    {
+      "author": "kyma-project",
+      "name": "kyma",
+      "href": "https://github.com/kyma-project/kyma",
+      "description": "A flexible and easy way to connect and extend enterprise applications in a cloud-native world",
+      "language": "Go",
+      "stars": 67,
+      "forks": 41
+    },
+    {
+      "author": "knative",
+      "name": "eventing",
+      "href": "https://github.com/knative/eventing",
+      "description": "Open source specification and implementation of Knative event binding and delivery",
+      "language": "Go",
+      "stars": 81,
+      "forks": 15
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 33340,
+      "forks": 4301
+    },
+    {
+      "author": "yinheli",
+      "name": "sshw",
+      "href": "https://github.com/yinheli/sshw",
+      "description": "🐝 ssh client wrapper for automatic login",
+      "language": "Go",
+      "stars": 204,
+      "forks": 11
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 19061,
+      "forks": 2250
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 36378,
+      "forks": 8373
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "href": "https://github.com/grafana/grafana",
+      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "language": "Go",
+      "stars": 22928,
+      "forks": 4086
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 27443,
+      "forks": 3229
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 7219,
+      "forks": 251
+    },
+    {
+      "author": "liftbridge-io",
+      "name": "liftbridge",
+      "href": "https://github.com/liftbridge-io/liftbridge",
+      "description": "Lightweight, fault-tolerant message streams.",
+      "language": "Go",
+      "stars": 275,
+      "forks": 11
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 19511,
+      "forks": 6517
+    },
+    {
+      "author": "securego",
+      "name": "gosec",
+      "href": "https://github.com/securego/gosec",
+      "description": "Golang security checker",
+      "language": "Go",
+      "stars": 968,
+      "forks": 60
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 9229,
+      "forks": 1973
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 19387,
+      "forks": 3870
+    },
+    {
+      "author": "manifoldco",
+      "name": "heighliner",
+      "href": "https://github.com/manifoldco/heighliner",
+      "description": "Continuous Delivery from GitHub to your Kubernetes cluster",
+      "language": "Go",
+      "stars": 119,
+      "forks": 0
+    }
+  ]
+}
