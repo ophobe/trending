@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "BlindMindStudios",
+      "name": "StarRuler2-Source",
+      "href": "https://github.com/BlindMindStudios/StarRuler2-Source",
+      "description": "4X Space Strategy game Star Ruler 2's open source distribution.",
+      "language": "C",
+      "stars": 471,
+      "forks": 48
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4762,
+      "forks": 373
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13441,
+      "forks": 1701
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 61098,
+      "forks": 22390
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7783,
+      "forks": 2905
+    },
+    {
+      "author": "weizongwei5",
+      "name": "AESJniEncrypt",
+      "href": "https://github.com/weizongwei5/AESJniEncrypt",
+      "description": "ndk实现AES加密，key存在native中，再做一层防止被二次打包的签名校验。(长期维护，请star，勿fork)",
+      "language": "C",
+      "stars": 319,
+      "forks": 51
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30717,
+      "forks": 2622
+    },
+    {
+      "author": "johnkerl",
+      "name": "miller",
+      "href": "https://github.com/johnkerl/miller",
+      "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
+      "language": "C",
+      "stars": 1752,
+      "forks": 58
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4449,
+      "forks": 746
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30314,
+      "forks": 11723
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18635,
+      "forks": 4909
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23425,
+      "forks": 13603
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8781,
+      "forks": 4592
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8961,
+      "forks": 2451
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7668,
+      "forks": 3632
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9613,
+      "forks": 2221
+    },
+    {
+      "author": "hnes",
+      "name": "libaco",
+      "href": "https://github.com/hnes/libaco",
+      "description": "A blazing fast and lightweight C asymmetric coroutine library 💎 ⛅🚀⛅🌞",
+      "language": "C",
+      "stars": 1247,
+      "forks": 66
+    },
+    {
+      "author": "gnif",
+      "name": "LookingGlass",
+      "href": "https://github.com/gnif/LookingGlass",
+      "description": "An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.",
+      "language": "C",
+      "stars": 1126,
+      "forks": 41
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9902,
+      "forks": 1626
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 6431,
+      "forks": 329
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "href": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": 1962,
+      "forks": 992
+    },
+    {
+      "author": "algorithm-archivists",
+      "name": "algorithm-archive",
+      "href": "https://github.com/algorithm-archivists/algorithm-archive",
+      "description": "A collaborative book on algorithms",
+      "language": "C",
+      "stars": 401,
+      "forks": 110
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11662,
+      "forks": 4711
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2739,
+      "forks": 44
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 19886,
+      "forks": 5484
+    }
+  ]
+}
