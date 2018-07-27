@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "nacos",
+      "href": "https://github.com/alibaba/nacos",
+      "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications",
+      "language": "Java",
+      "stars": 647,
+      "forks": 102
+    },
+    {
+      "author": "crossoverJie",
+      "name": "Java-Interview",
+      "href": "https://github.com/crossoverJie/Java-Interview",
+      "description": "👨‍🎓 Java related : basic, concurrent, algorithm",
+      "language": "Java",
+      "stars": 7860,
+      "forks": 1871
+    },
+    {
+      "author": "alibaba",
+      "name": "Sentinel",
+      "href": "https://github.com/alibaba/Sentinel",
+      "description": "A lightweight flow-control library providing high-available protection and monitoring (高可用防护的流量管理框架)",
+      "language": "Java",
+      "stars": 394,
+      "forks": 56
+    },
+    {
+      "author": "Wechat-Group",
+      "name": "weixin-java-tools",
+      "href": "https://github.com/Wechat-Group/weixin-java-tools",
+      "description": "全能微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发",
+      "language": "Java",
+      "stars": 8603,
+      "forks": 3954
+    },
+    {
+      "author": "proxyee-down-org",
+      "name": "proxyee-down",
+      "href": "https://github.com/proxyee-down-org/proxyee-down",
+      "description": "http下载工具，基于http代理，支持多连接分块下载",
+      "language": "Java",
+      "stars": 12072,
+      "forks": 2116
+    },
+    {
+      "author": "vipshop",
+      "name": "vjtools",
+      "href": "https://github.com/vipshop/vjtools",
+      "description": "The vip.com's java coding standard, libraries and tools",
+      "language": "Java",
+      "stars": 3367,
+      "forks": 615
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch",
+      "href": "https://github.com/elastic/elasticsearch",
+      "description": "Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 32948,
+      "forks": 11242
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-boot",
+      "href": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot",
+      "language": "Java",
+      "stars": 27119,
+      "forks": 19653
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "jib",
+      "href": "https://github.com/GoogleContainerTools/jib",
+      "description": "⛵️ Build container images for your Java applications.",
+      "language": "Java",
+      "stars": 3709,
+      "forks": 251
+    },
+    {
+      "author": "google",
+      "name": "guava",
+      "href": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 25664,
+      "forks": 5844
+    },
+    {
+      "author": "apache",
+      "name": "incubator-dubbo",
+      "href": "https://github.com/apache/incubator-dubbo",
+      "description": "Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.",
+      "language": "Java",
+      "stars": 20413,
+      "forks": 14110
+    },
+    {
+      "author": "ThinkpadNC5",
+      "name": "MyPerf4J",
+      "href": "https://github.com/ThinkpadNC5/MyPerf4J",
+      "description": "A high performance and non-intrusive real-time Java method performance monitoring and statistical tool.",
+      "language": "Java",
+      "stars": 135,
+      "forks": 24
+    },
+    {
+      "author": "google",
+      "name": "data-transfer-project",
+      "href": "https://github.com/google/data-transfer-project",
+      "description": "The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.",
+      "language": "Java",
+      "stars": 1810,
+      "forks": 125
+    },
+    {
+      "author": "hankcs",
+      "name": "HanLP",
+      "href": "https://github.com/hankcs/HanLP",
+      "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁",
+      "language": "Java",
+      "stars": 8126,
+      "forks": 2555
+    },
+    {
+      "author": "0xZhangKe",
+      "name": "WebSocketDemo",
+      "href": "https://github.com/0xZhangKe/WebSocketDemo",
+      "description": "用于简化 WebSocket 在 Android 平台使用的封装方法",
+      "language": "Java",
+      "stars": 62,
+      "forks": 11
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "ratelimiter4j",
+      "href": "https://github.com/wangzheng0822/ratelimiter4j",
+      "description": "Java rate limiting library/framework",
+      "language": "Java",
+      "stars": 49,
+      "forks": 10
+    },
+    {
+      "author": "JeremyLiao",
+      "name": "LiveDataBus",
+      "href": "https://github.com/JeremyLiao/LiveDataBus",
+      "description": "Android消息总线，基于LiveData，具有生命周期感知能力",
+      "language": "Java",
+      "stars": 43,
+      "forks": 3
+    },
+    {
+      "author": "ctripcorp",
+      "name": "apollo",
+      "href": "https://github.com/ctripcorp/apollo",
+      "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。",
+      "language": "Java",
+      "stars": 6745,
+      "forks": 2431
+    },
+    {
+      "author": "eugenp",
+      "name": "tutorials",
+      "href": "https://github.com/eugenp/tutorials",
+      "description": "The \"REST With Spring\" Course:",
+      "language": "Java",
+      "stars": 7113,
+      "forks": 11171
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-framework",
+      "href": "https://github.com/spring-projects/spring-framework",
+      "description": "Spring Framework",
+      "language": "Java",
+      "stars": 22552,
+      "forks": 14496
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Java",
+      "href": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": 5622,
+      "forks": 2265
+    },
+    {
+      "author": "tronprotocol",
+      "name": "java-tron",
+      "href": "https://github.com/tronprotocol/java-tron",
+      "description": "Java implementation of the Tron whitepaper",
+      "language": "Java",
+      "stars": 1510,
+      "forks": 403
+    },
+    {
+      "author": "alibaba",
+      "name": "druid",
+      "href": "https://github.com/alibaba/druid",
+      "description": "♨️ 为监控而生的数据库连接池！阿里云DRDS(https://www.aliyun.com/product/drds )、阿里巴巴TDDL 连接池powered by Druid",
+      "language": "Java",
+      "stars": 12406,
+      "forks": 4890
+    },
+    {
+      "author": "tz28",
+      "name": "Chinese-number-gestures-recognition",
+      "href": "https://github.com/tz28/Chinese-number-gestures-recognition",
+      "description": "基于卷积神经网络的数字手势识别安卓APP，识别数字手势0-10（The number gestures recognition Android APP based on convolutional neural network(CNN), which can recognize the gestures corresponding number 0 to 10）",
+      "language": "Java",
+      "stars": 63,
+      "forks": 7
+    },
+    {
+      "author": "scwang90",
+      "name": "SmartRefreshLayout",
+      "href": "https://github.com/scwang90/SmartRefreshLayout",
+      "description": "🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+      "language": "Java",
+      "stars": 13442,
+      "forks": 2786
+    }
+  ]
+}
