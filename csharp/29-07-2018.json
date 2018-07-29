@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Azure",
+      "name": "azure-functions-host",
+      "href": "https://github.com/Azure/azure-functions-host",
+      "description": "The host/runtime that powers Azure Functions",
+      "language": "C#",
+      "stars": 586,
+      "forks": 167
+    },
+    {
+      "author": "Microsoft",
+      "name": "WindowsCommunityToolkit",
+      "href": "https://github.com/Microsoft/WindowsCommunityToolkit",
+      "description": "The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.",
+      "language": "C#",
+      "stars": 2215,
+      "forks": 666
+    },
+    {
+      "author": "jonathanpeppers",
+      "name": "Xamarin.Android.Lite",
+      "href": "https://github.com/jonathanpeppers/Xamarin.Android.Lite",
+      "description": "Prototype/proof of concept of a \"lite\" Xamarin.Android that only supports Xamarin.Forms",
+      "language": "C#",
+      "stars": 56,
+      "forks": 2
+    },
+    {
+      "author": "aspnet",
+      "name": "Blazor",
+      "href": "https://github.com/aspnet/Blazor",
+      "description": "Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly",
+      "language": "C#",
+      "stars": 5928,
+      "forks": 497
+    },
+    {
+      "author": "dotnet",
+      "name": "corefx",
+      "href": "https://github.com/dotnet/corefx",
+      "description": "This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.",
+      "language": "C#",
+      "stars": 14470,
+      "forks": 4194
+    },
+    {
+      "author": "dotnet",
+      "name": "coreclr",
+      "href": "https://github.com/dotnet/coreclr",
+      "description": "This repo contains the .NET Core runtime, called CoreCLR, and the base library, called System.Private.Corelib (or mscorlib). It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes. We welcome contributions.",
+      "language": "C#",
+      "stars": 9592,
+      "forks": 2396
+    },
+    {
+      "author": "ShareX",
+      "name": "ShareX",
+      "href": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.",
+      "language": "C#",
+      "stars": 8279,
+      "forks": 1303
+    },
+    {
+      "author": "seven1986",
+      "name": "IdentityServer4.MicroService",
+      "href": "https://github.com/seven1986/IdentityServer4.MicroService",
+      "description": "MicroService based on IdentityServer4 + Azure API Management",
+      "language": "C#",
+      "stars": 38,
+      "forks": 8
+    },
+    {
+      "author": "simplcommerce",
+      "name": "SimplCommerce",
+      "href": "https://github.com/simplcommerce/SimplCommerce",
+      "description": "A simple, cross platform, modularized ecommerce system built on .NET Core",
+      "language": "C#",
+      "stars": 1357,
+      "forks": 439
+    },
+    {
+      "author": "mattatz",
+      "name": "UNN",
+      "href": "https://github.com/mattatz/UNN",
+      "description": "GPU-based neural network implementation in Unity.",
+      "language": "C#",
+      "stars": 31,
+      "forks": 2
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "href": "https://github.com/dotnet/roslyn",
+      "description": "The .NET Compiler Platform (\"Roslyn\") provides open-source C# and Visual Basic compilers with rich code analysis APIs.",
+      "language": "C#",
+      "stars": 9641,
+      "forks": 2294
+    },
+    {
+      "author": "Varorbc",
+      "name": "PaySharp",
+      "href": "https://github.com/Varorbc/PaySharp",
+      "description": "PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。目前支持的支付网关有：支付宝(Alipay)、微信支付(Wechatpay)、银联支付(Unionpay)、QQ钱包支付(Qpay)",
+      "language": "C#",
+      "stars": 321,
+      "forks": 112
+    },
+    {
+      "author": "dotnet-architecture",
+      "name": "eShopOnContainers",
+      "href": "https://github.com/dotnet-architecture/eShopOnContainers",
+      "description": "Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.1 and Docker engine. Supports Visual Studio 2017, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+      "language": "C#",
+      "stars": 6581,
+      "forks": 2418
+    },
+    {
+      "author": "MaterialDesignInXAML",
+      "name": "MaterialDesignInXamlToolkit",
+      "href": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+      "description": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+      "language": "C#",
+      "stars": 4911,
+      "forks": 1080
+    },
+    {
+      "author": "JeremySkinner",
+      "name": "FluentValidation",
+      "href": "https://github.com/JeremySkinner/FluentValidation",
+      "description": "A popular .NET validation for building strongly-typed validation rules.",
+      "language": "C#",
+      "stars": 3463,
+      "forks": 607
+    },
+    {
+      "author": "JustArchi",
+      "name": "ArchiSteamFarm",
+      "href": "https://github.com/JustArchi/ArchiSteamFarm",
+      "description": "C# application that allows you to farm steam cards using multiple steam accounts simultaneously.",
+      "language": "C#",
+      "stars": 3027,
+      "forks": 409
+    },
+    {
+      "author": "QL-Win",
+      "name": "QuickLook",
+      "href": "https://github.com/QL-Win/QuickLook",
+      "description": "Bring macOS “Quick Look” feature to Windows",
+      "language": "C#",
+      "stars": 1701,
+      "forks": 154
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "ml-agents",
+      "href": "https://github.com/Unity-Technologies/ml-agents",
+      "description": "Unity Machine Learning Agents Toolkit",
+      "language": "C#",
+      "stars": 3546,
+      "forks": 801
+    },
+    {
+      "author": "Jackett",
+      "name": "Jackett",
+      "href": "https://github.com/Jackett/Jackett",
+      "description": "API Support for your favorite torrent trackers.",
+      "language": "C#",
+      "stars": 1746,
+      "forks": 319
+    },
+    {
+      "author": "2dust",
+      "name": "v2rayN",
+      "href": "https://github.com/2dust/v2rayN",
+      "description": null,
+      "language": "C#",
+      "stars": 736,
+      "forks": 219
+    },
+    {
+      "author": "Microsoft",
+      "name": "react-native-windows",
+      "href": "https://github.com/Microsoft/react-native-windows",
+      "description": "A framework for building native UWP and WPF apps with React.",
+      "language": "C#",
+      "stars": 5268,
+      "forks": 409
+    },
+    {
+      "author": "mono",
+      "name": "mono",
+      "href": "https://github.com/mono/mono",
+      "description": "Mono open source ECMA CLI, C# and .NET implementation.",
+      "language": "C#",
+      "stars": 6779,
+      "forks": 2929
+    },
+    {
+      "author": "cplotts",
+      "name": "snoopwpf",
+      "href": "https://github.com/cplotts/snoopwpf",
+      "description": "Snoop - The WPF Spy Utility",
+      "language": "C#",
+      "stars": 458,
+      "forks": 163
+    },
+    {
+      "author": "chmorgan",
+      "name": "sharppcap",
+      "href": "https://github.com/chmorgan/sharppcap",
+      "description": "Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
+      "language": "C#",
+      "stars": 275,
+      "forks": 99
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "href": "https://github.com/Azure/azure-sdk-for-net",
+      "description": ".NET Libraries for Azure",
+      "language": "C#",
+      "stars": 1161,
+      "forks": 1151
+    }
+  ]
+}
