@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 3600,
+      "forks": 163
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2840,
+      "forks": 47
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 61227,
+      "forks": 22419
+    },
+    {
+      "author": "BlindMindStudios",
+      "name": "StarRuler2-Source",
+      "href": "https://github.com/BlindMindStudios/StarRuler2-Source",
+      "description": "4X Space Strategy game Star Ruler 2's open source distribution.",
+      "language": "C",
+      "stars": 746,
+      "forks": 97
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "href": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to learn videogames programming",
+      "language": "C",
+      "stars": 1059,
+      "forks": 125
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 9678,
+      "forks": 2229
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30784,
+      "forks": 2627
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4840,
+      "forks": 386
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2719,
+      "forks": 4950
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13480,
+      "forks": 1701
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 1451,
+      "forks": 165
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23463,
+      "forks": 13629
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30391,
+      "forks": 11737
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8834,
+      "forks": 4625
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7701,
+      "forks": 3635
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10053,
+      "forks": 2260
+    },
+    {
+      "author": "Reisyukaku",
+      "name": "ReiNX",
+      "href": "https://github.com/Reisyukaku/ReiNX",
+      "description": "WIP modular Switch custom firmware",
+      "language": "C",
+      "stars": 214,
+      "forks": 31
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 8998,
+      "forks": 2458
+    },
+    {
+      "author": "gnif",
+      "name": "LookingGlass",
+      "href": "https://github.com/gnif/LookingGlass",
+      "description": "An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.",
+      "language": "C",
+      "stars": 1168,
+      "forks": 43
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 7985,
+      "forks": 1939
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 7862,
+      "forks": 1540
+    },
+    {
+      "author": "DaanDeMeyer",
+      "name": "reproc",
+      "href": "https://github.com/DaanDeMeyer/reproc",
+      "description": "Cross-platform library that simplifies working with external CLI applications from C and C++",
+      "language": "C",
+      "stars": 25,
+      "forks": 2
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "href": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C",
+      "stars": 2134,
+      "forks": 959
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7827,
+      "forks": 2910
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4483,
+      "forks": 747
+    }
+  ]
+}
