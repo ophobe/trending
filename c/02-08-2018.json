@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tboox",
+      "name": "tbox",
+      "href": "https://github.com/tboox/tbox",
+      "description": "📦 A glib-like multi-platform c library",
+      "language": "C",
+      "stars": 2026,
+      "forks": 306
+    },
+    {
+      "author": "boyerjohn",
+      "name": "rapidstring",
+      "href": "https://github.com/boyerjohn/rapidstring",
+      "description": "Maybe the fastest string library ever.",
+      "language": "C",
+      "stars": 486,
+      "forks": 17
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 61369,
+      "forks": 22471
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30493,
+      "forks": 11776
+    },
+    {
+      "author": "gozfree",
+      "name": "libraries",
+      "href": "https://github.com/gozfree/libraries",
+      "description": "Lightweight libraries, wrapper and extension of POSIX",
+      "language": "C",
+      "stars": 665,
+      "forks": 245
+    },
+    {
+      "author": "dex4er",
+      "name": "drpdecompress",
+      "href": "https://github.com/dex4er/drpdecompress",
+      "description": "Dowód Rejestracyjny Pojazdu - decompression",
+      "language": "C",
+      "stars": 27,
+      "forks": 13
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30849,
+      "forks": 2634
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8897,
+      "forks": 4676
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 10100,
+      "forks": 2255
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23536,
+      "forks": 13663
+    },
+    {
+      "author": "otya128",
+      "name": "winevdm",
+      "href": "https://github.com/otya128/winevdm",
+      "description": "winevdm on windows(64bit)",
+      "language": "C",
+      "stars": 70,
+      "forks": 1
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18742,
+      "forks": 4916
+    },
+    {
+      "author": "skeeto",
+      "name": "hash-prospector",
+      "href": "https://github.com/skeeto/hash-prospector",
+      "description": "Automated integer hash function discovery",
+      "language": "C",
+      "stars": 38,
+      "forks": 0
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11741,
+      "forks": 4724
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 9046,
+      "forks": 2465
+    },
+    {
+      "author": "tboox",
+      "name": "xmake",
+      "href": "https://github.com/tboox/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "language": "C",
+      "stars": 952,
+      "forks": 146
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 7858,
+      "forks": 2915
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 4895,
+      "forks": 389
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7749,
+      "forks": 3648
+    },
+    {
+      "author": "Kode",
+      "name": "Kore",
+      "href": "https://github.com/Kode/Kore",
+      "description": "Modern low level game library and hardware abstraction.",
+      "language": "C",
+      "stars": 153,
+      "forks": 47
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10091,
+      "forks": 2267
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4564,
+      "forks": 760
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 8629,
+      "forks": 4837
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 5619,
+      "forks": 693
+    },
+    {
+      "author": "AuroraWright",
+      "name": "Luma3DS",
+      "href": "https://github.com/AuroraWright/Luma3DS",
+      "description": "Noob-proof (N)3DS \"Custom Firmware\"",
+      "language": "C",
+      "stars": 1632,
+      "forks": 301
+    }
+  ]
+}
