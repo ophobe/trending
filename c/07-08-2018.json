@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ionescu007",
+      "name": "r0ak",
+      "href": "https://github.com/ionescu007/r0ak",
+      "description": "r0ak (\"roak\") is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems",
+      "language": "C",
+      "stars": 297,
+      "forks": 39
+    },
+    {
+      "author": "Picovoice",
+      "name": "Porcupine",
+      "href": "https://github.com/Picovoice/Porcupine",
+      "description": "On-device wake word detection engine powered by deep learning.",
+      "language": "C",
+      "stars": 499,
+      "forks": 48
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 61549,
+      "forks": 22528
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30598,
+      "forks": 11810
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23591,
+      "forks": 13696
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18820,
+      "forks": 4918
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13574,
+      "forks": 1710
+    },
+    {
+      "author": "ZerBea",
+      "name": "hcxdumptool",
+      "href": "https://github.com/ZerBea/hcxdumptool",
+      "description": "Small tool to capture packets from wlan devices.",
+      "language": "C",
+      "stars": 99,
+      "forks": 19
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 10168,
+      "forks": 2257
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10154,
+      "forks": 2272
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 4584,
+      "forks": 794
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30929,
+      "forks": 2637
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 8964,
+      "forks": 4718
+    },
+    {
+      "author": "Tencent",
+      "name": "xLua",
+      "href": "https://github.com/Tencent/xLua",
+      "description": "xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+      "language": "C",
+      "stars": 3366,
+      "forks": 1132
+    },
+    {
+      "author": "BlindMindStudios",
+      "name": "StarRuler2-Source",
+      "href": "https://github.com/BlindMindStudios/StarRuler2-Source",
+      "description": "4X Space Strategy game Star Ruler 2's open source distribution.",
+      "language": "C",
+      "stars": 897,
+      "forks": 128
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 9997,
+      "forks": 1643
+    },
+    {
+      "author": "hfiref0x",
+      "name": "MpEnum",
+      "href": "https://github.com/hfiref0x/MpEnum",
+      "description": "Enumerate Windows Defender threat families and dump their names according category",
+      "language": "C",
+      "stars": 25,
+      "forks": 6
+    },
+    {
+      "author": "ZerBea",
+      "name": "hcxtools",
+      "href": "https://github.com/ZerBea/hcxtools",
+      "description": "Portable solution for capturing wlan traffic and conversion to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = capture, convert and calculate candidates, x = different hashtypes",
+      "language": "C",
+      "stars": 298,
+      "forks": 66
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 3669,
+      "forks": 166
+    },
+    {
+      "author": "rhysd",
+      "name": "vim.wasm",
+      "href": "https://github.com/rhysd/vim.wasm",
+      "description": "Vim editor ported to WebAssembly",
+      "language": "C",
+      "stars": 2948,
+      "forks": 53
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 6517,
+      "forks": 2592
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11796,
+      "forks": 4741
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2760,
+      "forks": 5043
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7786,
+      "forks": 3658
+    },
+    {
+      "author": "bob-beck",
+      "name": "libtls",
+      "href": "https://github.com/bob-beck/libtls",
+      "description": "libtls tutorial, exercises, test CA and exercise solutions",
+      "language": "C",
+      "stars": 61,
+      "forks": 15
+    }
+  ]
+}
