@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1395,
+      "forks": 140
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 2743,
+      "forks": 175
+    },
+    {
+      "author": "dinfuehr",
+      "name": "dora",
+      "href": "https://github.com/dinfuehr/dora",
+      "description": "Dora VM",
+      "language": "Rust",
+      "stars": 216,
+      "forks": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 29859,
+      "forks": 5103
+    },
+    {
+      "author": "nathan",
+      "name": "pax",
+      "href": "https://github.com/nathan/pax",
+      "description": "The fastest JavaScript bundler in the galaxy.",
+      "language": "Rust",
+      "stars": 1050,
+      "forks": 15
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9730,
+      "forks": 399
+    },
+    {
+      "author": "rust-clique",
+      "name": "man",
+      "href": "https://github.com/rust-clique/man",
+      "description": "Generate structured man pages",
+      "language": "Rust",
+      "stars": 46,
+      "forks": 4
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 11572,
+      "forks": 474
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2160,
+      "forks": 141
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web framework for warp speeds.",
+      "language": "Rust",
+      "stars": 333,
+      "forks": 17
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 4925,
+      "forks": 158
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3750,
+      "forks": 602
+    },
+    {
+      "author": "Keats",
+      "name": "gutenberg",
+      "href": "https://github.com/Keats/gutenberg",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 1025,
+      "forks": 82
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6022,
+      "forks": 153
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4963,
+      "forks": 323
+    },
+    {
+      "author": "k3d3",
+      "name": "crossbeam-arccell",
+      "href": "https://github.com/k3d3/crossbeam-arccell",
+      "description": "Atomically updatable Arc implementation using crossbeam-epoch for memory reclamation.",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 2
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key value database powered by Rust and Raft",
+      "language": "Rust",
+      "stars": 3462,
+      "forks": 462
+    },
+    {
+      "author": "weld-project",
+      "name": "weld",
+      "href": "https://github.com/weld-project/weld",
+      "description": "High-performance runtime for data analytics applications",
+      "language": "Rust",
+      "stars": 927,
+      "forks": 115
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1520,
+      "forks": 82
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "failure",
+      "href": "https://github.com/rust-lang-nursery/failure",
+      "description": "Error management",
+      "language": "Rust",
+      "stars": 867,
+      "forks": 73
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 1163,
+      "forks": 124
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7683,
+      "forks": 495
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 1300,
+      "forks": 121
+    },
+    {
+      "author": "chinedufn",
+      "name": "percy",
+      "href": "https://github.com/chinedufn/percy",
+      "description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly",
+      "language": "Rust",
+      "stars": 785,
+      "forks": 13
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12114,
+      "forks": 1935
+    }
+  ]
+}
