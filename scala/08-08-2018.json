@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18348,
+      "forks": 16611
+    },
+    {
+      "author": "prismagraphql",
+      "name": "prisma",
+      "href": "https://github.com/prismagraphql/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 9660,
+      "forks": 537
+    },
+    {
+      "author": "mockito",
+      "name": "mockito-scala",
+      "href": "https://github.com/mockito/mockito-scala",
+      "description": "Mockito for Scala language",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 1
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Open source service mesh for cloud-native applications",
+      "language": "Scala",
+      "stars": 4509,
+      "forks": 445
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8839,
+      "forks": 2818
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 5710,
+      "forks": 1465
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10515,
+      "forks": 2489
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10629,
+      "forks": 3586
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 741,
+      "forks": 351
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves node application",
+      "language": "Scala",
+      "stars": 900,
+      "forks": 227
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Non Blocking, Type Safe, Reactive HTTP Client",
+      "language": "Scala",
+      "stars": 1207,
+      "forks": 486
+    },
+    {
+      "author": "johnynek",
+      "name": "bazel-deps",
+      "href": "https://github.com/johnynek/bazel-deps",
+      "description": "Generate bazel dependencies for maven artifacts",
+      "language": "Scala",
+      "stars": 71,
+      "forks": 39
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 1957,
+      "forks": 431
+    },
+    {
+      "author": "squeryl",
+      "name": "squeryl",
+      "href": "https://github.com/squeryl/squeryl",
+      "description": "A Scala DSL for talking with databases with minimum verbosity and maximum type safety",
+      "language": "Scala",
+      "stars": 507,
+      "forks": 124
+    },
+    {
+      "author": "ottogroup",
+      "name": "schedoscope",
+      "href": "https://github.com/ottogroup/schedoscope",
+      "description": "Schedoscope is a scheduling framework for painfree agile development, testing, (re)loading, and monitoring of your datahub, lake, or whatever you choose to call your Hadoop data warehouse these days.",
+      "language": "Scala",
+      "stars": 85,
+      "forks": 24
+    },
+    {
+      "author": "Intel-bigdata",
+      "name": "OAP",
+      "href": "https://github.com/Intel-bigdata/OAP",
+      "description": "Optimized Analytics Package for Spark Platform",
+      "language": "Scala",
+      "stars": 134,
+      "forks": 44
+    },
+    {
+      "author": "circe",
+      "name": "circe-yaml",
+      "href": "https://github.com/circe/circe-yaml",
+      "description": "YAML parser for circe using SnakeYAML",
+      "language": "Scala",
+      "stars": 49,
+      "forks": 16
+    },
+    {
+      "author": "thesamet",
+      "name": "sbt-protoc",
+      "href": "https://github.com/thesamet/sbt-protoc",
+      "description": "SBT plugin for generating code from Protocol Buffer using protoc",
+      "language": "Scala",
+      "stars": 72,
+      "forks": 17
+    },
+    {
+      "author": "non",
+      "name": "spire",
+      "href": "https://github.com/non/spire",
+      "description": "Powerful new number types and numeric abstractions for Scala.",
+      "language": "Scala",
+      "stars": 1362,
+      "forks": 185
+    },
+    {
+      "author": "scalameta",
+      "name": "scalafmt",
+      "href": "https://github.com/scalameta/scalafmt",
+      "description": "Code formatter for Scala",
+      "language": "Scala",
+      "stars": 654,
+      "forks": 145
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-unidoc",
+      "href": "https://github.com/sbt/sbt-unidoc",
+      "description": "sbt plugin to create a unified API document across projects",
+      "language": "Scala",
+      "stars": 94,
+      "forks": 19
+    },
+    {
+      "author": "wvlet",
+      "name": "airframe",
+      "href": "https://github.com/wvlet/airframe",
+      "description": "Lightweight Building Blocks for Scala",
+      "language": "Scala",
+      "stars": 138,
+      "forks": 17
+    },
+    {
+      "author": "qubole",
+      "name": "kinesis-sql",
+      "href": "https://github.com/qubole/kinesis-sql",
+      "description": "Kinesis Connector for Structured Streaming",
+      "language": "Scala",
+      "stars": 25,
+      "forks": 13
+    },
+    {
+      "author": "twitter",
+      "name": "finatra",
+      "href": "https://github.com/twitter/finatra",
+      "description": "Fast, testable, Scala services built on Twitter-Server and Finagle",
+      "language": "Scala",
+      "stars": 1790,
+      "forks": 339
+    },
+    {
+      "author": "scala",
+      "name": "scala-collection-compat",
+      "href": "https://github.com/scala/scala-collection-compat",
+      "description": "Scala 2.13 Collection Compatibility Library",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 11
+    }
+  ]
+}
