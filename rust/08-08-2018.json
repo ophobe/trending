@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 2795,
+      "forks": 181
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web framework for warp speeds.",
+      "language": "Rust",
+      "stars": 361,
+      "forks": 19
+    },
+    {
+      "author": "baidu",
+      "name": "rust-sgx-sdk",
+      "href": "https://github.com/baidu/rust-sgx-sdk",
+      "description": "Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.",
+      "language": "Rust",
+      "stars": 376,
+      "forks": 52
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 11595,
+      "forks": 475
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1420,
+      "forks": 144
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 9747,
+      "forks": 400
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 29872,
+      "forks": 5107
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A high-performance, bindless graphics API for Rust.",
+      "language": "Rust",
+      "stars": 1886,
+      "forks": 266
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 4933,
+      "forks": 158
+    },
+    {
+      "author": "nathan",
+      "name": "pax",
+      "href": "https://github.com/nathan/pax",
+      "description": "The fastest JavaScript bundler in the galaxy.",
+      "language": "Rust",
+      "stars": 1058,
+      "forks": 15
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2164,
+      "forks": 142
+    },
+    {
+      "author": "dinfuehr",
+      "name": "dora",
+      "href": "https://github.com/dinfuehr/dora",
+      "description": "Dora VM",
+      "language": "Rust",
+      "stars": 225,
+      "forks": 5
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6028,
+      "forks": 153
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 3758,
+      "forks": 602
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1528,
+      "forks": 82
+    },
+    {
+      "author": "mitsuhiko",
+      "name": "redis-rs",
+      "href": "https://github.com/mitsuhiko/redis-rs",
+      "description": "Redis library for rust",
+      "language": "Rust",
+      "stars": 831,
+      "forks": 119
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 4967,
+      "forks": 324
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7772,
+      "forks": 177
+    },
+    {
+      "author": "Keats",
+      "name": "gutenberg",
+      "href": "https://github.com/Keats/gutenberg",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 1030,
+      "forks": 82
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "href": "https://github.com/solana-labs/solana",
+      "description": "Blockchain, Rebuilt for Scale",
+      "language": "Rust",
+      "stars": 296,
+      "forks": 49
+    },
+    {
+      "author": "gfx-rs",
+      "name": "portability",
+      "href": "https://github.com/gfx-rs/portability",
+      "description": "Vulkan Portability Implementation",
+      "language": "Rust",
+      "stars": 110,
+      "forks": 9
+    },
+    {
+      "author": "k3d3",
+      "name": "crossbeam-arccell",
+      "href": "https://github.com/k3d3/crossbeam-arccell",
+      "description": "Atomically updatable Arc implementation using crossbeam-epoch for memory reclamation.",
+      "language": "Rust",
+      "stars": 31,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2447,
+      "forks": 721
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 13107,
+      "forks": 460
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7686,
+      "forks": 495
+    }
+  ]
+}
