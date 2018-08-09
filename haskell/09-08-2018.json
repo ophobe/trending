@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 12483,
+      "forks": 1448
+    },
+    {
+      "author": "luna",
+      "name": "luna-studio",
+      "href": "https://github.com/luna/luna-studio",
+      "description": null,
+      "language": "Haskell",
+      "stars": 400,
+      "forks": 13
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 11903,
+      "forks": 608
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2355,
+      "forks": 58
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5011,
+      "forks": 379
+    },
+    {
+      "author": "ryantm",
+      "name": "nixpkgs-update",
+      "href": "https://github.com/ryantm/nixpkgs-update",
+      "description": "Semi-automatically updating nixpkgs packages since 2018",
+      "language": "Haskell",
+      "stars": 45,
+      "forks": 8
+    },
+    {
+      "author": "lorepub",
+      "name": "moot",
+      "href": "https://github.com/lorepub/moot",
+      "description": "Moot is a CFP and event management system!",
+      "language": "Haskell",
+      "stars": 35,
+      "forks": 6
+    },
+    {
+      "author": "ekmett",
+      "name": "quine",
+      "href": "https://github.com/ekmett/quine",
+      "description": "haskell, opengl, toy project",
+      "language": "Haskell",
+      "stars": 186,
+      "forks": 24
+    },
+    {
+      "author": "nomeata",
+      "name": "ghc-heap-view",
+      "href": "https://github.com/nomeata/ghc-heap-view",
+      "description": "Extract the heap representation of Haskell values and thunks",
+      "language": "Haskell",
+      "stars": 33,
+      "forks": 7
+    },
+    {
+      "author": "reflex-frp",
+      "name": "reflex-dom",
+      "href": "https://github.com/reflex-frp/reflex-dom",
+      "description": "Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell. It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications.",
+      "language": "Haskell",
+      "stars": 214,
+      "forks": 100
+    },
+    {
+      "author": "diku-dk",
+      "name": "futhark",
+      "href": "https://github.com/diku-dk/futhark",
+      "description": "💥💻💥 A data-parallel functional programming language",
+      "language": "Haskell",
+      "stars": 700,
+      "forks": 59
+    },
+    {
+      "author": "elm-lang",
+      "name": "elm-platform",
+      "href": "https://github.com/elm-lang/elm-platform",
+      "description": "Bundle of all core development tools for Elm",
+      "language": "Haskell",
+      "stars": 762,
+      "forks": 130
+    },
+    {
+      "author": "NixOS",
+      "name": "cabal2nix",
+      "href": "https://github.com/NixOS/cabal2nix",
+      "description": "Generate Nix build instructions from a Cabal file",
+      "language": "Haskell",
+      "stars": 117,
+      "forks": 88
+    },
+    {
+      "author": "xmonad",
+      "name": "xmonad",
+      "href": "https://github.com/xmonad/xmonad",
+      "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager",
+      "language": "Haskell",
+      "stars": 979,
+      "forks": 141
+    },
+    {
+      "author": "brendanhay",
+      "name": "gogol",
+      "href": "https://github.com/brendanhay/gogol",
+      "description": "A comprehensive Google Services SDK for Haskell.",
+      "language": "Haskell",
+      "stars": 153,
+      "forks": 48
+    },
+    {
+      "author": "tensorflow",
+      "name": "haskell",
+      "href": "https://github.com/tensorflow/haskell",
+      "description": "Haskell bindings for TensorFlow",
+      "language": "Haskell",
+      "stars": 986,
+      "forks": 129
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 11129,
+      "forks": 492
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4607,
+      "forks": 341
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3256,
+      "forks": 270
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 2802,
+      "forks": 479
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2776,
+      "forks": 606
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2533,
+      "forks": 583
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2392,
+      "forks": 931
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2310,
+      "forks": 127
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2271,
+      "forks": 78
+    }
+  ]
+}
