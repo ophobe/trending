@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "xoreaxeaxeax",
+      "name": "rosenbridge",
+      "href": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "description": "Hardware backdoors in some x86 CPUs",
+      "language": "C",
+      "stars": 743,
+      "forks": 70
+    },
+    {
+      "author": "github",
+      "name": "glb-director",
+      "href": "https://github.com/github/glb-director",
+      "description": "GitHub Load Balancer Director and supporting tooling.",
+      "language": "C",
+      "stars": 1029,
+      "forks": 73
+    },
+    {
+      "author": "darlinghq",
+      "name": "darling",
+      "href": "https://github.com/darlinghq/darling",
+      "description": "Darwin/macOS emulation layer for Linux",
+      "language": "C",
+      "stars": 2457,
+      "forks": 131
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 61683,
+      "forks": 22567
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30665,
+      "forks": 11845
+    },
+    {
+      "author": "stanford-futuredata",
+      "name": "sparser",
+      "href": "https://github.com/stanford-futuredata/sparser",
+      "description": "Sparser: Raw Filtering for Faster Analytics over Raw Data",
+      "language": "C",
+      "stars": 129,
+      "forks": 11
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9021,
+      "forks": 4758
+    },
+    {
+      "author": "ionescu007",
+      "name": "r0ak",
+      "href": "https://github.com/ionescu007/r0ak",
+      "description": "r0ak (\"roak\") is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems",
+      "language": "C",
+      "stars": 534,
+      "forks": 64
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform GUI automation",
+      "language": "C",
+      "stars": 3137,
+      "forks": 265
+    },
+    {
+      "author": "360PegasusTeam",
+      "name": "GhostTunnel",
+      "href": "https://github.com/360PegasusTeam/GhostTunnel",
+      "description": "GhostTunnel is a covert backdoor transmission method that can be used in an isolated environment.",
+      "language": "C",
+      "stars": 70,
+      "forks": 18
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13617,
+      "forks": 1714
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10203,
+      "forks": 2284
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18866,
+      "forks": 4926
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 10972,
+      "forks": 757
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 10224,
+      "forks": 2264
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23623,
+      "forks": 13722
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11826,
+      "forks": 4750
+    },
+    {
+      "author": "ZerBea",
+      "name": "hcxdumptool",
+      "href": "https://github.com/ZerBea/hcxdumptool",
+      "description": "Small tool to capture packets from wlan devices.",
+      "language": "C",
+      "stars": 194,
+      "forks": 43
+    },
+    {
+      "author": "ZerBea",
+      "name": "hcxtools",
+      "href": "https://github.com/ZerBea/hcxtools",
+      "description": "Portable solution for capturing wlan traffic and conversion to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = capture, convert and calculate candidates, x = different hashtypes",
+      "language": "C",
+      "stars": 360,
+      "forks": 76
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 30979,
+      "forks": 2637
+    },
+    {
+      "author": "WireGuard",
+      "name": "WireGuard",
+      "href": "https://github.com/WireGuard/WireGuard",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/WireGuard",
+      "language": "C",
+      "stars": 495,
+      "forks": 43
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 6617,
+      "forks": 349
+    },
+    {
+      "author": "ianh",
+      "name": "owl",
+      "href": "https://github.com/ianh/owl",
+      "description": "A parser generator for visibly pushdown languages.",
+      "language": "C",
+      "stars": 375,
+      "forks": 8
+    },
+    {
+      "author": "marcobambini",
+      "name": "sqlite-createtable-parser",
+      "href": "https://github.com/marcobambini/sqlite-createtable-parser",
+      "description": "A parser for sqlite create table sql statements.",
+      "language": "C",
+      "stars": 33,
+      "forks": 0
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 10019,
+      "forks": 1651
+    }
+  ]
+}
