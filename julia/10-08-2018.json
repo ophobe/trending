@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 12703,
+      "forks": 2508
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1314,
+      "forks": 227
+    },
+    {
+      "author": "JuliaCN",
+      "name": "JuliaZH.jl",
+      "href": "https://github.com/JuliaCN/JuliaZH.jl",
+      "description": "Julia语言的中文文档(支持REPL)",
+      "language": "Julia",
+      "stars": 41,
+      "forks": 11
+    },
+    {
+      "author": "FluxML",
+      "name": "Zygote.jl",
+      "href": "https://github.com/FluxML/Zygote.jl",
+      "description": "21st Century AD",
+      "language": "Julia",
+      "stars": 23,
+      "forks": 2
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 539,
+      "forks": 130
+    },
+    {
+      "author": "FluxML",
+      "name": "Flux.jl",
+      "href": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "stars": 422,
+      "forks": 85
+    },
+    {
+      "author": "ModiaSim",
+      "name": "Modia.jl",
+      "href": "https://github.com/ModiaSim/Modia.jl",
+      "description": "Domain Specific Extension of Julia for Modeling and Simulation",
+      "language": "Julia",
+      "stars": 62,
+      "forks": 6
+    },
+    {
+      "author": "QuantEcon",
+      "name": "QuantEcon.jl",
+      "href": "https://github.com/QuantEcon/QuantEcon.jl",
+      "description": "Julia implementation of QuantEcon routines",
+      "language": "Julia",
+      "stars": 214,
+      "forks": 229
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "Ipopt.jl",
+      "href": "https://github.com/JuliaOpt/Ipopt.jl",
+      "description": "Julia interface to the Ipopt nonlinear solver",
+      "language": "Julia",
+      "stars": 28,
+      "forks": 20
+    },
+    {
+      "author": "vtjnash",
+      "name": "Glob.jl",
+      "href": "https://github.com/vtjnash/Glob.jl",
+      "description": "Posix-compliant file name pattern matching",
+      "language": "Julia",
+      "stars": 36,
+      "forks": 10
+    },
+    {
+      "author": "invenia",
+      "name": "LibPQ.jl",
+      "href": "https://github.com/invenia/LibPQ.jl",
+      "description": "A Julia wrapper for libpq",
+      "language": "Julia",
+      "stars": 25,
+      "forks": 9
+    },
+    {
+      "author": "FRBNY-DSGE",
+      "name": "DSGE.jl",
+      "href": "https://github.com/FRBNY-DSGE/DSGE.jl",
+      "description": "Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)",
+      "language": "Julia",
+      "stars": 422,
+      "forks": 89
+    },
+    {
+      "author": "JuliaGraphics",
+      "name": "Colors.jl",
+      "href": "https://github.com/JuliaGraphics/Colors.jl",
+      "description": "Color manipulation utilities for Julia",
+      "language": "Julia",
+      "stars": 49,
+      "forks": 47
+    },
+    {
+      "author": "JuliaIO",
+      "name": "MsgPack.jl",
+      "href": "https://github.com/JuliaIO/MsgPack.jl",
+      "description": "MessagePack serializer implementation for Julia / msgpack.org[Julia]",
+      "language": "Julia",
+      "stars": 21,
+      "forks": 15
+    },
+    {
+      "author": "timholy",
+      "name": "ProfileView.jl",
+      "href": "https://github.com/timholy/ProfileView.jl",
+      "description": "Visualization of Julia profiling data",
+      "language": "Julia",
+      "stars": 79,
+      "forks": 15
+    },
+    {
+      "author": "JuliaDatabases",
+      "name": "SQLite.jl",
+      "href": "https://github.com/JuliaDatabases/SQLite.jl",
+      "description": "A Julia interface to the SQLite library",
+      "language": "Julia",
+      "stars": 68,
+      "forks": 49
+    },
+    {
+      "author": "JuliaGeometry",
+      "name": "GeometryTypes.jl",
+      "href": "https://github.com/JuliaGeometry/GeometryTypes.jl",
+      "description": "Geometry types for Julia, based on FixedSizeArrays",
+      "language": "Julia",
+      "stars": 29,
+      "forks": 19
+    },
+    {
+      "author": "JuliaInterop",
+      "name": "RCall.jl",
+      "href": "https://github.com/JuliaInterop/RCall.jl",
+      "description": "Embedded R within Julia",
+      "language": "Julia",
+      "stars": 101,
+      "forks": 29
+    },
+    {
+      "author": "JuliaCI",
+      "name": "BenchmarkTools.jl",
+      "href": "https://github.com/JuliaCI/BenchmarkTools.jl",
+      "description": "A benchmarking framework for the Julia language",
+      "language": "Julia",
+      "stars": 110,
+      "forks": 23
+    },
+    {
+      "author": "JuliaLang",
+      "name": "METADATA.jl",
+      "href": "https://github.com/JuliaLang/METADATA.jl",
+      "description": "Metadata for registered Julia packages.",
+      "language": "Julia",
+      "stars": 184,
+      "forks": 739
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1184,
+      "forks": 200
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1056,
+      "forks": 238
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia language.",
+      "language": "Julia",
+      "stars": 621,
+      "forks": 136
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 608,
+      "forks": 117
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 543,
+      "forks": 48
+    }
+  ]
+}
