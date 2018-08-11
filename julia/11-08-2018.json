@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 13261,
+      "forks": 2557
+    },
+    {
+      "author": "JuliaCN",
+      "name": "JuliaZH.jl",
+      "href": "https://github.com/JuliaCN/JuliaZH.jl",
+      "description": "Julia语言的中文文档(支持REPL)",
+      "language": "Julia",
+      "stars": 55,
+      "forks": 12
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1321,
+      "forks": 229
+    },
+    {
+      "author": "FluxML",
+      "name": "Zygote.jl",
+      "href": "https://github.com/FluxML/Zygote.jl",
+      "description": "21st Century AD",
+      "language": "Julia",
+      "stars": 28,
+      "forks": 3
+    },
+    {
+      "author": "JuliaStats",
+      "name": "GLM.jl",
+      "href": "https://github.com/JuliaStats/GLM.jl",
+      "description": "Generalized linear models in Julia",
+      "language": "Julia",
+      "stars": 193,
+      "forks": 63
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 455,
+      "forks": 91
+    },
+    {
+      "author": "JuliaDSP",
+      "name": "DSP.jl",
+      "href": "https://github.com/JuliaDSP/DSP.jl",
+      "description": "Filter design, periodograms, window functions, and other digital signal processing functionality",
+      "language": "Julia",
+      "stars": 101,
+      "forks": 46
+    },
+    {
+      "author": "JuliaStats",
+      "name": "Clustering.jl",
+      "href": "https://github.com/JuliaStats/Clustering.jl",
+      "description": "A Julia package for data clustering",
+      "language": "Julia",
+      "stars": 108,
+      "forks": 74
+    },
+    {
+      "author": "JuliaMath",
+      "name": "FFTW.jl",
+      "href": "https://github.com/JuliaMath/FFTW.jl",
+      "description": "Julia bindings to the FFTW library for fast Fourier transforms",
+      "language": "Julia",
+      "stars": 24,
+      "forks": 8
+    },
+    {
+      "author": "JuliaGeometry",
+      "name": "GeometryTypes.jl",
+      "href": "https://github.com/JuliaGeometry/GeometryTypes.jl",
+      "description": "Geometry types for Julia, based on FixedSizeArrays",
+      "language": "Julia",
+      "stars": 30,
+      "forks": 20
+    },
+    {
+      "author": "JuliaGeo",
+      "name": "NetCDF.jl",
+      "href": "https://github.com/JuliaGeo/NetCDF.jl",
+      "description": "NetCDF support for the julia programming language",
+      "language": "Julia",
+      "stars": 22,
+      "forks": 22
+    },
+    {
+      "author": "JuliaGizmos",
+      "name": "Reactive.jl",
+      "href": "https://github.com/JuliaGizmos/Reactive.jl",
+      "description": "Reactive programming primitives for Julia",
+      "language": "Julia",
+      "stars": 138,
+      "forks": 39
+    },
+    {
+      "author": "stevengj",
+      "name": "LaTeXStrings.jl",
+      "href": "https://github.com/stevengj/LaTeXStrings.jl",
+      "description": "convenient input and display of LaTeX equation strings for the Julia language",
+      "language": "Julia",
+      "stars": 36,
+      "forks": 15
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "MathOptInterface.jl",
+      "href": "https://github.com/JuliaOpt/MathOptInterface.jl",
+      "description": "An abstraction layer for mathematical optimization solvers.",
+      "language": "Julia",
+      "stars": 33,
+      "forks": 18
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "ParameterizedFunctions.jl",
+      "href": "https://github.com/JuliaDiffEq/ParameterizedFunctions.jl",
+      "description": "Functions with parameters for differential equations",
+      "language": "Julia",
+      "stars": 33,
+      "forks": 10
+    },
+    {
+      "author": "jverzani",
+      "name": "Mustache.jl",
+      "href": "https://github.com/jverzani/Mustache.jl",
+      "description": "Port of mustache.js to julia",
+      "language": "Julia",
+      "stars": 44,
+      "forks": 21
+    },
+    {
+      "author": "FugroRoames",
+      "name": "Rotations.jl",
+      "href": "https://github.com/FugroRoames/Rotations.jl",
+      "description": "Julia implementations for different rotation parameterisations",
+      "language": "Julia",
+      "stars": 22,
+      "forks": 16
+    },
+    {
+      "author": "JuliaGraphics",
+      "name": "Cairo.jl",
+      "href": "https://github.com/JuliaGraphics/Cairo.jl",
+      "description": "Bindings to the Cairo graphics library.",
+      "language": "Julia",
+      "stars": 29,
+      "forks": 35
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "RecipesBase.jl",
+      "href": "https://github.com/JuliaPlots/RecipesBase.jl",
+      "description": "Base package for defining transformation recipes on user types for Plots.jl",
+      "language": "Julia",
+      "stars": 30,
+      "forks": 17
+    },
+    {
+      "author": "KristofferC",
+      "name": "OhMyREPL.jl",
+      "href": "https://github.com/KristofferC/OhMyREPL.jl",
+      "description": "Syntax highlighting and other enhancements for the Julia REPL",
+      "language": "Julia",
+      "stars": 180,
+      "forks": 17
+    },
+    {
+      "author": "JuliaGraphs",
+      "name": "LightGraphs.jl",
+      "href": "https://github.com/JuliaGraphs/LightGraphs.jl",
+      "description": "An optimized graphs package for Julia",
+      "language": "Julia",
+      "stars": 217,
+      "forks": 85
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "OrdinaryDiffEq.jl",
+      "href": "https://github.com/JuliaDiffEq/OrdinaryDiffEq.jl",
+      "description": "DiffEq solvers for ordinary differential equations",
+      "language": "Julia",
+      "stars": 45,
+      "forks": 34
+    },
+    {
+      "author": "mauro3",
+      "name": "Parameters.jl",
+      "href": "https://github.com/mauro3/Parameters.jl",
+      "description": "Types with default field values, keyword constructors and (un-)pack macros",
+      "language": "Julia",
+      "stars": 81,
+      "forks": 12
+    },
+    {
+      "author": "JuliaInterop",
+      "name": "RCall.jl",
+      "href": "https://github.com/JuliaInterop/RCall.jl",
+      "description": "Embedded R within Julia",
+      "language": "Julia",
+      "stars": 101,
+      "forks": 30
+    },
+    {
+      "author": "JuliaStats",
+      "name": "KernelDensity.jl",
+      "href": "https://github.com/JuliaStats/KernelDensity.jl",
+      "description": "Kernel density estimators for Julia",
+      "language": "Julia",
+      "stars": 43,
+      "forks": 20
+    }
+  ]
+}
