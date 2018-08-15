@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 9584,
+      "forks": 314
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 7993,
+      "forks": 214
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 4545,
+      "forks": 317
+    },
+    {
+      "author": "araddon",
+      "name": "qlbridge",
+      "href": "https://github.com/araddon/qlbridge",
+      "description": "A golang SQL expression VM. Library to build query engine based functionality.",
+      "language": "Go",
+      "stars": 292,
+      "forks": 20
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题",
+      "language": "Go",
+      "stars": 4382,
+      "forks": 437
+    },
+    {
+      "author": "axiomhq",
+      "name": "quantiles",
+      "href": "https://github.com/axiomhq/quantiles",
+      "description": "Optimal Quantile Approximation in Streams",
+      "language": "Go",
+      "stars": 88,
+      "forks": 3
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 40093,
+      "forks": 13946
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 34139,
+      "forks": 4387
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 45543,
+      "forks": 6213
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb-operator",
+      "href": "https://github.com/pingcap/tidb-operator",
+      "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes",
+      "language": "Go",
+      "stars": 50,
+      "forks": 12
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 19619,
+      "forks": 2320
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 20028,
+      "forks": 6786
+    },
+    {
+      "author": "546669204",
+      "name": "RebateBot",
+      "href": "https://github.com/546669204/RebateBot",
+      "description": "RebateBot, based on WeChat to establish robot channels and users to quickly generate rebate links through chat",
+      "language": "Go",
+      "stars": 37,
+      "forks": 7
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Go 夜读 > Night Reading Go - Go source reading and offline technical discussion every Thursday night.",
+      "language": "Go",
+      "stars": 1391,
+      "forks": 94
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 10836,
+      "forks": 1537
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 16995,
+      "forks": 1707
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 14412,
+      "forks": 2607
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 18191,
+      "forks": 2397
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 9704,
+      "forks": 2069
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 27950,
+      "forks": 3279
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 24488,
+      "forks": 7062
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 16526,
+      "forks": 3528
+    },
+    {
+      "author": "google",
+      "name": "go-cloud",
+      "href": "https://github.com/google/go-cloud",
+      "description": "A library and tools for open cloud development in Go.",
+      "language": "Go",
+      "stars": 3867,
+      "forks": 152
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 9481,
+      "forks": 914
+    },
+    {
+      "author": "coreos",
+      "name": "etcd",
+      "href": "https://github.com/coreos/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 19759,
+      "forks": 3941
+    }
+  ]
+}
