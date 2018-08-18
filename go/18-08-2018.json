@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "MichaelMure",
+      "name": "git-bug",
+      "href": "https://github.com/MichaelMure/git-bug",
+      "description": "Distributed bug tracker embedded in Git",
+      "language": "Go",
+      "stars": 1209,
+      "forks": 19
+    },
+    {
+      "author": "aykevl",
+      "name": "tinygo",
+      "href": "https://github.com/aykevl/tinygo",
+      "description": "Go compiler for small devices, based on LLVM.",
+      "language": "Go",
+      "stars": 194,
+      "forks": 3
+    },
+    {
+      "author": "Jeffail",
+      "name": "benthos",
+      "href": "https://github.com/Jeffail/benthos",
+      "description": "A dull, resilient and quick to deploy stream processor",
+      "language": "Go",
+      "stars": 1302,
+      "forks": 35
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 8329,
+      "forks": 218
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 40218,
+      "forks": 13986
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 9849,
+      "forks": 326
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 45668,
+      "forks": 6233
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 4832,
+      "forks": 332
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 34242,
+      "forks": 4408
+    },
+    {
+      "author": "satran",
+      "name": "dohproxy",
+      "href": "https://github.com/satran/dohproxy",
+      "description": "DNS over HTTPS proxy written in golang",
+      "language": "Go",
+      "stars": 74,
+      "forks": 6
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 9782,
+      "forks": 2088
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 28014,
+      "forks": 3283
+    },
+    {
+      "author": "go-ego",
+      "name": "riot",
+      "href": "https://github.com/go-ego/riot",
+      "description": "Go Open Source, Distributed, Simple and efficient Search Engine",
+      "language": "Go",
+      "stars": 3827,
+      "forks": 182
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 5569,
+      "forks": 798
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 20097,
+      "forks": 6820
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 19700,
+      "forks": 2332
+    },
+    {
+      "author": "sausheong",
+      "name": "invadersapp",
+      "href": "https://github.com/sausheong/invadersapp",
+      "description": "Space invaders in an app",
+      "language": "Go",
+      "stars": 24,
+      "forks": 3
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 862,
+      "forks": 67
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 18252,
+      "forks": 2410
+    },
+    {
+      "author": "go-debos",
+      "name": "debos",
+      "href": "https://github.com/go-debos/debos",
+      "description": "Debian OS builder",
+      "language": "Go",
+      "stars": 123,
+      "forks": 26
+    },
+    {
+      "author": "mb-14",
+      "name": "gomarkov",
+      "href": "https://github.com/mb-14/gomarkov",
+      "description": "Markov chains in golang",
+      "language": "Go",
+      "stars": 83,
+      "forks": 3
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 14479,
+      "forks": 2615
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 24539,
+      "forks": 7084
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 36995,
+      "forks": 8455
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 49998,
+      "forks": 14577
+    }
+  ]
+}
