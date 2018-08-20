@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rui314",
+      "name": "9cc",
+      "href": "https://github.com/rui314/9cc",
+      "description": "A Small C Compiler",
+      "language": "C",
+      "stars": 120,
+      "forks": 3
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 2530,
+      "forks": 159
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62034,
+      "forks": 22696
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31327,
+      "forks": 2660
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30855,
+      "forks": 11911
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9137,
+      "forks": 4859
+    },
+    {
+      "author": "xoreaxeaxeax",
+      "name": "rosenbridge",
+      "href": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "description": "Hardware backdoors in some x86 CPUs",
+      "language": "C",
+      "stars": 1585,
+      "forks": 149
+    },
+    {
+      "author": "cmu-sei",
+      "name": "SCALe",
+      "href": "https://github.com/cmu-sei/SCALe",
+      "description": "SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.",
+      "language": "C",
+      "stars": 85,
+      "forks": 16
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23736,
+      "forks": 13808
+    },
+    {
+      "author": "zyantific",
+      "name": "zydis",
+      "href": "https://github.com/zyantific/zydis",
+      "description": "Fast and lightweight x86/x86-64 disassembler library",
+      "language": "C",
+      "stars": 876,
+      "forks": 94
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18968,
+      "forks": 4950
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11912,
+      "forks": 4775
+    },
+    {
+      "author": "github",
+      "name": "glb-director",
+      "href": "https://github.com/github/glb-director",
+      "description": "GitHub Load Balancer Director and supporting tooling.",
+      "language": "C",
+      "stars": 1420,
+      "forks": 111
+    },
+    {
+      "author": "flatpak",
+      "name": "flatpak",
+      "href": "https://github.com/flatpak/flatpak",
+      "description": "Linux application sandboxing and distribution framework (formerly xdg-app)",
+      "language": "C",
+      "stars": 1496,
+      "forks": 161
+    },
+    {
+      "author": "WireGuard",
+      "name": "WireGuard",
+      "href": "https://github.com/WireGuard/WireGuard",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/WireGuard",
+      "language": "C",
+      "stars": 553,
+      "forks": 46
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10290,
+      "forks": 2293
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2839,
+      "forks": 5173
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 10158,
+      "forks": 1663
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 12090,
+      "forks": 697
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
+      "language": "C",
+      "stars": 10296,
+      "forks": 2278
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 15728,
+      "forks": 983
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores is used)",
+      "language": "C",
+      "stars": 1931,
+      "forks": 4859
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 8754,
+      "forks": 4875
+    },
+    {
+      "author": "sycurelab",
+      "name": "DECAF",
+      "href": "https://github.com/sycurelab/DECAF",
+      "description": "DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU. This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope is now an extension to DECAF.",
+      "language": "C",
+      "stars": 322,
+      "forks": 114
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13748,
+      "forks": 1730
+    }
+  ]
+}
