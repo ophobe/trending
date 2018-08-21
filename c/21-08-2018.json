@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62063,
+      "forks": 22713
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31356,
+      "forks": 2664
+    },
+    {
+      "author": "CoderMJLee",
+      "name": "MJCodeObfuscation",
+      "href": "https://github.com/CoderMJLee/MJCodeObfuscation",
+      "description": "一个用于代码混淆和字符串加密的Mac小Demo",
+      "language": "C",
+      "stars": 103,
+      "forks": 7
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30883,
+      "forks": 11922
+    },
+    {
+      "author": "flatpak",
+      "name": "flatpak",
+      "href": "https://github.com/flatpak/flatpak",
+      "description": "Linux application sandboxing and distribution framework (formerly xdg-app)",
+      "language": "C",
+      "stars": 1522,
+      "forks": 161
+    },
+    {
+      "author": "rui314",
+      "name": "9cc",
+      "href": "https://github.com/rui314/9cc",
+      "description": "A Small C Compiler",
+      "language": "C",
+      "stars": 145,
+      "forks": 6
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 20192,
+      "forks": 5526
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11934,
+      "forks": 4780
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 6770,
+      "forks": 365
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23749,
+      "forks": 13814
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9149,
+      "forks": 4869
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13762,
+      "forks": 1732
+    },
+    {
+      "author": "lionsoul2014",
+      "name": "ip2region",
+      "href": "https://github.com/lionsoul2014/ip2region",
+      "description": "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang,c#查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！",
+      "language": "C",
+      "stars": 4722,
+      "forks": 795
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7899,
+      "forks": 3706
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10304,
+      "forks": 2294
+    },
+    {
+      "author": "cmu-sei",
+      "name": "SCALe",
+      "href": "https://github.com/cmu-sei/SCALe",
+      "description": "SCALe (Source Code Analysis Lab) is a static analysis aggregator/correlator which enables a source code analyst to combine static analysis results from multiple tools into one interface, and also provides mappings for diagnostics from the tools to the SEI CERT Secure Coding standards.",
+      "language": "C",
+      "stars": 96,
+      "forks": 17
+    },
+    {
+      "author": "github",
+      "name": "glb-director",
+      "href": "https://github.com/github/glb-director",
+      "description": "GitHub Load Balancer Director and supporting tooling.",
+      "language": "C",
+      "stars": 1435,
+      "forks": 111
+    },
+    {
+      "author": "rofl0r",
+      "name": "proxychains-ng",
+      "href": "https://github.com/rofl0r/proxychains-ng",
+      "description": "proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.",
+      "language": "C",
+      "stars": 4090,
+      "forks": 503
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2847,
+      "forks": 5185
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10306,
+      "forks": 2283
+    },
+    {
+      "author": "google",
+      "name": "brotli",
+      "href": "https://github.com/google/brotli",
+      "description": "Brotli compression format",
+      "language": "C",
+      "stars": 6285,
+      "forks": 631
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 18979,
+      "forks": 4950
+    },
+    {
+      "author": "zyantific",
+      "name": "zydis",
+      "href": "https://github.com/zyantific/zydis",
+      "description": "Fast and lightweight x86/x86-64 disassembler library",
+      "language": "C",
+      "stars": 884,
+      "forks": 95
+    },
+    {
+      "author": "DoubleLabyrinth",
+      "name": "navicat-keygen",
+      "href": "https://github.com/DoubleLabyrinth/navicat-keygen",
+      "description": "A keygen for Navicat Premium",
+      "language": "C",
+      "stars": 1662,
+      "forks": 484
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "href": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": 662,
+      "forks": 361
+    }
+  ]
+}
