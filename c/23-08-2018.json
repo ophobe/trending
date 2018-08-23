@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62148,
+      "forks": 22745
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 7958,
+      "forks": 3713
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 2608,
+      "forks": 164
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 30944,
+      "forks": 11942
+    },
+    {
+      "author": "rui314",
+      "name": "9cc",
+      "href": "https://github.com/rui314/9cc",
+      "description": "A Small C Compiler",
+      "language": "C",
+      "stars": 225,
+      "forks": 10
+    },
+    {
+      "author": "riscv",
+      "name": "riscv-linux",
+      "href": "https://github.com/riscv/riscv-linux",
+      "description": "RISC-V Linux Port",
+      "language": "C",
+      "stars": 341,
+      "forks": 131
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19004,
+      "forks": 4954
+    },
+    {
+      "author": "somma",
+      "name": "Minifilter-HOL",
+      "href": "https://github.com/somma/Minifilter-HOL",
+      "description": "Minifilter driver development Hands-On-Labs",
+      "language": "C",
+      "stars": 107,
+      "forks": 6
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23774,
+      "forks": 13836
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9179,
+      "forks": 4898
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10333,
+      "forks": 2295
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31404,
+      "forks": 2668
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15315,
+      "forks": 1798
+    },
+    {
+      "author": "ValveSoftware",
+      "name": "wine",
+      "href": "https://github.com/ValveSoftware/wine",
+      "description": "Wine with a bit of extra spice",
+      "language": "C",
+      "stars": 36,
+      "forks": 3
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 9257,
+      "forks": 2502
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 11955,
+      "forks": 4785
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 6795,
+      "forks": 368
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10323,
+      "forks": 2284
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13782,
+      "forks": 1733
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 8776,
+      "forks": 4878
+    },
+    {
+      "author": "jpmens",
+      "name": "jo",
+      "href": "https://github.com/jpmens/jo",
+      "description": "JSON output from a shell",
+      "language": "C",
+      "stars": 2331,
+      "forks": 71
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 20215,
+      "forks": 5529
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 5376,
+      "forks": 253
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 8166,
+      "forks": 1976
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 12131,
+      "forks": 696
+    }
+  ]
+}
