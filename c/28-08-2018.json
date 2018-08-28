@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62334,
+      "forks": 22791
+    },
+    {
+      "author": "fogleman",
+      "name": "Craft",
+      "href": "https://github.com/fogleman/Craft",
+      "description": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+      "language": "C",
+      "stars": 6435,
+      "forks": 776
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "href": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C",
+      "stars": 4496,
+      "forks": 1137
+    },
+    {
+      "author": "polarphp",
+      "name": "polarphp",
+      "href": "https://github.com/polarphp/polarphp",
+      "description": "The runtime container of PHP programming language",
+      "language": "C",
+      "stars": 49,
+      "forks": 4
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31044,
+      "forks": 11975
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23824,
+      "forks": 13869
+    },
+    {
+      "author": "ARMmbed",
+      "name": "mbed-os",
+      "href": "https://github.com/ARMmbed/mbed-os",
+      "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+      "language": "C",
+      "stars": 1889,
+      "forks": 1586
+    },
+    {
+      "author": "yrm006",
+      "name": "miniscript",
+      "href": "https://github.com/yrm006/miniscript",
+      "description": "A tiny ECMAScript(JavaScript,JS) engine. This need only 8kB for ROM and need only 1kB for RAM.",
+      "language": "C",
+      "stars": 23,
+      "forks": 0
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9245,
+      "forks": 4946
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31487,
+      "forks": 2672
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12015,
+      "forks": 4792
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19069,
+      "forks": 4958
+    },
+    {
+      "author": "GPUOpen-LibrariesAndSDKs",
+      "name": "V-EZ",
+      "href": "https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ",
+      "description": null,
+      "language": "C",
+      "stars": 435,
+      "forks": 19
+    },
+    {
+      "author": "WireGuard",
+      "name": "WireGuard",
+      "href": "https://github.com/WireGuard/WireGuard",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/WireGuard",
+      "language": "C",
+      "stars": 632,
+      "forks": 56
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores is used)",
+      "language": "C",
+      "stars": 1986,
+      "forks": 4946
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10376,
+      "forks": 2309
+    },
+    {
+      "author": "domoticz",
+      "name": "domoticz",
+      "href": "https://github.com/domoticz/domoticz",
+      "description": "Open source Home Automation System",
+      "language": "C",
+      "stars": 1557,
+      "forks": 705
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8039,
+      "forks": 2948
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13818,
+      "forks": 1745
+    },
+    {
+      "author": "Iansus",
+      "name": "hideproc-lkm",
+      "href": "https://github.com/Iansus/hideproc-lkm",
+      "description": "Linux 4.9 Loadable Kernel Module to hide processes from system utilities",
+      "language": "C",
+      "stars": 28,
+      "forks": 9
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 10223,
+      "forks": 1676
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10372,
+      "forks": 2287
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 3789,
+      "forks": 171
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 4170,
+      "forks": 5903
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 5028,
+      "forks": 400
+    }
+  ]
+}
