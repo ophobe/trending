@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 45292,
+      "forks": 14021
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 13604,
+      "forks": 5711
+    },
+    {
+      "author": "emoncms",
+      "name": "emoncms",
+      "href": "https://github.com/emoncms/emoncms",
+      "description": "Web-app for processing, logging and visualising energy, temperature and other environmental data",
+      "language": "PHP",
+      "stars": 713,
+      "forks": 380
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 15875,
+      "forks": 5242
+    },
+    {
+      "author": "lxerxa",
+      "name": "actionview",
+      "href": "https://github.com/lxerxa/actionview",
+      "description": "An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.",
+      "language": "PHP",
+      "stars": 301,
+      "forks": 70
+    },
+    {
+      "author": "z-song",
+      "name": "laravel-admin",
+      "href": "https://github.com/z-song/laravel-admin",
+      "description": "Build a full-featured administrative interface in ten minutes",
+      "language": "PHP",
+      "stars": 4392,
+      "forks": 1232
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 14163,
+      "forks": 4939
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 18413,
+      "forks": 6371
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 17027,
+      "forks": 2181
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 3876,
+      "forks": 652
+    },
+    {
+      "author": "myclabs",
+      "name": "DeepCopy",
+      "href": "https://github.com/myclabs/DeepCopy",
+      "description": "Create deep copies (clones) of your objects",
+      "language": "PHP",
+      "stars": 3675,
+      "forks": 47
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 13648,
+      "forks": 1802
+    },
+    {
+      "author": "phpDocumentor",
+      "name": "TypeResolver",
+      "href": "https://github.com/phpDocumentor/TypeResolver",
+      "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
+      "language": "PHP",
+      "stars": 3790,
+      "forks": 19
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 11065,
+      "forks": 1646
+    },
+    {
+      "author": "TechEmpower",
+      "name": "FrameworkBenchmarks",
+      "href": "https://github.com/TechEmpower/FrameworkBenchmarks",
+      "description": "Source for the TechEmpower Framework Benchmarks project",
+      "language": "PHP",
+      "stars": 3515,
+      "forks": 1107
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 7377,
+      "forks": 524
+    },
+    {
+      "author": "vlucas",
+      "name": "phpdotenv",
+      "href": "https://github.com/vlucas/phpdotenv",
+      "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+      "language": "PHP",
+      "stars": 7559,
+      "forks": 364
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 9926,
+      "forks": 973
+    },
+    {
+      "author": "ramsey",
+      "name": "uuid",
+      "href": "https://github.com/ramsey/uuid",
+      "description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",
+      "language": "PHP",
+      "stars": 6535,
+      "forks": 269
+    },
+    {
+      "author": "paragonie",
+      "name": "random_compat",
+      "href": "https://github.com/paragonie/random_compat",
+      "description": "PHP 5.x support for random_bytes() and random_int()",
+      "language": "PHP",
+      "stars": 4210,
+      "forks": 82
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "href": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": 3137,
+      "forks": 905
+    },
+    {
+      "author": "RSS-Bridge",
+      "name": "rss-bridge",
+      "href": "https://github.com/RSS-Bridge/rss-bridge",
+      "description": "The RSS feed for websites missing it",
+      "language": "PHP",
+      "stars": 1187,
+      "forks": 212
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 4077,
+      "forks": 36
+    },
+    {
+      "author": "woocommerce",
+      "name": "woocommerce",
+      "href": "https://github.com/woocommerce/woocommerce",
+      "description": "An open source eCommerce plugin for WordPress.",
+      "language": "PHP",
+      "stars": 4673,
+      "forks": 4479
+    },
+    {
+      "author": "docker",
+      "name": "labs",
+      "href": "https://github.com/docker/labs",
+      "description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+      "language": "PHP",
+      "stars": 6055,
+      "forks": 2439
+    }
+  ]
+}
