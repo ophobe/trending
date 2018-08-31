@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "aergoio",
+      "name": "litetree",
+      "href": "https://github.com/aergoio/litetree",
+      "description": "SQLite with Branches",
+      "language": "C",
+      "stars": 988,
+      "forks": 14
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62476,
+      "forks": 22826
+    },
+    {
+      "author": "eduard-permyakov",
+      "name": "permafrost-engine",
+      "href": "https://github.com/eduard-permyakov/permafrost-engine",
+      "description": "An OpenGL 3.3 RTS game engine written in C",
+      "language": "C",
+      "stars": 164,
+      "forks": 3
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31123,
+      "forks": 12001
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31564,
+      "forks": 2679
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 1352,
+      "forks": 51
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 23886,
+      "forks": 13894
+    },
+    {
+      "author": "jnz",
+      "name": "q3vm",
+      "href": "https://github.com/jnz/q3vm",
+      "description": "Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input",
+      "language": "C",
+      "stars": 315,
+      "forks": 13
+    },
+    {
+      "author": "Rdatatable",
+      "name": "data.table",
+      "href": "https://github.com/Rdatatable/data.table",
+      "description": "R's data.table package extends data.frame:",
+      "language": "C",
+      "stars": 1556,
+      "forks": 698
+    },
+    {
+      "author": "rui314",
+      "name": "9cc",
+      "href": "https://github.com/rui314/9cc",
+      "description": "A Small C Compiler",
+      "language": "C",
+      "stars": 332,
+      "forks": 11
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 12203,
+      "forks": 699
+    },
+    {
+      "author": "joyent",
+      "name": "statemap",
+      "href": "https://github.com/joyent/statemap",
+      "description": "Software for rendering statemaps",
+      "language": "C",
+      "stars": 35,
+      "forks": 7
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 11142,
+      "forks": 768
+    },
+    {
+      "author": "nbs-system",
+      "name": "snuffleupagus",
+      "href": "https://github.com/nbs-system/snuffleupagus",
+      "description": "Security module for php7 - Killing bugclasses and virtual-patching the rest!",
+      "language": "C",
+      "stars": 166,
+      "forks": 17
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10415,
+      "forks": 2291
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "href": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": 6203,
+      "forks": 830
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12050,
+      "forks": 4810
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "href": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C",
+      "stars": 4552,
+      "forks": 1146
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 5810,
+      "forks": 713
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 9358,
+      "forks": 2509
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19123,
+      "forks": 4962
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9279,
+      "forks": 4975
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2891,
+      "forks": 5298
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13853,
+      "forks": 1754
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 8103,
+      "forks": 1588
+    }
+  ]
+}
