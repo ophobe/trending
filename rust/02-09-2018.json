@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 5992,
+      "forks": 95
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 30381,
+      "forks": 5141
+    },
+    {
+      "author": "m-labs",
+      "name": "smoltcp",
+      "href": "https://github.com/m-labs/smoltcp",
+      "description": "a smol tcp/ip stack",
+      "language": "Rust",
+      "stars": 536,
+      "forks": 48
+    },
+    {
+      "author": "termhn",
+      "name": "rayn",
+      "href": "https://github.com/termhn/rayn",
+      "description": "A simple raytracing renderer written in Rust.",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 1
+    },
+    {
+      "author": "sit-fyi",
+      "name": "sit",
+      "href": "https://github.com/sit-fyi/sit",
+      "description": "Serverless (offline-first, merge-friendly) Information Tracker",
+      "language": "Rust",
+      "stars": 429,
+      "forks": 27
+    },
+    {
+      "author": "rbspy",
+      "name": "rbspy",
+      "href": "https://github.com/rbspy/rbspy",
+      "description": "Sampling profiler for Ruby",
+      "language": "Rust",
+      "stars": 1404,
+      "forks": 45
+    },
+    {
+      "author": "mesalock-linux",
+      "name": "mesalink",
+      "href": "https://github.com/mesalock-linux/mesalink",
+      "description": "MesaLink is a memory-safe and OpenSSL-compatible TLS library.",
+      "language": "Rust",
+      "stars": 808,
+      "forks": 30
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A high-performance, bindless graphics API for Rust.",
+      "language": "Rust",
+      "stars": 2042,
+      "forks": 275
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10027,
+      "forks": 410
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7916,
+      "forks": 518
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 1274,
+      "forks": 99
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 11890,
+      "forks": 492
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3483,
+      "forks": 807
+    },
+    {
+      "author": "servo",
+      "name": "webrender",
+      "href": "https://github.com/servo/webrender",
+      "description": "A GPU-based renderer for the web",
+      "language": "Rust",
+      "stars": 1192,
+      "forks": 176
+    },
+    {
+      "author": "Plume-org",
+      "name": "Plume",
+      "href": "https://github.com/Plume-org/Plume",
+      "description": "Federated blogging application, thanks to ActivityPub",
+      "language": "Rust",
+      "stars": 623,
+      "forks": 37
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 5101,
+      "forks": 173
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2345,
+      "forks": 154
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12327,
+      "forks": 1953
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 294,
+      "forks": 4
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages",
+      "language": "Rust",
+      "stars": 3711,
+      "forks": 434
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3043,
+      "forks": 200
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 13417,
+      "forks": 471
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7880,
+      "forks": 186
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 3609,
+      "forks": 491
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rustfmt",
+      "href": "https://github.com/rust-lang-nursery/rustfmt",
+      "description": "Format Rust code",
+      "language": "Rust",
+      "stars": 1785,
+      "forks": 356
+    }
+  ]
+}
