@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 6441,
+      "forks": 102
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 30411,
+      "forks": 5144
+    },
+    {
+      "author": "m-labs",
+      "name": "smoltcp",
+      "href": "https://github.com/m-labs/smoltcp",
+      "description": "a smol tcp/ip stack",
+      "language": "Rust",
+      "stars": 561,
+      "forks": 50
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10042,
+      "forks": 411
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 11898,
+      "forks": 492
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 5109,
+      "forks": 173
+    },
+    {
+      "author": "sozu-proxy",
+      "name": "sozu",
+      "href": "https://github.com/sozu-proxy/sozu",
+      "description": "Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more",
+      "language": "Rust",
+      "stars": 654,
+      "forks": 50
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 7925,
+      "forks": 520
+    },
+    {
+      "author": "Aaronepower",
+      "name": "tokei",
+      "href": "https://github.com/Aaronepower/tokei",
+      "description": "A program that allows you to count your code, quickly.",
+      "language": "Rust",
+      "stars": 1285,
+      "forks": 99
+    },
+    {
+      "author": "termhn",
+      "name": "rayn",
+      "href": "https://github.com/termhn/rayn",
+      "description": "A simple raytracing renderer written in Rust.",
+      "language": "Rust",
+      "stars": 60,
+      "forks": 2
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 3618,
+      "forks": 493
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 1277,
+      "forks": 138
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 4692,
+      "forks": 149
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3050,
+      "forks": 201
+    },
+    {
+      "author": "rbspy",
+      "name": "rbspy",
+      "href": "https://github.com/rbspy/rbspy",
+      "description": "Sampling profiler for Ruby",
+      "language": "Rust",
+      "stars": 1413,
+      "forks": 45
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 302,
+      "forks": 4
+    },
+    {
+      "author": "hello-rust",
+      "name": "show",
+      "href": "https://github.com/hello-rust/show",
+      "description": "Show notes, code, and ideas for future topics for \"Hello Rust!\", a YouTube channel about the Rust programming language.",
+      "language": "Rust",
+      "stars": 129,
+      "forks": 9
+    },
+    {
+      "author": "servo",
+      "name": "webrender",
+      "href": "https://github.com/servo/webrender",
+      "description": "A GPU-based renderer for the web",
+      "language": "Rust",
+      "stars": 1198,
+      "forks": 177
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3489,
+      "forks": 808
+    },
+    {
+      "author": "neon-bindings",
+      "name": "neon",
+      "href": "https://github.com/neon-bindings/neon",
+      "description": "Rust bindings for writing safe and fast native Node.js modules.",
+      "language": "Rust",
+      "stars": 2731,
+      "forks": 110
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5112,
+      "forks": 331
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 2295,
+      "forks": 289
+    },
+    {
+      "author": "gam0022",
+      "name": "hanamaru-renderer",
+      "href": "https://github.com/gam0022/hanamaru-renderer",
+      "description": "PathTracing in Rust",
+      "language": "Rust",
+      "stars": 30,
+      "forks": 0
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 4763,
+      "forks": 999
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12331,
+      "forks": 1953
+    }
+  ]
+}
