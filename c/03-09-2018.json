@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "aergoio",
+      "name": "litetree",
+      "href": "https://github.com/aergoio/litetree",
+      "description": "SQLite with Branches",
+      "language": "C",
+      "stars": 1114,
+      "forks": 17
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62583,
+      "forks": 22859
+    },
+    {
+      "author": "stanford-futuredata",
+      "name": "sparser",
+      "href": "https://github.com/stanford-futuredata/sparser",
+      "description": "Sparser: Raw Filtering for Faster Analytics over Raw Data",
+      "language": "C",
+      "stars": 273,
+      "forks": 25
+    },
+    {
+      "author": "eduard-permyakov",
+      "name": "permafrost-engine",
+      "href": "https://github.com/eduard-permyakov/permafrost-engine",
+      "description": "An OpenGL 3.3 RTS game engine written in C",
+      "language": "C",
+      "stars": 385,
+      "forks": 13
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31152,
+      "forks": 12013
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19165,
+      "forks": 4963
+    },
+    {
+      "author": "glouw",
+      "name": "andvaranaut",
+      "href": "https://github.com/glouw/andvaranaut",
+      "description": "The dungeon crawler",
+      "language": "C",
+      "stars": 69,
+      "forks": 6
+    },
+    {
+      "author": "360PegasusTeam",
+      "name": "GhostTunnel",
+      "href": "https://github.com/360PegasusTeam/GhostTunnel",
+      "description": "GhostTunnel is a covert backdoor transmission method that can be used in an isolated environment.",
+      "language": "C",
+      "stars": 121,
+      "forks": 37
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 6912,
+      "forks": 379
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31607,
+      "forks": 2680
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 13885,
+      "forks": 1760
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10440,
+      "forks": 2291
+    },
+    {
+      "author": "nbs-system",
+      "name": "snuffleupagus",
+      "href": "https://github.com/nbs-system/snuffleupagus",
+      "description": "Security module for php7 - Killing bugclasses and virtual-patching the rest!",
+      "language": "C",
+      "stars": 196,
+      "forks": 19
+    },
+    {
+      "author": "StanfordVL",
+      "name": "GibsonEnv",
+      "href": "https://github.com/StanfordVL/GibsonEnv",
+      "description": "Gibson Environments: Real-World Perception for Embodied Agents",
+      "language": "C",
+      "stars": 164,
+      "forks": 29
+    },
+    {
+      "author": "rui314",
+      "name": "9cc",
+      "href": "https://github.com/rui314/9cc",
+      "description": "A Small C Compiler",
+      "language": "C",
+      "stars": 376,
+      "forks": 16
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 10262,
+      "forks": 1685
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 9386,
+      "forks": 2513
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12076,
+      "forks": 4810
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8049,
+      "forks": 3748
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15408,
+      "forks": 1805
+    },
+    {
+      "author": "openresty",
+      "name": "lua-nginx-module",
+      "href": "https://github.com/openresty/lua-nginx-module",
+      "description": "Embed the Power of Lua into NGINX HTTP servers",
+      "language": "C",
+      "stars": 6337,
+      "forks": 1395
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 8126,
+      "forks": 1592
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 5426,
+      "forks": 259
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 10436,
+      "forks": 2313
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 12220,
+      "forks": 701
+    }
+  ]
+}
