@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "fthomas",
+      "name": "scala-steward",
+      "href": "https://github.com/fthomas/scala-steward",
+      "description": "🤖 A robot that is trying to keep your Scala projects up-to-date",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 13
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18746,
+      "forks": 16882
+    },
+    {
+      "author": "salesforce",
+      "name": "TransmogrifAI",
+      "href": "https://github.com/salesforce/TransmogrifAI",
+      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Spark with minimal hand tuning",
+      "language": "Scala",
+      "stars": 825,
+      "forks": 112
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 10143,
+      "forks": 572
+    },
+    {
+      "author": "kamon-io",
+      "name": "Kamon",
+      "href": "https://github.com/kamon-io/Kamon",
+      "description": "Distributed Tracing, Metrics and Context Propagation for application running on the JVM",
+      "language": "Scala",
+      "stars": 1105,
+      "forks": 224
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-tagless",
+      "href": "https://github.com/typelevel/cats-tagless",
+      "description": "Library of utilities for tagless final encoded algebras",
+      "language": "Scala",
+      "stars": 88,
+      "forks": 4
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS, GCP and on-premise with Kafka",
+      "language": "Scala",
+      "stars": 4295,
+      "forks": 915
+    },
+    {
+      "author": "twosigma",
+      "name": "flint",
+      "href": "https://github.com/twosigma/flint",
+      "description": "A Time Series Library for Apache Spark",
+      "language": "Scala",
+      "stars": 423,
+      "forks": 84
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "Open source service mesh for cloud-native applications",
+      "language": "Scala",
+      "stars": 4661,
+      "forks": 455
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 8984,
+      "forks": 2851
+    },
+    {
+      "author": "OpenBankProject",
+      "name": "OBP-API",
+      "href": "https://github.com/OpenBankProject/OBP-API",
+      "description": "An open source RESTful API platform for banks that supports accounts, transactions, counterparties, transfers (payments), entitlements (permissions), metadata (comments, tags, geo tags, urls etc.), multiple views on accounts (my data, shared data, open data), PSD2 compliance etc.",
+      "language": "Scala",
+      "stars": 909,
+      "forks": 257
+    },
+    {
+      "author": "Netflix",
+      "name": "atlas",
+      "href": "https://github.com/Netflix/atlas",
+      "description": "In-memory dimensional time series database.",
+      "language": "Scala",
+      "stars": 2018,
+      "forks": 178
+    },
+    {
+      "author": "Landoop",
+      "name": "stream-reactor",
+      "href": "https://github.com/Landoop/stream-reactor",
+      "description": "Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more.",
+      "language": "Scala",
+      "stars": 477,
+      "forks": 171
+    },
+    {
+      "author": "bigdatagenomics",
+      "name": "adam",
+      "href": "https://github.com/bigdatagenomics/adam",
+      "description": "ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.",
+      "language": "Scala",
+      "stars": 756,
+      "forks": 270
+    },
+    {
+      "author": "akka",
+      "name": "akka-grpc",
+      "href": "https://github.com/akka/akka-grpc",
+      "description": "Akka gRPC",
+      "language": "Scala",
+      "stars": 133,
+      "forks": 14
+    },
+    {
+      "author": "vinyldns",
+      "name": "vinyldns",
+      "href": "https://github.com/vinyldns/vinyldns",
+      "description": "Vendor agnostic DNS front-end for streamlining DNS operations and enabling self-service for your DNS infrastructure",
+      "language": "Scala",
+      "stars": 103,
+      "forks": 17
+    },
+    {
+      "author": "MAIF",
+      "name": "izanami",
+      "href": "https://github.com/MAIF/izanami",
+      "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
+      "language": "Scala",
+      "stars": 70,
+      "forks": 11
+    },
+    {
+      "author": "wireapp",
+      "name": "wire-android",
+      "href": "https://github.com/wireapp/wire-android",
+      "description": "☎️ Wire for Android",
+      "language": "Scala",
+      "stars": 2130,
+      "forks": 407
+    },
+    {
+      "author": "MrPowers",
+      "name": "spark-daria",
+      "href": "https://github.com/MrPowers/spark-daria",
+      "description": "Essential Spark extensions and helper methods ✨😲",
+      "language": "Scala",
+      "stars": 127,
+      "forks": 32
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1433,
+      "forks": 300
+    },
+    {
+      "author": "rickynils",
+      "name": "scalacheck",
+      "href": "https://github.com/rickynils/scalacheck",
+      "description": "Property-based testing for Scala",
+      "language": "Scala",
+      "stars": 1398,
+      "forks": 302
+    },
+    {
+      "author": "dwijnand",
+      "name": "sbt-dynver",
+      "href": "https://github.com/dwijnand/sbt-dynver",
+      "description": "An sbt plugin to dynamically set your version from git",
+      "language": "Scala",
+      "stars": 141,
+      "forks": 18
+    },
+    {
+      "author": "Normation",
+      "name": "rudder",
+      "href": "https://github.com/Normation/rudder",
+      "description": "Continuous configuration for effective compliance",
+      "language": "Scala",
+      "stars": 189,
+      "forks": 41
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1215,
+      "forks": 199
+    },
+    {
+      "author": "greencatsoft",
+      "name": "scalajs-angular-todomvc",
+      "href": "https://github.com/greencatsoft/scalajs-angular-todomvc",
+      "description": "TodoMVC example using scalajs-angular",
+      "language": "Scala",
+      "stars": 57,
+      "forks": 18
+    }
+  ]
+}
