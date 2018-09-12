@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31484,
+      "forks": 12106
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 62970,
+      "forks": 22956
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 4755,
+      "forks": 201
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "href": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": 2023,
+      "forks": 993
+    },
+    {
+      "author": "p-gen",
+      "name": "smenu",
+      "href": "https://github.com/p-gen/smenu",
+      "description": "Terminal utility that allows you to use words coming from the standard input to create a nice selection window just below the cursor. Once done, your selection will be sent to standard output. More in the Wiki",
+      "language": "C",
+      "stars": 1248,
+      "forks": 24
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24051,
+      "forks": 13982
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19314,
+      "forks": 4982
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8160,
+      "forks": 3770
+    },
+    {
+      "author": "DoubleLabyrinth",
+      "name": "navicat-keygen",
+      "href": "https://github.com/DoubleLabyrinth/navicat-keygen",
+      "description": "A keygen for Navicat Premium",
+      "language": "C",
+      "stars": 1862,
+      "forks": 531
+    },
+    {
+      "author": "domoticz",
+      "name": "domoticz",
+      "href": "https://github.com/domoticz/domoticz",
+      "description": "Open source Home Automation System",
+      "language": "C",
+      "stars": 1612,
+      "forks": 715
+    },
+    {
+      "author": "HeadingMobile",
+      "name": "fabu.love",
+      "href": "https://github.com/HeadingMobile/fabu.love",
+      "description": "[BETA]应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等. demo地址 https://fabu.love",
+      "language": "C",
+      "stars": 80,
+      "forks": 36
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31763,
+      "forks": 2694
+    },
+    {
+      "author": "julycoding",
+      "name": "The-Art-Of-Programming-By-July",
+      "href": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+      "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+      "language": "C",
+      "stars": 14937,
+      "forks": 6012
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9442,
+      "forks": 5065
+    },
+    {
+      "author": "zuoqing1988",
+      "name": "ZQCNN-v0.0",
+      "href": "https://github.com/zuoqing1988/ZQCNN-v0.0",
+      "description": "一款比mini-caffe更快的Forward库，觉得好用请点星啊",
+      "language": "C",
+      "stars": 91,
+      "forks": 30
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12173,
+      "forks": 4841
+    },
+    {
+      "author": "TheOfficialFloW",
+      "name": "h-encore",
+      "href": "https://github.com/TheOfficialFloW/h-encore",
+      "description": "Fully chained kernel exploit for the PS Vita",
+      "language": "C",
+      "stars": 504,
+      "forks": 51
+    },
+    {
+      "author": "zombodb",
+      "name": "zombodb",
+      "href": "https://github.com/zombodb/zombodb",
+      "description": "Making Postgres and Elasticsearch work together like it's 2018",
+      "language": "C",
+      "stars": 1553,
+      "forks": 78
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15476,
+      "forks": 1800
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 11276,
+      "forks": 777
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 6760,
+      "forks": 2664
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10581,
+      "forks": 2309
+    },
+    {
+      "author": "gamozolabs",
+      "name": "falkervisor_grilled_cheese",
+      "href": "https://github.com/gamozolabs/falkervisor_grilled_cheese",
+      "description": null,
+      "language": "C",
+      "stars": 61,
+      "forks": 10
+    },
+    {
+      "author": "FRRouting",
+      "name": "frr",
+      "href": "https://github.com/FRRouting/frr",
+      "description": "The FRRouting Protocol Suite",
+      "language": "C",
+      "stars": 640,
+      "forks": 253
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 8283,
+      "forks": 2013
+    }
+  ]
+}
