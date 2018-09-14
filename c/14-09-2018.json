@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 63069,
+      "forks": 22979
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31561,
+      "forks": 12124
+    },
+    {
+      "author": "johnkerl",
+      "name": "miller",
+      "href": "https://github.com/johnkerl/miller",
+      "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
+      "language": "C",
+      "stars": 1867,
+      "forks": 60
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14052,
+      "forks": 1787
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31808,
+      "forks": 2694
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24086,
+      "forks": 13993
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 4810,
+      "forks": 201
+    },
+    {
+      "author": "DoubleLabyrinth",
+      "name": "navicat-keygen",
+      "href": "https://github.com/DoubleLabyrinth/navicat-keygen",
+      "description": "A keygen for Navicat Premium",
+      "language": "C",
+      "stars": 1900,
+      "forks": 536
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9471,
+      "forks": 5087
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 9499,
+      "forks": 2523
+    },
+    {
+      "author": "BareRose",
+      "name": "atomix",
+      "href": "https://github.com/BareRose/atomix",
+      "description": "Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing",
+      "language": "C",
+      "stars": 28,
+      "forks": 1
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12201,
+      "forks": 4849
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19351,
+      "forks": 4985
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8198,
+      "forks": 3782
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 5513,
+      "forks": 268
+    },
+    {
+      "author": "algorithm-archivists",
+      "name": "algorithm-archive",
+      "href": "https://github.com/algorithm-archivists/algorithm-archive",
+      "description": "A collaborative book on algorithms",
+      "language": "C",
+      "stars": 535,
+      "forks": 130
+    },
+    {
+      "author": "processhacker",
+      "name": "processhacker",
+      "href": "https://github.com/processhacker/processhacker",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+      "language": "C",
+      "stars": 1484,
+      "forks": 264
+    },
+    {
+      "author": "jovanbulck",
+      "name": "nemesis",
+      "href": "https://github.com/jovanbulck/nemesis",
+      "description": "Nemesis: Studying microarchitectural timing leaks in rudimentary CPU interrupt logic",
+      "language": "C",
+      "stars": 43,
+      "forks": 3
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 2959,
+      "forks": 5437
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 10356,
+      "forks": 1693
+    },
+    {
+      "author": "julycoding",
+      "name": "The-Art-Of-Programming-By-July",
+      "href": "https://github.com/julycoding/The-Art-Of-Programming-By-July",
+      "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+      "language": "C",
+      "stars": 14958,
+      "forks": 6018
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 7927,
+      "forks": 5235
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8141,
+      "forks": 2990
+    },
+    {
+      "author": "zombodb",
+      "name": "zombodb",
+      "href": "https://github.com/zombodb/zombodb",
+      "description": "Making Postgres and Elasticsearch work together like it's 2018",
+      "language": "C",
+      "stars": 1582,
+      "forks": 79
+    },
+    {
+      "author": "jnz",
+      "name": "q3vm",
+      "href": "https://github.com/jnz/q3vm",
+      "description": "Q3VM - Embeddable bytecode virtual machine/interpreter for C-language input",
+      "language": "C",
+      "stars": 371,
+      "forks": 16
+    }
+  ]
+}
