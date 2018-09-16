@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 45715,
+      "forks": 14132
+    },
+    {
+      "author": "mautic",
+      "name": "mautic",
+      "href": "https://github.com/mautic/mautic",
+      "description": "Mautic: Open Source Marketing Automation Software.",
+      "language": "PHP",
+      "stars": 2635,
+      "forks": 969
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 16159,
+      "forks": 5267
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 11282,
+      "forks": 1657
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 4049,
+      "forks": 682
+    },
+    {
+      "author": "thecodingmachine",
+      "name": "safe",
+      "href": "https://github.com/thecodingmachine/safe",
+      "description": "All PHP functions, rewritten to throw exceptions instead of returning false",
+      "language": "PHP",
+      "stars": 165,
+      "forks": 3
+    },
+    {
+      "author": "woocommerce",
+      "name": "woocommerce",
+      "href": "https://github.com/woocommerce/woocommerce",
+      "description": "An open source eCommerce plugin for WordPress.",
+      "language": "PHP",
+      "stars": 4727,
+      "forks": 4540
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 7291,
+      "forks": 463
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 13867,
+      "forks": 5782
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 17280,
+      "forks": 2194
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 11658,
+      "forks": 1417
+    },
+    {
+      "author": "webmozart",
+      "name": "assert",
+      "href": "https://github.com/webmozart/assert",
+      "description": "Assertions to validate method input/output with nice error messages.",
+      "language": "PHP",
+      "stars": 4052,
+      "forks": 48
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 6066,
+      "forks": 693
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 4123,
+      "forks": 66
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 4113,
+      "forks": 46
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 4253,
+      "forks": 35
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 4033,
+      "forks": 48
+    },
+    {
+      "author": "symfony",
+      "name": "translation",
+      "href": "https://github.com/symfony/translation",
+      "description": "The Translation component provides tools to internationalize your application.",
+      "language": "PHP",
+      "stars": 3774,
+      "forks": 38
+    },
+    {
+      "author": "anilozmen",
+      "name": "clean-code-php",
+      "href": "https://github.com/anilozmen/clean-code-php",
+      "description": "🛁 Clean Code concepts adapted for PHP",
+      "language": "PHP",
+      "stars": 34,
+      "forks": 821
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "href": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": 11744,
+      "forks": 6484
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 5915,
+      "forks": 323
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 4716,
+      "forks": 143
+    },
+    {
+      "author": "laravel",
+      "name": "tinker",
+      "href": "https://github.com/laravel/tinker",
+      "description": null,
+      "language": "PHP",
+      "stars": 3253,
+      "forks": 42
+    },
+    {
+      "author": "radenvodka",
+      "name": "SVScanner",
+      "href": "https://github.com/radenvodka/SVScanner",
+      "description": "SVScanner - Scanner Vulnerability And MaSsive Exploit.",
+      "language": "PHP",
+      "stars": 44,
+      "forks": 9
+    },
+    {
+      "author": "z-song",
+      "name": "laravel-admin",
+      "href": "https://github.com/z-song/laravel-admin",
+      "description": "Build a full-featured administrative interface in ten minutes",
+      "language": "PHP",
+      "stars": 4562,
+      "forks": 1274
+    }
+  ]
+}
