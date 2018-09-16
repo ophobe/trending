@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 8181,
+      "forks": 138
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 2468,
+      "forks": 68
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 1107,
+      "forks": 68
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 30667,
+      "forks": 5172
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6690,
+      "forks": 166
+    },
+    {
+      "author": "steveklabnik",
+      "name": "indexlist",
+      "href": "https://github.com/steveklabnik/indexlist",
+      "description": "indexlist: A doubly linked list, backed by a vector",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 5
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10572,
+      "forks": 434
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV command line toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 3387,
+      "forks": 109
+    },
+    {
+      "author": "Geemili",
+      "name": "mdproof",
+      "href": "https://github.com/Geemili/mdproof",
+      "description": "A standalone markdown to PDF converter",
+      "language": "Rust",
+      "stars": 107,
+      "forks": 3
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8038,
+      "forks": 530
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3522,
+      "forks": 818
+    },
+    {
+      "author": "jmacdonald",
+      "name": "amp",
+      "href": "https://github.com/jmacdonald/amp",
+      "description": "A complete text editor for your terminal.",
+      "language": "Rust",
+      "stars": 903,
+      "forks": 27
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1590,
+      "forks": 164
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12064,
+      "forks": 499
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3126,
+      "forks": 205
+    },
+    {
+      "author": "koute",
+      "name": "stdweb",
+      "href": "https://github.com/koute/stdweb",
+      "description": "A standard library for the client-side Web",
+      "language": "Rust",
+      "stars": 2067,
+      "forks": 108
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 3709,
+      "forks": 504
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2631,
+      "forks": 779
+    },
+    {
+      "author": "hntd187",
+      "name": "Toshi",
+      "href": "https://github.com/hntd187/Toshi",
+      "description": "A full-text search engine in rust",
+      "language": "Rust",
+      "stars": 133,
+      "forks": 3
+    },
+    {
+      "author": "orlp",
+      "name": "slotmap",
+      "href": "https://github.com/orlp/slotmap",
+      "description": "Slotmap data structure for Rust",
+      "language": "Rust",
+      "stars": 92,
+      "forks": 5
+    },
+    {
+      "author": "google",
+      "name": "xi-editor",
+      "href": "https://github.com/google/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 13474,
+      "forks": 475
+    },
+    {
+      "author": "Keats",
+      "name": "gutenberg",
+      "href": "https://github.com/Keats/gutenberg",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 1146,
+      "forks": 95
+    },
+    {
+      "author": "ryanisaacg",
+      "name": "quicksilver",
+      "href": "https://github.com/ryanisaacg/quicksilver",
+      "description": "A simple game framework for 2D games on desktop and web",
+      "language": "Rust",
+      "stars": 159,
+      "forks": 13
+    },
+    {
+      "author": "mozilla",
+      "name": "mentat",
+      "href": "https://github.com/mozilla/mentat",
+      "description": "UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript.",
+      "language": "Rust",
+      "stars": 1584,
+      "forks": 75
+    },
+    {
+      "author": "coeuvre",
+      "name": "rust-2048",
+      "href": "https://github.com/coeuvre/rust-2048",
+      "description": "A 2048 clone with Piston game engine",
+      "language": "Rust",
+      "stars": 136,
+      "forks": 25
+    }
+  ]
+}
