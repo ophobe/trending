@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 8234,
+      "forks": 139
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 2506,
+      "forks": 69
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10606,
+      "forks": 435
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12091,
+      "forks": 502
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 30689,
+      "forks": 5173
+    },
+    {
+      "author": "danleh",
+      "name": "wasabi",
+      "href": "https://github.com/danleh/wasabi",
+      "description": "A dynamic analysis framework for WebAssembly programs.",
+      "language": "Rust",
+      "stars": 131,
+      "forks": 5
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV command line toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 3410,
+      "forks": 111
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "href": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": 4283,
+      "forks": 378
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 1125,
+      "forks": 69
+    },
+    {
+      "author": "lotabout",
+      "name": "skim",
+      "href": "https://github.com/lotabout/skim",
+      "description": "Fuzzy Finder in rust!",
+      "language": "Rust",
+      "stars": 518,
+      "forks": 17
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6705,
+      "forks": 166
+    },
+    {
+      "author": "BurntSushi",
+      "name": "rust-memchr",
+      "href": "https://github.com/BurntSushi/rust-memchr",
+      "description": "Exposes a safe interface to libc's memchr in Rust.",
+      "language": "Rust",
+      "stars": 59,
+      "forks": 23
+    },
+    {
+      "author": "steveklabnik",
+      "name": "indexlist",
+      "href": "https://github.com/steveklabnik/indexlist",
+      "description": "indexlist: A doubly linked list, backed by a vector",
+      "language": "Rust",
+      "stars": 53,
+      "forks": 5
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7945,
+      "forks": 192
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://google.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 13482,
+      "forks": 474
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8046,
+      "forks": 531
+    },
+    {
+      "author": "orlp",
+      "name": "slotmap",
+      "href": "https://github.com/orlp/slotmap",
+      "description": "Slotmap data structure for Rust",
+      "language": "Rust",
+      "stars": 101,
+      "forks": 6
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2416,
+      "forks": 341
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5187,
+      "forks": 340
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2426,
+      "forks": 154
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 350,
+      "forks": 6
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 1380,
+      "forks": 254
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 3028,
+      "forks": 303
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 1795,
+      "forks": 34
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1595,
+      "forks": 164
+    }
+  ]
+}
