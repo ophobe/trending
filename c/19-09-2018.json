@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 63323,
+      "forks": 23084
+    },
+    {
+      "author": "versity",
+      "name": "scoutfs-kmod-dev",
+      "href": "https://github.com/versity/scoutfs-kmod-dev",
+      "description": "scoutfs kernel module",
+      "language": "C",
+      "stars": 98,
+      "forks": 21
+    },
+    {
+      "author": "trunkmaster",
+      "name": "nextspace",
+      "href": "https://github.com/trunkmaster/nextspace",
+      "description": "NeXTSTEP-like desktop environment for Linux",
+      "language": "C",
+      "stars": 585,
+      "forks": 12
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31667,
+      "forks": 12152
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 7507,
+      "forks": 535
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24160,
+      "forks": 14023
+    },
+    {
+      "author": "fate0",
+      "name": "xmark",
+      "href": "https://github.com/fate0/xmark",
+      "description": "一个能够 Hook 绝大多数函数/类、部分 opcode 的 PHP7 扩展",
+      "language": "C",
+      "stars": 46,
+      "forks": 2
+    },
+    {
+      "author": "gregvish",
+      "name": "l1tf-poc",
+      "href": "https://github.com/gregvish/l1tf-poc",
+      "description": "L1TF (Foreshadow) VM guest to host memory read PoC",
+      "language": "C",
+      "stars": 29,
+      "forks": 8
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19451,
+      "forks": 4992
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 5580,
+      "forks": 270
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 4877,
+      "forks": 205
+    },
+    {
+      "author": "greenplum-db",
+      "name": "gpdb",
+      "href": "https://github.com/greenplum-db/gpdb",
+      "description": "Greenplum Database",
+      "language": "C",
+      "stars": 2708,
+      "forks": 824
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9522,
+      "forks": 5124
+    },
+    {
+      "author": "firehol",
+      "name": "netdata",
+      "href": "https://github.com/firehol/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 31897,
+      "forks": 2705
+    },
+    {
+      "author": "neutrinolabs",
+      "name": "xrdp",
+      "href": "https://github.com/neutrinolabs/xrdp",
+      "description": "xrdp: an open source RDP server",
+      "language": "C",
+      "stars": 954,
+      "forks": 287
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 1892,
+      "forks": 352
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14108,
+      "forks": 1789
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8185,
+      "forks": 2996
+    },
+    {
+      "author": "joyent",
+      "name": "statemap",
+      "href": "https://github.com/joyent/statemap",
+      "description": "Software for rendering statemaps",
+      "language": "C",
+      "stars": 75,
+      "forks": 13
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10641,
+      "forks": 2320
+    },
+    {
+      "author": "edenhill",
+      "name": "librdkafka",
+      "href": "https://github.com/edenhill/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": 2266,
+      "forks": 1094
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8235,
+      "forks": 3796
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12246,
+      "forks": 4856
+    },
+    {
+      "author": "twelvesec",
+      "name": "passcat",
+      "href": "https://github.com/twelvesec/passcat",
+      "description": "Passwords Recovery Tool",
+      "language": "C",
+      "stars": 55,
+      "forks": 11
+    },
+    {
+      "author": "RIOT-OS",
+      "name": "RIOT",
+      "href": "https://github.com/RIOT-OS/RIOT",
+      "description": "RIOT - The friendly OS for IoT",
+      "language": "C",
+      "stars": 2015,
+      "forks": 1143
+    }
+  ]
+}
