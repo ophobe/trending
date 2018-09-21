@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 17522,
+      "forks": 2936
+    },
+    {
+      "author": "JuliaMath",
+      "name": "Interpolations.jl",
+      "href": "https://github.com/JuliaMath/Interpolations.jl",
+      "description": "Fast, continuous interpolation of discrete datasets in Julia",
+      "language": "Julia",
+      "stars": 111,
+      "forks": 40
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "RecursiveArrayTools.jl",
+      "href": "https://github.com/JuliaDiffEq/RecursiveArrayTools.jl",
+      "description": "Tools for easily handling objects like arrays of arrays and deeper nestings",
+      "language": "Julia",
+      "stars": 25,
+      "forks": 12
+    },
+    {
+      "author": "JuliaData",
+      "name": "CSV.jl",
+      "href": "https://github.com/JuliaData/CSV.jl",
+      "description": "Utility library for working with CSV and other delimited files in the Julia programming language",
+      "language": "Julia",
+      "stars": 71,
+      "forks": 34
+    },
+    {
+      "author": "JuliaGraphs",
+      "name": "GraphPlot.jl",
+      "href": "https://github.com/JuliaGraphs/GraphPlot.jl",
+      "description": "Graph visualization for Julia.",
+      "language": "Julia",
+      "stars": 48,
+      "forks": 18
+    },
+    {
+      "author": "JuliaWeb",
+      "name": "WebSockets.jl",
+      "href": "https://github.com/JuliaWeb/WebSockets.jl",
+      "description": "A WebSockets library for Julia",
+      "language": "Julia",
+      "stars": 74,
+      "forks": 40
+    },
+    {
+      "author": "kbarbary",
+      "name": "Dierckx.jl",
+      "href": "https://github.com/kbarbary/Dierckx.jl",
+      "description": "Julia package for 1-d and 2-d splines",
+      "language": "Julia",
+      "stars": 43,
+      "forks": 14
+    },
+    {
+      "author": "JuliaStats",
+      "name": "StatsBase.jl",
+      "href": "https://github.com/JuliaStats/StatsBase.jl",
+      "description": "Basic statistics for Julia",
+      "language": "Julia",
+      "stars": 174,
+      "forks": 98
+    },
+    {
+      "author": "JuliaGeometry",
+      "name": "VoronoiDelaunay.jl",
+      "href": "https://github.com/JuliaGeometry/VoronoiDelaunay.jl",
+      "description": "Fast and robust Voronoi & Delaunay tessellation creation with Julia",
+      "language": "Julia",
+      "stars": 49,
+      "forks": 12
+    },
+    {
+      "author": "oxinabox",
+      "name": "DataDeps.jl",
+      "href": "https://github.com/oxinabox/DataDeps.jl",
+      "description": "reproducible data setup for reproducible science",
+      "language": "Julia",
+      "stars": 44,
+      "forks": 12
+    },
+    {
+      "author": "JuliaIO",
+      "name": "MAT.jl",
+      "href": "https://github.com/JuliaIO/MAT.jl",
+      "description": "Julia module for reading MATLAB files",
+      "language": "Julia",
+      "stars": 101,
+      "forks": 45
+    },
+    {
+      "author": "JuliaIntervals",
+      "name": "IntervalArithmetic.jl",
+      "href": "https://github.com/JuliaIntervals/IntervalArithmetic.jl",
+      "description": "Rigorous floating-point calculations using interval arithmetic in Julia",
+      "language": "Julia",
+      "stars": 27,
+      "forks": 22
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1428,
+      "forks": 246
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1247,
+      "forks": 201
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1106,
+      "forks": 239
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 670,
+      "forks": 119
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia language.",
+      "language": "Julia",
+      "stars": 663,
+      "forks": 139
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 604,
+      "forks": 135
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 587,
+      "forks": 53
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "JuMP.jl",
+      "href": "https://github.com/JuliaOpt/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+      "language": "Julia",
+      "stars": 573,
+      "forks": 146
+    },
+    {
+      "author": "FluxML",
+      "name": "Flux.jl",
+      "href": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "stars": 543,
+      "forks": 109
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 540,
+      "forks": 104
+    },
+    {
+      "author": "JuliaData",
+      "name": "DataFrames.jl",
+      "href": "https://github.com/JuliaData/DataFrames.jl",
+      "description": "Library for working with tabular data in Julia",
+      "language": "Julia",
+      "stars": 518,
+      "forks": 209
+    },
+    {
+      "author": "FRBNY-DSGE",
+      "name": "DSGE.jl",
+      "href": "https://github.com/FRBNY-DSGE/DSGE.jl",
+      "description": "Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)",
+      "language": "Julia",
+      "stars": 434,
+      "forks": 92
+    },
+    {
+      "author": "adambom",
+      "name": "dictionary",
+      "href": "https://github.com/adambom/dictionary",
+      "description": "A JSON representation of Webster's Unabridged Dictionary",
+      "language": "Julia",
+      "stars": 420,
+      "forks": 130
+    }
+  ]
+}
