@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 14408,
+      "forks": 492
+    },
+    {
+      "author": "google",
+      "name": "evcxr",
+      "href": "https://github.com/google/evcxr",
+      "description": null,
+      "language": "Rust",
+      "stars": 67,
+      "forks": 9
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 8538,
+      "forks": 144
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 30868,
+      "forks": 5199
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 5328,
+      "forks": 178
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12298,
+      "forks": 513
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-pack",
+      "href": "https://github.com/rustwasm/wasm-pack",
+      "description": "📦✨ your favorite rust -> wasm workflow tool!",
+      "language": "Rust",
+      "stars": 1102,
+      "forks": 66
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10737,
+      "forks": 436
+    },
+    {
+      "author": "mtak-",
+      "name": "rust-on-mobile",
+      "href": "https://github.com/mtak-/rust-on-mobile",
+      "description": "[WIP] A little demo of how to setup an iOS/android project to use rust",
+      "language": "Rust",
+      "stars": 90,
+      "forks": 2
+    },
+    {
+      "author": "p-e-w",
+      "name": "hegemon",
+      "href": "https://github.com/p-e-w/hegemon",
+      "description": "A modular system monitor written in Rust",
+      "language": "Rust",
+      "stars": 88,
+      "forks": 3
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 2720,
+      "forks": 76
+    },
+    {
+      "author": "redsift",
+      "name": "redbpf",
+      "href": "https://github.com/redsift/redbpf",
+      "description": "Rust eBPF library",
+      "language": "Rust",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 1384,
+      "forks": 142
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV command line toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 3472,
+      "forks": 113
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 7984,
+      "forks": 197
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5251,
+      "forks": 339
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6807,
+      "forks": 168
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8109,
+      "forks": 532
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2476,
+      "forks": 161
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3194,
+      "forks": 214
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 4831,
+      "forks": 1055
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12443,
+      "forks": 1963
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1641,
+      "forks": 174
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 1447,
+      "forks": 131
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 1160,
+      "forks": 70
+    }
+  ]
+}
