@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ibuildthecloud",
+      "name": "k3s",
+      "href": "https://github.com/ibuildthecloud/k3s",
+      "description": "5 less then k8s. Short for kates, pronounced k8s",
+      "language": "Go",
+      "stars": 404,
+      "forks": 1
+    },
+    {
+      "author": "pulumi",
+      "name": "kubespy",
+      "href": "https://github.com/pulumi/kubespy",
+      "description": "Tools for observing Kubernetes resources in real time",
+      "language": "Go",
+      "stars": 234,
+      "forks": 14
+    },
+    {
+      "author": "meshbird",
+      "name": "meshbird",
+      "href": "https://github.com/meshbird/meshbird",
+      "description": "Distributed private networking",
+      "language": "Go",
+      "stars": 2905,
+      "forks": 157
+    },
+    {
+      "author": "astrocorp42",
+      "name": "signal",
+      "href": "https://github.com/astrocorp42/signal",
+      "description": "Simple and beautiful Analytics 📊",
+      "language": "Go",
+      "stars": 119,
+      "forks": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 41910,
+      "forks": 14548
+    },
+    {
+      "author": "TarsCloud",
+      "name": "TarsGo",
+      "href": "https://github.com/TarsCloud/TarsGo",
+      "description": "A high performance microservice framework in golang. A linux foundation project.",
+      "language": "Go",
+      "stars": 868,
+      "forks": 77
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 47390,
+      "forks": 6498
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 29094,
+      "forks": 3402
+    },
+    {
+      "author": "rancher",
+      "name": "rio",
+      "href": "https://github.com/rancher/rio",
+      "description": "Fun, simple, powerful. Containers at their best.",
+      "language": "Go",
+      "stars": 123,
+      "forks": 15
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 35519,
+      "forks": 4576
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 20772,
+      "forks": 2457
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 27225,
+      "forks": 3161
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 25254,
+      "forks": 7237
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 19164,
+      "forks": 2559
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 15528,
+      "forks": 2778
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 11985,
+      "forks": 1758
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 17849,
+      "forks": 1805
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 10953,
+      "forks": 372
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 17124,
+      "forks": 3616
+    },
+    {
+      "author": "drujensen",
+      "name": "fib",
+      "href": "https://github.com/drujensen/fib",
+      "description": "Performance Benchmark of top Github languages",
+      "language": "Go",
+      "stars": 106,
+      "forks": 13
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 17046,
+      "forks": 657
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 10569,
+      "forks": 2268
+    },
+    {
+      "author": "perlin-network",
+      "name": "life",
+      "href": "https://github.com/perlin-network/life",
+      "description": "A secure WebAssembly VM catered for decentralized applications.",
+      "language": "Go",
+      "stars": 871,
+      "forks": 26
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 7769,
+      "forks": 2609
+    },
+    {
+      "author": "sohamkamani",
+      "name": "detective",
+      "href": "https://github.com/sohamkamani/detective",
+      "description": "🔎 A distributed application health monitoring library",
+      "language": "Go",
+      "stars": 126,
+      "forks": 3
+    }
+  ]
+}
