@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18910,
+      "forks": 17023
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-analytics",
+      "href": "https://github.com/scalaz/scalaz-analytics",
+      "description": "A high-performance, purely-functional library for doing computational analysis and statistics over data in a type-safe way",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 16
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 10368,
+      "forks": 590
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10711,
+      "forks": 2539
+    },
+    {
+      "author": "salesforce",
+      "name": "TransmogrifAI",
+      "href": "https://github.com/salesforce/TransmogrifAI",
+      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Spark with minimal hand tuning",
+      "language": "Scala",
+      "stars": 944,
+      "forks": 128
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 3518,
+      "forks": 657
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 2761,
+      "forks": 694
+    },
+    {
+      "author": "scala-graph",
+      "name": "scala-graph",
+      "href": "https://github.com/scala-graph/scala-graph",
+      "description": "Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.",
+      "language": "Scala",
+      "stars": 406,
+      "forks": 51
+    },
+    {
+      "author": "krasserm",
+      "name": "streamz",
+      "href": "https://github.com/krasserm/streamz",
+      "description": "A combinator library for integrating Functional Streams for Scala (FS2), Akka Streams and Apache Camel",
+      "language": "Scala",
+      "stars": 222,
+      "forks": 39
+    },
+    {
+      "author": "akka",
+      "name": "alpakka-kafka",
+      "href": "https://github.com/akka/alpakka-kafka",
+      "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 1077,
+      "forks": 301
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Library to read, analyze, transform and generate Scala programs",
+      "language": "Scala",
+      "stars": 670,
+      "forks": 143
+    },
+    {
+      "author": "tek",
+      "name": "splain",
+      "href": "https://github.com/tek/splain",
+      "description": "better implicit errors for scala",
+      "language": "Scala",
+      "stars": 230,
+      "forks": 8
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-stdlib",
+      "href": "https://github.com/scala-exercises/exercises-stdlib",
+      "description": "Scala Exercises' lessons for the standard library",
+      "language": "Scala",
+      "stars": 93,
+      "forks": 213
+    },
+    {
+      "author": "typelevel",
+      "name": "discipline",
+      "href": "https://github.com/typelevel/discipline",
+      "description": "Flexible law checking for Scala",
+      "language": "Scala",
+      "stars": 163,
+      "forks": 27
+    },
+    {
+      "author": "seratch",
+      "name": "bigquery4s",
+      "href": "https://github.com/seratch/bigquery4s",
+      "description": "A handy Scala wrapper of Google BigQuery API 's Java Client Library.",
+      "language": "Scala",
+      "stars": 25,
+      "forks": 13
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 774,
+      "forks": 366
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 810,
+      "forks": 360
+    },
+    {
+      "author": "twitter",
+      "name": "scrooge",
+      "href": "https://github.com/twitter/scrooge",
+      "description": "A Thrift parser/generator",
+      "language": "Scala",
+      "stars": 639,
+      "forks": 211
+    },
+    {
+      "author": "scalapb",
+      "name": "ScalaPB",
+      "href": "https://github.com/scalapb/ScalaPB",
+      "description": "Protocol buffer compiler for Scala.",
+      "language": "Scala",
+      "stars": 704,
+      "forks": 128
+    },
+    {
+      "author": "sbilinski",
+      "name": "sbt-ecr",
+      "href": "https://github.com/sbilinski/sbt-ecr",
+      "description": "An SBT plugin for managing Docker images within Amazon ECR.",
+      "language": "Scala",
+      "stars": 39,
+      "forks": 17
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-spark",
+      "href": "https://github.com/mongodb/mongo-spark",
+      "description": "The MongoDB Spark Connector",
+      "language": "Scala",
+      "stars": 409,
+      "forks": 175
+    },
+    {
+      "author": "tkawachi",
+      "name": "sbt-doctest",
+      "href": "https://github.com/tkawachi/sbt-doctest",
+      "description": "Doctest for scala",
+      "language": "Scala",
+      "stars": 154,
+      "forks": 22
+    },
+    {
+      "author": "typelevel",
+      "name": "CT_from_Programmers.scala",
+      "href": "https://github.com/typelevel/CT_from_Programmers.scala",
+      "description": "Scala sample code for Bartosz Milewski's CT for Programmers",
+      "language": "Scala",
+      "stars": 186,
+      "forks": 24
+    },
+    {
+      "author": "gatling",
+      "name": "gatling-sbt-plugin-demo",
+      "href": "https://github.com/gatling/gatling-sbt-plugin-demo",
+      "description": "An sample project to showcase to showcase Gatling's SBT Plugin",
+      "language": "Scala",
+      "stars": 86,
+      "forks": 41
+    },
+    {
+      "author": "scalikejdbc",
+      "name": "scalikejdbc",
+      "href": "https://github.com/scalikejdbc/scalikejdbc",
+      "description": "A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.",
+      "language": "Scala",
+      "stars": 935,
+      "forks": 185
+    }
+  ]
+}
