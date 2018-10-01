@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 961,
+      "forks": 33
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+      "language": "Go",
+      "stars": 6276,
+      "forks": 845
+    },
+    {
+      "author": "iov-one",
+      "name": "weave",
+      "href": "https://github.com/iov-one/weave",
+      "description": "Easy-to-use framework to build Tendermint ABCI applications",
+      "language": "Go",
+      "stars": 271,
+      "forks": 6
+    },
+    {
+      "author": "pulumi",
+      "name": "kubespy",
+      "href": "https://github.com/pulumi/kubespy",
+      "description": "Tools for observing Kubernetes resources in real time, powered by Pulumi.",
+      "language": "Go",
+      "stars": 936,
+      "forks": 26
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 42092,
+      "forks": 14597
+    },
+    {
+      "author": "evilsocket",
+      "name": "shellz",
+      "href": "https://github.com/evilsocket/shellz",
+      "description": "shellz is a small utility to keep track of your connection credentials, servers, custom shells and run commands on multiple machines at once.",
+      "language": "Go",
+      "stars": 112,
+      "forks": 9
+    },
+    {
+      "author": "MatrixAINetwork",
+      "name": "MATRIX-TESTNET",
+      "href": "https://github.com/MatrixAINetwork/MATRIX-TESTNET",
+      "description": "First version of MATRIX TESTNET, especially for TPS optimization and AI",
+      "language": "Go",
+      "stars": 66,
+      "forks": 59
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 7010,
+      "forks": 992
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 47539,
+      "forks": 6515
+    },
+    {
+      "author": "chaitin",
+      "name": "cloudwalker",
+      "href": "https://github.com/chaitin/cloudwalker",
+      "description": "CloudWalker Platform",
+      "language": "Go",
+      "stars": 125,
+      "forks": 17
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": 3151,
+      "forks": 270
+    },
+    {
+      "author": "panjf2000",
+      "name": "ants",
+      "href": "https://github.com/panjf2000/ants",
+      "description": "🐜⚡️A high-performance goroutine pool for go",
+      "language": "Go",
+      "stars": 832,
+      "forks": 94
+    },
+    {
+      "author": "covexo",
+      "name": "devspace",
+      "href": "https://github.com/covexo/devspace",
+      "description": "Cloud-Native Software Development with Kubernetes and Docker - simply run \"devspace up\" in any of your projects and start coding directly on top of Kubernetes (works with minikube, self-hosted and cloud-based clusters)",
+      "language": "Go",
+      "stars": 210,
+      "forks": 13
+    },
+    {
+      "author": "micromdm",
+      "name": "micromdm",
+      "href": "https://github.com/micromdm/micromdm",
+      "description": "Mobile Device Management server",
+      "language": "Go",
+      "stars": 495,
+      "forks": 70
+    },
+    {
+      "author": "takama",
+      "name": "caldera",
+      "href": "https://github.com/takama/caldera",
+      "description": "Caldera allows you to create a boilerplate service that ready to run inside the container (Go language)",
+      "language": "Go",
+      "stars": 59,
+      "forks": 1
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 19244,
+      "forks": 2571
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 35630,
+      "forks": 4602
+    },
+    {
+      "author": "henrylee2cn",
+      "name": "teleport",
+      "href": "https://github.com/henrylee2cn/teleport",
+      "description": "Teleport is a versatile, high-performance and flexible socket framework. It can be used for RPC, micro services, peer-peer, push services, game services and so on.",
+      "language": "Go",
+      "stars": 1351,
+      "forks": 210
+    },
+    {
+      "author": "felixangell",
+      "name": "strife",
+      "href": "https://github.com/felixangell/strife",
+      "description": "a simple 2d game framework",
+      "language": "Go",
+      "stars": 164,
+      "forks": 5
+    },
+    {
+      "author": "tiglabs",
+      "name": "containerfs",
+      "href": "https://github.com/tiglabs/containerfs",
+      "description": "The container-native distributed file system",
+      "language": "Go",
+      "stars": 82,
+      "forks": 22
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 29197,
+      "forks": 3413
+    },
+    {
+      "author": "RichardKnop",
+      "name": "machinery",
+      "href": "https://github.com/RichardKnop/machinery",
+      "description": "Machinery is an asynchronous task queue/job queue based on distributed message passing.",
+      "language": "Go",
+      "stars": 2580,
+      "forks": 318
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 7817,
+      "forks": 2625
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 12072,
+      "forks": 1780
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 10652,
+      "forks": 2296
+    }
+  ]
+}
