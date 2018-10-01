@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 14555,
+      "forks": 500
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 8716,
+      "forks": 148
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12392,
+      "forks": 518
+    },
+    {
+      "author": "flofriday",
+      "name": "thumbcloud",
+      "href": "https://github.com/flofriday/thumbcloud",
+      "description": "Thumbcloud is a file-sharing server to replace your USB thumbdrive.",
+      "language": "Rust",
+      "stars": 63,
+      "forks": 2
+    },
+    {
+      "author": "paritytech",
+      "name": "shasper",
+      "href": "https://github.com/paritytech/shasper",
+      "description": "Shasper beacon chain implementation using the Substrate framework.",
+      "language": "Rust",
+      "stars": 35,
+      "forks": 1
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12489,
+      "forks": 1964
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 30930,
+      "forks": 5208
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10806,
+      "forks": 441
+    },
+    {
+      "author": "anp",
+      "name": "lolbench",
+      "href": "https://github.com/anp/lolbench",
+      "description": "tracking performance of rustc-generated binaries over time",
+      "language": "Rust",
+      "stars": 32,
+      "forks": 3
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV command line toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 3535,
+      "forks": 114
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 3872,
+      "forks": 442
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 594,
+      "forks": 38
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5282,
+      "forks": 340
+    },
+    {
+      "author": "google",
+      "name": "evcxr",
+      "href": "https://github.com/google/evcxr",
+      "description": null,
+      "language": "Rust",
+      "stars": 133,
+      "forks": 11
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6864,
+      "forks": 169
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3224,
+      "forks": 217
+    },
+    {
+      "author": "ETCDEVTeam",
+      "name": "sputnikvm",
+      "href": "https://github.com/ETCDEVTeam/sputnikvm",
+      "description": "A Blockchain Virtual Machine",
+      "language": "Rust",
+      "stars": 178,
+      "forks": 34
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8142,
+      "forks": 537
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 8007,
+      "forks": 197
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1659,
+      "forks": 178
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "Replacement for 'ls' written in Rust.",
+      "language": "Rust",
+      "stars": 4813,
+      "forks": 150
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 1421,
+      "forks": 264
+    },
+    {
+      "author": "salsa-rs",
+      "name": "salsa",
+      "href": "https://github.com/salsa-rs/salsa",
+      "description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.",
+      "language": "Rust",
+      "stars": 27,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2704,
+      "forks": 791
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-pack",
+      "href": "https://github.com/rustwasm/wasm-pack",
+      "description": "📦✨ your favorite rust -> wasm workflow tool!",
+      "language": "Rust",
+      "stars": 1142,
+      "forks": 67
+    }
+  ]
+}
