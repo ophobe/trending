@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 17756,
+      "forks": 2975
+    },
+    {
+      "author": "JuliaParallel",
+      "name": "MPI.jl",
+      "href": "https://github.com/JuliaParallel/MPI.jl",
+      "description": "MPI wrappers for Julia",
+      "language": "Julia",
+      "stars": 91,
+      "forks": 43
+    },
+    {
+      "author": "JuliaData",
+      "name": "Feather.jl",
+      "href": "https://github.com/JuliaData/Feather.jl",
+      "description": "Read and write feather files in pure Julia",
+      "language": "Julia",
+      "stars": 60,
+      "forks": 17
+    },
+    {
+      "author": "JuliaWeb",
+      "name": "GitHub.jl",
+      "href": "https://github.com/JuliaWeb/GitHub.jl",
+      "description": "A Julia package for interfacing with GitHub",
+      "language": "Julia",
+      "stars": 62,
+      "forks": 38
+    },
+    {
+      "author": "JuliaParallel",
+      "name": "ClusterManagers.jl",
+      "href": "https://github.com/JuliaParallel/ClusterManagers.jl",
+      "description": null,
+      "language": "Julia",
+      "stars": 60,
+      "forks": 38
+    },
+    {
+      "author": "FluxML",
+      "name": "model-zoo",
+      "href": "https://github.com/FluxML/model-zoo",
+      "description": "Please do not feed the models",
+      "language": "Julia",
+      "stars": 70,
+      "forks": 42
+    },
+    {
+      "author": "JunoLab",
+      "name": "Atom.jl",
+      "href": "https://github.com/JunoLab/Atom.jl",
+      "description": "Julia Client for Atom",
+      "language": "Julia",
+      "stars": 32,
+      "forks": 19
+    },
+    {
+      "author": "JuliaCI",
+      "name": "BenchmarkTools.jl",
+      "href": "https://github.com/JuliaCI/BenchmarkTools.jl",
+      "description": "A benchmarking framework for the Julia language",
+      "language": "Julia",
+      "stars": 124,
+      "forks": 27
+    },
+    {
+      "author": "JuliaWeb",
+      "name": "HTTP.jl",
+      "href": "https://github.com/JuliaWeb/HTTP.jl",
+      "description": "HTTP for Julia",
+      "language": "Julia",
+      "stars": 114,
+      "forks": 41
+    },
+    {
+      "author": "JuliaCI",
+      "name": "Coverage.jl",
+      "href": "https://github.com/JuliaCI/Coverage.jl",
+      "description": "Take Julia code coverage and memory allocation results, do useful things with them",
+      "language": "Julia",
+      "stars": 59,
+      "forks": 50
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqBase.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqBase.jl",
+      "description": "The lightweight Base library for shared types and functionality.",
+      "language": "Julia",
+      "stars": 23,
+      "forks": 29
+    },
+    {
+      "author": "JuliaWeb",
+      "name": "Mux.jl",
+      "href": "https://github.com/JuliaWeb/Mux.jl",
+      "description": "Middleware for Julia",
+      "language": "Julia",
+      "stars": 123,
+      "forks": 37
+    },
+    {
+      "author": "JuliaGeometry",
+      "name": "VoronoiDelaunay.jl",
+      "href": "https://github.com/JuliaGeometry/VoronoiDelaunay.jl",
+      "description": "Fast and robust Voronoi & Delaunay tessellation creation with Julia",
+      "language": "Julia",
+      "stars": 49,
+      "forks": 13
+    },
+    {
+      "author": "BenLauwens",
+      "name": "ThinkJulia.jl",
+      "href": "https://github.com/BenLauwens/ThinkJulia.jl",
+      "description": "Port of the book Think Python to the Julia programming language",
+      "language": "Julia",
+      "stars": 129,
+      "forks": 19
+    },
+    {
+      "author": "JuliaGPU",
+      "name": "CUDAnative.jl",
+      "href": "https://github.com/JuliaGPU/CUDAnative.jl",
+      "description": "Julia support for native CUDA programming",
+      "language": "Julia",
+      "stars": 179,
+      "forks": 23
+    },
+    {
+      "author": "ajkeller34",
+      "name": "Unitful.jl",
+      "href": "https://github.com/ajkeller34/Unitful.jl",
+      "description": "Physical quantities with arbitrary units",
+      "language": "Julia",
+      "stars": 115,
+      "forks": 31
+    },
+    {
+      "author": "maxruby",
+      "name": "OpenCV.jl",
+      "href": "https://github.com/maxruby/OpenCV.jl",
+      "description": "The OpenCV (C++) interface for Julia",
+      "language": "Julia",
+      "stars": 85,
+      "forks": 19
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1442,
+      "forks": 248
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1254,
+      "forks": 202
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1116,
+      "forks": 240
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 675,
+      "forks": 122
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia programming language.",
+      "language": "Julia",
+      "stars": 671,
+      "forks": 137
+    },
+    {
+      "author": "svaksha",
+      "name": "pythonidae",
+      "href": "https://github.com/svaksha/pythonidae",
+      "description": "Curated decibans of scientific programming resources in Python.",
+      "language": "Julia",
+      "stars": 664,
+      "forks": 142
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 608,
+      "forks": 136
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 592,
+      "forks": 53
+    }
+  ]
+}
