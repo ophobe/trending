@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "MontFerret",
+      "name": "ferret",
+      "href": "https://github.com/MontFerret/ferret",
+      "description": "Declarative web scraping",
+      "language": "Go",
+      "stars": 1048,
+      "forks": 33
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Code search and intelligence, self-hosted and scalable",
+      "language": "Go",
+      "stars": 1992,
+      "forks": 69
+    },
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 1290,
+      "forks": 43
+    },
+    {
+      "author": "iov-one",
+      "name": "weave",
+      "href": "https://github.com/iov-one/weave",
+      "description": "Easy-to-use framework to build Tendermint ABCI applications",
+      "language": "Go",
+      "stars": 392,
+      "forks": 5
+    },
+    {
+      "author": "benbjohnson",
+      "name": "genesis",
+      "href": "https://github.com/benbjohnson/genesis",
+      "description": "A simple tool for embedding assets in a Go binary.",
+      "language": "Go",
+      "stars": 101,
+      "forks": 1
+    },
+    {
+      "author": "lesovsky",
+      "name": "pgcenter",
+      "href": "https://github.com/lesovsky/pgcenter",
+      "description": "Command-line admin tool for observing and troubleshooting Postgres.",
+      "language": "Go",
+      "stars": 616,
+      "forks": 34
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 47609,
+      "forks": 6526
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 42155,
+      "forks": 14623
+    },
+    {
+      "author": "evilsocket",
+      "name": "shellz",
+      "href": "https://github.com/evilsocket/shellz",
+      "description": "shellz is a small utility to track and control your ssh, telnet, web and custom shells.",
+      "language": "Go",
+      "stars": 182,
+      "forks": 12
+    },
+    {
+      "author": "rgburke",
+      "name": "grv",
+      "href": "https://github.com/rgburke/grv",
+      "description": "GRV is a terminal interface for viewing git repositories",
+      "language": "Go",
+      "stars": 3217,
+      "forks": 73
+    },
+    {
+      "author": "linux4life798",
+      "name": "safetyfast",
+      "href": "https://github.com/linux4life798/safetyfast",
+      "description": "An Go library of synchronization primitives to help make use of hardware transactional memory (HTM)",
+      "language": "Go",
+      "stars": 53,
+      "forks": 0
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 15722,
+      "forks": 2800
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 35670,
+      "forks": 4614
+    },
+    {
+      "author": "pulumi",
+      "name": "kubespy",
+      "href": "https://github.com/pulumi/kubespy",
+      "description": "Tools for observing Kubernetes resources in real time, powered by Pulumi.",
+      "language": "Go",
+      "stars": 1000,
+      "forks": 26
+    },
+    {
+      "author": "micromdm",
+      "name": "micromdm",
+      "href": "https://github.com/micromdm/micromdm",
+      "description": "Mobile Device Management server",
+      "language": "Go",
+      "stars": 621,
+      "forks": 78
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 7092,
+      "forks": 997
+    },
+    {
+      "author": "platform9",
+      "name": "etcdadm",
+      "href": "https://github.com/platform9/etcdadm",
+      "description": null,
+      "language": "Go",
+      "stars": 39,
+      "forks": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 13662,
+      "forks": 4144
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+      "language": "Go",
+      "stars": 6390,
+      "forks": 852
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 6790,
+      "forks": 1963
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 29234,
+      "forks": 3421
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-gce",
+      "href": "https://github.com/kubernetes/ingress-gce",
+      "description": "Ingress controller for Google Cloud",
+      "language": "Go",
+      "stars": 451,
+      "forks": 103
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 7851,
+      "forks": 2629
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 20880,
+      "forks": 2471
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 19277,
+      "forks": 2575
+    }
+  ]
+}
