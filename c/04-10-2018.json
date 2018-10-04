@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 10521,
+      "forks": 937
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 7911,
+      "forks": 451
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 64220,
+      "forks": 23393
+    },
+    {
+      "author": "tuxalin",
+      "name": "CommandBuffer",
+      "href": "https://github.com/tuxalin/CommandBuffer",
+      "description": "A lock-free CommandBuffer implementation designed for multi-threaded rendering applications.",
+      "language": "C",
+      "stars": 48,
+      "forks": 0
+    },
+    {
+      "author": "SoloKeysSec",
+      "name": "solo",
+      "href": "https://github.com/SoloKeysSec/solo",
+      "description": "FIDO2 USB+NFC token optimized for security, extensibility, and style",
+      "language": "C",
+      "stars": 246,
+      "forks": 6
+    },
+    {
+      "author": "kkamagui",
+      "name": "mint64os-examples",
+      "href": "https://github.com/kkamagui/mint64os-examples",
+      "description": "\"64비트 멀티코어 OS 원리와 구조\" 의 예제 소스 코드",
+      "language": "C",
+      "stars": 31,
+      "forks": 0
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 10632,
+      "forks": 2573
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 31980,
+      "forks": 12254
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 32147,
+      "forks": 2732
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "⚙️ 🐧 systemd System and Service Manager",
+      "language": "C",
+      "stars": 3730,
+      "forks": 1390
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19699,
+      "forks": 5016
+    },
+    {
+      "author": "Taeung",
+      "name": "git-training",
+      "href": "https://github.com/Taeung/git-training",
+      "description": "Don't think about git, just do git",
+      "language": "C",
+      "stars": 242,
+      "forks": 1159
+    },
+    {
+      "author": "rianhunter",
+      "name": "wasmjit",
+      "href": "https://github.com/rianhunter/wasmjit",
+      "description": "Kernel Mode WebAssembly Runtime for Linux",
+      "language": "C",
+      "stars": 662,
+      "forks": 18
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24342,
+      "forks": 14135
+    },
+    {
+      "author": "algorithm-archivists",
+      "name": "algorithm-archive",
+      "href": "https://github.com/algorithm-archivists/algorithm-archive",
+      "description": "A collaborative book on algorithms",
+      "language": "C",
+      "stars": 649,
+      "forks": 164
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 1204,
+      "forks": 618
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9702,
+      "forks": 5250
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 11492,
+      "forks": 804
+    },
+    {
+      "author": "AndroidHardening",
+      "name": "hardened_malloc",
+      "href": "https://github.com/AndroidHardening/hardened_malloc",
+      "description": "Hardened allocator implementation currently in early development. Can be tested externally with musl or glibc, but it will have custom internal integration into musl and Android's Bionic libc.",
+      "language": "C",
+      "stars": 39,
+      "forks": 3
+    },
+    {
+      "author": "Mikestylz",
+      "name": "CirnOS",
+      "href": "https://github.com/Mikestylz/CirnOS",
+      "description": "Bringing the workflow of Arduino to the Raspberry Pi",
+      "language": "C",
+      "stars": 59,
+      "forks": 4
+    },
+    {
+      "author": "pjreddie",
+      "name": "dl-hw0",
+      "href": "https://github.com/pjreddie/dl-hw0",
+      "description": "Deep Learning Homework 0",
+      "language": "C",
+      "stars": 26,
+      "forks": 5
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3036,
+      "forks": 5625
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14228,
+      "forks": 1815
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15613,
+      "forks": 1822
+    },
+    {
+      "author": "Samsung",
+      "name": "TizenRT",
+      "href": "https://github.com/Samsung/TizenRT",
+      "description": "TizenRT is a lightweight RTOS-based platform to support low-end IoT devices",
+      "language": "C",
+      "stars": 192,
+      "forks": 266
+    }
+  ]
+}
