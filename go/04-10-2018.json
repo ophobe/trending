@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Code search and intelligence, self-hosted and scalable",
+      "language": "Go",
+      "stars": 2312,
+      "forks": 88
+    },
+    {
+      "author": "MontFerret",
+      "name": "ferret",
+      "href": "https://github.com/MontFerret/ferret",
+      "description": "Declarative web scraping",
+      "language": "Go",
+      "stars": 1341,
+      "forks": 46
+    },
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 1355,
+      "forks": 45
+    },
+    {
+      "author": "benbjohnson",
+      "name": "genesis",
+      "href": "https://github.com/benbjohnson/genesis",
+      "description": "A simple tool for embedding assets in a Go binary.",
+      "language": "Go",
+      "stars": 152,
+      "forks": 1
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 42193,
+      "forks": 14642
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 47641,
+      "forks": 6534
+    },
+    {
+      "author": "MatrixAINetwork",
+      "name": "MATRIX-TESTNET",
+      "href": "https://github.com/MatrixAINetwork/MATRIX-TESTNET",
+      "description": "First version of MATRIX TESTNET, especially for TPS optimization and AI",
+      "language": "Go",
+      "stars": 105,
+      "forks": 89
+    },
+    {
+      "author": "pulumi",
+      "name": "kubespy",
+      "href": "https://github.com/pulumi/kubespy",
+      "description": "Tools for observing Kubernetes resources in real time, powered by Pulumi.",
+      "language": "Go",
+      "stars": 1034,
+      "forks": 28
+    },
+    {
+      "author": "nebulaim",
+      "name": "telegramd",
+      "href": "https://github.com/nebulaim/telegramd",
+      "description": "Unofficial open source telegram server written in golang",
+      "language": "Go",
+      "stars": 224,
+      "forks": 47
+    },
+    {
+      "author": "bluek8s",
+      "name": "kubedirector",
+      "href": "https://github.com/bluek8s/kubedirector",
+      "description": "Kubernetes Director (aka KubeDirector) for deploying and managing stateful applications on Kubernetes",
+      "language": "Go",
+      "stars": 75,
+      "forks": 6
+    },
+    {
+      "author": "semihalev",
+      "name": "sdns",
+      "href": "https://github.com/semihalev/sdns",
+      "description": "Lightweight, fast dns recursive server",
+      "language": "Go",
+      "stars": 32,
+      "forks": 0
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 12141,
+      "forks": 1786
+    },
+    {
+      "author": "platform9",
+      "name": "etcdadm",
+      "href": "https://github.com/platform9/etcdadm",
+      "description": null,
+      "language": "Go",
+      "stars": 68,
+      "forks": 5
+    },
+    {
+      "author": "buildpack",
+      "name": "pack",
+      "href": "https://github.com/buildpack/pack",
+      "description": "CLI for building apps using Cloud Native Buildpacks",
+      "language": "Go",
+      "stars": 88,
+      "forks": 5
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+      "language": "Go",
+      "stars": 6416,
+      "forks": 853
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 19293,
+      "forks": 2581
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 35691,
+      "forks": 4617
+    },
+    {
+      "author": "lesovsky",
+      "name": "pgcenter",
+      "href": "https://github.com/lesovsky/pgcenter",
+      "description": "Command-line admin tool for observing and troubleshooting Postgres.",
+      "language": "Go",
+      "stars": 640,
+      "forks": 35
+    },
+    {
+      "author": "iov-one",
+      "name": "weave",
+      "href": "https://github.com/iov-one/weave",
+      "description": "Easy-to-use framework to build Tendermint ABCI applications",
+      "language": "Go",
+      "stars": 405,
+      "forks": 5
+    },
+    {
+      "author": "rgburke",
+      "name": "grv",
+      "href": "https://github.com/rgburke/grv",
+      "description": "GRV is a terminal interface for viewing git repositories",
+      "language": "Go",
+      "stars": 3235,
+      "forks": 73
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 29252,
+      "forks": 3420
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 11015,
+      "forks": 1598
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 10975,
+      "forks": 853
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 17175,
+      "forks": 664
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 6808,
+      "forks": 1971
+    }
+  ]
+}
