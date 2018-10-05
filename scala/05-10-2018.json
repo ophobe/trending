@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 18989,
+      "forks": 17071
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 10490,
+      "forks": 603
+    },
+    {
+      "author": "simerplaha",
+      "name": "SwayDB",
+      "href": "https://github.com/simerplaha/SwayDB",
+      "description": "Type-safe, non-blocking, back-pressured key-value storage library for single/multiple disks & in-memory - www.SwayDB.io",
+      "language": "Scala",
+      "stars": 57,
+      "forks": 3
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 176,
+      "forks": 116
+    },
+    {
+      "author": "Landoop",
+      "name": "stream-reactor",
+      "href": "https://github.com/Landoop/stream-reactor",
+      "description": "Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more.",
+      "language": "Scala",
+      "stars": 490,
+      "forks": 178
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 776,
+      "forks": 366
+    },
+    {
+      "author": "scalatest",
+      "name": "scalatest",
+      "href": "https://github.com/scalatest/scalatest",
+      "description": "A testing tool for Scala and Java developers",
+      "language": "Scala",
+      "stars": 717,
+      "forks": 237
+    },
+    {
+      "author": "lightbend",
+      "name": "scala-sculpt",
+      "href": "https://github.com/lightbend/scala-sculpt",
+      "description": "Dependency extraction for Scala codebases, to aid in modularizing",
+      "language": "Scala",
+      "stars": 67,
+      "forks": 9
+    },
+    {
+      "author": "monix",
+      "name": "minitest",
+      "href": "https://github.com/monix/minitest",
+      "description": "The super light testing library for Scala and Scala.js",
+      "language": "Scala",
+      "stars": 118,
+      "forks": 21
+    },
+    {
+      "author": "cb372",
+      "name": "scalacache",
+      "href": "https://github.com/cb372/scalacache",
+      "description": "Simple caching in Scala",
+      "language": "Scala",
+      "stars": 549,
+      "forks": 63
+    },
+    {
+      "author": "almond-sh",
+      "name": "almond",
+      "href": "https://github.com/almond-sh/almond",
+      "description": "A scala kernel for Jupyter",
+      "language": "Scala",
+      "stars": 901,
+      "forks": 132
+    },
+    {
+      "author": "kamon-io",
+      "name": "kamon-http4s",
+      "href": "https://github.com/kamon-io/kamon-http4s",
+      "description": "Kamon support for http://http4s.org/",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 7
+    },
+    {
+      "author": "coursier",
+      "name": "coursier",
+      "href": "https://github.com/coursier/coursier",
+      "description": "Pure Scala Artifact Fetching",
+      "language": "Scala",
+      "stars": 1317,
+      "forks": 141
+    },
+    {
+      "author": "scalikejdbc",
+      "name": "scalikejdbc",
+      "href": "https://github.com/scalikejdbc/scalikejdbc",
+      "description": "A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.",
+      "language": "Scala",
+      "stars": 938,
+      "forks": 187
+    },
+    {
+      "author": "julien-truffaut",
+      "name": "newts",
+      "href": "https://github.com/julien-truffaut/newts",
+      "description": "Newtype for cats",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 16
+    },
+    {
+      "author": "julien-truffaut",
+      "name": "Monocle",
+      "href": "https://github.com/julien-truffaut/Monocle",
+      "description": "Optics library for Scala",
+      "language": "Scala",
+      "stars": 989,
+      "forks": 141
+    },
+    {
+      "author": "greencatsoft",
+      "name": "scalajs-angular-todomvc",
+      "href": "https://github.com/greencatsoft/scalajs-angular-todomvc",
+      "description": "TodoMVC example using scalajs-angular",
+      "language": "Scala",
+      "stars": 57,
+      "forks": 19
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 764,
+      "forks": 246
+    },
+    {
+      "author": "mesos",
+      "name": "chronos",
+      "href": "https://github.com/mesos/chronos",
+      "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules",
+      "language": "Scala",
+      "stars": 4046,
+      "forks": 552
+    },
+    {
+      "author": "Azure",
+      "name": "azure-event-hubs-spark",
+      "href": "https://github.com/Azure/azure-event-hubs-spark",
+      "description": "Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs",
+      "language": "Scala",
+      "stars": 87,
+      "forks": 70
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11446,
+      "forks": 1873
+    },
+    {
+      "author": "snowplow",
+      "name": "scala-maxmind-iplookups",
+      "href": "https://github.com/snowplow/scala-maxmind-iplookups",
+      "description": "Scala client for MaxMind Geo-IP",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 42
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10742,
+      "forks": 3631
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10729,
+      "forks": 2543
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9078,
+      "forks": 2870
+    }
+  ]
+}
