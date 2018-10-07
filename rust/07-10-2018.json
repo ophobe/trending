@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 1504,
+      "forks": 271
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 14778,
+      "forks": 528
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 8884,
+      "forks": 151
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 31032,
+      "forks": 5218
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8194,
+      "forks": 539
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2464,
+      "forks": 352
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 6927,
+      "forks": 172
+    },
+    {
+      "author": "pest-parser",
+      "name": "pest",
+      "href": "https://github.com/pest-parser/pest",
+      "description": "The Elegant Parser",
+      "language": "Rust",
+      "stars": 997,
+      "forks": 52
+    },
+    {
+      "author": "redox-os",
+      "name": "relibc",
+      "href": "https://github.com/redox-os/relibc",
+      "description": "Mirror of https://gitlab.redox-os.org/redox-os/relibc",
+      "language": "Rust",
+      "stars": 522,
+      "forks": 34
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 2806,
+      "forks": 82
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12450,
+      "forks": 525
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 10876,
+      "forks": 443
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12524,
+      "forks": 1964
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented game engine written in Rust",
+      "language": "Rust",
+      "stars": 1704,
+      "forks": 185
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 8050,
+      "forks": 195
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1732,
+      "forks": 107
+    },
+    {
+      "author": "baidu",
+      "name": "rust-sgx-sdk",
+      "href": "https://github.com/baidu/rust-sgx-sdk",
+      "description": "Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.",
+      "language": "Rust",
+      "stars": 426,
+      "forks": 60
+    },
+    {
+      "author": "kazan-3d",
+      "name": "kazan",
+      "href": "https://github.com/kazan-3d/kazan",
+      "description": "Work-in-progress software-rendering Vulkan implementation",
+      "language": "Rust",
+      "stars": 108,
+      "forks": 7
+    },
+    {
+      "author": "rusty-rockets",
+      "name": "sm",
+      "href": "https://github.com/rusty-rockets/sm",
+      "description": "🚀 SM – a static State Machine library",
+      "language": "Rust",
+      "stars": 43,
+      "forks": 0
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV command line toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 3573,
+      "forks": 117
+    },
+    {
+      "author": "PistonDevelopers",
+      "name": "piston",
+      "href": "https://github.com/PistonDevelopers/piston",
+      "description": "A modular game engine written in Rust",
+      "language": "Rust",
+      "stars": 2530,
+      "forks": 170
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 3915,
+      "forks": 446
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2738,
+      "forks": 798
+    },
+    {
+      "author": "csharad",
+      "name": "ruukh",
+      "href": "https://github.com/csharad/ruukh",
+      "description": "An experimental next-gen frontend framework for the Web in Rust.",
+      "language": "Rust",
+      "stars": 102,
+      "forks": 1
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "crater",
+      "href": "https://github.com/rust-lang-nursery/crater",
+      "description": "Run experiments across parts of the Rust ecosystem!",
+      "language": "Rust",
+      "stars": 88,
+      "forks": 40
+    }
+  ]
+}
