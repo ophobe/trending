@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "MontFerret",
+      "name": "ferret",
+      "href": "https://github.com/MontFerret/ferret",
+      "description": "Declarative web scraping",
+      "language": "Go",
+      "stars": 2690,
+      "forks": 97
+    },
+    {
+      "author": "mit-pdos",
+      "name": "biscuit",
+      "href": "https://github.com/mit-pdos/biscuit",
+      "description": "Biscuit research OS",
+      "language": "Go",
+      "stars": 580,
+      "forks": 23
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Code search and intelligence, self-hosted and scalable",
+      "language": "Go",
+      "stars": 3276,
+      "forks": 145
+    },
+    {
+      "author": "dunglas",
+      "name": "mercure",
+      "href": "https://github.com/dunglas/mercure",
+      "description": "Server-sent live updates: protocol and reference implementation",
+      "language": "Go",
+      "stars": 65,
+      "forks": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 42429,
+      "forks": 14739
+    },
+    {
+      "author": "changkun",
+      "name": "go-under-the-hood",
+      "href": "https://github.com/changkun/go-under-the-hood",
+      "description": "Go 源码研究 (1.11.1, WIP)",
+      "language": "Go",
+      "stars": 305,
+      "forks": 20
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 47848,
+      "forks": 6566
+    },
+    {
+      "author": "google",
+      "name": "go-cloud",
+      "href": "https://github.com/google/go-cloud",
+      "description": "A library and tools for open cloud development in Go.",
+      "language": "Go",
+      "stars": 4676,
+      "forks": 232
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 35884,
+      "forks": 4651
+    },
+    {
+      "author": "go-ego",
+      "name": "gse",
+      "href": "https://github.com/go-ego/gse",
+      "description": "Go efficient text segmentation; support english, chinese, japanese and other. Go 语言高性能分词",
+      "language": "Go",
+      "stars": 533,
+      "forks": 41
+    },
+    {
+      "author": "faiface",
+      "name": "pixel",
+      "href": "https://github.com/faiface/pixel",
+      "description": "A hand-crafted 2D game library in Go",
+      "language": "Go",
+      "stars": 1675,
+      "forks": 85
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 21041,
+      "forks": 2498
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 21088,
+      "forks": 7283
+    },
+    {
+      "author": "go-modules-by-example",
+      "name": "index",
+      "href": "https://github.com/go-modules-by-example/index",
+      "description": "Go modules by example is a series of work-along guides",
+      "language": "Go",
+      "stars": 123,
+      "forks": 7
+    },
+    {
+      "author": "rootless-containers",
+      "name": "rootlesskit",
+      "href": "https://github.com/rootless-containers/rootlesskit",
+      "description": "executes `unshare` and `newuidmap/newgidmap` in a single command, plus slirp",
+      "language": "Go",
+      "stars": 77,
+      "forks": 2
+    },
+    {
+      "author": "sipt",
+      "name": "shuttle",
+      "href": "https://github.com/sipt/shuttle",
+      "description": "A web proxy in Golang with amazing features.",
+      "language": "Go",
+      "stars": 1243,
+      "forks": 97
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 50656,
+      "forks": 14736
+    },
+    {
+      "author": "jasonlvhit",
+      "name": "gocron",
+      "href": "https://github.com/jasonlvhit/gocron",
+      "description": "A Golang Job Scheduling Package.",
+      "language": "Go",
+      "stars": 1037,
+      "forks": 152
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 20663,
+      "forks": 4139
+    },
+    {
+      "author": "TarsCloud",
+      "name": "TarsGo",
+      "href": "https://github.com/TarsCloud/TarsGo",
+      "description": "A high performance microservice framework in golang. A linux foundation project.",
+      "language": "Go",
+      "stars": 1010,
+      "forks": 100
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 18047,
+      "forks": 1831
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 5563,
+      "forks": 1549
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek, and an optional Filer with POSIX interface.",
+      "language": "Go",
+      "stars": 6598,
+      "forks": 875
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 29430,
+      "forks": 3436
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 37935,
+      "forks": 8572
+    }
+  ]
+}
