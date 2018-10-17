@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 18103,
+      "forks": 3020
+    },
+    {
+      "author": "JuliaMath",
+      "name": "Primes.jl",
+      "href": "https://github.com/JuliaMath/Primes.jl",
+      "description": "Prime numbers in Julia",
+      "language": "Julia",
+      "stars": 21,
+      "forks": 12
+    },
+    {
+      "author": "sglyon",
+      "name": "PlotlyJS.jl",
+      "href": "https://github.com/sglyon/PlotlyJS.jl",
+      "description": "Julia wrapper/API for plotly.js",
+      "language": "Julia",
+      "stars": 118,
+      "forks": 35
+    },
+    {
+      "author": "timbitz",
+      "name": "Whippet.jl",
+      "href": "https://github.com/timbitz/Whippet.jl",
+      "description": "Lightweight and Fast; RNA-seq quantification at the event-level",
+      "language": "Julia",
+      "stars": 23,
+      "forks": 6
+    },
+    {
+      "author": "JuliaWeb",
+      "name": "WebSockets.jl",
+      "href": "https://github.com/JuliaWeb/WebSockets.jl",
+      "description": "A WebSockets library for Julia",
+      "language": "Julia",
+      "stars": 75,
+      "forks": 41
+    },
+    {
+      "author": "JuliaMath",
+      "name": "SpecialFunctions.jl",
+      "href": "https://github.com/JuliaMath/SpecialFunctions.jl",
+      "description": "Special mathematical functions in Julia",
+      "language": "Julia",
+      "stars": 39,
+      "forks": 25
+    },
+    {
+      "author": "JuliaMath",
+      "name": "QuadGK.jl",
+      "href": "https://github.com/JuliaMath/QuadGK.jl",
+      "description": "adaptive 1d numerical Gauss–Kronrod integration in Julia",
+      "language": "Julia",
+      "stars": 30,
+      "forks": 12
+    },
+    {
+      "author": "JuliaMath",
+      "name": "FFTW.jl",
+      "href": "https://github.com/JuliaMath/FFTW.jl",
+      "description": "Julia bindings to the FFTW library for fast Fourier transforms",
+      "language": "Julia",
+      "stars": 32,
+      "forks": 9
+    },
+    {
+      "author": "JuliaData",
+      "name": "DataStreams.jl",
+      "href": "https://github.com/JuliaData/DataStreams.jl",
+      "description": "A fast, generic framework for transferring table-like data structures in Julia",
+      "language": "Julia",
+      "stars": 56,
+      "forks": 19
+    },
+    {
+      "author": "juliohm",
+      "name": "GeoStats.jl",
+      "href": "https://github.com/juliohm/GeoStats.jl",
+      "description": "An extensible framework for high-performance geostatistics in Julia",
+      "language": "Julia",
+      "stars": 56,
+      "forks": 10
+    },
+    {
+      "author": "oxinabox",
+      "name": "DataDeps.jl",
+      "href": "https://github.com/oxinabox/DataDeps.jl",
+      "description": "reproducible data setup for reproducible science",
+      "language": "Julia",
+      "stars": 47,
+      "forks": 14
+    },
+    {
+      "author": "fredo-dedup",
+      "name": "VegaLite.jl",
+      "href": "https://github.com/fredo-dedup/VegaLite.jl",
+      "description": "Julia bindings to Vega-Lite",
+      "language": "Julia",
+      "stars": 53,
+      "forks": 8
+    },
+    {
+      "author": "FugroRoames",
+      "name": "TypedTables.jl",
+      "href": "https://github.com/FugroRoames/TypedTables.jl",
+      "description": "Simple, column-based storage for Julia",
+      "language": "Julia",
+      "stars": 36,
+      "forks": 14
+    },
+    {
+      "author": "TuringLang",
+      "name": "Turing.jl",
+      "href": "https://github.com/TuringLang/Turing.jl",
+      "description": "The Turing language for probabilistic programming",
+      "language": "Julia",
+      "stars": 298,
+      "forks": 35
+    },
+    {
+      "author": "JuliaDiff",
+      "name": "TaylorSeries.jl",
+      "href": "https://github.com/JuliaDiff/TaylorSeries.jl",
+      "description": "A julia package for Taylor polynomial expansions in one or more independent variables.",
+      "language": "Julia",
+      "stars": 42,
+      "forks": 16
+    },
+    {
+      "author": "JuliaArrays",
+      "name": "StaticArrays.jl",
+      "href": "https://github.com/JuliaArrays/StaticArrays.jl",
+      "description": "Statically sized arrays for Julia",
+      "language": "Julia",
+      "stars": 160,
+      "forks": 55
+    },
+    {
+      "author": "BenLauwens",
+      "name": "SimJulia.jl",
+      "href": "https://github.com/BenLauwens/SimJulia.jl",
+      "description": "A discrete event process oriented simulation framework written in Julia",
+      "language": "Julia",
+      "stars": 76,
+      "forks": 24
+    },
+    {
+      "author": "timholy",
+      "name": "Revise.jl",
+      "href": "https://github.com/timholy/Revise.jl",
+      "description": "Automatically update function definitions in a running Julia session",
+      "language": "Julia",
+      "stars": 210,
+      "forks": 29
+    },
+    {
+      "author": "BenLauwens",
+      "name": "ResumableFunctions.jl",
+      "href": "https://github.com/BenLauwens/ResumableFunctions.jl",
+      "description": "C# sharp style generators a.k.a. semi-coroutines for Julia.",
+      "language": "Julia",
+      "stars": 43,
+      "forks": 7
+    },
+    {
+      "author": "sunoru",
+      "name": "RandomNumbers.jl",
+      "href": "https://github.com/sunoru/RandomNumbers.jl",
+      "description": "Random Number Generators for the Julia Language.",
+      "language": "Julia",
+      "stars": 40,
+      "forks": 9
+    },
+    {
+      "author": "JuliaInterop",
+      "name": "RCall.jl",
+      "href": "https://github.com/JuliaInterop/RCall.jl",
+      "description": "Embedded R within Julia",
+      "language": "Julia",
+      "stars": 113,
+      "forks": 32
+    },
+    {
+      "author": "queryverse",
+      "name": "Query.jl",
+      "href": "https://github.com/queryverse/Query.jl",
+      "description": "Query almost anything in julia",
+      "language": "Julia",
+      "stars": 124,
+      "forks": 28
+    },
+    {
+      "author": "JuliaPOMDP",
+      "name": "POMDPs.jl",
+      "href": "https://github.com/JuliaPOMDP/POMDPs.jl",
+      "description": "MDPs and POMDPs in Julia - An interface for defining, solving, and simulating discrete and continuous, fully and partially observable Markov decision processes.",
+      "language": "Julia",
+      "stars": 134,
+      "forks": 27
+    },
+    {
+      "author": "JuliaGeo",
+      "name": "NetCDF.jl",
+      "href": "https://github.com/JuliaGeo/NetCDF.jl",
+      "description": "NetCDF support for the julia programming language",
+      "language": "Julia",
+      "stars": 25,
+      "forks": 25
+    },
+    {
+      "author": "dmbates",
+      "name": "MixedModels.jl",
+      "href": "https://github.com/dmbates/MixedModels.jl",
+      "description": "A Julia package for fitting (statistical) mixed-effects models",
+      "language": "Julia",
+      "stars": 126,
+      "forks": 28
+    }
+  ]
+}
