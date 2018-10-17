@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 12198,
+      "forks": 1143
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 64675,
+      "forks": 23576
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 1821,
+      "forks": 213
+    },
+    {
+      "author": "raptorjit",
+      "name": "raptorjit",
+      "href": "https://github.com/raptorjit/raptorjit",
+      "description": "RaptorJIT: A dynamic language for system programming (LuaJIT fork)",
+      "language": "C",
+      "stars": 499,
+      "forks": 22
+    },
+    {
+      "author": "Syllo",
+      "name": "nvtop",
+      "href": "https://github.com/Syllo/nvtop",
+      "description": "NVIDIA GPUs htop like monitoring tool",
+      "language": "C",
+      "stars": 1300,
+      "forks": 30
+    },
+    {
+      "author": "tboox",
+      "name": "xmake",
+      "href": "https://github.com/tboox/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "language": "C",
+      "stars": 1064,
+      "forks": 162
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 32196,
+      "forks": 12359
+    },
+    {
+      "author": "Meituan-Dianping",
+      "name": "Logan",
+      "href": "https://github.com/Meituan-Dianping/Logan",
+      "description": "Logan is a lightweight case logging system based on mobile platform.",
+      "language": "C",
+      "stars": 844,
+      "forks": 75
+    },
+    {
+      "author": "tenox7",
+      "name": "ttyplot",
+      "href": "https://github.com/tenox7/ttyplot",
+      "description": "a simple general purpose plotting utility for tty with data input from stdin",
+      "language": "C",
+      "stars": 101,
+      "forks": 4
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24532,
+      "forks": 14250
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 32327,
+      "forks": 2749
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 4374,
+      "forks": 6090
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 9947,
+      "forks": 5388
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 19915,
+      "forks": 5034
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10870,
+      "forks": 2358
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 8557,
+      "forks": 2076
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 9102,
+      "forks": 4974
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 10788,
+      "forks": 2584
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 11.4b3",
+      "language": "C",
+      "stars": 201,
+      "forks": 38
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 10603,
+      "forks": 1739
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 8431,
+      "forks": 1651
+    },
+    {
+      "author": "wuseman",
+      "name": "TG799VAC-XTREME-17.2-MINT",
+      "href": "https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT",
+      "description": "This is my personal and unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor",
+      "language": "C",
+      "stars": 24,
+      "forks": 2
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8471,
+      "forks": 3893
+    },
+    {
+      "author": "mntmn",
+      "name": "interim",
+      "href": "https://github.com/mntmn/interim",
+      "description": "The Interim Operating System",
+      "language": "C",
+      "stars": 855,
+      "forks": 54
+    },
+    {
+      "author": "CameraKit",
+      "name": "camerakit-android",
+      "href": "https://github.com/CameraKit/camerakit-android",
+      "description": "One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.",
+      "language": "C",
+      "stars": 3457,
+      "forks": 518
+    }
+  ]
+}
