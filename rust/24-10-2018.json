@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 2259,
+      "forks": 355
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 495,
+      "forks": 12
+    },
+    {
+      "author": "net-reflow",
+      "name": "reflow",
+      "href": "https://github.com/net-reflow/reflow",
+      "description": "Operates on the network layer. Understands the application layer. Chooses a proxy for every single connection automatically.",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 1
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 493,
+      "forks": 98
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 1852,
+      "forks": 205
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 31297,
+      "forks": 5247
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 11107,
+      "forks": 454
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12717,
+      "forks": 550
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 9236,
+      "forks": 165
+    },
+    {
+      "author": "phil-opp",
+      "name": "blog_os",
+      "href": "https://github.com/phil-opp/blog_os",
+      "description": "Writing an OS in Rust",
+      "language": "Rust",
+      "stars": 1858,
+      "forks": 174
+    },
+    {
+      "author": "lovasoa",
+      "name": "json_in_type",
+      "href": "https://github.com/lovasoa/json_in_type",
+      "description": "Fast json encoder in rust, that encodes the structure of JSON values in their types",
+      "language": "Rust",
+      "stars": 32,
+      "forks": 0
+    },
+    {
+      "author": "pauldix",
+      "name": "monkey-rust",
+      "href": "https://github.com/pauldix/monkey-rust",
+      "description": "My first foray into learning Rust: an implementation of Thorsten Ball's Monkey programming language",
+      "language": "Rust",
+      "stars": 35,
+      "forks": 0
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12627,
+      "forks": 1978
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15016,
+      "forks": 547
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 5624,
+      "forks": 197
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5440,
+      "forks": 348
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 1494,
+      "forks": 152
+    },
+    {
+      "author": "dguo",
+      "name": "strsim-rs",
+      "href": "https://github.com/dguo/strsim-rs",
+      "description": "🔤 Rust implementations of string similarity metrics",
+      "language": "Rust",
+      "stars": 91,
+      "forks": 15
+    },
+    {
+      "author": "dbrgn",
+      "name": "tealdeer",
+      "href": "https://github.com/dbrgn/tealdeer",
+      "description": "A very fast implementation of tldr in Rust.",
+      "language": "Rust",
+      "stars": 198,
+      "forks": 16
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1795,
+      "forks": 116
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4060,
+      "forks": 467
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang-nursery/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2598,
+      "forks": 363
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 3132,
+      "forks": 314
+    },
+    {
+      "author": "withoutboats",
+      "name": "shifgrethor",
+      "href": "https://github.com/withoutboats/shifgrethor",
+      "description": "research",
+      "language": "Rust",
+      "stars": 128,
+      "forks": 1
+    },
+    {
+      "author": "vertexclique",
+      "name": "korq",
+      "href": "https://github.com/vertexclique/korq",
+      "description": "Kubernetes Dynamic Log Tailing Utility",
+      "language": "Rust",
+      "stars": 22,
+      "forks": 1
+    }
+  ]
+}
