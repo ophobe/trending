@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 64947,
+      "forks": 23672
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 12623,
+      "forks": 1202
+    },
+    {
+      "author": "SoftEtherVPN",
+      "name": "SoftEtherVPN",
+      "href": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+      "description": "SoftEther VPN (Developer Edition Master Repository): Open Cross-platform Multi-protocol VPN Software. This repository has experimental codes. Pull requests are welcome. Also, Stable Edition is available on https://github.com/SoftEtherVPN/SoftEtherVPN_Stable which the non-developer user can stable use.",
+      "language": "C",
+      "stars": 5031,
+      "forks": 1520
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 32358,
+      "forks": 12418
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 8596,
+      "forks": 495
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10056,
+      "forks": 5462
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/",
+      "language": "C",
+      "stars": 32455,
+      "forks": 2759
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24605,
+      "forks": 14311
+    },
+    {
+      "author": "cmuratori",
+      "name": "meow_hash",
+      "href": "https://github.com/cmuratori/meow_hash",
+      "description": "Official version of the Meow hash, an extremely fast non-cryptographic hash",
+      "language": "C",
+      "stars": 703,
+      "forks": 15
+    },
+    {
+      "author": "Meituan-Dianping",
+      "name": "Logan",
+      "href": "https://github.com/Meituan-Dianping/Logan",
+      "description": "Logan is a lightweight case logging system based on mobile platform.",
+      "language": "C",
+      "stars": 985,
+      "forks": 92
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 17803,
+      "forks": 1439
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 10944,
+      "forks": 2365
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20048,
+      "forks": 5050
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 11673,
+      "forks": 814
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12558,
+      "forks": 4922
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15750,
+      "forks": 1845
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 8652,
+      "forks": 2090
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8129,
+      "forks": 5491
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3122,
+      "forks": 5835
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 8795,
+      "forks": 1474
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 5881,
+      "forks": 282
+    },
+    {
+      "author": "tenox7",
+      "name": "ttyplot",
+      "href": "https://github.com/tenox7/ttyplot",
+      "description": "a simple general purpose plotting utility for tty with data input from stdin",
+      "language": "C",
+      "stars": 146,
+      "forks": 9
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 5188,
+      "forks": 218
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14396,
+      "forks": 1835
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 8216,
+      "forks": 1772
+    }
+  ]
+}
