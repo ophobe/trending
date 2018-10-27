@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 1046,
+      "forks": 27
+    },
+    {
+      "author": "akavel",
+      "name": "up",
+      "href": "https://github.com/akavel/up",
+      "description": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+      "language": "Go",
+      "stars": 2813,
+      "forks": 57
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 1930,
+      "forks": 63
+    },
+    {
+      "author": "XiaoMi",
+      "name": "soar",
+      "href": "https://github.com/XiaoMi/soar",
+      "description": "SQL Optimizer And Rewriter",
+      "language": "Go",
+      "stars": 2309,
+      "forks": 268
+    },
+    {
+      "author": "XiaoMi",
+      "name": "naftis",
+      "href": "https://github.com/XiaoMi/naftis",
+      "description": "An awesome dashboard for Istio built with love.",
+      "language": "Go",
+      "stars": 718,
+      "forks": 69
+    },
+    {
+      "author": "skx",
+      "name": "gobasic",
+      "href": "https://github.com/skx/gobasic",
+      "description": "A BASIC interpreter written in golang.",
+      "language": "Go",
+      "stars": 100,
+      "forks": 7
+    },
+    {
+      "author": "golang",
+      "name": "proposal",
+      "href": "https://github.com/golang/proposal",
+      "description": "Go Project Design Documents",
+      "language": "Go",
+      "stars": 1228,
+      "forks": 143
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 48456,
+      "forks": 6667
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "href": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP and REST client library for Go",
+      "language": "Go",
+      "stars": 1246,
+      "forks": 125
+    },
+    {
+      "author": "schollz",
+      "name": "croc",
+      "href": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": 1640,
+      "forks": 77
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 11334,
+      "forks": 391
+    },
+    {
+      "author": "namreg",
+      "name": "godown",
+      "href": "https://github.com/namreg/godown",
+      "description": "Distributed, fault-tolerant key-value storage written in go.",
+      "language": "Go",
+      "stars": 118,
+      "forks": 3
+    },
+    {
+      "author": "libgoost",
+      "name": "gweb",
+      "href": "https://github.com/libgoost/gweb",
+      "description": "Performance first Go stdlib-like collections",
+      "language": "Go",
+      "stars": 36,
+      "forks": 0
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule based proxy in Go.",
+      "language": "Go",
+      "stars": 577,
+      "forks": 41
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 16419,
+      "forks": 2938
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 36448,
+      "forks": 4724
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 21453,
+      "forks": 2538
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 14139,
+      "forks": 4215
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 43091,
+      "forks": 14978
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 25783,
+      "forks": 7379
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 29811,
+      "forks": 3492
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 72,
+      "forks": 12
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 38202,
+      "forks": 8616
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 11148,
+      "forks": 2446
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 21408,
+      "forks": 7405
+    }
+  ]
+}
