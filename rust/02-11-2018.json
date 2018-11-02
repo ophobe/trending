@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "sharkdp",
+      "name": "diskus",
+      "href": "https://github.com/sharkdp/diskus",
+      "description": "A minimal, fast alternative to 'du -sh'",
+      "language": "Rust",
+      "stars": 115,
+      "forks": 2
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 9500,
+      "forks": 173
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 12852,
+      "forks": 552
+    },
+    {
+      "author": "urbica",
+      "name": "martin",
+      "href": "https://github.com/urbica/martin",
+      "description": "PostGIS vector tiles server 🐦",
+      "language": "Rust",
+      "stars": 46,
+      "forks": 2
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 1962,
+      "forks": 35
+    },
+    {
+      "author": "nachoparker",
+      "name": "dutree",
+      "href": "https://github.com/nachoparker/dutree",
+      "description": "a tool to analyze file system usage written in Rust",
+      "language": "Rust",
+      "stars": 168,
+      "forks": 11
+    },
+    {
+      "author": "Zokrates",
+      "name": "ZoKrates",
+      "href": "https://github.com/Zokrates/ZoKrates",
+      "description": "A toolbox for zkSNARKS on Ethereum",
+      "language": "Rust",
+      "stars": 441,
+      "forks": 91
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 1312,
+      "forks": 25
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 7188,
+      "forks": 186
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 31486,
+      "forks": 5262
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15105,
+      "forks": 554
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 11228,
+      "forks": 459
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 4982,
+      "forks": 154
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5520,
+      "forks": 355
+    },
+    {
+      "author": "salsa-rs",
+      "name": "salsa",
+      "href": "https://github.com/salsa-rs/salsa",
+      "description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.",
+      "language": "Rust",
+      "stars": 115,
+      "forks": 8
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 8196,
+      "forks": 196
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 3028,
+      "forks": 89
+    },
+    {
+      "author": "Amanieu",
+      "name": "hashbrown",
+      "href": "https://github.com/Amanieu/hashbrown",
+      "description": "Rust port of Google's SwissTable hash map",
+      "language": "Rust",
+      "stars": 395,
+      "forks": 10
+    },
+    {
+      "author": "rubytogether",
+      "name": "kirby",
+      "href": "https://github.com/rubytogether/kirby",
+      "description": null,
+      "language": "Rust",
+      "stars": 144,
+      "forks": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 2886,
+      "forks": 822
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8423,
+      "forks": 559
+    },
+    {
+      "author": "e1r0nd",
+      "name": "voca_rs",
+      "href": "https://github.com/e1r0nd/voca_rs",
+      "description": "The ultimate Rust string library",
+      "language": "Rust",
+      "stars": 66,
+      "forks": 3
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 5688,
+      "forks": 198
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 2560,
+      "forks": 407
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12669,
+      "forks": 1983
+    }
+  ]
+}
