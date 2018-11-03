@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "bbbrumley",
+      "name": "portsmash",
+      "href": "https://github.com/bbbrumley/portsmash",
+      "description": null,
+      "language": "C",
+      "stars": 133,
+      "forks": 20
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 65379,
+      "forks": 23837
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 12876,
+      "forks": 1231
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 32553,
+      "forks": 12501
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8561,
+      "forks": 3096
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24754,
+      "forks": 14401
+    },
+    {
+      "author": "pytorch",
+      "name": "QNNPACK",
+      "href": "https://github.com/pytorch/QNNPACK",
+      "description": "Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators",
+      "language": "C",
+      "stars": 580,
+      "forks": 68
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3176,
+      "forks": 5943
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 8762,
+      "forks": 509
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 9200,
+      "forks": 4997
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14476,
+      "forks": 1858
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8585,
+      "forks": 3943
+    },
+    {
+      "author": "googleprojectzero",
+      "name": "halfempty",
+      "href": "https://github.com/googleprojectzero/halfempty",
+      "description": "A fast, parallel testcase minimization tool.",
+      "language": "C",
+      "stars": 384,
+      "forks": 23
+    },
+    {
+      "author": "WasmVM",
+      "name": "WasmVM",
+      "href": "https://github.com/WasmVM/WasmVM",
+      "description": "An unofficial standalone WebAssembly process virtual machine",
+      "language": "C",
+      "stars": 66,
+      "forks": 15
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11053,
+      "forks": 2384
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12658,
+      "forks": 4961
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 8557,
+      "forks": 1678
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20196,
+      "forks": 5060
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 5333,
+      "forks": 447
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 4646,
+      "forks": 331
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15825,
+      "forks": 1856
+    },
+    {
+      "author": "tcbrindle",
+      "name": "raytracer.hpp",
+      "href": "https://github.com/tcbrindle/raytracer.hpp",
+      "description": "Simple compile-time raytracer using C++17",
+      "language": "C",
+      "stars": 266,
+      "forks": 15
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "href": "https://github.com/skywind3000/kcp",
+      "description": "KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": 5384,
+      "forks": 1131
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 6181,
+      "forks": 748
+    },
+    {
+      "author": "externalist",
+      "name": "exploit_playground",
+      "href": "https://github.com/externalist/exploit_playground",
+      "description": "Analysis of public exploits or my 1day exploits",
+      "language": "C",
+      "stars": 472,
+      "forks": 73
+    }
+  ]
+}
