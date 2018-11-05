@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 19371,
+      "forks": 17338
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma turns your database into a realtime GraphQL API",
+      "language": "Scala",
+      "stars": 11035,
+      "forks": 632
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 1126,
+      "forks": 243
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9189,
+      "forks": 2888
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 10838,
+      "forks": 2569
+    },
+    {
+      "author": "freechipsproject",
+      "name": "rocket-chip",
+      "href": "https://github.com/freechipsproject/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 827,
+      "forks": 360
+    },
+    {
+      "author": "coursier",
+      "name": "coursier",
+      "href": "https://github.com/coursier/coursier",
+      "description": "Pure Scala Artifact Fetching",
+      "language": "Scala",
+      "stars": 1328,
+      "forks": 149
+    },
+    {
+      "author": "VirtusLab",
+      "name": "unicorn",
+      "href": "https://github.com/VirtusLab/unicorn",
+      "description": "Small Slick library for type-safe id handling",
+      "language": "Scala",
+      "stars": 100,
+      "forks": 24
+    },
+    {
+      "author": "akka",
+      "name": "akka-management",
+      "href": "https://github.com/akka/akka-management",
+      "description": null,
+      "language": "Scala",
+      "stars": 120,
+      "forks": 76
+    },
+    {
+      "author": "circe",
+      "name": "circe-yaml",
+      "href": "https://github.com/circe/circe-yaml",
+      "description": "YAML parser for circe using SnakeYAML",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 17
+    },
+    {
+      "author": "circe",
+      "name": "circe-magnolia",
+      "href": "https://github.com/circe/circe-magnolia",
+      "description": "Circe codec derivation using magnolia",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 5
+    },
+    {
+      "author": "circe",
+      "name": "circe-fs2",
+      "href": "https://github.com/circe/circe-fs2",
+      "description": "Streaming JSON parsing and decoding with fs2",
+      "language": "Scala",
+      "stars": 47,
+      "forks": 11
+    },
+    {
+      "author": "circe",
+      "name": "circe-derivation",
+      "href": "https://github.com/circe/circe-derivation",
+      "description": "Fast type class instance derivation for circe",
+      "language": "Scala",
+      "stars": 56,
+      "forks": 7
+    },
+    {
+      "author": "scoverage",
+      "name": "sbt-scoverage",
+      "href": "https://github.com/scoverage/sbt-scoverage",
+      "description": "sbt plugin for scoverage",
+      "language": "Scala",
+      "stars": 423,
+      "forks": 118
+    },
+    {
+      "author": "hortonworks-spark",
+      "name": "spark-atlas-connector",
+      "href": "https://github.com/hortonworks-spark/spark-atlas-connector",
+      "description": "A Spark Atlas connector to track data lineage in Apache Atlas",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 20
+    },
+    {
+      "author": "davidB",
+      "name": "scala-archetype-simple",
+      "href": "https://github.com/davidB/scala-archetype-simple",
+      "description": "a simple maven archetype for project in scala",
+      "language": "Scala",
+      "stars": 89,
+      "forks": 78
+    },
+    {
+      "author": "hortonworks-spark",
+      "name": "shc",
+      "href": "https://github.com/hortonworks-spark/shc",
+      "description": "The Apache Spark - Apache HBase Connector is a library to support Spark accessing HBase table as external data source or sink.",
+      "language": "Scala",
+      "stars": 300,
+      "forks": 156
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 831,
+      "forks": 376
+    },
+    {
+      "author": "hail-is",
+      "name": "hail",
+      "href": "https://github.com/hail-is/hail",
+      "description": "Scalable genomic data analysis.",
+      "language": "Scala",
+      "stars": 397,
+      "forks": 115
+    },
+    {
+      "author": "ge0rg",
+      "name": "aprsdroid",
+      "href": "https://github.com/ge0rg/aprsdroid",
+      "description": "APRSdroid - Geo-Location for Radio Amateurs",
+      "language": "Scala",
+      "stars": 226,
+      "forks": 57
+    },
+    {
+      "author": "snowplow",
+      "name": "iglu",
+      "href": "https://github.com/snowplow/iglu",
+      "description": "A schema registry system",
+      "language": "Scala",
+      "stars": 108,
+      "forks": 36
+    },
+    {
+      "author": "scala-graph",
+      "name": "scala-graph",
+      "href": "https://github.com/scala-graph/scala-graph",
+      "description": "Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.",
+      "language": "Scala",
+      "stars": 411,
+      "forks": 52
+    },
+    {
+      "author": "rchain",
+      "name": "rchain",
+      "href": "https://github.com/rchain/rchain",
+      "description": null,
+      "language": "Scala",
+      "stars": 470,
+      "forks": 139
+    },
+    {
+      "author": "ucb-bar",
+      "name": "riscv-boom",
+      "href": "https://github.com/ucb-bar/riscv-boom",
+      "description": "Berkeley Out-of-Order Machine",
+      "language": "Scala",
+      "stars": 298,
+      "forks": 77
+    },
+    {
+      "author": "kaitai-io",
+      "name": "kaitai_struct_compiler",
+      "href": "https://github.com/kaitai-io/kaitai_struct_compiler",
+      "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb",
+      "language": "Scala",
+      "stars": 119,
+      "forks": 44
+    }
+  ]
+}
