@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Container-native workflows for Kubernetes.",
+      "language": "Go",
+      "stars": 1767,
+      "forks": 225
+    },
+    {
+      "author": "mholt",
+      "name": "archiver",
+      "href": "https://github.com/mholt/archiver",
+      "description": "Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go",
+      "language": "Go",
+      "stars": 1579,
+      "forks": 132
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 27852,
+      "forks": 3227
+    },
+    {
+      "author": "google",
+      "name": "logger",
+      "href": "https://github.com/google/logger",
+      "description": "Cross platform Go logging library.",
+      "language": "Go",
+      "stars": 243,
+      "forks": 29
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 49090,
+      "forks": 6772
+    },
+    {
+      "author": "kubeflow",
+      "name": "pipelines",
+      "href": "https://github.com/kubeflow/pipelines",
+      "description": "Machine Learning Pipelines for Kubeflow",
+      "language": "Go",
+      "stars": 265,
+      "forks": 18
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 43662,
+      "forks": 15177
+    },
+    {
+      "author": "akavel",
+      "name": "up",
+      "href": "https://github.com/akavel/up",
+      "description": "Ultimate Plumber is a tool for writing Linux pipes with instant live preview",
+      "language": "Go",
+      "stars": 4034,
+      "forks": 84
+    },
+    {
+      "author": "rodrigo-brito",
+      "name": "gocity",
+      "href": "https://github.com/rodrigo-brito/gocity",
+      "description": "📊 Code City metaphor for visualizing Go source code in 3D",
+      "language": "Go",
+      "stars": 1013,
+      "forks": 54
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 11449,
+      "forks": 892
+    },
+    {
+      "author": "sagikazarmark",
+      "name": "modern-go-application",
+      "href": "https://github.com/sagikazarmark/modern-go-application",
+      "description": "Modern Go Application example",
+      "language": "Go",
+      "stars": 37,
+      "forks": 0
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 3256,
+      "forks": 86
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 4538,
+      "forks": 297
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "href": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": 909,
+      "forks": 139
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 6828,
+      "forks": 489
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 10728,
+      "forks": 1100
+    },
+    {
+      "author": "txn2",
+      "name": "kubefwd",
+      "href": "https://github.com/txn2/kubefwd",
+      "description": "Bulk port forwarding Kubernetes services for local development.",
+      "language": "Go",
+      "stars": 623,
+      "forks": 19
+    },
+    {
+      "author": "writeas",
+      "name": "writefreely",
+      "href": "https://github.com/writeas/writefreely",
+      "description": "Painless, simple, federated blogging platform.",
+      "language": "Go",
+      "stars": 129,
+      "forks": 3
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 16797,
+      "forks": 3023
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule based tunnel in Go.",
+      "language": "Go",
+      "stars": 1148,
+      "forks": 76
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 26130,
+      "forks": 7460
+    },
+    {
+      "author": "XiaoMi",
+      "name": "soar",
+      "href": "https://github.com/XiaoMi/soar",
+      "description": "SQL Optimizer And Rewriter",
+      "language": "Go",
+      "stars": 3044,
+      "forks": 358
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 36895,
+      "forks": 4800
+    },
+    {
+      "author": "centrifugal",
+      "name": "centrifugo",
+      "href": "https://github.com/centrifugal/centrifugo",
+      "description": "Language-agnostic real-time messaging server (Websocket and SockJS)",
+      "language": "Go",
+      "stars": 3059,
+      "forks": 261
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 13496,
+      "forks": 1228
+    }
+  ]
+}
