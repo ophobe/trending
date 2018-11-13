@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 13516,
+      "forks": 1536
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 12735,
+      "forks": 648
+    },
+    {
+      "author": "thma",
+      "name": "LtuPatternFactory",
+      "href": "https://github.com/thma/LtuPatternFactory",
+      "description": "Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns",
+      "language": "Haskell",
+      "stars": 173,
+      "forks": 6
+    },
+    {
+      "author": "hdevtools",
+      "name": "hdevtools",
+      "href": "https://github.com/hdevtools/hdevtools",
+      "description": "Persistent GHC-powered background server for FAST haskell development tools",
+      "language": "Haskell",
+      "stars": 79,
+      "forks": 20
+    },
+    {
+      "author": "simonmichael",
+      "name": "hledger",
+      "href": "https://github.com/simonmichael/hledger",
+      "description": "Robust command-line/curses/web plaintext accounting tools, a Haskell rewrite of Ledger.",
+      "language": "Haskell",
+      "stars": 875,
+      "forks": 141
+    },
+    {
+      "author": "brendanhay",
+      "name": "gogol",
+      "href": "https://github.com/brendanhay/gogol",
+      "description": "A comprehensive Google Services SDK for Haskell.",
+      "language": "Haskell",
+      "stars": 171,
+      "forks": 60
+    },
+    {
+      "author": "qfpl",
+      "name": "applied-fp-course",
+      "href": "https://github.com/qfpl/applied-fp-course",
+      "description": null,
+      "language": "Haskell",
+      "stars": 266,
+      "forks": 104
+    },
+    {
+      "author": "haskell-servant",
+      "name": "example-servant-minimal",
+      "href": "https://github.com/haskell-servant/example-servant-minimal",
+      "description": "A minimal example for a REST-API-server written with servant and a test-suite using servant-client",
+      "language": "Haskell",
+      "stars": 37,
+      "forks": 9
+    },
+    {
+      "author": "ghc",
+      "name": "ghc",
+      "href": "https://github.com/ghc/ghc",
+      "description": "Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). First time contributors are encouraged to get started by just sending a Pull Req…",
+      "language": "Haskell",
+      "stars": 1993,
+      "forks": 571
+    },
+    {
+      "author": "lexi-lambda",
+      "name": "freer-simple",
+      "href": "https://github.com/lexi-lambda/freer-simple",
+      "description": "An implementation of “Freer Monads, More Extensible Effects”.",
+      "language": "Haskell",
+      "stars": 99,
+      "forks": 10
+    },
+    {
+      "author": "haskell",
+      "name": "haskell-ide-engine",
+      "href": "https://github.com/haskell/haskell-ide-engine",
+      "description": "The engine for haskell ide-integration. Not an IDE",
+      "language": "Haskell",
+      "stars": 1286,
+      "forks": 132
+    },
+    {
+      "author": "yesodweb",
+      "name": "persistent",
+      "href": "https://github.com/yesodweb/persistent",
+      "description": "Persistence interface for Haskell allowing multiple storage methods.",
+      "language": "Haskell",
+      "stars": 291,
+      "forks": 193
+    },
+    {
+      "author": "lspitzner",
+      "name": "brittany",
+      "href": "https://github.com/lspitzner/brittany",
+      "description": "haskell source code formatter",
+      "language": "Haskell",
+      "stars": 371,
+      "forks": 38
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 11492,
+      "forks": 509
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5287,
+      "forks": 391
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4851,
+      "forks": 388
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3362,
+      "forks": 274
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 3045,
+      "forks": 513
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2893,
+      "forks": 650
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2622,
+      "forks": 591
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2548,
+      "forks": 65
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2538,
+      "forks": 972
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2436,
+      "forks": 85
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2382,
+      "forks": 129
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 2204,
+      "forks": 179
+    }
+  ]
+}
