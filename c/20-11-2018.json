@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66048,
+      "forks": 23990
+    },
+    {
+      "author": "ufrisk",
+      "name": "MemProcFS",
+      "href": "https://github.com/ufrisk/MemProcFS",
+      "description": "The Memory Process File System",
+      "language": "C",
+      "stars": 76,
+      "forks": 12
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9069,
+      "forks": 538
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1238,
+      "forks": 376
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33090,
+      "forks": 2828
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2026,
+      "forks": 71
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 1755,
+      "forks": 61
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 11951,
+      "forks": 830
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 5467,
+      "forks": 470
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 16424,
+      "forks": 996
+    },
+    {
+      "author": "jonas",
+      "name": "tig",
+      "href": "https://github.com/jonas/tig",
+      "description": "Text-mode interface for git",
+      "language": "C",
+      "stars": 6838,
+      "forks": 415
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 32830,
+      "forks": 12618
+    },
+    {
+      "author": "floooh",
+      "name": "chips-test",
+      "href": "https://github.com/floooh/chips-test",
+      "description": "Tests and sample code for https://github.com/floooh/chips",
+      "language": "C",
+      "stars": 138,
+      "forks": 4
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20481,
+      "forks": 5087
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 24991,
+      "forks": 14529
+    },
+    {
+      "author": "Tencent",
+      "name": "MMKV",
+      "href": "https://github.com/Tencent/MMKV",
+      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, macOS and Android.",
+      "language": "C",
+      "stars": 5451,
+      "forks": 483
+    },
+    {
+      "author": "floooh",
+      "name": "chips",
+      "href": "https://github.com/floooh/chips",
+      "description": "8-bit chip and system emulators in standalone C headers",
+      "language": "C",
+      "stars": 205,
+      "forks": 5
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 12826,
+      "forks": 728
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14651,
+      "forks": 1875
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13318,
+      "forks": 1316
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11210,
+      "forks": 2656
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10611,
+      "forks": 5743
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8707,
+      "forks": 3132
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8733,
+      "forks": 3997
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11243,
+      "forks": 2409
+    }
+  ]
+}
