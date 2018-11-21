@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "git-hulk",
+      "name": "tcpkit",
+      "href": "https://github.com/git-hulk/tcpkit",
+      "description": "A tool analyzes tcp packets with Lua",
+      "language": "C",
+      "stars": 195,
+      "forks": 32
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66094,
+      "forks": 24000
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9104,
+      "forks": 542
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2055,
+      "forks": 71
+    },
+    {
+      "author": "LCTF",
+      "name": "LCTF2018",
+      "href": "https://github.com/LCTF/LCTF2018",
+      "description": "Source code, writeups and exps in LCTF2018.",
+      "language": "C",
+      "stars": 72,
+      "forks": 5
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33114,
+      "forks": 2831
+    },
+    {
+      "author": "mozilla",
+      "name": "LPCNet",
+      "href": "https://github.com/mozilla/LPCNet",
+      "description": "Efficient neural speech synthesis",
+      "language": "C",
+      "stars": 81,
+      "forks": 14
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1264,
+      "forks": 382
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10632,
+      "forks": 5753
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20499,
+      "forks": 5092
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25003,
+      "forks": 14534
+    },
+    {
+      "author": "DaanDeMeyer",
+      "name": "reproc",
+      "href": "https://github.com/DaanDeMeyer/reproc",
+      "description": "Cross-platform (C99/C++11) library that simplifies working with external CLI applications from C and C++",
+      "language": "C",
+      "stars": 87,
+      "forks": 6
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "href": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C",
+      "stars": 5012,
+      "forks": 1295
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 32845,
+      "forks": 12627
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13333,
+      "forks": 1317
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8727,
+      "forks": 3134
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11226,
+      "forks": 2658
+    },
+    {
+      "author": "ggreer",
+      "name": "the_silver_searcher",
+      "href": "https://github.com/ggreer/the_silver_searcher",
+      "description": "A code-searching tool similar to ack, but faster.",
+      "language": "C",
+      "stars": 16442,
+      "forks": 998
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 12841,
+      "forks": 731
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11259,
+      "forks": 2413
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 9326,
+      "forks": 5036
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 5484,
+      "forks": 472
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 15970,
+      "forks": 1873
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11185,
+      "forks": 2429
+    },
+    {
+      "author": "ufrisk",
+      "name": "MemProcFS",
+      "href": "https://github.com/ufrisk/MemProcFS",
+      "description": "The Memory Process File System",
+      "language": "C",
+      "stars": 90,
+      "forks": 14
+    }
+  ]
+}
