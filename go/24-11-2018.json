@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Humpheh",
+      "name": "goboy",
+      "href": "https://github.com/Humpheh/goboy",
+      "description": "Multi-platform Nintendo Game Boy Color emulator written in go",
+      "language": "Go",
+      "stars": 1106,
+      "forks": 42
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "href": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": 1406,
+      "forks": 180
+    },
+    {
+      "author": "zserge",
+      "name": "lorca",
+      "href": "https://github.com/zserge/lorca",
+      "description": "Build cross-platform modern desktop apps in Go + HTML5",
+      "language": "Go",
+      "stars": 2185,
+      "forks": 55
+    },
+    {
+      "author": "rakyll",
+      "name": "autopprof",
+      "href": "https://github.com/rakyll/autopprof",
+      "description": "Pprof made easy at development time for Go",
+      "language": "Go",
+      "stars": 416,
+      "forks": 8
+    },
+    {
+      "author": "mfridman",
+      "name": "tparse",
+      "href": "https://github.com/mfridman/tparse",
+      "description": "CLI tool for analyzing and summarizing go test output. Pipe friendly. CI/CD friendly.",
+      "language": "Go",
+      "stars": 108,
+      "forks": 1
+    },
+    {
+      "author": "skx",
+      "name": "simple-vpn",
+      "href": "https://github.com/skx/simple-vpn",
+      "description": "A simple VPN allowing mesh-like communication between nodes, over websockets",
+      "language": "Go",
+      "stars": 47,
+      "forks": 0
+    },
+    {
+      "author": "uflare",
+      "name": "smtp2http",
+      "href": "https://github.com/uflare/smtp2http",
+      "description": "a tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request",
+      "language": "Go",
+      "stars": 96,
+      "forks": 7
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 49618,
+      "forks": 6864
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 44286,
+      "forks": 15385
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "fastcache",
+      "href": "https://github.com/VictoriaMetrics/fastcache",
+      "description": "Fast thread-safe inmemory cache for big number of entries in Go",
+      "language": "Go",
+      "stars": 126,
+      "forks": 1
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 22202,
+      "forks": 2634
+    },
+    {
+      "author": "ThreeDotsLabs",
+      "name": "watermill",
+      "href": "https://github.com/ThreeDotsLabs/watermill",
+      "description": "Go library for building event-driven applications.",
+      "language": "Go",
+      "stars": 159,
+      "forks": 5
+    },
+    {
+      "author": "ory",
+      "name": "hydra",
+      "href": "https://github.com/ory/hydra",
+      "description": "OpenID Connect certified OAuth2 Server - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.",
+      "language": "Go",
+      "stars": 5156,
+      "forks": 425
+    },
+    {
+      "author": "mitchellh",
+      "name": "golicense",
+      "href": "https://github.com/mitchellh/golicense",
+      "description": "Scan and analyze OSS dependencies and licenses from compiled Go binaries",
+      "language": "Go",
+      "stars": 278,
+      "forks": 7
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 37339,
+      "forks": 4855
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 3620,
+      "forks": 105
+    },
+    {
+      "author": "gosimple",
+      "name": "slug",
+      "href": "https://github.com/gosimple/slug",
+      "description": "URL-friendly slugify with multiple languages support.",
+      "language": "Go",
+      "stars": 274,
+      "forks": 31
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 17294,
+      "forks": 3099
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 11666,
+      "forks": 2578
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 11641,
+      "forks": 907
+    },
+    {
+      "author": "twpayne",
+      "name": "chezmoi",
+      "href": "https://github.com/twpayne/chezmoi",
+      "description": "chezmoi is a tool for managing your dotfiles across multiple machines.",
+      "language": "Go",
+      "stars": 44,
+      "forks": 1
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 21830,
+      "forks": 7604
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 8801,
+      "forks": 1210
+    },
+    {
+      "author": "tus",
+      "name": "tusd",
+      "href": "https://github.com/tus/tusd",
+      "description": "Reference server implementation in Go of tus: the open protocol for resumable file uploads",
+      "language": "Go",
+      "stars": 982,
+      "forks": 141
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 28048,
+      "forks": 3250
+    }
+  ]
+}
