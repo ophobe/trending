@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 7562,
+      "forks": 181
+    },
+    {
+      "author": "Humpheh",
+      "name": "goboy",
+      "href": "https://github.com/Humpheh/goboy",
+      "description": "Multi-platform Nintendo Game Boy Color emulator written in go",
+      "language": "Go",
+      "stars": 1458,
+      "forks": 53
+    },
+    {
+      "author": "ory",
+      "name": "hydra",
+      "href": "https://github.com/ory/hydra",
+      "description": "OpenID Connect certified OAuth2 Server - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.",
+      "language": "Go",
+      "stars": 5329,
+      "forks": 433
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "href": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": 1572,
+      "forks": 192
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 49703,
+      "forks": 6877
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 44354,
+      "forks": 15407
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 17351,
+      "forks": 3114
+    },
+    {
+      "author": "rakyll",
+      "name": "autopprof",
+      "href": "https://github.com/rakyll/autopprof",
+      "description": "Pprof made easy at development time for Go",
+      "language": "Go",
+      "stars": 481,
+      "forks": 10
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 37403,
+      "forks": 4861
+    },
+    {
+      "author": "zserge",
+      "name": "lorca",
+      "href": "https://github.com/zserge/lorca",
+      "description": "Build cross-platform modern desktop apps in Go + HTML5",
+      "language": "Go",
+      "stars": 2268,
+      "forks": 56
+    },
+    {
+      "author": "fntlnz",
+      "name": "kubectl-trace",
+      "href": "https://github.com/fntlnz/kubectl-trace",
+      "description": "Schedule bpftrace programs on your kubernetes cluster using the kubectl",
+      "language": "Go",
+      "stars": 58,
+      "forks": 0
+    },
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 1839,
+      "forks": 57
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 26432,
+      "forks": 7537
+    },
+    {
+      "author": "buzzfeed",
+      "name": "sso",
+      "href": "https://github.com/buzzfeed/sso",
+      "description": "sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services",
+      "language": "Go",
+      "stars": 1635,
+      "forks": 68
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 11689,
+      "forks": 910
+    },
+    {
+      "author": "uber",
+      "name": "makisu",
+      "href": "https://github.com/uber/makisu",
+      "description": "Fast and flexible Docker image building tool, works on OSX and in containerized environments like Kubernetes.",
+      "language": "Go",
+      "stars": 713,
+      "forks": 15
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 11717,
+      "forks": 2590
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 38736,
+      "forks": 8710
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 21388,
+      "forks": 4274
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 22262,
+      "forks": 2638
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 20369,
+      "forks": 2775
+    },
+    {
+      "author": "westerndigitalcorporation",
+      "name": "blb",
+      "href": "https://github.com/westerndigitalcorporation/blb",
+      "description": "Blb is a distributed object storage system designed for use on bare metal in cluster computing environments.",
+      "language": "Go",
+      "stars": 539,
+      "forks": 22
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 8682,
+      "forks": 2906
+    },
+    {
+      "author": "uflare",
+      "name": "smtp2http",
+      "href": "https://github.com/uflare/smtp2http",
+      "description": "a tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request",
+      "language": "Go",
+      "stars": 152,
+      "forks": 10
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 13346,
+      "forks": 2029
+    }
+  ]
+}
