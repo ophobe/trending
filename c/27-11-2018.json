@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 8723,
+      "forks": 746
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 3077,
+      "forks": 95
+    },
+    {
+      "author": "bettio",
+      "name": "AtomVM",
+      "href": "https://github.com/bettio/AtomVM",
+      "description": "Tiny Erlang VM",
+      "language": "C",
+      "stars": 148,
+      "forks": 3
+    },
+    {
+      "author": "tharina",
+      "name": "BlackHoodie-2018-Workshop",
+      "href": "https://github.com/tharina/BlackHoodie-2018-Workshop",
+      "description": "Slides and challenges for my binary exploitation workshop at BlackHoodie 2018.",
+      "language": "C",
+      "stars": 236,
+      "forks": 35
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66282,
+      "forks": 24052
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 32930,
+      "forks": 12663
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33264,
+      "forks": 2848
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1371,
+      "forks": 416
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9215,
+      "forks": 559
+    },
+    {
+      "author": "Tencent",
+      "name": "MMKV",
+      "href": "https://github.com/Tencent/MMKV",
+      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, macOS and Android.",
+      "language": "C",
+      "stars": 5529,
+      "forks": 491
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20594,
+      "forks": 5102
+    },
+    {
+      "author": "usdot-fhwa-stol",
+      "name": "CARMAPlatform",
+      "href": "https://github.com/usdot-fhwa-stol/CARMAPlatform",
+      "description": "The newest inception of CARMA is now live on Github and open for collaborating. The CARMAPlatform is created on a robot operating system (ROS) and utilizes open source software (OSS) that enables cooperative automated driving plug-ins.",
+      "language": "C",
+      "stars": 120,
+      "forks": 10
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25087,
+      "forks": 14562
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 12913,
+      "forks": 5027
+    },
+    {
+      "author": "ufrisk",
+      "name": "MemProcFS",
+      "href": "https://github.com/ufrisk/MemProcFS",
+      "description": "The Memory Process File System",
+      "language": "C",
+      "stars": 135,
+      "forks": 24
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "Numpy main repository",
+      "language": "C",
+      "stars": 8819,
+      "forks": 3147
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11346,
+      "forks": 2426
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2154,
+      "forks": 77
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10722,
+      "forks": 5814
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 12029,
+      "forks": 840
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8327,
+      "forks": 5734
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "href": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": 5552,
+      "forks": 484
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 9378,
+      "forks": 5052
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11288,
+      "forks": 2672
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13408,
+      "forks": 1325
+    }
+  ]
+}
