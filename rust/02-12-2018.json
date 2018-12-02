@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 5295,
+      "forks": 222
+    },
+    {
+      "author": "bheisler",
+      "name": "RustaCUDA",
+      "href": "https://github.com/bheisler/RustaCUDA",
+      "description": "Rusty wrapper for the CUDA Driver API",
+      "language": "Rust",
+      "stars": 48,
+      "forks": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 3103,
+      "forks": 849
+    },
+    {
+      "author": "BurntSushi",
+      "name": "advent-of-code",
+      "href": "https://github.com/BurntSushi/advent-of-code",
+      "description": "Rust solutions to AoC 2018",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 1
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-lambda-rust-runtime",
+      "href": "https://github.com/awslabs/aws-lambda-rust-runtime",
+      "description": "A Rust runtime for AWS Lambda",
+      "language": "Rust",
+      "stars": 432,
+      "forks": 18
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 32174,
+      "forks": 5345
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 1044,
+      "forks": 72
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 13380,
+      "forks": 573
+    },
+    {
+      "author": "oconnor663",
+      "name": "bao",
+      "href": "https://github.com/oconnor663/bao",
+      "description": "a general-purpose tree hash for files",
+      "language": "Rust",
+      "stars": 49,
+      "forks": 1
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 10616,
+      "forks": 191
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5748,
+      "forks": 373
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3641,
+      "forks": 265
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8759,
+      "forks": 580
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3753,
+      "forks": 848
+    },
+    {
+      "author": "gobanos",
+      "name": "cargo-aoc",
+      "href": "https://github.com/gobanos/cargo-aoc",
+      "description": null,
+      "language": "Rust",
+      "stars": 36,
+      "forks": 6
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 1372,
+      "forks": 124
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 2123,
+      "forks": 39
+    },
+    {
+      "author": "ralfbiedert",
+      "name": "cheats.rs",
+      "href": "https://github.com/ralfbiedert/cheats.rs",
+      "description": "Rust Language Cheat Sheet - https://cheats.rs",
+      "language": "Rust",
+      "stars": 150,
+      "forks": 7
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2852,
+      "forks": 192
+    },
+    {
+      "author": "olson-sean-k",
+      "name": "decorum",
+      "href": "https://github.com/olson-sean-k/decorum",
+      "description": "Making floating-point values behave.",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15300,
+      "forks": 561
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 7589,
+      "forks": 194
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2115,
+      "forks": 256
+    },
+    {
+      "author": "rust-net-web",
+      "name": "tide",
+      "href": "https://github.com/rust-net-web/tide",
+      "description": "(wip) Modular web framework",
+      "language": "Rust",
+      "stars": 223,
+      "forks": 35
+    },
+    {
+      "author": "bodil",
+      "name": "typed-html",
+      "href": "https://github.com/bodil/typed-html",
+      "description": "Type checked JSX for Rust",
+      "language": "Rust",
+      "stars": 1160,
+      "forks": 22
+    }
+  ]
+}
