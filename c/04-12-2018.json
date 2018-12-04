@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66528,
+      "forks": 24143
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33447,
+      "forks": 2876
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11433,
+      "forks": 2440
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 8839,
+      "forks": 1716
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 3375,
+      "forks": 107
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13549,
+      "forks": 1348
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33051,
+      "forks": 12716
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10833,
+      "forks": 5886
+    },
+    {
+      "author": "dstogov",
+      "name": "php-ffi",
+      "href": "https://github.com/dstogov/php-ffi",
+      "description": "PHP Foreign Function Interface",
+      "language": "C",
+      "stars": 326,
+      "forks": 27
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11382,
+      "forks": 2688
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1481,
+      "forks": 456
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9420,
+      "forks": 581
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13002,
+      "forks": 5051
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20715,
+      "forks": 5108
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11331,
+      "forks": 2455
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 12100,
+      "forks": 840
+    },
+    {
+      "author": "YugaByte",
+      "name": "yugabyte-db",
+      "href": "https://github.com/YugaByte/yugabyte-db",
+      "description": "YugaByte DB is a transactional, high-performance database for building distributed cloud services. It supports Cassandra-compatible and Redis-compatible APIs, with PostgreSQL in Beta.",
+      "language": "C",
+      "stars": 795,
+      "forks": 79
+    },
+    {
+      "author": "recp",
+      "name": "cglm",
+      "href": "https://github.com/recp/cglm",
+      "description": "📽 Highly Optimized Graphics Math (glm) for C",
+      "language": "C",
+      "stars": 290,
+      "forks": 28
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14813,
+      "forks": 1911
+    },
+    {
+      "author": "hundredrabbits",
+      "name": "Orca-c",
+      "href": "https://github.com/hundredrabbits/Orca-c",
+      "description": "Live Programming Environment(C Port)",
+      "language": "C",
+      "stars": 26,
+      "forks": 1
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25190,
+      "forks": 14598
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 8890,
+      "forks": 3160
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8838,
+      "forks": 4039
+    },
+    {
+      "author": "Tencent",
+      "name": "MMKV",
+      "href": "https://github.com/Tencent/MMKV",
+      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, macOS and Android.",
+      "language": "C",
+      "stars": 5620,
+      "forks": 506
+    },
+    {
+      "author": "feiskyer",
+      "name": "linux-perf-examples",
+      "href": "https://github.com/feiskyer/linux-perf-examples",
+      "description": "《Linux 性能优化实战》案例",
+      "language": "C",
+      "stars": 43,
+      "forks": 8
+    }
+  ]
+}
