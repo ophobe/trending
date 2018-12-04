@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 4954,
+      "forks": 1358
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Messaging Broker",
+      "language": "Erlang",
+      "stars": 3833,
+      "forks": 757
+    },
+    {
+      "author": "synrc",
+      "name": "kvs",
+      "href": "https://github.com/synrc/kvs",
+      "description": "💾 KVS: Abstract Term Database",
+      "language": "Erlang",
+      "stars": 138,
+      "forks": 25
+    },
+    {
+      "author": "synrc",
+      "name": "mad",
+      "href": "https://github.com/synrc/mad",
+      "description": "⚡ MAD: Manage Dependencies",
+      "language": "Erlang",
+      "stars": 156,
+      "forks": 46
+    },
+    {
+      "author": "synrc",
+      "name": "bpe",
+      "href": "https://github.com/synrc/bpe",
+      "description": "🈺 BPE: Business Processes Engine",
+      "language": "Erlang",
+      "stars": 100,
+      "forks": 27
+    },
+    {
+      "author": "synrc",
+      "name": "mqtt",
+      "href": "https://github.com/synrc/mqtt",
+      "description": "⭕ N2O TT: Application Server",
+      "language": "Erlang",
+      "stars": 36,
+      "forks": 15
+    },
+    {
+      "author": "synrc",
+      "name": "n2o",
+      "href": "https://github.com/synrc/n2o",
+      "description": "⭕ N2O WS: Application Server",
+      "language": "Erlang",
+      "stars": 1153,
+      "forks": 157
+    },
+    {
+      "author": "folsom-project",
+      "name": "folsom",
+      "href": "https://github.com/folsom-project/folsom",
+      "description": null,
+      "language": "Erlang",
+      "stars": 25,
+      "forks": 15
+    },
+    {
+      "author": "erlcloud",
+      "name": "erlcloud",
+      "href": "https://github.com/erlcloud/erlcloud",
+      "description": "AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)",
+      "language": "Erlang",
+      "stars": 560,
+      "forks": 352
+    },
+    {
+      "author": "rustyio",
+      "name": "sync",
+      "href": "https://github.com/rustyio/sync",
+      "description": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+      "language": "Erlang",
+      "stars": 662,
+      "forks": 160
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-mqtt",
+      "href": "https://github.com/rabbitmq/rabbitmq-mqtt",
+      "description": "RabbitMQ MQTT plugin",
+      "language": "Erlang",
+      "stars": 132,
+      "forks": 60
+    },
+    {
+      "author": "mysql-otp",
+      "name": "mysql-otp",
+      "href": "https://github.com/mysql-otp/mysql-otp",
+      "description": "MySQL/OTP – MySQL and MariaDB driver for Erlang/OTP",
+      "language": "Erlang",
+      "stars": 256,
+      "forks": 88
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 7252,
+      "forks": 1920
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5291,
+      "forks": 950
+    },
+    {
+      "author": "apache",
+      "name": "couchdb",
+      "href": "https://github.com/apache/couchdb",
+      "description": "Apache CouchDB",
+      "language": "Erlang",
+      "stars": 3955,
+      "forks": 807
+    },
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, ubiquitous and massively scalable Jabber / XMPP Instant Messaging platform",
+      "language": "Erlang",
+      "stars": 3761,
+      "forks": 1187
+    },
+    {
+      "author": "happi",
+      "name": "theBeamBook",
+      "href": "https://github.com/happi/theBeamBook",
+      "description": "A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.",
+      "language": "Erlang",
+      "stars": 2118,
+      "forks": 183
+    },
+    {
+      "author": "ChicagoBoss",
+      "name": "ChicagoBoss",
+      "href": "https://github.com/ChicagoBoss/ChicagoBoss",
+      "description": "Erlang web MVC, now featuring Comet",
+      "language": "Erlang",
+      "stars": 1735,
+      "forks": 306
+    },
+    {
+      "author": "processone",
+      "name": "tsung",
+      "href": "https://github.com/processone/tsung",
+      "description": "Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.",
+      "language": "Erlang",
+      "stars": 1711,
+      "forks": 358
+    },
+    {
+      "author": "biokoda",
+      "name": "actordb",
+      "href": "https://github.com/biokoda/actordb",
+      "description": "ActorDB distributed SQL database",
+      "language": "Erlang",
+      "stars": 1704,
+      "forks": 62
+    },
+    {
+      "author": "rvirding",
+      "name": "lfe",
+      "href": "https://github.com/rvirding/lfe",
+      "description": "Lisp Flavoured Erlang (LFE)",
+      "language": "Erlang",
+      "stars": 1645,
+      "forks": 102
+    },
+    {
+      "author": "mochi",
+      "name": "mochiweb",
+      "href": "https://github.com/mochi/mochiweb",
+      "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+      "language": "Erlang",
+      "stars": 1644,
+      "forks": 434
+    },
+    {
+      "author": "discoproject",
+      "name": "disco",
+      "href": "https://github.com/discoproject/disco",
+      "description": "a Map/Reduce framework for distributed computing",
+      "language": "Erlang",
+      "stars": 1561,
+      "forks": 259
+    },
+    {
+      "author": "vernemq",
+      "name": "vernemq",
+      "href": "https://github.com/vernemq/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1532,
+      "forks": 162
+    },
+    {
+      "author": "webmachine",
+      "name": "webmachine",
+      "href": "https://github.com/webmachine/webmachine",
+      "description": "A REST-based system for building web applications.",
+      "language": "Erlang",
+      "stars": 1418,
+      "forks": 281
+    }
+  ]
+}
