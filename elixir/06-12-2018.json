@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "elixir-lang",
+      "name": "elixir",
+      "href": "https://github.com/elixir-lang/elixir",
+      "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+      "language": "Elixir",
+      "stars": 14322,
+      "forks": 2078
+    },
+    {
+      "author": "cabol",
+      "name": "nebulex",
+      "href": "https://github.com/cabol/nebulex",
+      "description": "A fast, flexible and powerful distributed caching framework for Elixir",
+      "language": "Elixir",
+      "stars": 296,
+      "forks": 10
+    },
+    {
+      "author": "omisego",
+      "name": "ewallet",
+      "href": "https://github.com/omisego/ewallet",
+      "description": "eWallet Backend for the OmiseGO SDKs.",
+      "language": "Elixir",
+      "stars": 247,
+      "forks": 41
+    },
+    {
+      "author": "ex-aws",
+      "name": "ex_aws",
+      "href": "https://github.com/ex-aws/ex_aws",
+      "description": "A flexible, easy to use set of clients AWS APIs for Elixir",
+      "language": "Elixir",
+      "stars": 725,
+      "forks": 287
+    },
+    {
+      "author": "ueberauth",
+      "name": "ueberauth_github",
+      "href": "https://github.com/ueberauth/ueberauth_github",
+      "description": "GitHub OAuth2 Strategy for Überauth",
+      "language": "Elixir",
+      "stars": 52,
+      "forks": 32
+    },
+    {
+      "author": "spreedly",
+      "name": "kaffe",
+      "href": "https://github.com/spreedly/kaffe",
+      "description": "An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.",
+      "language": "Elixir",
+      "stars": 40,
+      "forks": 18
+    },
+    {
+      "author": "EQuimper",
+      "name": "CodeChallenge",
+      "href": "https://github.com/EQuimper/CodeChallenge",
+      "description": "All my thinking about some code challenge and Free Code Camps",
+      "language": "Elixir",
+      "stars": 60,
+      "forks": 37
+    },
+    {
+      "author": "thoughtbot",
+      "name": "constable",
+      "href": "https://github.com/thoughtbot/constable",
+      "description": "Better company announcements",
+      "language": "Elixir",
+      "stars": 365,
+      "forks": 41
+    },
+    {
+      "author": "nccgroup",
+      "name": "sobelow",
+      "href": "https://github.com/nccgroup/sobelow",
+      "description": "Security-focused static analysis for the Phoenix Framework",
+      "language": "Elixir",
+      "stars": 617,
+      "forks": 41
+    },
+    {
+      "author": "elixir-lang",
+      "name": "ex_doc",
+      "href": "https://github.com/elixir-lang/ex_doc",
+      "description": "ExDoc produces HTML and EPUB documentation for Elixir projects",
+      "language": "Elixir",
+      "stars": 648,
+      "forks": 148
+    },
+    {
+      "author": "poanetwork",
+      "name": "blockscout",
+      "href": "https://github.com/poanetwork/blockscout",
+      "description": "A tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum networks.",
+      "language": "Elixir",
+      "stars": 343,
+      "forks": 106
+    },
+    {
+      "author": "akira",
+      "name": "exq",
+      "href": "https://github.com/akira/exq",
+      "description": "Job processing library for Elixir - compatible with Resque / Sidekiq",
+      "language": "Elixir",
+      "stars": 910,
+      "forks": 120
+    },
+    {
+      "author": "spandex-project",
+      "name": "spandex",
+      "href": "https://github.com/spandex-project/spandex",
+      "description": "A platform agnostic tracing library",
+      "language": "Elixir",
+      "stars": 85,
+      "forks": 16
+    },
+    {
+      "author": "beatrichartz",
+      "name": "parallel_stream",
+      "href": "https://github.com/beatrichartz/parallel_stream",
+      "description": "A parallelized stream implementation for Elixir",
+      "language": "Elixir",
+      "stars": 64,
+      "forks": 11
+    },
+    {
+      "author": "elixirkoans",
+      "name": "elixir-koans",
+      "href": "https://github.com/elixirkoans/elixir-koans",
+      "description": "Elixir learning exercises",
+      "language": "Elixir",
+      "stars": 1106,
+      "forks": 339
+    },
+    {
+      "author": "nerves-project",
+      "name": "nerves_examples",
+      "href": "https://github.com/nerves-project/nerves_examples",
+      "description": "A couple small examples to demonstrate using Nerves",
+      "language": "Elixir",
+      "stars": 188,
+      "forks": 73
+    },
+    {
+      "author": "phoenixframework",
+      "name": "phoenix",
+      "href": "https://github.com/phoenixframework/phoenix",
+      "description": "Productive. Reliable. Fast.",
+      "language": "Elixir",
+      "stars": 12895,
+      "forks": 1612
+    },
+    {
+      "author": "h4cc",
+      "name": "awesome-elixir",
+      "href": "https://github.com/h4cc/awesome-elixir",
+      "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+      "language": "Elixir",
+      "stars": 8663,
+      "forks": 844
+    },
+    {
+      "author": "elixir-ecto",
+      "name": "ecto",
+      "href": "https://github.com/elixir-ecto/ecto",
+      "description": "A database wrapper and language integrated query for Elixir",
+      "language": "Elixir",
+      "stars": 3918,
+      "forks": 956
+    },
+    {
+      "author": "christopheradams",
+      "name": "elixir_style_guide",
+      "href": "https://github.com/christopheradams/elixir_style_guide",
+      "description": "A community driven style guide for Elixir",
+      "language": "Elixir",
+      "stars": 2881,
+      "forks": 225
+    },
+    {
+      "author": "rrrene",
+      "name": "credo",
+      "href": "https://github.com/rrrene/credo",
+      "description": "A static code analysis tool for the Elixir language with a focus on code consistency and teaching.",
+      "language": "Elixir",
+      "stars": 2692,
+      "forks": 206
+    },
+    {
+      "author": "seven1m",
+      "name": "30-days-of-elixir",
+      "href": "https://github.com/seven1m/30-days-of-elixir",
+      "description": "A walk through the Elixir language in 30 exercises.",
+      "language": "Elixir",
+      "stars": 2438,
+      "forks": 353
+    },
+    {
+      "author": "absinthe-graphql",
+      "name": "absinthe",
+      "href": "https://github.com/absinthe-graphql/absinthe",
+      "description": "The GraphQL toolkit for Elixir",
+      "language": "Elixir",
+      "stars": 2397,
+      "forks": 223
+    },
+    {
+      "author": "ueberauth",
+      "name": "guardian",
+      "href": "https://github.com/ueberauth/guardian",
+      "description": "Elixir Authentication",
+      "language": "Elixir",
+      "stars": 2357,
+      "forks": 279
+    },
+    {
+      "author": "sergiotapia",
+      "name": "magnetissimo",
+      "href": "https://github.com/sergiotapia/magnetissimo",
+      "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+      "language": "Elixir",
+      "stars": 2212,
+      "forks": 145
+    }
+  ]
+}
