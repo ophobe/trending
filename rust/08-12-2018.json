@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "High-Performance WebAssembly JIT interpreter",
+      "language": "Rust",
+      "stars": 819,
+      "forks": 21
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 5966,
+      "forks": 279
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "An ls with a lot of pretty colors and awesome icons",
+      "language": "Rust",
+      "stars": 156,
+      "forks": 7
+    },
+    {
+      "author": "cantino",
+      "name": "mcfly",
+      "href": "https://github.com/cantino/mcfly",
+      "description": "Fly through your shell history. Great Scott!",
+      "language": "Rust",
+      "stars": 1020,
+      "forks": 18
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 5835,
+      "forks": 381
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "A safe, concurrent, practical language.",
+      "language": "Rust",
+      "stars": 32360,
+      "forks": 5365
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 12942,
+      "forks": 2011
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 5297,
+      "forks": 165
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 10764,
+      "forks": 195
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 13470,
+      "forks": 575
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8831,
+      "forks": 586
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 11840,
+      "forks": 483
+    },
+    {
+      "author": "rust-clique",
+      "name": "confy",
+      "href": "https://github.com/rust-clique/confy",
+      "description": "🛋 Zero-boilerplate configuration management in Rust",
+      "language": "Rust",
+      "stars": 85,
+      "forks": 2
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2154,
+      "forks": 262
+    },
+    {
+      "author": "Amanieu",
+      "name": "hashbrown",
+      "href": "https://github.com/Amanieu/hashbrown",
+      "description": "Rust port of Google's SwissTable hash map",
+      "language": "Rust",
+      "stars": 540,
+      "forks": 16
+    },
+    {
+      "author": "atlasr-org",
+      "name": "atlasr",
+      "href": "https://github.com/atlasr-org/atlasr",
+      "description": "Atlasr is a truly open-source and free map browser.",
+      "language": "Rust",
+      "stars": 164,
+      "forks": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2777,
+      "forks": 378
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15337,
+      "forks": 559
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 414,
+      "forks": 38
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3672,
+      "forks": 270
+    },
+    {
+      "author": "redox-os",
+      "name": "orbtk",
+      "href": "https://github.com/redox-os/orbtk",
+      "description": "Mirror of https://gitlab.redox-os.org/redox-os/orbtk",
+      "language": "Rust",
+      "stars": 182,
+      "forks": 35
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 2564,
+      "forks": 303
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustfmt",
+      "href": "https://github.com/rust-lang/rustfmt",
+      "description": "Format Rust code",
+      "language": "Rust",
+      "stars": 1935,
+      "forks": 378
+    },
+    {
+      "author": "racer-rust",
+      "name": "racer",
+      "href": "https://github.com/racer-rust/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 2658,
+      "forks": 253
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 1970,
+      "forks": 129
+    }
+  ]
+}
