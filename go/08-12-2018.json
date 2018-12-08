@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Microsoft",
+      "name": "Ethr",
+      "href": "https://github.com/Microsoft/Ethr",
+      "description": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+      "language": "Go",
+      "stars": 1842,
+      "forks": 82
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 11702,
+      "forks": 319
+    },
+    {
+      "author": "baidu",
+      "name": "openedge",
+      "href": "https://github.com/baidu/openedge",
+      "description": "Extend cloud computing, data and service seamlessly to edge devices.",
+      "language": "Go",
+      "stars": 187,
+      "forks": 33
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek and an optional Filer with POSIX interface, supporting FUSE mount, supporting Hadoop Compatible File System.",
+      "language": "Go",
+      "stars": 6936,
+      "forks": 941
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 45019,
+      "forks": 15605
+    },
+    {
+      "author": "docker",
+      "name": "compose-on-kubernetes",
+      "href": "https://github.com/docker/compose-on-kubernetes",
+      "description": "Deploy applications described in Compose onto Kubernetes clusters",
+      "language": "Go",
+      "stars": 463,
+      "forks": 19
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 50361,
+      "forks": 6951
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 17758,
+      "forks": 3183
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Code search and intelligence, self-hosted and scalable",
+      "language": "Go",
+      "stars": 857,
+      "forks": 44
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 30846,
+      "forks": 3567
+    },
+    {
+      "author": "starlight-go",
+      "name": "starlight",
+      "href": "https://github.com/starlight-go/starlight",
+      "description": "a go wrapper for google's starlark embedded python language",
+      "language": "Go",
+      "stars": 84,
+      "forks": 8
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 37848,
+      "forks": 4909
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 7563,
+      "forks": 1334
+    },
+    {
+      "author": "simplesurance",
+      "name": "baur",
+      "href": "https://github.com/simplesurance/baur",
+      "description": "baur manages builds and artifacts in mono repositories",
+      "language": "Go",
+      "stars": 137,
+      "forks": 1
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 9141,
+      "forks": 1264
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 1276,
+      "forks": 128
+    },
+    {
+      "author": "crossplaneio",
+      "name": "crossplane",
+      "href": "https://github.com/crossplaneio/crossplane",
+      "description": "An Open Source Multicloud Control Plane",
+      "language": "Go",
+      "stars": 639,
+      "forks": 28
+    },
+    {
+      "author": "peterbourgon",
+      "name": "ff",
+      "href": "https://github.com/peterbourgon/ff",
+      "description": "Flags-first package for configuration",
+      "language": "Go",
+      "stars": 266,
+      "forks": 5
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 22666,
+      "forks": 2680
+    },
+    {
+      "author": "google",
+      "name": "starlark-go",
+      "href": "https://github.com/google/starlark-go",
+      "description": "Starlark in Go: the Starlark configuration language, implemented in Go",
+      "language": "Go",
+      "stars": 193,
+      "forks": 11
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 21640,
+      "forks": 4314
+    },
+    {
+      "author": "src-d",
+      "name": "gitbase",
+      "href": "https://github.com/src-d/gitbase",
+      "description": "SQL interface to Git repositories, written in Go. https://docs.sourced.tech/gitbase",
+      "language": "Go",
+      "stars": 1512,
+      "forks": 71
+    },
+    {
+      "author": "objectbox",
+      "name": "objectbox-go",
+      "href": "https://github.com/objectbox/objectbox-go",
+      "description": "ObjectBox Go - persisting your Go structs/objects superfast and simple",
+      "language": "Go",
+      "stars": 460,
+      "forks": 10
+    },
+    {
+      "author": "uber",
+      "name": "makisu",
+      "href": "https://github.com/uber/makisu",
+      "description": "Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.",
+      "language": "Go",
+      "stars": 848,
+      "forks": 16
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 39001,
+      "forks": 8758
+    }
+  ]
+}
