@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "beyondcode",
+      "name": "laravel-websockets",
+      "href": "https://github.com/beyondcode/laravel-websockets",
+      "description": "Websockets for Laravel. Done right.",
+      "language": "PHP",
+      "stars": 1238,
+      "forks": 47
+    },
+    {
+      "author": "nextcloud",
+      "name": "social",
+      "href": "https://github.com/nextcloud/social",
+      "description": "🎉 Nextcloud becomes part of the federated social networks!",
+      "language": "PHP",
+      "stars": 48,
+      "forks": 0
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 15634,
+      "forks": 5619
+    },
+    {
+      "author": "symfony",
+      "name": "contracts",
+      "href": "https://github.com/symfony/contracts",
+      "description": "A set of abstractions extracted out of the Symfony components",
+      "language": "PHP",
+      "stars": 283,
+      "forks": 2
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 47713,
+      "forks": 14793
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 19280,
+      "forks": 6588
+    },
+    {
+      "author": "EasyCorp",
+      "name": "EasyAdminBundle",
+      "href": "https://github.com/EasyCorp/EasyAdminBundle",
+      "description": "The new (and simple) admin generator for Symfony applications.",
+      "language": "PHP",
+      "stars": 2307,
+      "forks": 493
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 15145,
+      "forks": 6070
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 12830,
+      "forks": 1464
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 17446,
+      "forks": 5333
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 8672,
+      "forks": 562
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 4925,
+      "forks": 30
+    },
+    {
+      "author": "ralouphie",
+      "name": "getallheaders",
+      "href": "https://github.com/ralouphie/getallheaders",
+      "description": "PHP getallheaders polyfill",
+      "language": "PHP",
+      "stars": 216,
+      "forks": 22
+    },
+    {
+      "author": "louislivi",
+      "name": "SMProxy",
+      "href": "https://github.com/louislivi/SMProxy",
+      "description": "Swoole MySQL Proxy 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池。 A MySQL database connection pool based on MySQL protocol and Swoole.",
+      "language": "PHP",
+      "stars": 422,
+      "forks": 54
+    },
+    {
+      "author": "symfony",
+      "name": "var-exporter",
+      "href": "https://github.com/symfony/var-exporter",
+      "description": "The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).",
+      "language": "PHP",
+      "stars": 112,
+      "forks": 1
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "href": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 5951,
+      "forks": 1048
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 18574,
+      "forks": 2275
+    },
+    {
+      "author": "WordPress",
+      "name": "WordPress",
+      "href": "https://github.com/WordPress/WordPress",
+      "description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.",
+      "language": "PHP",
+      "stars": 11747,
+      "forks": 7153
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 5198,
+      "forks": 193
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 4784,
+      "forks": 70
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 4831,
+      "forks": 48
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 4960,
+      "forks": 33
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 4988,
+      "forks": 37
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 4766,
+      "forks": 62
+    },
+    {
+      "author": "donwa",
+      "name": "oneindex",
+      "href": "https://github.com/donwa/oneindex",
+      "description": "Onedrive Directory Index",
+      "language": "PHP",
+      "stars": 1933,
+      "forks": 819
+    }
+  ]
+}
