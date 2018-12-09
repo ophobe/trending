@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66701,
+      "forks": 24186
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33602,
+      "forks": 2897
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2362,
+      "forks": 79
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20828,
+      "forks": 5126
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13655,
+      "forks": 1368
+    },
+    {
+      "author": "rianhunter",
+      "name": "wasmjit",
+      "href": "https://github.com/rianhunter/wasmjit",
+      "description": "Kernel Mode WebAssembly Runtime for Linux",
+      "language": "C",
+      "stars": 946,
+      "forks": 32
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14859,
+      "forks": 1928
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33142,
+      "forks": 12744
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 9463,
+      "forks": 5068
+    },
+    {
+      "author": "flatpak",
+      "name": "flatpak",
+      "href": "https://github.com/flatpak/flatpak",
+      "description": "Linux application sandboxing and distribution framework",
+      "language": "C",
+      "stars": 1703,
+      "forks": 185
+    },
+    {
+      "author": "ColinIanKing",
+      "name": "christmas-obfuscated-C",
+      "href": "https://github.com/ColinIanKing/christmas-obfuscated-C",
+      "description": "Obuscated C Christmas programs",
+      "language": "C",
+      "stars": 25,
+      "forks": 1
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25260,
+      "forks": 14639
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10891,
+      "forks": 5945
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8411,
+      "forks": 5834
+    },
+    {
+      "author": "libvips",
+      "name": "libvips",
+      "href": "https://github.com/libvips/libvips",
+      "description": "A fast image processing library with low memory needs.",
+      "language": "C",
+      "stars": 2601,
+      "forks": 224
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11406,
+      "forks": 2459
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 8879,
+      "forks": 1722
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11453,
+      "forks": 2692
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 11262,
+      "forks": 822
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 8936,
+      "forks": 761
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 6447,
+      "forks": 777
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13060,
+      "forks": 5074
+    },
+    {
+      "author": "linuxmint",
+      "name": "pix",
+      "href": "https://github.com/linuxmint/pix",
+      "description": "Image management application",
+      "language": "C",
+      "stars": 62,
+      "forks": 10
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 6796,
+      "forks": 1562
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1552,
+      "forks": 487
+    }
+  ]
+}
