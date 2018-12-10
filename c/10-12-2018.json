@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66745,
+      "forks": 24204
+    },
+    {
+      "author": "philippe44",
+      "name": "AirConnect",
+      "href": "https://github.com/philippe44/AirConnect",
+      "description": "Use AirPlay to stream to UPnP/Sonos & Chromecast devices",
+      "language": "C",
+      "stars": 618,
+      "forks": 40
+    },
+    {
+      "author": "mikebrady",
+      "name": "shairport-sync",
+      "href": "https://github.com/mikebrady/shairport-sync",
+      "description": "AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation",
+      "language": "C",
+      "stars": 2543,
+      "forks": 778
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33627,
+      "forks": 2900
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2384,
+      "forks": 82
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33164,
+      "forks": 12742
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20847,
+      "forks": 5129
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13672,
+      "forks": 1372
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25275,
+      "forks": 14646
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "href": "https://github.com/skywind3000/kcp",
+      "description": "KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": 5579,
+      "forks": 1157
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8891,
+      "forks": 4055
+    },
+    {
+      "author": "rianhunter",
+      "name": "wasmjit",
+      "href": "https://github.com/rianhunter/wasmjit",
+      "description": "Kernel Mode WebAssembly Runtime for Linux",
+      "language": "C",
+      "stars": 958,
+      "forks": 32
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used)",
+      "language": "C",
+      "stars": 2680,
+      "forks": 5960
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14870,
+      "forks": 1931
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11506,
+      "forks": 2449
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 11038,
+      "forks": 1811
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 7395,
+      "forks": 2860
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13068,
+      "forks": 5078
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 6462,
+      "forks": 778
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11464,
+      "forks": 2693
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11420,
+      "forks": 2462
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8420,
+      "forks": 5840
+    },
+    {
+      "author": "Tencent",
+      "name": "MMKV",
+      "href": "https://github.com/Tencent/MMKV",
+      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, macOS and Android.",
+      "language": "C",
+      "stars": 5675,
+      "forks": 518
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 9014,
+      "forks": 1513
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 18395,
+      "forks": 1483
+    }
+  ]
+}
