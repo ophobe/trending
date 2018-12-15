@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 2843,
+      "forks": 75
+    },
+    {
+      "author": "thecodingmachine",
+      "name": "gotenberg",
+      "href": "https://github.com/thecodingmachine/gotenberg",
+      "description": "A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF",
+      "language": "Go",
+      "stars": 811,
+      "forks": 30
+    },
+    {
+      "author": "mholt",
+      "name": "certmagic",
+      "href": "https://github.com/mholt/certmagic",
+      "description": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal",
+      "language": "Go",
+      "stars": 1439,
+      "forks": 31
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 9944,
+      "forks": 623
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 50701,
+      "forks": 6996
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 9404,
+      "forks": 1294
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 12349,
+      "forks": 352
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 45411,
+      "forks": 15867
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 7145,
+      "forks": 920
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 17986,
+      "forks": 3218
+    },
+    {
+      "author": "upper",
+      "name": "db",
+      "href": "https://github.com/upper/db",
+      "description": "Productive data access layer for Go.",
+      "language": "Go",
+      "stars": 1512,
+      "forks": 120
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38065,
+      "forks": 4947
+    },
+    {
+      "author": "rendora",
+      "name": "rendora",
+      "href": "https://github.com/rendora/rendora",
+      "description": "dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites",
+      "language": "Go",
+      "stars": 591,
+      "forks": 8
+    },
+    {
+      "author": "yeasy",
+      "name": "docker_practice",
+      "href": "https://github.com/yeasy/docker_practice",
+      "description": "Learn and understand Docker technologies, with real DevOps practice!",
+      "language": "Go",
+      "stars": 11205,
+      "forks": 3432
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12152,
+      "forks": 2690
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 21824,
+      "forks": 4348
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 544,
+      "forks": 43
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 18447,
+      "forks": 713
+    },
+    {
+      "author": "Microsoft",
+      "name": "ethr",
+      "href": "https://github.com/Microsoft/ethr",
+      "description": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+      "language": "Go",
+      "stars": 2832,
+      "forks": 129
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 22855,
+      "forks": 2712
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 9056,
+      "forks": 3011
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19210,
+      "forks": 1967
+    },
+    {
+      "author": "weaveworks",
+      "name": "flux",
+      "href": "https://github.com/weaveworks/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 1250,
+      "forks": 209
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 26817,
+      "forks": 7627
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 11221,
+      "forks": 1170
+    }
+  ]
+}
