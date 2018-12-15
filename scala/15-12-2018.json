@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma enables seamless type-safe database access & declarative data modeling",
+      "language": "Scala",
+      "stars": 11652,
+      "forks": 683
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 19880,
+      "forks": 17713
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 3081,
+      "forks": 437
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Work-in-progress language server for Scala",
+      "language": "Scala",
+      "stars": 422,
+      "forks": 48
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9336,
+      "forks": 2924
+    },
+    {
+      "author": "non",
+      "name": "spire",
+      "href": "https://github.com/non/spire",
+      "description": "Powerful new number types and numeric abstractions for Scala.",
+      "language": "Scala",
+      "stars": 1419,
+      "forks": 197
+    },
+    {
+      "author": "scala-js",
+      "name": "scala-js",
+      "href": "https://github.com/scala-js/scala-js",
+      "description": "Scala.js, the Scala to JavaScript compiler",
+      "language": "Scala",
+      "stars": 3523,
+      "forks": 310
+    },
+    {
+      "author": "scalikejdbc",
+      "name": "scalikejdbc-play-support",
+      "href": "https://github.com/scalikejdbc/scalikejdbc-play-support",
+      "description": "Play! Framework support for ScalikeJDBC users",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 19
+    },
+    {
+      "author": "scalikejdbc",
+      "name": "scalikejdbc-async",
+      "href": "https://github.com/scalikejdbc/scalikejdbc-async",
+      "description": "ScalikeJDBC Extension: Non-blocking APIs in the JDBC way",
+      "language": "Scala",
+      "stars": 261,
+      "forks": 33
+    },
+    {
+      "author": "adamw",
+      "name": "macwire",
+      "href": "https://github.com/adamw/macwire",
+      "description": "Lightweight and Nonintrusive Scala Dependency Injection Library",
+      "language": "Scala",
+      "stars": 939,
+      "forks": 53
+    },
+    {
+      "author": "DanielaSfregola",
+      "name": "random-data-generator",
+      "href": "https://github.com/DanielaSfregola/random-data-generator",
+      "description": "Random generator of test data in Scala based on Scalacheck and Shapeless",
+      "language": "Scala",
+      "stars": 128,
+      "forks": 17
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-mtl",
+      "href": "https://github.com/typelevel/cats-mtl",
+      "description": "cats transformer type classes.",
+      "language": "Scala",
+      "stars": 122,
+      "forks": 26
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-collections",
+      "href": "https://github.com/typelevel/cats-collections",
+      "description": "Data structures for pure functional programming in Scala",
+      "language": "Scala",
+      "stars": 337,
+      "forks": 57
+    },
+    {
+      "author": "yaooqinn",
+      "name": "kyuubi",
+      "href": "https://github.com/yaooqinn/kyuubi",
+      "description": "Kyuubi is an enhanced editon of Apache Spark's primordial Thrift JDBC/ODBC Server.",
+      "language": "Scala",
+      "stars": 75,
+      "forks": 24
+    },
+    {
+      "author": "tpolecat",
+      "name": "skunk",
+      "href": "https://github.com/tpolecat/skunk",
+      "description": "A data access library for Scala + Postgres.",
+      "language": "Scala",
+      "stars": 194,
+      "forks": 5
+    },
+    {
+      "author": "sbt",
+      "name": "io",
+      "href": "https://github.com/sbt/io",
+      "description": "IO module for sbt",
+      "language": "Scala",
+      "stars": 27,
+      "forks": 31
+    },
+    {
+      "author": "japgolly",
+      "name": "scalacss",
+      "href": "https://github.com/japgolly/scalacss",
+      "description": "Super type-safe CSS for Scala and Scala.JS.",
+      "language": "Scala",
+      "stars": 267,
+      "forks": 43
+    },
+    {
+      "author": "Hydrospheredata",
+      "name": "hydro-serving",
+      "href": "https://github.com/Hydrospheredata/hydro-serving",
+      "description": "Machine Learning Serving cluster",
+      "language": "Scala",
+      "stars": 126,
+      "forks": 21
+    },
+    {
+      "author": "sifive",
+      "name": "fpga-shells",
+      "href": "https://github.com/sifive/fpga-shells",
+      "description": null,
+      "language": "Scala",
+      "stars": 22,
+      "forks": 15
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 219,
+      "forks": 148
+    },
+    {
+      "author": "scalacenter",
+      "name": "bloop",
+      "href": "https://github.com/scalacenter/bloop",
+      "description": "Scala build server and command-line tool for fast developer workflows",
+      "language": "Scala",
+      "stars": 331,
+      "forks": 56
+    },
+    {
+      "author": "circe",
+      "name": "circe-yaml",
+      "href": "https://github.com/circe/circe-yaml",
+      "description": "YAML parser for circe using SnakeYAML",
+      "language": "Scala",
+      "stars": 56,
+      "forks": 19
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11592,
+      "forks": 1904
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11038,
+      "forks": 2611
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10861,
+      "forks": 3681
+    }
+  ]
+}
