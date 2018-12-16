@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 47880,
+      "forks": 14851
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 15719,
+      "forks": 5662
+    },
+    {
+      "author": "beyondcode",
+      "name": "laravel-websockets",
+      "href": "https://github.com/beyondcode/laravel-websockets",
+      "description": "Websockets for Laravel. Done right.",
+      "language": "PHP",
+      "stars": 1485,
+      "forks": 58
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 15256,
+      "forks": 6092
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 18670,
+      "forks": 2281
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 12930,
+      "forks": 1469
+    },
+    {
+      "author": "beyondcode",
+      "name": "dusk-dashboard",
+      "href": "https://github.com/beyondcode/dusk-dashboard",
+      "description": "A beautiful dashboard for your Laravel Dusk tests",
+      "language": "PHP",
+      "stars": 187,
+      "forks": 6
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 17555,
+      "forks": 5346
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 12403,
+      "forks": 1684
+    },
+    {
+      "author": "bobthecow",
+      "name": "psysh",
+      "href": "https://github.com/bobthecow/psysh",
+      "description": "A REPL for PHP",
+      "language": "PHP",
+      "stars": 6528,
+      "forks": 217
+    },
+    {
+      "author": "symfony",
+      "name": "var-dumper",
+      "href": "https://github.com/symfony/var-dumper",
+      "description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().",
+      "language": "PHP",
+      "stars": 4712,
+      "forks": 51
+    },
+    {
+      "author": "ralouphie",
+      "name": "getallheaders",
+      "href": "https://github.com/ralouphie/getallheaders",
+      "description": "PHP getallheaders polyfill",
+      "language": "PHP",
+      "stars": 312,
+      "forks": 21
+    },
+    {
+      "author": "JakubOnderka",
+      "name": "PHP-Console-Color",
+      "href": "https://github.com/JakubOnderka/PHP-Console-Color",
+      "description": "Simple library for creating colored console ouput",
+      "language": "PHP",
+      "stars": 3821,
+      "forks": 10
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 11128,
+      "forks": 1036
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 8173,
+      "forks": 477
+    },
+    {
+      "author": "filp",
+      "name": "whoops",
+      "href": "https://github.com/filp/whoops",
+      "description": "PHP errors for cool kids",
+      "language": "PHP",
+      "stars": 8972,
+      "forks": 501
+    },
+    {
+      "author": "php-fig",
+      "name": "log",
+      "href": "https://github.com/php-fig/log",
+      "description": null,
+      "language": "PHP",
+      "stars": 5787,
+      "forks": 116
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 4800,
+      "forks": 62
+    },
+    {
+      "author": "symfony",
+      "name": "translation",
+      "href": "https://github.com/symfony/translation",
+      "description": "The Translation component provides tools to internationalize your application.",
+      "language": "PHP",
+      "stars": 4425,
+      "forks": 41
+    },
+    {
+      "author": "symfony",
+      "name": "css-selector",
+      "href": "https://github.com/symfony/css-selector",
+      "description": "The CssSelector component converts CSS selectors to XPath expressions.",
+      "language": "PHP",
+      "stars": 4359,
+      "forks": 22
+    },
+    {
+      "author": "domnikl",
+      "name": "DesignPatternsPHP",
+      "href": "https://github.com/domnikl/DesignPatternsPHP",
+      "description": "sample code for several design patterns in PHP",
+      "language": "PHP",
+      "stars": 16381,
+      "forks": 3541
+    },
+    {
+      "author": "ssrpanel",
+      "name": "SSRPanel",
+      "href": "https://github.com/ssrpanel/SSRPanel",
+      "description": "An Account Managent Panel Which Is Used For ShadowsocksR & V2Ray",
+      "language": "PHP",
+      "stars": 1658,
+      "forks": 866
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 4844,
+      "forks": 853
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 6865,
+      "forks": 720
+    },
+    {
+      "author": "squizlabs",
+      "name": "PHP_CodeSniffer",
+      "href": "https://github.com/squizlabs/PHP_CodeSniffer",
+      "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+      "language": "PHP",
+      "stars": 5757,
+      "forks": 994
+    }
+  ]
+}
