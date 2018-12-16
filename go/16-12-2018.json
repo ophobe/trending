@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 2980,
+      "forks": 82
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 9993,
+      "forks": 627
+    },
+    {
+      "author": "thecodingmachine",
+      "name": "gotenberg",
+      "href": "https://github.com/thecodingmachine/gotenberg",
+      "description": "A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF",
+      "language": "Go",
+      "stars": 860,
+      "forks": 33
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 45451,
+      "forks": 15877
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 12390,
+      "forks": 355
+    },
+    {
+      "author": "rendora",
+      "name": "rendora",
+      "href": "https://github.com/rendora/rendora",
+      "description": "dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites",
+      "language": "Go",
+      "stars": 630,
+      "forks": 8
+    },
+    {
+      "author": "mholt",
+      "name": "certmagic",
+      "href": "https://github.com/mholt/certmagic",
+      "description": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal",
+      "language": "Go",
+      "stars": 1472,
+      "forks": 33
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 9432,
+      "forks": 1298
+    },
+    {
+      "author": "Microsoft",
+      "name": "ethr",
+      "href": "https://github.com/Microsoft/ethr",
+      "description": "Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.",
+      "language": "Go",
+      "stars": 2863,
+      "forks": 133
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 50724,
+      "forks": 6999
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 23100,
+      "forks": 1959
+    },
+    {
+      "author": "yeasy",
+      "name": "docker_practice",
+      "href": "https://github.com/yeasy/docker_practice",
+      "description": "Learn and understand Docker technologies, with real DevOps practice!",
+      "language": "Go",
+      "stars": 11229,
+      "forks": 3433
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12173,
+      "forks": 2691
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38087,
+      "forks": 4951
+    },
+    {
+      "author": "upper",
+      "name": "db",
+      "href": "https://github.com/upper/db",
+      "description": "Productive data access layer for Go.",
+      "language": "Go",
+      "stars": 1530,
+      "forks": 121
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 18005,
+      "forks": 3220
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 9073,
+      "forks": 3016
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 11956,
+      "forks": 1781
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 2899,
+      "forks": 108
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31004,
+      "forks": 3585
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 11935,
+      "forks": 930
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 7164,
+      "forks": 921
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 22091,
+      "forks": 7728
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19227,
+      "forks": 1969
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 20828,
+      "forks": 2846
+    }
+  ]
+}
