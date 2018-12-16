@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 66923,
+      "forks": 24269
+    },
+    {
+      "author": "Gbps",
+      "name": "gbhv",
+      "href": "https://github.com/Gbps/gbhv",
+      "description": "Simple x86-64 VT-x Hypervisor with EPT Hooking",
+      "language": "C",
+      "stars": 51,
+      "forks": 6
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33278,
+      "forks": 12771
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1653,
+      "forks": 534
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 33767,
+      "forks": 2916
+    },
+    {
+      "author": "DoubleLabyrinth",
+      "name": "navicat-keygen",
+      "href": "https://github.com/DoubleLabyrinth/navicat-keygen",
+      "description": "A keygen for Navicat",
+      "language": "C",
+      "stars": 3009,
+      "forks": 827
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2474,
+      "forks": 89
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25357,
+      "forks": 14693
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 10982,
+      "forks": 6031
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8459,
+      "forks": 5888
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9010,
+      "forks": 3196
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 20937,
+      "forks": 5142
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13126,
+      "forks": 5104
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 14931,
+      "forks": 1942
+    },
+    {
+      "author": "tanersener",
+      "name": "mobile-ffmpeg",
+      "href": "https://github.com/tanersener/mobile-ffmpeg",
+      "description": "FFmpeg for Android and IOS",
+      "language": "C",
+      "stars": 68,
+      "forks": 11
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11584,
+      "forks": 2455
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 18467,
+      "forks": 1487
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11463,
+      "forks": 2473
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 8923,
+      "forks": 4079
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 4853,
+      "forks": 347
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11523,
+      "forks": 2705
+    },
+    {
+      "author": "i3",
+      "name": "i3",
+      "href": "https://github.com/i3/i3",
+      "description": "A tiling window manager",
+      "language": "C",
+      "stars": 3831,
+      "forks": 413
+    },
+    {
+      "author": "vurtun",
+      "name": "nuklear",
+      "href": "https://github.com/vurtun/nuklear",
+      "description": "A single-header ANSI C gui library",
+      "language": "C",
+      "stars": 11313,
+      "forks": 824
+    },
+    {
+      "author": "LukeSmithxyz",
+      "name": "st",
+      "href": "https://github.com/LukeSmithxyz/st",
+      "description": "Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.",
+      "language": "C",
+      "stars": 173,
+      "forks": 147
+    },
+    {
+      "author": "git-for-windows",
+      "name": "git",
+      "href": "https://github.com/git-for-windows/git",
+      "description": "A fork of Git containing Windows-specific patches.",
+      "language": "C",
+      "stars": 4088,
+      "forks": 14693
+    }
+  ]
+}
