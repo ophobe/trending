@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 19922,
+      "forks": 17740
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma enables seamless type-safe database access & declarative data modeling",
+      "language": "Scala",
+      "stars": 11692,
+      "forks": 683
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9355,
+      "forks": 2926
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6424,
+      "forks": 1612
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 4822,
+      "forks": 753
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11061,
+      "forks": 2614
+    },
+    {
+      "author": "lucidworks",
+      "name": "spark-solr",
+      "href": "https://github.com/lucidworks/spark-solr",
+      "description": "Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.",
+      "language": "Scala",
+      "stars": 331,
+      "forks": 196
+    },
+    {
+      "author": "mnogu",
+      "name": "gatling-kafka",
+      "href": "https://github.com/mnogu/gatling-kafka",
+      "description": "A Gatling stress test plugin for Apache Kafka protocol",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 43
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 806,
+      "forks": 394
+    },
+    {
+      "author": "lagom",
+      "name": "online-auction-scala",
+      "href": "https://github.com/lagom/online-auction-scala",
+      "description": null,
+      "language": "Scala",
+      "stars": 173,
+      "forks": 121
+    },
+    {
+      "author": "alexarchambault",
+      "name": "scalacheck-shapeless",
+      "href": "https://github.com/alexarchambault/scalacheck-shapeless",
+      "description": "Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless",
+      "language": "Scala",
+      "stars": 165,
+      "forks": 23
+    },
+    {
+      "author": "alexarchambault",
+      "name": "case-app",
+      "href": "https://github.com/alexarchambault/case-app",
+      "description": "Type-level & seamless command-line argument parsing for Scala",
+      "language": "Scala",
+      "stars": 169,
+      "forks": 20
+    },
+    {
+      "author": "alexarchambault",
+      "name": "argonaut-shapeless",
+      "href": "https://github.com/alexarchambault/argonaut-shapeless",
+      "description": "Automatic argonaut codec derivation with shapeless",
+      "language": "Scala",
+      "stars": 88,
+      "forks": 24
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 1195,
+      "forks": 266
+    },
+    {
+      "author": "arguslab",
+      "name": "Argus-SAF",
+      "href": "https://github.com/arguslab/Argus-SAF",
+      "description": "Argus static analysis framework",
+      "language": "Scala",
+      "stars": 53,
+      "forks": 16
+    },
+    {
+      "author": "quantifind",
+      "name": "Sumac",
+      "href": "https://github.com/quantifind/Sumac",
+      "description": "Argument parsing in Scala",
+      "language": "Scala",
+      "stars": 82,
+      "forks": 12
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The Scala HTTP client you always wanted!",
+      "language": "Scala",
+      "stars": 621,
+      "forks": 90
+    },
+    {
+      "author": "DanielaSfregola",
+      "name": "random-data-generator",
+      "href": "https://github.com/DanielaSfregola/random-data-generator",
+      "description": "Random generator of test data in Scala based on Scalacheck and Shapeless",
+      "language": "Scala",
+      "stars": 129,
+      "forks": 18
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Library to read, analyze, transform and generate Scala programs",
+      "language": "Scala",
+      "stars": 700,
+      "forks": 151
+    },
+    {
+      "author": "input-output-hk",
+      "name": "mantis",
+      "href": "https://github.com/input-output-hk/mantis",
+      "description": "A Scala based client for Ethereum Classic.",
+      "language": "Scala",
+      "stars": 145,
+      "forks": 50
+    },
+    {
+      "author": "47deg",
+      "name": "github4s",
+      "href": "https://github.com/47deg/github4s",
+      "description": "A GitHub API wrapper written in Scala",
+      "language": "Scala",
+      "stars": 122,
+      "forks": 30
+    },
+    {
+      "author": "cloudera",
+      "name": "spark",
+      "href": "https://github.com/cloudera/spark",
+      "description": "Mirror of Apache Spark",
+      "language": "Scala",
+      "stars": 75,
+      "forks": 532
+    },
+    {
+      "author": "scalacenter",
+      "name": "bloop",
+      "href": "https://github.com/scalacenter/bloop",
+      "description": "Scala build server and command-line tool for fast developer workflows",
+      "language": "Scala",
+      "stars": 333,
+      "forks": 57
+    },
+    {
+      "author": "intel-analytics",
+      "name": "BigDL",
+      "href": "https://github.com/intel-analytics/BigDL",
+      "description": "BigDL: Distributed Deep Learning Library for Apache Spark",
+      "language": "Scala",
+      "stars": 2733,
+      "forks": 653
+    },
+    {
+      "author": "kamon-io",
+      "name": "Kamon",
+      "href": "https://github.com/kamon-io/Kamon",
+      "description": "Distributed Tracing, Metrics and Context Propagation for application running on the JVM",
+      "language": "Scala",
+      "stars": 1144,
+      "forks": 227
+    }
+  ]
+}
