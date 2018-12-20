@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "MaxBittker",
+      "name": "sandspiel",
+      "href": "https://github.com/MaxBittker/sandspiel",
+      "description": "Creative cellular automata browser game",
+      "language": "Rust",
+      "stars": 1169,
+      "forks": 51
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "Universal Binaries Powered by WebAssembly",
+      "language": "Rust",
+      "stars": 1257,
+      "forks": 33
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 6402,
+      "forks": 317
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 32622,
+      "forks": 5396
+    },
+    {
+      "author": "andygrove",
+      "name": "datafusion",
+      "href": "https://github.com/andygrove/datafusion",
+      "description": "Modern distributed compute platform using Apache Arrow as the memory model",
+      "language": "Rust",
+      "stars": 444,
+      "forks": 46
+    },
+    {
+      "author": "flosse",
+      "name": "rust-web-framework-comparison",
+      "href": "https://github.com/flosse/rust-web-framework-comparison",
+      "description": "A comparison of some web frameworks and libs written in Rust",
+      "language": "Rust",
+      "stars": 962,
+      "forks": 47
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 13638,
+      "forks": 586
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 8950,
+      "forks": 591
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 10931,
+      "forks": 197
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 317,
+      "forks": 31
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 7750,
+      "forks": 199
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 11982,
+      "forks": 492
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 5398,
+      "forks": 165
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 2774,
+      "forks": 461
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2223,
+      "forks": 271
+    },
+    {
+      "author": "lotabout",
+      "name": "skim",
+      "href": "https://github.com/lotabout/skim",
+      "description": "Fuzzy Finder in rust!",
+      "language": "Rust",
+      "stars": 690,
+      "forks": 25
+    },
+    {
+      "author": "David-OConnor",
+      "name": "seed",
+      "href": "https://github.com/David-OConnor/seed",
+      "description": "A Rust framework for creating web apps",
+      "language": "Rust",
+      "stars": 157,
+      "forks": 3
+    },
+    {
+      "author": "shawnscode",
+      "name": "crayon",
+      "href": "https://github.com/shawnscode/crayon",
+      "description": "A small, portable and extensible game framework written in Rust.",
+      "language": "Rust",
+      "stars": 100,
+      "forks": 4
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13035,
+      "forks": 2025
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3735,
+      "forks": 278
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 1013,
+      "forks": 180
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2828,
+      "forks": 387
+    },
+    {
+      "author": "atom",
+      "name": "xray",
+      "href": "https://github.com/atom/xray",
+      "description": "An experimental next-generation Electron-based text editor",
+      "language": "Rust",
+      "stars": 8431,
+      "forks": 201
+    },
+    {
+      "author": "servo",
+      "name": "webrender",
+      "href": "https://github.com/servo/webrender",
+      "description": "A GPU-based renderer for the web",
+      "language": "Rust",
+      "stars": 1425,
+      "forks": 194
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 725,
+      "forks": 153
+    }
+  ]
+}
