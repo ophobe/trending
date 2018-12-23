@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dreadl0ck",
+      "name": "netcap",
+      "href": "https://github.com/dreadl0ck/netcap",
+      "description": "A framework for secure and scalable network traffic analysis",
+      "language": "Go",
+      "stars": 344,
+      "forks": 14
+    },
+    {
+      "author": "alash3al",
+      "name": "redix",
+      "href": "https://github.com/alash3al/redix",
+      "description": "a persistent real-time key-value store, with the same redis protocol with powerful features",
+      "language": "Go",
+      "stars": 348,
+      "forks": 8
+    },
+    {
+      "author": "isacikgoz",
+      "name": "tldr",
+      "href": "https://github.com/isacikgoz/tldr",
+      "description": "fast and interactive tldr client written with go",
+      "language": "Go",
+      "stars": 94,
+      "forks": 3
+    },
+    {
+      "author": "gernest",
+      "name": "greact",
+      "href": "https://github.com/gernest/greact",
+      "description": "like preact, but for go with wasm",
+      "language": "Go",
+      "stars": 89,
+      "forks": 2
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51017,
+      "forks": 7038
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 3788,
+      "forks": 113
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 45738,
+      "forks": 15970
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 28543,
+      "forks": 3293
+    },
+    {
+      "author": "bloomberg",
+      "name": "goldpinger",
+      "href": "https://github.com/bloomberg/goldpinger",
+      "description": "Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.",
+      "language": "Go",
+      "stars": 1076,
+      "forks": 37
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38311,
+      "forks": 4986
+    },
+    {
+      "author": "rendora",
+      "name": "rendora",
+      "href": "https://github.com/rendora/rendora",
+      "description": "dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites",
+      "language": "Go",
+      "stars": 967,
+      "forks": 13
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 9644,
+      "forks": 1327
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 11342,
+      "forks": 1182
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "dnsproxy",
+      "href": "https://github.com/AdguardTeam/dnsproxy",
+      "description": "Simple DNS proxy with DoH, DoT, and DNSCrypt support",
+      "language": "Go",
+      "stars": 56,
+      "forks": 2
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31168,
+      "forks": 3606
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19383,
+      "forks": 1992
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 18229,
+      "forks": 3259
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23077,
+      "forks": 2719
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12317,
+      "forks": 2734
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 21969,
+      "forks": 4379
+    },
+    {
+      "author": "yudai",
+      "name": "gotty",
+      "href": "https://github.com/yudai/gotty",
+      "description": "Share your terminal as a web application",
+      "language": "Go",
+      "stars": 11506,
+      "forks": 738
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 6528,
+      "forks": 447
+    },
+    {
+      "author": "mholt",
+      "name": "certmagic",
+      "href": "https://github.com/mholt/certmagic",
+      "description": "Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal",
+      "language": "Go",
+      "stars": 1675,
+      "forks": 42
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 16518,
+      "forks": 2369
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 12469,
+      "forks": 1112
+    }
+  ]
+}
