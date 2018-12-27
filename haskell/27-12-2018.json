@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 13981,
+      "forks": 1574
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 13186,
+      "forks": 669
+    },
+    {
+      "author": "samtay",
+      "name": "tetris",
+      "href": "https://github.com/samtay/tetris",
+      "description": "A terminal interface for Tetris",
+      "language": "Haskell",
+      "stars": 239,
+      "forks": 13
+    },
+    {
+      "author": "thma",
+      "name": "LtuPatternFactory",
+      "href": "https://github.com/thma/LtuPatternFactory",
+      "description": "Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns",
+      "language": "Haskell",
+      "stars": 202,
+      "forks": 8
+    },
+    {
+      "author": "robrix",
+      "name": "path",
+      "href": "https://github.com/robrix/path",
+      "description": "A lambda calculus to explore type-directed program synthesis.",
+      "language": "Haskell",
+      "stars": 29,
+      "forks": 0
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2668,
+      "forks": 600
+    },
+    {
+      "author": "nomeata",
+      "name": "inspection-testing",
+      "href": "https://github.com/nomeata/inspection-testing",
+      "description": "Inspection Testing for Haskell",
+      "language": "Haskell",
+      "stars": 105,
+      "forks": 12
+    },
+    {
+      "author": "yesodweb",
+      "name": "wai",
+      "href": "https://github.com/yesodweb/wai",
+      "description": "Haskell Web Application Interface",
+      "language": "Haskell",
+      "stars": 506,
+      "forks": 181
+    },
+    {
+      "author": "aristidb",
+      "name": "aws",
+      "href": "https://github.com/aristidb/aws",
+      "description": "Amazon Web Services for Haskell",
+      "language": "Haskell",
+      "stars": 194,
+      "forks": 95
+    },
+    {
+      "author": "sol",
+      "name": "hpack",
+      "href": "https://github.com/sol/hpack",
+      "description": "hpack: A modern format for Haskell packages",
+      "language": "Haskell",
+      "stars": 331,
+      "forks": 61
+    },
+    {
+      "author": "ndmitchell",
+      "name": "extra",
+      "href": "https://github.com/ndmitchell/extra",
+      "description": "Extra Haskell functions",
+      "language": "Haskell",
+      "stars": 31,
+      "forks": 10
+    },
+    {
+      "author": "hspec",
+      "name": "hspec",
+      "href": "https://github.com/hspec/hspec",
+      "description": "A Testing Framework for Haskell",
+      "language": "Haskell",
+      "stars": 489,
+      "forks": 70
+    },
+    {
+      "author": "haskell-gi",
+      "name": "haskell-gi",
+      "href": "https://github.com/haskell-gi/haskell-gi",
+      "description": "Generate Haskell bindings for GObject-Introspection capable libraries",
+      "language": "Haskell",
+      "stars": 117,
+      "forks": 30
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-crypto",
+      "href": "https://github.com/input-output-hk/cardano-crypto",
+      "description": null,
+      "language": "Haskell",
+      "stars": 41,
+      "forks": 20
+    },
+    {
+      "author": "aloiscochard",
+      "name": "codex",
+      "href": "https://github.com/aloiscochard/codex",
+      "description": "A ctags file generator for cabal/stack project dependencies.",
+      "language": "Haskell",
+      "stars": 147,
+      "forks": 30
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 11629,
+      "forks": 523
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5374,
+      "forks": 403
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4941,
+      "forks": 390
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3412,
+      "forks": 277
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 3105,
+      "forks": 522
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2941,
+      "forks": 665
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2679,
+      "forks": 68
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2618,
+      "forks": 1003
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2485,
+      "forks": 91
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2418,
+      "forks": 137
+    }
+  ]
+}
