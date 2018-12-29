@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "isacikgoz",
+      "name": "gitbatch",
+      "href": "https://github.com/isacikgoz/gitbatch",
+      "description": "manage your git repositories in one place",
+      "language": "Go",
+      "stars": 423,
+      "forks": 15
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 46132,
+      "forks": 16062
+    },
+    {
+      "author": "moiot",
+      "name": "gravity",
+      "href": "https://github.com/moiot/gravity",
+      "description": "A Data Replication Center",
+      "language": "Go",
+      "stars": 70,
+      "forks": 8
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51254,
+      "forks": 7065
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23286,
+      "forks": 2737
+    },
+    {
+      "author": "dreadl0ck",
+      "name": "netcap",
+      "href": "https://github.com/dreadl0ck/netcap",
+      "description": "A framework for secure and scalable network traffic analysis",
+      "language": "Go",
+      "stars": 933,
+      "forks": 41
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 12917,
+      "forks": 384
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38514,
+      "forks": 5013
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 27094,
+      "forks": 7684
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4011,
+      "forks": 124
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 11463,
+      "forks": 1202
+    },
+    {
+      "author": "yeasy",
+      "name": "docker_practice",
+      "href": "https://github.com/yeasy/docker_practice",
+      "description": "Learn and understand Docker technologies, with real DevOps practice!",
+      "language": "Go",
+      "stars": 11566,
+      "forks": 3477
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12439,
+      "forks": 2761
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19488,
+      "forks": 2001
+    },
+    {
+      "author": "owenliang",
+      "name": "go-push",
+      "href": "https://github.com/owenliang/go-push",
+      "description": "用GO做推送",
+      "language": "Go",
+      "stars": 402,
+      "forks": 77
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "href": "https://github.com/photoprism/photoprism",
+      "description": "Personal photo management powered by Go and Google TensorFlow",
+      "language": "Go",
+      "stars": 2921,
+      "forks": 110
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 4329,
+      "forks": 814
+    },
+    {
+      "author": "isacikgoz",
+      "name": "tldr",
+      "href": "https://github.com/isacikgoz/tldr",
+      "description": "fast and interactive tldr client written with go",
+      "language": "Go",
+      "stars": 275,
+      "forks": 9
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest backend community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Can your favourite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2",
+      "language": "Go",
+      "stars": 13231,
+      "forks": 1354
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 6463,
+      "forks": 768
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31337,
+      "forks": 3615
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 28672,
+      "forks": 3312
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 10281,
+      "forks": 639
+    },
+    {
+      "author": "hellobike",
+      "name": "amazonriver",
+      "href": "https://github.com/hellobike/amazonriver",
+      "description": "amazonriver 是一个将postgresql的实时数据同步到es或kafka的服务",
+      "language": "Go",
+      "stars": 44,
+      "forks": 4
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 11087,
+      "forks": 356
+    }
+  ]
+}
