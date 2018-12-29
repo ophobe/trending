@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 13991,
+      "forks": 1576
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 13198,
+      "forks": 669
+    },
+    {
+      "author": "thma",
+      "name": "LtuPatternFactory",
+      "href": "https://github.com/thma/LtuPatternFactory",
+      "description": "Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns",
+      "language": "Haskell",
+      "stars": 211,
+      "forks": 8
+    },
+    {
+      "author": "kazu-yamamoto",
+      "name": "hhp",
+      "href": "https://github.com/kazu-yamamoto/hhp",
+      "description": "Happy Haskell Programming",
+      "language": "Haskell",
+      "stars": 38,
+      "forks": 2
+    },
+    {
+      "author": "robrix",
+      "name": "path",
+      "href": "https://github.com/robrix/path",
+      "description": "A lambda calculus to explore type-directed program synthesis.",
+      "language": "Haskell",
+      "stars": 36,
+      "forks": 0
+    },
+    {
+      "author": "kitlang",
+      "name": "kit",
+      "href": "https://github.com/kitlang/kit",
+      "description": "Kit: a magical, high performance programming language, designed for game development. Pre-alpha!",
+      "language": "Haskell",
+      "stars": 651,
+      "forks": 21
+    },
+    {
+      "author": "NixOS",
+      "name": "cabal2nix",
+      "href": "https://github.com/NixOS/cabal2nix",
+      "description": "Generate Nix build instructions from a Cabal file",
+      "language": "Haskell",
+      "stars": 134,
+      "forks": 97
+    },
+    {
+      "author": "hspec",
+      "name": "hspec",
+      "href": "https://github.com/hspec/hspec",
+      "description": "A Testing Framework for Haskell",
+      "language": "Haskell",
+      "stars": 489,
+      "forks": 72
+    },
+    {
+      "author": "rainbyte",
+      "name": "frag",
+      "href": "https://github.com/rainbyte/frag",
+      "description": "Frag is a 3D first person shooting game written in Haskell, by Mun Hon Cheong",
+      "language": "Haskell",
+      "stars": 67,
+      "forks": 8
+    },
+    {
+      "author": "xmonad",
+      "name": "xmonad-contrib",
+      "href": "https://github.com/xmonad/xmonad-contrib",
+      "description": "Contributed modules for xmonad",
+      "language": "Haskell",
+      "stars": 185,
+      "forks": 136
+    },
+    {
+      "author": "dhall-lang",
+      "name": "dhall-haskell",
+      "href": "https://github.com/dhall-lang/dhall-haskell",
+      "description": "A configuration language guaranteed to terminate",
+      "language": "Haskell",
+      "stars": 409,
+      "forks": 87
+    },
+    {
+      "author": "ghc",
+      "name": "ghc",
+      "href": "https://github.com/ghc/ghc",
+      "description": "Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). First time contributors are encouraged to get started by just sending a Pull Req…",
+      "language": "Haskell",
+      "stars": 2027,
+      "forks": 581
+    },
+    {
+      "author": "reflex-frp",
+      "name": "reflex-dom-contrib",
+      "href": "https://github.com/reflex-frp/reflex-dom-contrib",
+      "description": null,
+      "language": "Haskell",
+      "stars": 41,
+      "forks": 29
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 11635,
+      "forks": 523
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5377,
+      "forks": 404
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4949,
+      "forks": 391
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3413,
+      "forks": 277
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 3110,
+      "forks": 521
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2945,
+      "forks": 665
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2681,
+      "forks": 68
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2670,
+      "forks": 601
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2622,
+      "forks": 1004
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2485,
+      "forks": 92
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2418,
+      "forks": 137
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 2287,
+      "forks": 189
+    }
+  ]
+}
