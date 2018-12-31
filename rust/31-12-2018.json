@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "David-OConnor",
+      "name": "seed",
+      "href": "https://github.com/David-OConnor/seed",
+      "description": "A Rust framework for creating web apps",
+      "language": "Rust",
+      "stars": 205,
+      "forks": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 32817,
+      "forks": 5426
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 6646,
+      "forks": 336
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 13815,
+      "forks": 597
+    },
+    {
+      "author": "nwtnni",
+      "name": "paxos",
+      "href": "https://github.com/nwtnni/paxos",
+      "description": "Distributed consensus protocol for replicated state machines",
+      "language": "Rust",
+      "stars": 35,
+      "forks": 1
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "Universal Binaries Powered by WebAssembly",
+      "language": "Rust",
+      "stars": 1346,
+      "forks": 33
+    },
+    {
+      "author": "chmln",
+      "name": "sd",
+      "href": "https://github.com/chmln/sd",
+      "description": "Intuitive find & replace CLI",
+      "language": "Rust",
+      "stars": 140,
+      "forks": 4
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11034,
+      "forks": 202
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2317,
+      "forks": 279
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9070,
+      "forks": 601
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 7844,
+      "forks": 205
+    },
+    {
+      "author": "sharkdp",
+      "name": "hexyl",
+      "href": "https://github.com/sharkdp/hexyl",
+      "description": "A command-line hex viewer",
+      "language": "Rust",
+      "stars": 217,
+      "forks": 6
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3786,
+      "forks": 281
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 2885,
+      "forks": 493
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4283,
+      "forks": 615
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 2973,
+      "forks": 206
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "(alpha) modern embedded database",
+      "language": "Rust",
+      "stars": 1655,
+      "forks": 58
+    },
+    {
+      "author": "bluejekyll",
+      "name": "pg-extend-rs",
+      "href": "https://github.com/bluejekyll/pg-extend-rs",
+      "description": "Postgres extension library for Rust",
+      "language": "Rust",
+      "stars": 63,
+      "forks": 1
+    },
+    {
+      "author": "rasky",
+      "name": "r64emu",
+      "href": "https://github.com/rasky/r64emu",
+      "description": "Nintendo 64 emulator (written in Rust)",
+      "language": "Rust",
+      "stars": 22,
+      "forks": 1
+    },
+    {
+      "author": "MaxBittker",
+      "name": "sandspiel",
+      "href": "https://github.com/MaxBittker/sandspiel",
+      "description": "Creative cellular automata browser game",
+      "language": "Rust",
+      "stars": 1375,
+      "forks": 59
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 4238,
+      "forks": 654
+    },
+    {
+      "author": "rayon-rs",
+      "name": "rayon",
+      "href": "https://github.com/rayon-rs/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 2495,
+      "forks": 170
+    },
+    {
+      "author": "cantino",
+      "name": "mcfly",
+      "href": "https://github.com/cantino/mcfly",
+      "description": "Fly through your shell history. Great Scott!",
+      "language": "Rust",
+      "stars": 1268,
+      "forks": 24
+    },
+    {
+      "author": "Hexilee",
+      "name": "async-io-demo",
+      "href": "https://github.com/Hexilee/async-io-demo",
+      "description": "demo for rust asynchronous io: from mio to stackless coroutine",
+      "language": "Rust",
+      "stars": 223,
+      "forks": 4
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 1725,
+      "forks": 193
+    }
+  ]
+}
