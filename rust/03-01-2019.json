@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 6713,
+      "forks": 346
+    },
+    {
+      "author": "indygreg",
+      "name": "PyOxidizer",
+      "href": "https://github.com/indygreg/PyOxidizer",
+      "description": "Make distributable Python applications using Rust",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 5
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11081,
+      "forks": 202
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 32881,
+      "forks": 5438
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12112,
+      "forks": 494
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 13855,
+      "forks": 595
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 7878,
+      "forks": 205
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4312,
+      "forks": 618
+    },
+    {
+      "author": "citybound",
+      "name": "citybound",
+      "href": "https://github.com/citybound/citybound",
+      "description": "A work-in-progress, open-source, multi-player city simulation game.",
+      "language": "Rust",
+      "stars": 1586,
+      "forks": 78
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9104,
+      "forks": 603
+    },
+    {
+      "author": "open-i18n",
+      "name": "rust-unic",
+      "href": "https://github.com/open-i18n/rust-unic",
+      "description": "UNIC: Unicode and Internationalization Crates for Rust",
+      "language": "Rust",
+      "stars": 98,
+      "forks": 13
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 2911,
+      "forks": 499
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A high-performance, bindless graphics API for Rust.",
+      "language": "Rust",
+      "stars": 2503,
+      "forks": 309
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 6209,
+      "forks": 227
+    },
+    {
+      "author": "dpc",
+      "name": "crev",
+      "href": "https://github.com/dpc/crev",
+      "description": "Scalable, social, Code REView and recommendation system that we desperately need",
+      "language": "Rust",
+      "stars": 195,
+      "forks": 9
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4462,
+      "forks": 522
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 1740,
+      "forks": 194
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 2248,
+      "forks": 44
+    },
+    {
+      "author": "rust-embedded",
+      "name": "rust-raspi3-tutorial",
+      "href": "https://github.com/rust-embedded/rust-raspi3-tutorial",
+      "description": "📚 Bare-metal Raspberry Pi 3 tutorials in Rust",
+      "language": "Rust",
+      "stars": 261,
+      "forks": 11
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 468,
+      "forks": 49
+    },
+    {
+      "author": "japaric",
+      "name": "cortex-m-rtfm",
+      "href": "https://github.com/japaric/cortex-m-rtfm",
+      "description": "Real Time For the Masses (RTFM) framework for ARM Cortex-M microcontrollers",
+      "language": "Rust",
+      "stars": 189,
+      "forks": 39
+    },
+    {
+      "author": "chmln",
+      "name": "sd",
+      "href": "https://github.com/chmln/sd",
+      "description": "Intuitive find & replace CLI",
+      "language": "Rust",
+      "stars": 171,
+      "forks": 4
+    },
+    {
+      "author": "rasky",
+      "name": "r64emu",
+      "href": "https://github.com/rasky/r64emu",
+      "description": "Nintendo 64 emulator (written in Rust)",
+      "language": "Rust",
+      "stars": 51,
+      "forks": 4
+    },
+    {
+      "author": "sigp",
+      "name": "lighthouse",
+      "href": "https://github.com/sigp/lighthouse",
+      "description": "Ethereum Serenity Client",
+      "language": "Rust",
+      "stars": 188,
+      "forks": 29
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2342,
+      "forks": 281
+    }
+  ]
+}
