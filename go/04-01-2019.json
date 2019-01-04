@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "lni",
+      "name": "dragonboat",
+      "href": "https://github.com/lni/dragonboat",
+      "description": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+      "language": "Go",
+      "stars": 364,
+      "forks": 30
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 3005,
+      "forks": 323
+    },
+    {
+      "author": "genuinetools",
+      "name": "binctr",
+      "href": "https://github.com/genuinetools/binctr",
+      "description": "Fully static, unprivileged, self-contained, containers as executable binaries.",
+      "language": "Go",
+      "stars": 2195,
+      "forks": 65
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 46398,
+      "forks": 16149
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 1276,
+      "forks": 80
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51448,
+      "forks": 7093
+    },
+    {
+      "author": "Ne0nd0g",
+      "name": "merlin",
+      "href": "https://github.com/Ne0nd0g/merlin",
+      "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+      "language": "Go",
+      "stars": 1693,
+      "forks": 186
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 86,
+      "forks": 11
+    },
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 2661,
+      "forks": 97
+    },
+    {
+      "author": "b3log",
+      "name": "pipe",
+      "href": "https://github.com/b3log/pipe",
+      "description": "🎷 一款小而美的 Go 博客平台。https://hacpai.com/tag/pipe",
+      "language": "Go",
+      "stars": 1848,
+      "forks": 281
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 500,
+      "forks": 18
+    },
+    {
+      "author": "iovisor",
+      "name": "kubectl-trace",
+      "href": "https://github.com/iovisor/kubectl-trace",
+      "description": "Schedule bpftrace programs on your kubernetes cluster using the kubectl",
+      "language": "Go",
+      "stars": 244,
+      "forks": 7
+    },
+    {
+      "author": "flike",
+      "name": "kingbus",
+      "href": "https://github.com/flike/kingbus",
+      "description": "A distributed MySQL binlog storage system built on Raft",
+      "language": "Go",
+      "stars": 292,
+      "forks": 19
+    },
+    {
+      "author": "shazow",
+      "name": "ssh-chat",
+      "href": "https://github.com/shazow/ssh-chat",
+      "description": "Chat over SSH.",
+      "language": "Go",
+      "stars": 3260,
+      "forks": 258
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4196,
+      "forks": 131
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31490,
+      "forks": 3636
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38677,
+      "forks": 5032
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 16737,
+      "forks": 2400
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 27192,
+      "forks": 7708
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23397,
+      "forks": 2751
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 14226,
+      "forks": 2223
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 22187,
+      "forks": 4419
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker-containerd",
+      "href": "https://github.com/firecracker-microvm/firecracker-containerd",
+      "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+      "language": "Go",
+      "stars": 430,
+      "forks": 16
+    },
+    {
+      "author": "liamg",
+      "name": "aminal",
+      "href": "https://github.com/liamg/aminal",
+      "description": "Golang terminal emulator from scratch",
+      "language": "Go",
+      "stars": 1782,
+      "forks": 48
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 21207,
+      "forks": 2896
+    }
+  ]
+}
