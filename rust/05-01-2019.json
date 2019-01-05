@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dpc",
+      "name": "crev",
+      "href": "https://github.com/dpc/crev",
+      "description": "Scalable, social, Code REView and recommendation system that we desperately need",
+      "language": "Rust",
+      "stars": 446,
+      "forks": 12
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3143,
+      "forks": 510
+    },
+    {
+      "author": "linebender",
+      "name": "piet",
+      "href": "https://github.com/linebender/piet",
+      "description": "An abstraction for 2D graphics.",
+      "language": "Rust",
+      "stars": 47,
+      "forks": 2
+    },
+    {
+      "author": "ratel-rust",
+      "name": "ratel-core",
+      "href": "https://github.com/ratel-rust/ratel-core",
+      "description": "High performance JavaScript to JavaScript compiler with a Rust core",
+      "language": "Rust",
+      "stars": 215,
+      "forks": 14
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 32919,
+      "forks": 5446
+    },
+    {
+      "author": "BurntSushi",
+      "name": "regex-automata",
+      "href": "https://github.com/BurntSushi/regex-automata",
+      "description": "A low level regular expression library that uses deterministic finite automata.",
+      "language": "Rust",
+      "stars": 68,
+      "forks": 1
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11132,
+      "forks": 202
+    },
+    {
+      "author": "indygreg",
+      "name": "PyOxidizer",
+      "href": "https://github.com/indygreg/PyOxidizer",
+      "description": "Make distributable Python applications using Rust",
+      "language": "Rust",
+      "stars": 124,
+      "forks": 7
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 6756,
+      "forks": 353
+    },
+    {
+      "author": "cessen",
+      "name": "ropey",
+      "href": "https://github.com/cessen/ropey",
+      "description": "A utf8 text rope for manipulating and editing large texts.",
+      "language": "Rust",
+      "stars": 226,
+      "forks": 3
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 13877,
+      "forks": 596
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 7913,
+      "forks": 205
+    },
+    {
+      "author": "linebender",
+      "name": "kurbo",
+      "href": "https://github.com/linebender/kurbo",
+      "description": "A Rust library for manipulating curves",
+      "language": "Rust",
+      "stars": 48,
+      "forks": 1
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented, and data driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2363,
+      "forks": 284
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12145,
+      "forks": 496
+    },
+    {
+      "author": "mit-pdos",
+      "name": "noria",
+      "href": "https://github.com/mit-pdos/noria",
+      "description": "Dynamically changing, partially-stateful data-flow for web application backends.",
+      "language": "Rust",
+      "stars": 539,
+      "forks": 23
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9121,
+      "forks": 610
+    },
+    {
+      "author": "jhspetersson",
+      "name": "fselect",
+      "href": "https://github.com/jhspetersson/fselect",
+      "description": "Find files with SQL-like queries",
+      "language": "Rust",
+      "stars": 600,
+      "forks": 14
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13107,
+      "forks": 2034
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 5541,
+      "forks": 170
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4331,
+      "forks": 622
+    },
+    {
+      "author": "chmln",
+      "name": "sd",
+      "href": "https://github.com/chmln/sd",
+      "description": "Intuitive find & replace CLI",
+      "language": "Rust",
+      "stars": 193,
+      "forks": 4
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15470,
+      "forks": 562
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 387,
+      "forks": 38
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 2875,
+      "forks": 395
+    }
+  ]
+}
