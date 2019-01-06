@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "windmilleng",
+      "name": "tilt",
+      "href": "https://github.com/windmilleng/tilt",
+      "description": "Local Kubernetes development with no stress",
+      "language": "Go",
+      "stars": 848,
+      "forks": 14
+    },
+    {
+      "author": "lni",
+      "name": "dragonboat",
+      "href": "https://github.com/lni/dragonboat",
+      "description": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+      "language": "Go",
+      "stars": 649,
+      "forks": 45
+    },
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 2951,
+      "forks": 107
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 211,
+      "forks": 28
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 23579,
+      "forks": 1982
+    },
+    {
+      "author": "divan",
+      "name": "txqr",
+      "href": "https://github.com/divan/txqr",
+      "description": "Transfer data via animated QR codes",
+      "language": "Go",
+      "stars": 1331,
+      "forks": 55
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 46473,
+      "forks": 16164
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51528,
+      "forks": 7104
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice framework",
+      "language": "Go",
+      "stars": 5042,
+      "forks": 551
+    },
+    {
+      "author": "mafanr",
+      "name": "meq",
+      "href": "https://github.com/mafanr/meq",
+      "description": "A modern messaging platform for Message Push、IM、IoT etc, based on MQTT protocol",
+      "language": "Go",
+      "stars": 988,
+      "forks": 89
+    },
+    {
+      "author": "zalando",
+      "name": "skipper",
+      "href": "https://github.com/zalando/skipper",
+      "description": "An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
+      "language": "Go",
+      "stars": 1414,
+      "forks": 127
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31554,
+      "forks": 3642
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4242,
+      "forks": 134
+    },
+    {
+      "author": "isacikgoz",
+      "name": "tldr",
+      "href": "https://github.com/isacikgoz/tldr",
+      "description": "fast and interactive tldr client written with go",
+      "language": "Go",
+      "stars": 426,
+      "forks": 12
+    },
+    {
+      "author": "Ne0nd0g",
+      "name": "merlin",
+      "href": "https://github.com/Ne0nd0g/merlin",
+      "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+      "language": "Go",
+      "stars": 1744,
+      "forks": 189
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12571,
+      "forks": 2804
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 19893,
+      "forks": 1552
+    },
+    {
+      "author": "joncrlsn",
+      "name": "dque",
+      "href": "https://github.com/joncrlsn/dque",
+      "description": "dque is a fast, embedded, durable queue for Go",
+      "language": "Go",
+      "stars": 87,
+      "forks": 6
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 9422,
+      "forks": 3092
+    },
+    {
+      "author": "in4it",
+      "name": "ecs-deploy",
+      "href": "https://github.com/in4it/ecs-deploy",
+      "description": "ecs-deploy is a continuous deployment platform for AWS ECS. It automates deploys based a simple json/yaml file which can be integrated in your CI/CD",
+      "language": "Go",
+      "stars": 120,
+      "forks": 18
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 18763,
+      "forks": 730
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 28753,
+      "forks": 3329
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 540,
+      "forks": 22
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23425,
+      "forks": 2757
+    },
+    {
+      "author": "alash3al",
+      "name": "redix",
+      "href": "https://github.com/alash3al/redix",
+      "description": "a persistent real-time key-value store, with the same redis protocol with powerful features",
+      "language": "Go",
+      "stars": 610,
+      "forks": 23
+    }
+  ]
+}
