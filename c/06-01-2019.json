@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "eduardsui",
+      "name": "tlse",
+      "href": "https://github.com/eduardsui/tlse",
+      "description": "Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library",
+      "language": "C",
+      "stars": 178,
+      "forks": 21
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 67672,
+      "forks": 24480
+    },
+    {
+      "author": "gozfree",
+      "name": "libraries",
+      "href": "https://github.com/gozfree/libraries",
+      "description": "Lightweight libraries, wrapper and extension of POSIX",
+      "language": "C",
+      "stars": 1020,
+      "forks": 336
+    },
+    {
+      "author": "HelenOS",
+      "name": "helenos",
+      "href": "https://github.com/HelenOS/helenos",
+      "description": "A portable microkernel-based multiserver operating system written from scratch. This is the HelenOS mainline repository.",
+      "language": "C",
+      "stars": 181,
+      "forks": 37
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 3980,
+      "forks": 129
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 34286,
+      "forks": 2962
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33608,
+      "forks": 12895
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3431,
+      "forks": 6563
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8585,
+      "forks": 6015
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11234,
+      "forks": 6192
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21182,
+      "forks": 5176
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25612,
+      "forks": 14803
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 16275,
+      "forks": 1909
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 3334,
+      "forks": 2051
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 6675,
+      "forks": 809
+    },
+    {
+      "author": "SanderMertens",
+      "name": "bake",
+      "href": "https://github.com/SanderMertens/bake",
+      "description": "A cargo-like buildsystem and package manager for C/C++",
+      "language": "C",
+      "stars": 213,
+      "forks": 11
+    },
+    {
+      "author": "darlinghq",
+      "name": "darling",
+      "href": "https://github.com/darlinghq/darling",
+      "description": "Darwin/macOS emulation layer for Linux",
+      "language": "C",
+      "stars": 2718,
+      "forks": 147
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1904,
+      "forks": 634
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11684,
+      "forks": 2497
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 1722,
+      "forks": 902
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 7664,
+      "forks": 2181
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2740,
+      "forks": 102
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 21737,
+      "forks": 5808
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 9104,
+      "forks": 1748
+    },
+    {
+      "author": "DaveDavenport",
+      "name": "rofi",
+      "href": "https://github.com/DaveDavenport/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": 3624,
+      "forks": 201
+    }
+  ]
+}
