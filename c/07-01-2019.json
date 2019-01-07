@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "thi-ng",
+      "name": "tinyalloc",
+      "href": "https://github.com/thi-ng/tinyalloc",
+      "description": "malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)",
+      "language": "C",
+      "stars": 336,
+      "forks": 12
+    },
+    {
+      "author": "eduardsui",
+      "name": "tlse",
+      "href": "https://github.com/eduardsui/tlse",
+      "description": "Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library",
+      "language": "C",
+      "stars": 243,
+      "forks": 24
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 67711,
+      "forks": 24492
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 4019,
+      "forks": 129
+    },
+    {
+      "author": "gozfree",
+      "name": "libraries",
+      "href": "https://github.com/gozfree/libraries",
+      "description": "Lightweight libraries, wrapper and extension of POSIX",
+      "language": "C",
+      "stars": 1051,
+      "forks": 339
+    },
+    {
+      "author": "calvinwilliams",
+      "name": "cocker",
+      "href": "https://github.com/calvinwilliams/cocker",
+      "description": "Container Engine",
+      "language": "C",
+      "stars": 182,
+      "forks": 39
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 34320,
+      "forks": 2970
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21209,
+      "forks": 5177
+    },
+    {
+      "author": "dhewg",
+      "name": "nine",
+      "href": "https://github.com/dhewg/nine",
+      "description": "Gallium Nine Standalone",
+      "language": "C",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11253,
+      "forks": 6206
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 21756,
+      "forks": 5810
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13370,
+      "forks": 5154
+    },
+    {
+      "author": "elfmaster",
+      "name": "dsym_obfuscate",
+      "href": "https://github.com/elfmaster/dsym_obfuscate",
+      "description": "Obfuscates dynamic symbol table",
+      "language": "C",
+      "stars": 45,
+      "forks": 7
+    },
+    {
+      "author": "brainsmoke",
+      "name": "ptrace-burrito",
+      "href": "https://github.com/brainsmoke/ptrace-burrito",
+      "description": "a friendly wrapper around ptrace",
+      "language": "C",
+      "stars": 42,
+      "forks": 6
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9842,
+      "forks": 640
+    },
+    {
+      "author": "tbodt",
+      "name": "ish",
+      "href": "https://github.com/tbodt/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": 2756,
+      "forks": 102
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1920,
+      "forks": 642
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33621,
+      "forks": 12899
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25619,
+      "forks": 14810
+    },
+    {
+      "author": "kripken",
+      "name": "emscripten",
+      "href": "https://github.com/kripken/emscripten",
+      "description": "Emscripten: An LLVM-to-JavaScript Compiler",
+      "language": "C",
+      "stars": 16287,
+      "forks": 1912
+    },
+    {
+      "author": "libtom",
+      "name": "libtomcrypt",
+      "href": "https://github.com/libtom/libtomcrypt",
+      "description": "LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.",
+      "language": "C",
+      "stars": 789,
+      "forks": 269
+    },
+    {
+      "author": "littlevgl",
+      "name": "lvgl",
+      "href": "https://github.com/littlevgl/lvgl",
+      "description": "Graphics library to create embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. Anti-aliasing, opacity, animations using only one frame buffer.",
+      "language": "C",
+      "stars": 944,
+      "forks": 323
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 7676,
+      "forks": 2182
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 9026,
+      "forks": 1232
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3439,
+      "forks": 6577
+    }
+  ]
+}
