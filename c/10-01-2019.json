@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 67874,
+      "forks": 24529
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 34433,
+      "forks": 2979
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 9174,
+      "forks": 1758
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 4106,
+      "forks": 134
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33684,
+      "forks": 12918
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25668,
+      "forks": 14822
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform GUI automation",
+      "language": "C",
+      "stars": 3781,
+      "forks": 326
+    },
+    {
+      "author": "cnlohr",
+      "name": "esp8266oddclock",
+      "href": "https://github.com/cnlohr/esp8266oddclock",
+      "description": "What happens when you rip the ESP8266's stable clock source out from under it's feet?",
+      "language": "C",
+      "stars": 54,
+      "forks": 6
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21256,
+      "forks": 5176
+    },
+    {
+      "author": "Bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/Bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 21807,
+      "forks": 5812
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "href": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C",
+      "stars": 5391,
+      "forks": 1415
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11297,
+      "forks": 6243
+    },
+    {
+      "author": "sasou",
+      "name": "gene-for-php7",
+      "href": "https://github.com/sasou/gene-for-php7",
+      "description": "Simple, high performance,C extension framework for php！（php-gene-for-php7）",
+      "language": "C",
+      "stars": 35,
+      "forks": 7
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 15192,
+      "forks": 1980
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 9169,
+      "forks": 2251
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11838,
+      "forks": 2485
+    },
+    {
+      "author": "thi-ng",
+      "name": "tinyalloc",
+      "href": "https://github.com/thi-ng/tinyalloc",
+      "description": "malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)",
+      "language": "C",
+      "stars": 430,
+      "forks": 21
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13426,
+      "forks": 5172
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1958,
+      "forks": 655
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 13967,
+      "forks": 1413
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9217,
+      "forks": 3237
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9907,
+      "forks": 650
+    },
+    {
+      "author": "vislee",
+      "name": "ngx_http_ipdb_module",
+      "href": "https://github.com/vislee/ngx_http_ipdb_module",
+      "description": "Another nginx http geoip module by ipdb",
+      "language": "C",
+      "stars": 71,
+      "forks": 6
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11739,
+      "forks": 2500
+    },
+    {
+      "author": "ARMmbed",
+      "name": "mbed-os",
+      "href": "https://github.com/ARMmbed/mbed-os",
+      "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+      "language": "C",
+      "stars": 2189,
+      "forks": 1740
+    }
+  ]
+}
