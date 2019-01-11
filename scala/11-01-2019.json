@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 4965,
+      "forks": 761
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma enables seamless type-safe database access & declarative data modeling",
+      "language": "Scala",
+      "stars": 12109,
+      "forks": 704
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 20221,
+      "forks": 17906
+    },
+    {
+      "author": "lemastero",
+      "name": "scala_typeclassopedia",
+      "href": "https://github.com/lemastero/scala_typeclassopedia",
+      "description": "Patterns from category theory and abstract algebra in Scala",
+      "language": "Scala",
+      "stars": 75,
+      "forks": 10
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 4134,
+      "forks": 2328
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9420,
+      "forks": 2928
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6547,
+      "forks": 1652
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4005,
+      "forks": 866
+    },
+    {
+      "author": "ThoughtWorksInc",
+      "name": "Dsl.scala",
+      "href": "https://github.com/ThoughtWorksInc/Dsl.scala",
+      "description": "A framework to create embedded Domain-Specific Languages in Scala",
+      "language": "Scala",
+      "stars": 102,
+      "forks": 14
+    },
+    {
+      "author": "MonsantoCo",
+      "name": "cloudformation-template-generator",
+      "href": "https://github.com/MonsantoCo/cloudformation-template-generator",
+      "description": "A type-safe Scala DSL for generating CloudFormation templates",
+      "language": "Scala",
+      "stars": 194,
+      "forks": 68
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 826,
+      "forks": 399
+    },
+    {
+      "author": "finagle",
+      "name": "finagle-oauth2",
+      "href": "https://github.com/finagle/finagle-oauth2",
+      "description": "OAuth2 Server-Side Provider for Finagle",
+      "language": "Scala",
+      "stars": 79,
+      "forks": 27
+    },
+    {
+      "author": "qubole",
+      "name": "sparklens",
+      "href": "https://github.com/qubole/sparklens",
+      "description": "Qubole Sparklens tool for performance tuning Apache Spark",
+      "language": "Scala",
+      "stars": 151,
+      "forks": 33
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-websocket-example",
+      "href": "https://github.com/playframework/play-scala-websocket-example",
+      "description": "Example Play Scala application showing WebSocket use with Akka actors",
+      "language": "Scala",
+      "stars": 196,
+      "forks": 78
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-tls-example",
+      "href": "https://github.com/playframework/play-scala-tls-example",
+      "description": "A Play application using HTTPS and WS with optional client authentication",
+      "language": "Scala",
+      "stars": 44,
+      "forks": 26
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-streaming-example",
+      "href": "https://github.com/playframework/play-scala-streaming-example",
+      "description": "Example Play application showing Comet and Server Sent Events in Scala",
+      "language": "Scala",
+      "stars": 41,
+      "forks": 24
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-slick-example",
+      "href": "https://github.com/playframework/play-scala-slick-example",
+      "description": "Example Play Scala project with Slick",
+      "language": "Scala",
+      "stars": 57,
+      "forks": 40
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-secure-session-example",
+      "href": "https://github.com/playframework/play-scala-secure-session-example",
+      "description": "An example Play application showing encrypted session management",
+      "language": "Scala",
+      "stars": 53,
+      "forks": 16
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-macwire-di-example",
+      "href": "https://github.com/playframework/play-scala-macwire-di-example",
+      "description": "Sample project for compile-time DI with Macwire",
+      "language": "Scala",
+      "stars": 46,
+      "forks": 21
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-isolated-slick-example",
+      "href": "https://github.com/playframework/play-scala-isolated-slick-example",
+      "description": "Example Play Slick Project",
+      "language": "Scala",
+      "stars": 155,
+      "forks": 37
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-fileupload-example",
+      "href": "https://github.com/playframework/play-scala-fileupload-example",
+      "description": "An example Play application showing custom multiform fileupload in Scala",
+      "language": "Scala",
+      "stars": 28,
+      "forks": 19
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-compile-di-example",
+      "href": "https://github.com/playframework/play-scala-compile-di-example",
+      "description": "Example Play Project using compile time dependency injection and Play WS with ScalaTest",
+      "language": "Scala",
+      "stars": 36,
+      "forks": 18
+    },
+    {
+      "author": "playframework",
+      "name": "play-scala-anorm-example",
+      "href": "https://github.com/playframework/play-scala-anorm-example",
+      "description": "Example Play Database Application using Anorm",
+      "language": "Scala",
+      "stars": 42,
+      "forks": 47
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-scalatutorial",
+      "href": "https://github.com/scala-exercises/exercises-scalatutorial",
+      "description": "Exercises for the \"Functional Programming Principles in Scala\", part of the FP in Scala specialized program by EPFL.",
+      "language": "Scala",
+      "stars": 64,
+      "forks": 205
+    },
+    {
+      "author": "RedisLabs",
+      "name": "spark-redis",
+      "href": "https://github.com/RedisLabs/spark-redis",
+      "description": "A connector for Spark that allows reading and writing to/from Redis cluster",
+      "language": "Scala",
+      "stars": 468,
+      "forks": 216
+    }
+  ]
+}
