@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 15808,
+      "forks": 541
+    },
+    {
+      "author": "mmcloughlin",
+      "name": "avo",
+      "href": "https://github.com/mmcloughlin/avo",
+      "description": "Generate x86 Assembly with Go",
+      "language": "Go",
+      "stars": 603,
+      "forks": 15
+    },
+    {
+      "author": "alash3al",
+      "name": "sqler",
+      "href": "https://github.com/alash3al/sqler",
+      "description": "write APIs using direct SQL queries with no hassle, let's rethink about SQL",
+      "language": "Go",
+      "stars": 1305,
+      "forks": 36
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 905,
+      "forks": 131
+    },
+    {
+      "author": "lni",
+      "name": "dragonboat",
+      "href": "https://github.com/lni/dragonboat",
+      "description": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+      "language": "Go",
+      "stars": 1163,
+      "forks": 89
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 4215,
+      "forks": 560
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 46783,
+      "forks": 16263
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51771,
+      "forks": 7131
+    },
+    {
+      "author": "esimov",
+      "name": "pigo",
+      "href": "https://github.com/esimov/pigo",
+      "description": "Golang implementation of Pico face detection library.",
+      "language": "Go",
+      "stars": 1378,
+      "forks": 69
+    },
+    {
+      "author": "joncrlsn",
+      "name": "dque",
+      "href": "https://github.com/joncrlsn/dque",
+      "description": "dque is a fast, embedded, durable queue for Go",
+      "language": "Go",
+      "stars": 169,
+      "forks": 7
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38894,
+      "forks": 5054
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 3148,
+      "forks": 334
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 18773,
+      "forks": 3355
+    },
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 3183,
+      "forks": 117
+    },
+    {
+      "author": "windmilleng",
+      "name": "tilt",
+      "href": "https://github.com/windmilleng/tilt",
+      "description": "Local Kubernetes development with no stress",
+      "language": "Go",
+      "stars": 1602,
+      "forks": 26
+    },
+    {
+      "author": "gomods",
+      "name": "athens",
+      "href": "https://github.com/gomods/athens",
+      "description": "A Go module datastore and proxy",
+      "language": "Go",
+      "stars": 1668,
+      "forks": 154
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "krew",
+      "href": "https://github.com/GoogleContainerTools/krew",
+      "description": "📦 Package manager for \"kubectl plugins\"",
+      "language": "Go",
+      "stars": 255,
+      "forks": 22
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31741,
+      "forks": 3654
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 21371,
+      "forks": 2918
+    },
+    {
+      "author": "cnlh",
+      "name": "easyProxy",
+      "href": "https://github.com/cnlh/easyProxy",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用等。",
+      "language": "Go",
+      "stars": 208,
+      "forks": 43
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4411,
+      "forks": 146
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 23700,
+      "forks": 1990
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23599,
+      "forks": 2770
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 19978,
+      "forks": 1558
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Continuous Delivery platform built on Docker, written in Go",
+      "language": "Go",
+      "stars": 16832,
+      "forks": 1683
+    }
+  ]
+}
