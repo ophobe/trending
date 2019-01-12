@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 67963,
+      "forks": 24552
+    },
+    {
+      "author": "ionescu007",
+      "name": "hdk",
+      "href": "https://github.com/ionescu007/hdk",
+      "description": "(unofficial) Hyper-V® Development Kit",
+      "language": "C",
+      "stars": 40,
+      "forks": 7
+    },
+    {
+      "author": "quicknir",
+      "name": "wise_enum",
+      "href": "https://github.com/quicknir/wise_enum",
+      "description": "A reflective enum implementation for C++",
+      "language": "C",
+      "stars": 96,
+      "forks": 6
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 34492,
+      "forks": 2981
+    },
+    {
+      "author": "jonasmr",
+      "name": "microprofile",
+      "href": "https://github.com/jonasmr/microprofile",
+      "description": "microprofile is an embeddable profiler",
+      "language": "C",
+      "stars": 452,
+      "forks": 50
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33720,
+      "forks": 12936
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21290,
+      "forks": 5182
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13458,
+      "forks": 5176
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 9201,
+      "forks": 1761
+    },
+    {
+      "author": "sasou",
+      "name": "gene-for-php7",
+      "href": "https://github.com/sasou/gene-for-php7",
+      "description": "Simple, high performance,C extension framework for php！（php-gene-for-php7）",
+      "language": "C",
+      "stars": 66,
+      "forks": 15
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3466,
+      "forks": 6637
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 1983,
+      "forks": 666
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11328,
+      "forks": 6254
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 9932,
+      "forks": 653
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 15211,
+      "forks": 1978
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9234,
+      "forks": 3242
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25686,
+      "forks": 14825
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "href": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C",
+      "stars": 5412,
+      "forks": 1417
+    },
+    {
+      "author": "dots-tb",
+      "name": "reF00D",
+      "href": "https://github.com/dots-tb/reF00D",
+      "description": "A vita plugin to run programs that do not get decrypted properly.",
+      "language": "C",
+      "stars": 69,
+      "forks": 6
+    },
+    {
+      "author": "0x36",
+      "name": "CVE-pocs",
+      "href": "https://github.com/0x36/CVE-pocs",
+      "description": "This repo contains some of my vuln research findings",
+      "language": "C",
+      "stars": 41,
+      "forks": 6
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 11273,
+      "forks": 1843
+    },
+    {
+      "author": "DaveDavenport",
+      "name": "rofi",
+      "href": "https://github.com/DaveDavenport/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": 3680,
+      "forks": 204
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 9188,
+      "forks": 2260
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary GIT Repository for the Zephyr Project",
+      "language": "C",
+      "stars": 1549,
+      "forks": 1004
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "href": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": 2467,
+      "forks": 237
+    }
+  ]
+}
