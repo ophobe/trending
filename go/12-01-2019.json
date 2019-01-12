@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 16007,
+      "forks": 552
+    },
+    {
+      "author": "spieglt",
+      "name": "FlyingCarpet",
+      "href": "https://github.com/spieglt/FlyingCarpet",
+      "description": "Wireless, encrypted file transfer over automatically configured ad hoc networking. No network infrastructure required (access point, router, switch). Just two laptops with wireless chips in close range. Mac, Windows, and Linux.",
+      "language": "Go",
+      "stars": 524,
+      "forks": 17
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 948,
+      "forks": 144
+    },
+    {
+      "author": "alash3al",
+      "name": "sqler",
+      "href": "https://github.com/alash3al/sqler",
+      "description": "write APIs using direct SQL queries with no hassle, let's rethink about SQL",
+      "language": "Go",
+      "stars": 1352,
+      "forks": 40
+    },
+    {
+      "author": "madeye",
+      "name": "v2ray-plugin",
+      "href": "https://github.com/madeye/v2ray-plugin",
+      "description": "A SIP003 plugin based on v2ray",
+      "language": "Go",
+      "stars": 54,
+      "forks": 6
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51808,
+      "forks": 7131
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4444,
+      "forks": 147
+    },
+    {
+      "author": "mmcloughlin",
+      "name": "avo",
+      "href": "https://github.com/mmcloughlin/avo",
+      "description": "Generate x86 Assembly with Go",
+      "language": "Go",
+      "stars": 637,
+      "forks": 15
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38920,
+      "forks": 5059
+    },
+    {
+      "author": "lni",
+      "name": "dragonboat",
+      "href": "https://github.com/lni/dragonboat",
+      "description": "Dragonboat is a feature complete and high performance multi-group Raft library in Go.",
+      "language": "Go",
+      "stars": 1193,
+      "forks": 93
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 18801,
+      "forks": 3360
+    },
+    {
+      "author": "windmilleng",
+      "name": "tilt",
+      "href": "https://github.com/windmilleng/tilt",
+      "description": "Local Kubernetes development with no stress",
+      "language": "Go",
+      "stars": 1630,
+      "forks": 27
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 18931,
+      "forks": 736
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 46797,
+      "forks": 16266
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31758,
+      "forks": 3657
+    },
+    {
+      "author": "slothking-online",
+      "name": "gql",
+      "href": "https://github.com/slothking-online/gql",
+      "description": "Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries",
+      "language": "Go",
+      "stars": 40,
+      "forks": 0
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 11721,
+      "forks": 1233
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "krew",
+      "href": "https://github.com/GoogleContainerTools/krew",
+      "description": "📦 Package manager for \"kubectl plugins\"",
+      "language": "Go",
+      "stars": 277,
+      "forks": 24
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12675,
+      "forks": 2814
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 51820,
+      "forks": 15042
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19725,
+      "forks": 2027
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23610,
+      "forks": 2773
+    },
+    {
+      "author": "hashicorp",
+      "name": "hcl2",
+      "href": "https://github.com/hashicorp/hcl2",
+      "description": "Temporary home for experimental new version of HCL",
+      "language": "Go",
+      "stars": 191,
+      "forks": 19
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 21389,
+      "forks": 2919
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 27332,
+      "forks": 7718
+    }
+  ]
+}
