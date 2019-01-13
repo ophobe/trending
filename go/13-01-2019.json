@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 16152,
+      "forks": 560
+    },
+    {
+      "author": "dreamans",
+      "name": "syncd",
+      "href": "https://github.com/dreamans/syncd",
+      "description": "syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.",
+      "language": "Go",
+      "stars": 95,
+      "forks": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 46839,
+      "forks": 16274
+    },
+    {
+      "author": "esimov",
+      "name": "pigo",
+      "href": "https://github.com/esimov/pigo",
+      "description": "Golang implementation of Pico face detection library.",
+      "language": "Go",
+      "stars": 1436,
+      "forks": 72
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 51839,
+      "forks": 7135
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 982,
+      "forks": 154
+    },
+    {
+      "author": "alash3al",
+      "name": "sqler",
+      "href": "https://github.com/alash3al/sqler",
+      "description": "write APIs using direct SQL queries with no hassle, let's rethink about SQL",
+      "language": "Go",
+      "stars": 1389,
+      "forks": 42
+    },
+    {
+      "author": "lieuwex",
+      "name": "whapp-irc",
+      "href": "https://github.com/lieuwex/whapp-irc",
+      "description": "whatsapp web <-> irc gateway",
+      "language": "Go",
+      "stars": 78,
+      "forks": 6
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 38946,
+      "forks": 5059
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19753,
+      "forks": 2028
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 18957,
+      "forks": 735
+    },
+    {
+      "author": "windmilleng",
+      "name": "tilt",
+      "href": "https://github.com/windmilleng/tilt",
+      "description": "Local Kubernetes development with no stress",
+      "language": "Go",
+      "stars": 1655,
+      "forks": 27
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 18820,
+      "forks": 3365
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4469,
+      "forks": 147
+    },
+    {
+      "author": "lni",
+      "name": "dragonboat",
+      "href": "https://github.com/lni/dragonboat",
+      "description": "A feature complete and high performance multi-group Raft library in Go.",
+      "language": "Go",
+      "stars": 1216,
+      "forks": 94
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 31779,
+      "forks": 3655
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 12352,
+      "forks": 1845
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23628,
+      "forks": 2773
+    },
+    {
+      "author": "mmcloughlin",
+      "name": "avo",
+      "href": "https://github.com/mmcloughlin/avo",
+      "description": "Generate x86 Assembly with Go",
+      "language": "Go",
+      "stars": 655,
+      "forks": 16
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 4247,
+      "forks": 561
+    },
+    {
+      "author": "slothking-online",
+      "name": "gql",
+      "href": "https://github.com/slothking-online/gql",
+      "description": "Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries",
+      "language": "Go",
+      "stars": 55,
+      "forks": 2
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 51830,
+      "forks": 15048
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 1683,
+      "forks": 167
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 9547,
+      "forks": 3131
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 27346,
+      "forks": 7720
+    }
+  ]
+}
