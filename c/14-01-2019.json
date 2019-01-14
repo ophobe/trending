@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 68060,
+      "forks": 24578
+    },
+    {
+      "author": "klaussilveira",
+      "name": "qengine",
+      "href": "https://github.com/klaussilveira/qengine",
+      "description": "Retro game engine for developers that enjoy creating games like it's 1997.",
+      "language": "C",
+      "stars": 601,
+      "forks": 24
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 34541,
+      "forks": 2981
+    },
+    {
+      "author": "zombodb",
+      "name": "zombodb",
+      "href": "https://github.com/zombodb/zombodb",
+      "description": "Making Postgres and Elasticsearch work together like it's 2018",
+      "language": "C",
+      "stars": 1821,
+      "forks": 86
+    },
+    {
+      "author": "Siguza",
+      "name": "imobax",
+      "href": "https://github.com/Siguza/imobax",
+      "description": "iOS Mobile Backup Extractor",
+      "language": "C",
+      "stars": 72,
+      "forks": 7
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 9195,
+      "forks": 4127
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11791,
+      "forks": 2505
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21320,
+      "forks": 5186
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3484,
+      "forks": 6661
+    },
+    {
+      "author": "ionescu007",
+      "name": "hdk",
+      "href": "https://github.com/ionescu007/hdk",
+      "description": "(unofficial) Hyper-V® Development Kit",
+      "language": "C",
+      "stars": 83,
+      "forks": 10
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11355,
+      "forks": 6279
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The fastest terminal file manager ever written.",
+      "language": "C",
+      "stars": 4162,
+      "forks": 137
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33748,
+      "forks": 12941
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used)",
+      "language": "C",
+      "stars": 2924,
+      "forks": 6279
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "Data Structure & Algorithm",
+      "language": "C",
+      "stars": 2009,
+      "forks": 673
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13479,
+      "forks": 5174
+    },
+    {
+      "author": "jonasmr",
+      "name": "microprofile",
+      "href": "https://github.com/jonasmr/microprofile",
+      "description": "microprofile is an embeddable profiler",
+      "language": "C",
+      "stars": 480,
+      "forks": 54
+    },
+    {
+      "author": "swoole",
+      "name": "swoole-src",
+      "href": "https://github.com/swoole/swoole-src",
+      "description": "🚀 Coroutine-based concurrency library for PHP (Like Golang)",
+      "language": "C",
+      "stars": 11870,
+      "forks": 2492
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9263,
+      "forks": 3245
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 15229,
+      "forks": 1980
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 13273,
+      "forks": 757
+    },
+    {
+      "author": "sasou",
+      "name": "gene-for-php7",
+      "href": "https://github.com/sasou/gene-for-php7",
+      "description": "Simple, high performance,C extension framework for php！（php-gene-for-php7）",
+      "language": "C",
+      "stars": 95,
+      "forks": 18
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25702,
+      "forks": 14835
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8630,
+      "forks": 6059
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 4805,
+      "forks": 6511
+    }
+  ]
+}
