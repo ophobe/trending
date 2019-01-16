@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 48525,
+      "forks": 15052
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 17970,
+      "forks": 5369
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 9149,
+      "forks": 573
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 5911,
+      "forks": 83
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 15668,
+      "forks": 6150
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 15295,
+      "forks": 1892
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 13321,
+      "forks": 1482
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "href": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": 5776,
+      "forks": 386
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "href": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": 4210,
+      "forks": 934
+    },
+    {
+      "author": "doctrine",
+      "name": "event-manager",
+      "href": "https://github.com/doctrine/event-manager",
+      "description": "The Doctrine Event Manager is a library that provides a simple event system.",
+      "language": "PHP",
+      "stars": 1524,
+      "forks": 5
+    },
+    {
+      "author": "doctrine",
+      "name": "cache",
+      "href": "https://github.com/doctrine/cache",
+      "description": "Doctrine Cache component",
+      "language": "PHP",
+      "stars": 3513,
+      "forks": 186
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19049,
+      "forks": 2308
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 7108,
+      "forks": 723
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 5084,
+      "forks": 50
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 12728,
+      "forks": 1684
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 5190,
+      "forks": 31
+    },
+    {
+      "author": "ralouphie",
+      "name": "getallheaders",
+      "href": "https://github.com/ralouphie/getallheaders",
+      "description": "PHP getallheaders polyfill",
+      "language": "PHP",
+      "stars": 607,
+      "forks": 22
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 5814,
+      "forks": 154
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 5461,
+      "forks": 195
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 5216,
+      "forks": 33
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 5245,
+      "forks": 37
+    },
+    {
+      "author": "code16",
+      "name": "sharp",
+      "href": "https://github.com/code16/sharp",
+      "description": "Laravel 5.4+ Content management framework",
+      "language": "PHP",
+      "stars": 174,
+      "forks": 16
+    },
+    {
+      "author": "z-song",
+      "name": "laravel-admin",
+      "href": "https://github.com/z-song/laravel-admin",
+      "description": "Build a full-featured administrative interface in ten minutes",
+      "language": "PHP",
+      "stars": 5391,
+      "forks": 1518
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 19594,
+      "forks": 6639
+    },
+    {
+      "author": "symfony",
+      "name": "css-selector",
+      "href": "https://github.com/symfony/css-selector",
+      "description": "The CssSelector component converts CSS selectors to XPath expressions.",
+      "language": "PHP",
+      "stars": 4556,
+      "forks": 21
+    }
+  ]
+}
