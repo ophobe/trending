@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 19634,
+      "forks": 3136
+    },
+    {
+      "author": "JuliaText",
+      "name": "TextAnalysis.jl",
+      "href": "https://github.com/JuliaText/TextAnalysis.jl",
+      "description": "Julia package for text analysis",
+      "language": "Julia",
+      "stars": 200,
+      "forks": 64
+    },
+    {
+      "author": "QuantEcon",
+      "name": "QuantEcon.jl",
+      "href": "https://github.com/QuantEcon/QuantEcon.jl",
+      "description": "Julia implementation of QuantEcon routines",
+      "language": "Julia",
+      "stars": 249,
+      "forks": 255
+    },
+    {
+      "author": "JuliaParallel",
+      "name": "MPI.jl",
+      "href": "https://github.com/JuliaParallel/MPI.jl",
+      "description": "MPI wrappers for Julia",
+      "language": "Julia",
+      "stars": 99,
+      "forks": 46
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "OrdinaryDiffEq.jl",
+      "href": "https://github.com/JuliaDiffEq/OrdinaryDiffEq.jl",
+      "description": "DiffEq solvers for ordinary differential equations",
+      "language": "Julia",
+      "stars": 67,
+      "forks": 48
+    },
+    {
+      "author": "TuringLang",
+      "name": "Turing.jl",
+      "href": "https://github.com/TuringLang/Turing.jl",
+      "description": "The Turing language for probabilistic programming",
+      "language": "Julia",
+      "stars": 348,
+      "forks": 40
+    },
+    {
+      "author": "JuliaControl",
+      "name": "ControlSystems.jl",
+      "href": "https://github.com/JuliaControl/ControlSystems.jl",
+      "description": "A Control Systems Toolbox for Julia",
+      "language": "Julia",
+      "stars": 115,
+      "forks": 24
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 600,
+      "forks": 114
+    },
+    {
+      "author": "JuliaMath",
+      "name": "Interpolations.jl",
+      "href": "https://github.com/JuliaMath/Interpolations.jl",
+      "description": "Fast, continuous interpolation of discrete datasets in Julia",
+      "language": "Julia",
+      "stars": 130,
+      "forks": 50
+    },
+    {
+      "author": "JuliaStats",
+      "name": "StatsBase.jl",
+      "href": "https://github.com/JuliaStats/StatsBase.jl",
+      "description": "Basic statistics for Julia",
+      "language": "Julia",
+      "stars": 193,
+      "forks": 105
+    },
+    {
+      "author": "BenLauwens",
+      "name": "ThinkJulia.jl",
+      "href": "https://github.com/BenLauwens/ThinkJulia.jl",
+      "description": "Port of the book Think Python to the Julia programming language",
+      "language": "Julia",
+      "stars": 165,
+      "forks": 26
+    },
+    {
+      "author": "JuliaCI",
+      "name": "Coverage.jl",
+      "href": "https://github.com/JuliaCI/Coverage.jl",
+      "description": "Take Julia code coverage and memory allocation results, do useful things with them",
+      "language": "Julia",
+      "stars": 64,
+      "forks": 54
+    },
+    {
+      "author": "stevengj",
+      "name": "HCubature.jl",
+      "href": "https://github.com/stevengj/HCubature.jl",
+      "description": "pure-Julia multidimensional h-adaptive integration",
+      "language": "Julia",
+      "stars": 34,
+      "forks": 9
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1562,
+      "forks": 270
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1304,
+      "forks": 209
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1167,
+      "forks": 246
+    },
+    {
+      "author": "FluxML",
+      "name": "Flux.jl",
+      "href": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "stars": 881,
+      "forks": 153
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 783,
+      "forks": 144
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia programming language.",
+      "language": "Julia",
+      "stars": 729,
+      "forks": 144
+    },
+    {
+      "author": "svaksha",
+      "name": "pythonidae",
+      "href": "https://github.com/svaksha/pythonidae",
+      "description": "Curated decibans of scientific programming resources in Python.",
+      "language": "Julia",
+      "stars": 682,
+      "forks": 149
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 680,
+      "forks": 149
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 670,
+      "forks": 61
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "JuMP.jl",
+      "href": "https://github.com/JuliaOpt/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+      "language": "Julia",
+      "stars": 663,
+      "forks": 175
+    },
+    {
+      "author": "JuliaData",
+      "name": "DataFrames.jl",
+      "href": "https://github.com/JuliaData/DataFrames.jl",
+      "description": "Library for working with tabular data in Julia",
+      "language": "Julia",
+      "stars": 564,
+      "forks": 221
+    },
+    {
+      "author": "malmaud",
+      "name": "TensorFlow.jl",
+      "href": "https://github.com/malmaud/TensorFlow.jl",
+      "description": "A Julia wrapper for TensorFlow",
+      "language": "Julia",
+      "stars": 518,
+      "forks": 84
+    }
+  ]
+}
