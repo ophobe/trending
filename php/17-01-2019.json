@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "href": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": 5879,
+      "forks": 388
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 48551,
+      "forks": 15069
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 15697,
+      "forks": 6153
+    },
+    {
+      "author": "jianyan74",
+      "name": "rageframe2",
+      "href": "https://github.com/jianyan74/rageframe2",
+      "description": "一个基于Yii2高级框架的快速开发应用引擎",
+      "language": "PHP",
+      "stars": 177,
+      "forks": 44
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 17989,
+      "forks": 5371
+    },
+    {
+      "author": "FriendsOfPHP",
+      "name": "PHP-CS-Fixer",
+      "href": "https://github.com/FriendsOfPHP/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": 7005,
+      "forks": 963
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 13339,
+      "forks": 1486
+    },
+    {
+      "author": "qbhy",
+      "name": "baidu-aip-sdk",
+      "href": "https://github.com/qbhy/baidu-aip-sdk",
+      "description": "百度AI开放平台 PHP SDK. 支持composer",
+      "language": "PHP",
+      "stars": 27,
+      "forks": 11
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19066,
+      "forks": 2307
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 9165,
+      "forks": 573
+    },
+    {
+      "author": "LycheeOrg",
+      "name": "Lychee",
+      "href": "https://github.com/LycheeOrg/Lychee",
+      "description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.",
+      "language": "PHP",
+      "stars": 378,
+      "forks": 46
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 5927,
+      "forks": 83
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "href": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": 4227,
+      "forks": 934
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 12739,
+      "forks": 1684
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 15311,
+      "forks": 1892
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 7122,
+      "forks": 723
+    },
+    {
+      "author": "php-fig",
+      "name": "simple-cache",
+      "href": "https://github.com/php-fig/simple-cache",
+      "description": null,
+      "language": "PHP",
+      "stars": 5496,
+      "forks": 20
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 5827,
+      "forks": 154
+    },
+    {
+      "author": "ralouphie",
+      "name": "getallheaders",
+      "href": "https://github.com/ralouphie/getallheaders",
+      "description": "PHP getallheaders polyfill",
+      "language": "PHP",
+      "stars": 622,
+      "forks": 22
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "href": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 6410,
+      "forks": 1102
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 5203,
+      "forks": 31
+    },
+    {
+      "author": "doctrine",
+      "name": "cache",
+      "href": "https://github.com/doctrine/cache",
+      "description": "Doctrine Cache component",
+      "language": "PHP",
+      "stars": 3527,
+      "forks": 186
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 5117,
+      "forks": 908
+    },
+    {
+      "author": "the-control-group",
+      "name": "voyager",
+      "href": "https://github.com/the-control-group/voyager",
+      "description": "Voyager - The Missing Laravel Admin",
+      "language": "PHP",
+      "stars": 7515,
+      "forks": 1746
+    },
+    {
+      "author": "guzzle",
+      "name": "psr7",
+      "href": "https://github.com/guzzle/psr7",
+      "description": "PSR-7 HTTP message library",
+      "language": "PHP",
+      "stars": 3880,
+      "forks": 156
+    }
+  ]
+}
