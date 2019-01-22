@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 14161,
+      "forks": 1601
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 11753,
+      "forks": 529
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 13438,
+      "forks": 679
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 3141,
+      "forks": 532
+    },
+    {
+      "author": "lierdakil",
+      "name": "pandoc-crossref",
+      "href": "https://github.com/lierdakil/pandoc-crossref",
+      "description": "Pandoc filter for cross-references",
+      "language": "Haskell",
+      "stars": 287,
+      "forks": 28
+    },
+    {
+      "author": "aquarial",
+      "name": "discord-haskell",
+      "href": "https://github.com/aquarial/discord-haskell",
+      "description": "Haskell library for writing Discord bots",
+      "language": "Haskell",
+      "stars": 26,
+      "forks": 7
+    },
+    {
+      "author": "sdiehl",
+      "name": "protolude",
+      "href": "https://github.com/sdiehl/protolude",
+      "description": "A sensible starting Prelude template.",
+      "language": "Haskell",
+      "stars": 300,
+      "forks": 34
+    },
+    {
+      "author": "kolmodin",
+      "name": "binary",
+      "href": "https://github.com/kolmodin/binary",
+      "description": "Efficient, pure binary serialisation using ByteStrings in Haskell.",
+      "language": "Haskell",
+      "stars": 76,
+      "forks": 45
+    },
+    {
+      "author": "haskell",
+      "name": "containers",
+      "href": "https://github.com/haskell/containers",
+      "description": "Assorted concrete container types",
+      "language": "Haskell",
+      "stars": 205,
+      "forks": 119
+    },
+    {
+      "author": "haskell",
+      "name": "win32",
+      "href": "https://github.com/haskell/win32",
+      "description": "Haskell support for the Win32 API",
+      "language": "Haskell",
+      "stars": 56,
+      "forks": 41
+    },
+    {
+      "author": "snowleopard",
+      "name": "alga",
+      "href": "https://github.com/snowleopard/alga",
+      "description": "Algebraic graphs",
+      "language": "Haskell",
+      "stars": 398,
+      "forks": 33
+    },
+    {
+      "author": "conal",
+      "name": "vector-space",
+      "href": "https://github.com/conal/vector-space",
+      "description": "Vector & affine spaces, linear maps, and derivatives",
+      "language": "Haskell",
+      "stars": 32,
+      "forks": 19
+    },
+    {
+      "author": "bgamari",
+      "name": "monoidal-containers",
+      "href": "https://github.com/bgamari/monoidal-containers",
+      "description": "Maps using values' monoidal structure during merging",
+      "language": "Haskell",
+      "stars": 21,
+      "forks": 10
+    },
+    {
+      "author": "MarcWeber",
+      "name": "hasktags",
+      "href": "https://github.com/MarcWeber/hasktags",
+      "description": "Produces ctags \"tags\" and etags \"TAGS\" files for Haskell programs",
+      "language": "Haskell",
+      "stars": 84,
+      "forks": 30
+    },
+    {
+      "author": "owickstrom",
+      "name": "pandoc-include-code",
+      "href": "https://github.com/owickstrom/pandoc-include-code",
+      "description": "A Pandoc filter for including code from source files",
+      "language": "Haskell",
+      "stars": 47,
+      "forks": 7
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5437,
+      "forks": 404
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 4980,
+      "forks": 392
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3429,
+      "forks": 275
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 2967,
+      "forks": 666
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2731,
+      "forks": 69
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2704,
+      "forks": 605
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2667,
+      "forks": 1013
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2509,
+      "forks": 92
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2421,
+      "forks": 138
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 2352,
+      "forks": 192
+    }
+  ]
+}
