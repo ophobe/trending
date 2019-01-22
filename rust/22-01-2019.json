@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "djc",
+      "name": "quinn",
+      "href": "https://github.com/djc/quinn",
+      "description": "Futures-based QUIC implementation in Rust",
+      "language": "Rust",
+      "stars": 566,
+      "forks": 32
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 95,
+      "forks": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33416,
+      "forks": 5483
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3593,
+      "forks": 599
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14135,
+      "forks": 610
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11681,
+      "forks": 211
+    },
+    {
+      "author": "dtolnay",
+      "name": "ryu",
+      "href": "https://github.com/dtolnay/ryu",
+      "description": "Fast floating point to string conversion",
+      "language": "Rust",
+      "stars": 47,
+      "forks": 3
+    },
+    {
+      "author": "mre",
+      "name": "prettyprint",
+      "href": "https://github.com/mre/prettyprint",
+      "description": "Beautifully formatted output for your terminal 🌈",
+      "language": "Rust",
+      "stars": 116,
+      "forks": 5
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9328,
+      "forks": 621
+    },
+    {
+      "author": "HeroicKatora",
+      "name": "oxide-auth",
+      "href": "https://github.com/HeroicKatora/oxide-auth",
+      "description": "A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.",
+      "language": "Rust",
+      "stars": 71,
+      "forks": 5
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13247,
+      "forks": 2044
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12410,
+      "forks": 505
+    },
+    {
+      "author": "sharkdp",
+      "name": "hexyl",
+      "href": "https://github.com/sharkdp/hexyl",
+      "description": "A command-line hex viewer",
+      "language": "Rust",
+      "stars": 3732,
+      "forks": 85
+    },
+    {
+      "author": "toshi-search",
+      "name": "Toshi",
+      "href": "https://github.com/toshi-search/Toshi",
+      "description": "A full-text search engine in rust",
+      "language": "Rust",
+      "stars": 1764,
+      "forks": 41
+    },
+    {
+      "author": "tsgates",
+      "name": "rust.ko",
+      "href": "https://github.com/tsgates/rust.ko",
+      "description": "A minimal Linux kernel module written in rust.",
+      "language": "Rust",
+      "stars": 538,
+      "forks": 52
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 421,
+      "forks": 14
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 463,
+      "forks": 46
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "(alpha) modern embedded database",
+      "language": "Rust",
+      "stars": 1706,
+      "forks": 58
+    },
+    {
+      "author": "andygrove",
+      "name": "datafusion",
+      "href": "https://github.com/andygrove/datafusion",
+      "description": "DataFusion is an attempt at building a modern distributed compute platform in Rust, using Apache Arrow as the memory model",
+      "language": "Rust",
+      "stars": 496,
+      "forks": 49
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4567,
+      "forks": 536
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4437,
+      "forks": 634
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 3110,
+      "forks": 221
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3900,
+      "forks": 290
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7042,
+      "forks": 386
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 3410,
+      "forks": 112
+    }
+  ]
+}
