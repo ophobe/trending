@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "awslabs",
+      "name": "aws-lambda-container-image-converter",
+      "href": "https://github.com/awslabs/aws-lambda-container-image-converter",
+      "description": "The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda layers, and publishes them as new layer versions.",
+      "language": "Go",
+      "stars": 363,
+      "forks": 10
+    },
+    {
+      "author": "lalamove",
+      "name": "konfig",
+      "href": "https://github.com/lalamove/konfig",
+      "description": "Composable, observable and performant config handling for Go for the distributed processing era",
+      "language": "Go",
+      "stars": 270,
+      "forks": 8
+    },
+    {
+      "author": "mholt",
+      "name": "timeliner",
+      "href": "https://github.com/mholt/timeliner",
+      "description": "All your digital life on a single timeline, stored locally",
+      "language": "Go",
+      "stars": 322,
+      "forks": 7
+    },
+    {
+      "author": "XiaoMi",
+      "name": "soar",
+      "href": "https://github.com/XiaoMi/soar",
+      "description": "SQL Optimizer And Rewriter",
+      "language": "Go",
+      "stars": 4109,
+      "forks": 515
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47312,
+      "forks": 16439
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52311,
+      "forks": 7186
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39250,
+      "forks": 5102
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32033,
+      "forks": 3670
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 16832,
+      "forks": 593
+    },
+    {
+      "author": "Drakirus",
+      "name": "go-flutter-desktop-embedder",
+      "href": "https://github.com/Drakirus/go-flutter-desktop-embedder",
+      "description": "A Go (golang) Custom Flutter Engine Embedder for desktop",
+      "language": "Go",
+      "stars": 1333,
+      "forks": 58
+    },
+    {
+      "author": "fanpei91",
+      "name": "torsniff",
+      "href": "https://github.com/fanpei91/torsniff",
+      "description": "torsniff - a sniffer fetching torrents from BitTorrent network",
+      "language": "Go",
+      "stars": 3105,
+      "forks": 807
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4822,
+      "forks": 181
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 14626,
+      "forks": 2317
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 22551,
+      "forks": 4492
+    },
+    {
+      "author": "martinraison",
+      "name": "ascii-tv",
+      "href": "https://github.com/martinraison/ascii-tv",
+      "description": "Stream ASCII movies over HTTP",
+      "language": "Go",
+      "stars": 275,
+      "forks": 6
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 39788,
+      "forks": 8860
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 10808,
+      "forks": 1472
+    },
+    {
+      "author": "twpayne",
+      "name": "chezmoi",
+      "href": "https://github.com/twpayne/chezmoi",
+      "description": "Manage your dotfiles securely across multiple machines.",
+      "language": "Go",
+      "stars": 1316,
+      "forks": 32
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "href": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": 1563,
+      "forks": 60
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 19182,
+      "forks": 3427
+    },
+    {
+      "author": "go-chassis",
+      "name": "go-chassis",
+      "href": "https://github.com/go-chassis/go-chassis",
+      "description": "a microservice framework for rapid development of micro services in Go",
+      "language": "Go",
+      "stars": 912,
+      "forks": 171
+    },
+    {
+      "author": "thought-machine",
+      "name": "please",
+      "href": "https://github.com/thought-machine/please",
+      "description": "High-performance extensible build system for reproducible builds.",
+      "language": "Go",
+      "stars": 576,
+      "forks": 51
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 19982,
+      "forks": 2052
+    },
+    {
+      "author": "gaia-pipeline",
+      "name": "gaia",
+      "href": "https://github.com/gaia-pipeline/gaia",
+      "description": "Build powerful pipelines in any programming language.",
+      "language": "Go",
+      "stars": 3340,
+      "forks": 129
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12890,
+      "forks": 2863
+    }
+  ]
+}
