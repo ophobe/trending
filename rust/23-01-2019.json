@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 268,
+      "forks": 9
+    },
+    {
+      "author": "djc",
+      "name": "quinn",
+      "href": "https://github.com/djc/quinn",
+      "description": "Futures-based QUIC implementation in Rust",
+      "language": "Rust",
+      "stars": 627,
+      "forks": 35
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33455,
+      "forks": 5487
+    },
+    {
+      "author": "dtolnay",
+      "name": "ryu",
+      "href": "https://github.com/dtolnay/ryu",
+      "description": "Fast floating point to string conversion",
+      "language": "Rust",
+      "stars": 73,
+      "forks": 4
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11701,
+      "forks": 210
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7061,
+      "forks": 390
+    },
+    {
+      "author": "lark-exploration",
+      "name": "lark",
+      "href": "https://github.com/lark-exploration/lark",
+      "description": "A demand-driven compiler with strong IDE support",
+      "language": "Rust",
+      "stars": 84,
+      "forks": 6
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 488,
+      "forks": 47
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13262,
+      "forks": 2045
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3601,
+      "forks": 606
+    },
+    {
+      "author": "fralalonde",
+      "name": "dipstick",
+      "href": "https://github.com/fralalonde/dipstick",
+      "description": "Configurable metrics toolkit for Rust applications",
+      "language": "Rust",
+      "stars": 40,
+      "forks": 3
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12426,
+      "forks": 504
+    },
+    {
+      "author": "sharkdp",
+      "name": "hexyl",
+      "href": "https://github.com/sharkdp/hexyl",
+      "description": "A command-line hex viewer",
+      "language": "Rust",
+      "stars": 3747,
+      "forks": 86
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9336,
+      "forks": 620
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "(alpha) modern embedded database",
+      "language": "Rust",
+      "stars": 1715,
+      "forks": 58
+    },
+    {
+      "author": "chinedufn",
+      "name": "webgl-water-tutorial",
+      "href": "https://github.com/chinedufn/webgl-water-tutorial",
+      "description": "The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly",
+      "language": "Rust",
+      "stars": 178,
+      "forks": 6
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14145,
+      "forks": 611
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2465,
+      "forks": 296
+    },
+    {
+      "author": "toshi-search",
+      "name": "Toshi",
+      "href": "https://github.com/toshi-search/Toshi",
+      "description": "A full-text search engine in rust",
+      "language": "Rust",
+      "stars": 1771,
+      "forks": 42
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4576,
+      "forks": 537
+    },
+    {
+      "author": "tsgates",
+      "name": "rust.ko",
+      "href": "https://github.com/tsgates/rust.ko",
+      "description": "A minimal Linux kernel module written in rust.",
+      "language": "Rust",
+      "stars": 544,
+      "forks": 52
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4444,
+      "forks": 636
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3902,
+      "forks": 290
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 3494,
+      "forks": 341
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 1925,
+      "forks": 48
+    }
+  ]
+}
