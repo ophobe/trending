@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "dtolnay",
+      "name": "typetag",
+      "href": "https://github.com/dtolnay/typetag",
+      "description": "Serde serializable and deserializable trait objects",
+      "language": "Rust",
+      "stars": 110,
+      "forks": 1
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 344,
+      "forks": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33489,
+      "forks": 5487
+    },
+    {
+      "author": "dtolnay",
+      "name": "inventory",
+      "href": "https://github.com/dtolnay/inventory",
+      "description": "Typed distributed plugin registration",
+      "language": "Rust",
+      "stars": 34,
+      "forks": 1
+    },
+    {
+      "author": "sharkdp",
+      "name": "hexyl",
+      "href": "https://github.com/sharkdp/hexyl",
+      "description": "A command-line hex viewer",
+      "language": "Rust",
+      "stars": 3767,
+      "forks": 88
+    },
+    {
+      "author": "krl",
+      "name": "appendix",
+      "href": "https://github.com/krl/appendix",
+      "description": "Append-only, on-disk key-value index",
+      "language": "Rust",
+      "stars": 32,
+      "forks": 1
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 504,
+      "forks": 47
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11720,
+      "forks": 210
+    },
+    {
+      "author": "djc",
+      "name": "quinn",
+      "href": "https://github.com/djc/quinn",
+      "description": "Futures-based QUIC implementation in Rust",
+      "language": "Rust",
+      "stars": 648,
+      "forks": 35
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3615,
+      "forks": 609
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7076,
+      "forks": 391
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13275,
+      "forks": 2045
+    },
+    {
+      "author": "neon-bindings",
+      "name": "neon",
+      "href": "https://github.com/neon-bindings/neon",
+      "description": "Rust bindings for writing safe and fast native Node.js modules.",
+      "language": "Rust",
+      "stars": 3034,
+      "forks": 130
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12434,
+      "forks": 505
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9345,
+      "forks": 620
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 438,
+      "forks": 14
+    },
+    {
+      "author": "wezm",
+      "name": "read-rust",
+      "href": "https://github.com/wezm/read-rust",
+      "description": "Read Rust allows you to keep up articles about the Rust programming language",
+      "language": "Rust",
+      "stars": 42,
+      "forks": 1
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4584,
+      "forks": 537
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4452,
+      "forks": 638
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14149,
+      "forks": 611
+    },
+    {
+      "author": "vislyhq",
+      "name": "stretch",
+      "href": "https://github.com/vislyhq/stretch",
+      "description": "High performance flexbox implementation written in rust",
+      "language": "Rust",
+      "stars": 215,
+      "forks": 10
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3908,
+      "forks": 291
+    },
+    {
+      "author": "dtolnay",
+      "name": "syn",
+      "href": "https://github.com/dtolnay/syn",
+      "description": "Parser for Rust source code",
+      "language": "Rust",
+      "stars": 447,
+      "forks": 68
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15577,
+      "forks": 566
+    },
+    {
+      "author": "toshi-search",
+      "name": "Toshi",
+      "href": "https://github.com/toshi-search/Toshi",
+      "description": "A full-text search engine in rust",
+      "language": "Rust",
+      "stars": 1776,
+      "forks": 42
+    }
+  ]
+}
