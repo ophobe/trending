@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ARMmbed",
+      "name": "littlefs",
+      "href": "https://github.com/ARMmbed/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": 715,
+      "forks": 128
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 68569,
+      "forks": 24699
+    },
+    {
+      "author": "citusdata",
+      "name": "citus",
+      "href": "https://github.com/citusdata/citus",
+      "description": "Scalable PostgreSQL for multi-tenant and real-time analytics workloads",
+      "language": "C",
+      "stars": 3207,
+      "forks": 235
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 33981,
+      "forks": 13014
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 34978,
+      "forks": 3023
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 25853,
+      "forks": 14936
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 10246,
+      "forks": 693
+    },
+    {
+      "author": "bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 21967,
+      "forks": 5842
+    },
+    {
+      "author": "RIOT-OS",
+      "name": "RIOT",
+      "href": "https://github.com/RIOT-OS/RIOT",
+      "description": "RIOT - The friendly OS for IoT",
+      "language": "C",
+      "stars": 2257,
+      "forks": 1221
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11525,
+      "forks": 6402
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 11937,
+      "forks": 2531
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13625,
+      "forks": 5205
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 18922,
+      "forks": 1515
+    },
+    {
+      "author": "DoubleLabyrinth",
+      "name": "navicat-keygen",
+      "href": "https://github.com/DoubleLabyrinth/navicat-keygen",
+      "description": "A keygen for Navicat",
+      "language": "C",
+      "stars": 3690,
+      "forks": 985
+    },
+    {
+      "author": "wil3",
+      "name": "neuroflight",
+      "href": "https://github.com/wil3/neuroflight",
+      "description": "Next Generation Flight Controller Firmware",
+      "language": "C",
+      "stars": 34,
+      "forks": 1129
+    },
+    {
+      "author": "littlevgl",
+      "name": "lvgl",
+      "href": "https://github.com/littlevgl/lvgl",
+      "description": "Graphics library to create embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. Anti-aliasing, opacity, animations using only one frame buffer.",
+      "language": "C",
+      "stars": 1112,
+      "forks": 346
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 11394,
+      "forks": 1863
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21500,
+      "forks": 5200
+    },
+    {
+      "author": "vim",
+      "name": "vim",
+      "href": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "C",
+      "stars": 15355,
+      "forks": 1991
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 7726,
+      "forks": 2940
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 Tiny, lightning fast, feature-packed file manager",
+      "language": "C",
+      "stars": 4371,
+      "forks": 141
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9396,
+      "forks": 3270
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 4867,
+      "forks": 6564
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 9301,
+      "forks": 4162
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 9210,
+      "forks": 780
+    }
+  ]
+}
