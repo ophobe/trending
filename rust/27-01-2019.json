@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "vi",
+      "name": "websocat",
+      "href": "https://github.com/vi/websocat",
+      "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+      "language": "Rust",
+      "stars": 506,
+      "forks": 20
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33594,
+      "forks": 5490
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14185,
+      "forks": 613
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 1729,
+      "forks": 264
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12466,
+      "forks": 508
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 397,
+      "forks": 13
+    },
+    {
+      "author": "flosse",
+      "name": "rust-web-framework-comparison",
+      "href": "https://github.com/flosse/rust-web-framework-comparison",
+      "description": "A comparison of some web frameworks and libs written in Rust",
+      "language": "Rust",
+      "stars": 1062,
+      "forks": 49
+    },
+    {
+      "author": "rustindia",
+      "name": "Rust-for-undergrads",
+      "href": "https://github.com/rustindia/Rust-for-undergrads",
+      "description": "C/C++ programming probelms re-written in Rust",
+      "language": "Rust",
+      "stars": 197,
+      "forks": 110
+    },
+    {
+      "author": "Hentioe",
+      "name": "manga-rs",
+      "href": "https://github.com/Hentioe/manga-rs",
+      "description": "A manga(comic/album) export tool written in Rust",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 1
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 5705,
+      "forks": 176
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3644,
+      "forks": 618
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 8299,
+      "forks": 214
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4472,
+      "forks": 641
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13298,
+      "forks": 2049
+    },
+    {
+      "author": "holochain",
+      "name": "holochain-rust",
+      "href": "https://github.com/holochain/holochain-rust",
+      "description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes",
+      "language": "Rust",
+      "stars": 328,
+      "forks": 74
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11765,
+      "forks": 211
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9369,
+      "forks": 622
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "Universal Binaries Powered by WebAssembly",
+      "language": "Rust",
+      "stars": 1518,
+      "forks": 40
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7119,
+      "forks": 393
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust. https://xi-editor.github.io/xi-editor",
+      "language": "Rust",
+      "stars": 15591,
+      "forks": 567
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 3945,
+      "forks": 881
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2488,
+      "forks": 298
+    },
+    {
+      "author": "nuclearfurnace",
+      "name": "synchrotron",
+      "href": "https://github.com/nuclearfurnace/synchrotron",
+      "description": "Caching layer load balancer.",
+      "language": "Rust",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4603,
+      "forks": 540
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 1937,
+      "forks": 47
+    }
+  ]
+}
