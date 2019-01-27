@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 11572,
+      "forks": 665
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52458,
+      "forks": 7218
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47456,
+      "forks": 16484
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 19303,
+      "forks": 3446
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-lambda-container-image-converter",
+      "href": "https://github.com/awslabs/aws-lambda-container-image-converter",
+      "description": "The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda layers, and publishes them as new layer versions.",
+      "language": "Go",
+      "stars": 755,
+      "forks": 22
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 4973,
+      "forks": 193
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39360,
+      "forks": 5116
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 14720,
+      "forks": 2340
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 10970,
+      "forks": 1490
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 5120,
+      "forks": 345
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 14484,
+      "forks": 1321
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20071,
+      "forks": 2064
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32130,
+      "forks": 3678
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 39872,
+      "forks": 8871
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 7454,
+      "forks": 550
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12956,
+      "forks": 2875
+    },
+    {
+      "author": "jpillora",
+      "name": "chisel",
+      "href": "https://github.com/jpillora/chisel",
+      "description": "A fast TCP tunnel over HTTP",
+      "language": "Go",
+      "stars": 2529,
+      "forks": 281
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 12658,
+      "forks": 988
+    },
+    {
+      "author": "flike",
+      "name": "kingbus",
+      "href": "https://github.com/flike/kingbus",
+      "description": "A distributed MySQL binlog storage system built on Raft",
+      "language": "Go",
+      "stars": 453,
+      "forks": 32
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 12053,
+      "forks": 1266
+    },
+    {
+      "author": "yinchengtsinghua",
+      "name": "golang-Eos-dpos-Ethereum",
+      "href": "https://github.com/yinchengtsinghua/golang-Eos-dpos-Ethereum",
+      "description": "基于以太坊实现EOS的dpos共识算法，实现go版本EOS的dpos公链",
+      "language": "Go",
+      "stars": 89,
+      "forks": 22
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 23981,
+      "forks": 2810
+    },
+    {
+      "author": "Shimmur",
+      "name": "shipspotter",
+      "href": "https://github.com/Shimmur/shipspotter",
+      "description": "Tool for tunneling a port forward into remote Docker containers over SSH",
+      "language": "Go",
+      "stars": 75,
+      "forks": 1
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 3285,
+      "forks": 495
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 27613,
+      "forks": 7780
+    }
+  ]
+}
