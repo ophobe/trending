@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 12103,
+      "forks": 670
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 27680,
+      "forks": 7787
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-lambda-container-image-converter",
+      "href": "https://github.com/awslabs/aws-lambda-container-image-converter",
+      "description": "The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda layers, and publishes them as new layer versions.",
+      "language": "Go",
+      "stars": 816,
+      "forks": 23
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47498,
+      "forks": 16494
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 19349,
+      "forks": 3450
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 5012,
+      "forks": 201
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52493,
+      "forks": 7225
+    },
+    {
+      "author": "jpillora",
+      "name": "chisel",
+      "href": "https://github.com/jpillora/chisel",
+      "description": "A fast TCP tunnel over HTTP",
+      "language": "Go",
+      "stars": 2575,
+      "forks": 282
+    },
+    {
+      "author": "flike",
+      "name": "kingbus",
+      "href": "https://github.com/flike/kingbus",
+      "description": "A distributed MySQL binlog storage system built on Raft",
+      "language": "Go",
+      "stars": 494,
+      "forks": 37
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 16986,
+      "forks": 594
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39394,
+      "forks": 5119
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 12988,
+      "forks": 2880
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 1389,
+      "forks": 252
+    },
+    {
+      "author": "TheTannerRyan",
+      "name": "ring",
+      "href": "https://github.com/TheTannerRyan/ring",
+      "description": "Package ring provides a high performance and thread safe Go implementation of a bloom filter.",
+      "language": "Go",
+      "stars": 66,
+      "forks": 2
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24007,
+      "forks": 2817
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20101,
+      "forks": 2066
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 22633,
+      "forks": 4513
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 12079,
+      "forks": 1271
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32157,
+      "forks": 3680
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 13537,
+      "forks": 420
+    },
+    {
+      "author": "easmith",
+      "name": "p2p-messenger",
+      "href": "https://github.com/easmith/p2p-messenger",
+      "description": "Peer To Peer Messenger",
+      "language": "Go",
+      "stars": 29,
+      "forks": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 15358,
+      "forks": 4373
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 10994,
+      "forks": 1492
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 9804,
+      "forks": 3219
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 3307,
+      "forks": 498
+    }
+  ]
+}
