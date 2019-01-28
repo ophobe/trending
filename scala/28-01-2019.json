@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 20411,
+      "forks": 17985
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma enables seamless type-safe database access & declarative data modeling",
+      "language": "Scala",
+      "stars": 12372,
+      "forks": 718
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11213,
+      "forks": 2634
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6646,
+      "forks": 1665
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Work-in-progress language server for Scala",
+      "language": "Scala",
+      "stars": 501,
+      "forks": 58
+    },
+    {
+      "author": "Netflix",
+      "name": "atlas",
+      "href": "https://github.com/Netflix/atlas",
+      "description": "In-memory dimensional time series database.",
+      "language": "Scala",
+      "stars": 2238,
+      "forks": 191
+    },
+    {
+      "author": "functional-streams-for-scala",
+      "name": "fs2",
+      "href": "https://github.com/functional-streams-for-scala/fs2",
+      "description": "Compositional, streaming I/O library for Scala",
+      "language": "Scala",
+      "stars": 1301,
+      "forks": 335
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5025,
+      "forks": 772
+    },
+    {
+      "author": "playframework",
+      "name": "play-mailer",
+      "href": "https://github.com/playframework/play-mailer",
+      "description": "Play mailer plugin",
+      "language": "Scala",
+      "stars": 227,
+      "forks": 69
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-fresh",
+      "href": "https://github.com/sbt/sbt-fresh",
+      "description": "sbt-plugin to create an opinionated fresh sbt project",
+      "language": "Scala",
+      "stars": 208,
+      "forks": 15
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-assembly",
+      "href": "https://github.com/sbt/sbt-assembly",
+      "description": "Deploy fat JARs. Restart processes. (port of codahale/assembly-sbt)",
+      "language": "Scala",
+      "stars": 1437,
+      "forks": 180
+    },
+    {
+      "author": "pluralsight",
+      "name": "hydra",
+      "href": "https://github.com/pluralsight/hydra",
+      "description": "A real-time data replication platform that \"unbundles\" the receiving, transforming, and transport of data streams.",
+      "language": "Scala",
+      "stars": 43,
+      "forks": 10
+    },
+    {
+      "author": "getquill",
+      "name": "quill",
+      "href": "https://github.com/getquill/quill",
+      "description": "Compile-time Language Integrated Queries for Scala",
+      "language": "Scala",
+      "stars": 1357,
+      "forks": 199
+    },
+    {
+      "author": "akka",
+      "name": "alpakka-kafka",
+      "href": "https://github.com/akka/alpakka-kafka",
+      "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 1115,
+      "forks": 323
+    },
+    {
+      "author": "scalastyle",
+      "name": "scalastyle",
+      "href": "https://github.com/scalastyle/scalastyle",
+      "description": "scalastyle",
+      "language": "Scala",
+      "stars": 594,
+      "forks": 185
+    },
+    {
+      "author": "mesosphere",
+      "name": "marathon",
+      "href": "https://github.com/mesosphere/marathon",
+      "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+      "language": "Scala",
+      "stars": 3799,
+      "forks": 876
+    },
+    {
+      "author": "dotty-staging",
+      "name": "dotty",
+      "href": "https://github.com/dotty-staging/dotty",
+      "description": "Research platform for new language concepts and compiler technologies for Scala.",
+      "language": "Scala",
+      "stars": 71,
+      "forks": 454
+    },
+    {
+      "author": "ornicar",
+      "name": "scalachess",
+      "href": "https://github.com/ornicar/scalachess",
+      "description": "Chess API written in scala. Immutable and free of side effects.",
+      "language": "Scala",
+      "stars": 250,
+      "forks": 97
+    },
+    {
+      "author": "ChristopherDavenport",
+      "name": "fuuid",
+      "href": "https://github.com/ChristopherDavenport/fuuid",
+      "description": "Functional UUID's for Scala",
+      "language": "Scala",
+      "stars": 60,
+      "forks": 13
+    },
+    {
+      "author": "lihaoyi",
+      "name": "acyclic",
+      "href": "https://github.com/lihaoyi/acyclic",
+      "description": "Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files",
+      "language": "Scala",
+      "stars": 204,
+      "forks": 20
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 833,
+      "forks": 407
+    },
+    {
+      "author": "rchain",
+      "name": "rchain",
+      "href": "https://github.com/rchain/rchain",
+      "description": null,
+      "language": "Scala",
+      "stars": 520,
+      "forks": 151
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.",
+      "language": "Scala",
+      "stars": 11634,
+      "forks": 1899
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10923,
+      "forks": 3694
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9487,
+      "forks": 2934
+    }
+  ]
+}
