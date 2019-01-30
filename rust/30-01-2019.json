@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam",
+      "href": "https://github.com/crossbeam-rs/crossbeam",
+      "description": "Tools for concurrent programming in Rust",
+      "language": "Rust",
+      "stars": 1448,
+      "forks": 93
+    },
+    {
+      "author": "kpcyrd",
+      "name": "sn0int",
+      "href": "https://github.com/kpcyrd/sn0int",
+      "description": "Semi-automatic OSINT framework and package manager",
+      "language": "Rust",
+      "stars": 214,
+      "forks": 11
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33701,
+      "forks": 5499
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 635,
+      "forks": 19
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3687,
+      "forks": 632
+    },
+    {
+      "author": "salsa-rs",
+      "name": "salsa",
+      "href": "https://github.com/salsa-rs/salsa",
+      "description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.",
+      "language": "Rust",
+      "stars": 263,
+      "forks": 12
+    },
+    {
+      "author": "jonhoo",
+      "name": "inferno",
+      "href": "https://github.com/jonhoo/inferno",
+      "description": "A Rust port of FlameGraph",
+      "language": "Rust",
+      "stars": 96,
+      "forks": 5
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12502,
+      "forks": 509
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14224,
+      "forks": 613
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 6333,
+      "forks": 409
+    },
+    {
+      "author": "pingcap",
+      "name": "raft-rs",
+      "href": "https://github.com/pingcap/raft-rs",
+      "description": "Raft distributed consensus algorithm implemented in Rust.",
+      "language": "Rust",
+      "stars": 546,
+      "forks": 73
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 6441,
+      "forks": 229
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11806,
+      "forks": 214
+    },
+    {
+      "author": "dtolnay",
+      "name": "cargo-expand",
+      "href": "https://github.com/dtolnay/cargo-expand",
+      "description": "Subcommand to show result of macro expansion and #[derive] expansion",
+      "language": "Rust",
+      "stars": 273,
+      "forks": 6
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13328,
+      "forks": 2051
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9409,
+      "forks": 621
+    },
+    {
+      "author": "djc",
+      "name": "quinn",
+      "href": "https://github.com/djc/quinn",
+      "description": "Futures-based QUIC implementation in Rust",
+      "language": "Rust",
+      "stars": 705,
+      "forks": 38
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 546,
+      "forks": 49
+    },
+    {
+      "author": "dtolnay",
+      "name": "typetag",
+      "href": "https://github.com/dtolnay/typetag",
+      "description": "Serde serializable and deserializable trait objects",
+      "language": "Rust",
+      "stars": 154,
+      "forks": 1
+    },
+    {
+      "author": "xiph",
+      "name": "rav1e",
+      "href": "https://github.com/xiph/rav1e",
+      "description": "The fastest and safest AV1 encoder.",
+      "language": "Rust",
+      "stars": 961,
+      "forks": 71
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4497,
+      "forks": 643
+    },
+    {
+      "author": "flosse",
+      "name": "rust-web-framework-comparison",
+      "href": "https://github.com/flosse/rust-web-framework-comparison",
+      "description": "A comparison of some web frameworks and libs written in Rust",
+      "language": "Rust",
+      "stars": 1099,
+      "forks": 51
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7159,
+      "forks": 396
+    },
+    {
+      "author": "germangb",
+      "name": "imgui-ext",
+      "href": "https://github.com/germangb/imgui-ext",
+      "description": "Rust crate to build imgui GUIs using a derive macro",
+      "language": "Rust",
+      "stars": 44,
+      "forks": 0
+    },
+    {
+      "author": "lark-exploration",
+      "name": "lark",
+      "href": "https://github.com/lark-exploration/lark",
+      "description": "A demand-driven compiler with strong IDE support",
+      "language": "Rust",
+      "stars": 116,
+      "forks": 7
+    }
+  ]
+}
