@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "uber",
+      "name": "aresdb",
+      "href": "https://github.com/uber/aresdb",
+      "description": "AresDB is a GPU-powered real-time analytics storage and query engine.",
+      "language": "Go",
+      "stars": 621,
+      "forks": 26
+    },
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 12659,
+      "forks": 695
+    },
+    {
+      "author": "opensec-cn",
+      "name": "kunpeng",
+      "href": "https://github.com/opensec-cn/kunpeng",
+      "description": "kunpeng是一个Golang编写的开源POC检测框架，以动态链接库的形式提供各种语言调用，通过此项目可快速对目标进行安全漏洞检测，比攻击者快一步发现风险漏洞。",
+      "language": "Go",
+      "stars": 123,
+      "forks": 15
+    },
+    {
+      "author": "bytedance",
+      "name": "go-tagexpr",
+      "href": "https://github.com/bytedance/go-tagexpr",
+      "description": "An interesting go struct tag expression syntax for field validation, etc.",
+      "language": "Go",
+      "stars": 211,
+      "forks": 12
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52592,
+      "forks": 7237
+    },
+    {
+      "author": "bxcodec",
+      "name": "faker",
+      "href": "https://github.com/bxcodec/faker",
+      "description": "Go (Golang) Fake Data Generator for Struct",
+      "language": "Go",
+      "stars": 296,
+      "forks": 31
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47575,
+      "forks": 16525
+    },
+    {
+      "author": "dgageot",
+      "name": "demoit",
+      "href": "https://github.com/dgageot/demoit",
+      "description": "Live coding demos without Context Switching",
+      "language": "Go",
+      "stars": 226,
+      "forks": 14
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39463,
+      "forks": 5127
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 2549,
+      "forks": 248
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 1778,
+      "forks": 179
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 5090,
+      "forks": 206
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 11069,
+      "forks": 1504
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 22685,
+      "forks": 4526
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32217,
+      "forks": 3683
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20163,
+      "forks": 2074
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 21764,
+      "forks": 2959
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24058,
+      "forks": 2825
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17045,
+      "forks": 594
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 19412,
+      "forks": 3461
+    },
+    {
+      "author": "sjqzhang",
+      "name": "go-fastdfs",
+      "href": "https://github.com/sjqzhang/go-fastdfs",
+      "description": "A simple fast, easy use distributed file system written by golang(similar fastdfs).一个简单的分布式文件存储服务（类fastdfs,称go-fastdfs），高性能，高可靠，运维方面省力省心，极其简单的设计让扩展随心所欲",
+      "language": "Go",
+      "stars": 132,
+      "forks": 19
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 14546,
+      "forks": 1327
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 17154,
+      "forks": 2461
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 12126,
+      "forks": 1274
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 13580,
+      "forks": 422
+    }
+  ]
+}
