@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam",
+      "href": "https://github.com/crossbeam-rs/crossbeam",
+      "description": "Tools for concurrent programming in Rust",
+      "language": "Rust",
+      "stars": 1497,
+      "forks": 93
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33733,
+      "forks": 5502
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 659,
+      "forks": 19
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11830,
+      "forks": 216
+    },
+    {
+      "author": "kpcyrd",
+      "name": "sn0int",
+      "href": "https://github.com/kpcyrd/sn0int",
+      "description": "Semi-automatic OSINT framework and package manager",
+      "language": "Rust",
+      "stars": 236,
+      "forks": 13
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14241,
+      "forks": 615
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9423,
+      "forks": 621
+    },
+    {
+      "author": "myfreeweb",
+      "name": "galacritty",
+      "href": "https://github.com/myfreeweb/galacritty",
+      "description": "WIP GTK terminal emulator based on Alacritty",
+      "language": "Rust",
+      "stars": 75,
+      "forks": 3
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4508,
+      "forks": 644
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12515,
+      "forks": 508
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13337,
+      "forks": 2054
+    },
+    {
+      "author": "salsa-rs",
+      "name": "salsa",
+      "href": "https://github.com/salsa-rs/salsa",
+      "description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.",
+      "language": "Rust",
+      "stars": 274,
+      "forks": 12
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 6341,
+      "forks": 411
+    },
+    {
+      "author": "vi",
+      "name": "websocat",
+      "href": "https://github.com/vi/websocat",
+      "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+      "language": "Rust",
+      "stars": 570,
+      "forks": 21
+    },
+    {
+      "author": "rayon-rs",
+      "name": "rayon",
+      "href": "https://github.com/rayon-rs/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 2577,
+      "forks": 173
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 1966,
+      "forks": 47
+    },
+    {
+      "author": "ozkriff",
+      "name": "zemeroth",
+      "href": "https://github.com/ozkriff/zemeroth",
+      "description": "Zemeroth is a 2D turn-based tactical game in Rust.",
+      "language": "Rust",
+      "stars": 404,
+      "forks": 17
+    },
+    {
+      "author": "taiki-e",
+      "name": "auto_enums",
+      "href": "https://github.com/taiki-e/auto_enums",
+      "description": "A library for to allow multiple return types by automatically generated enum in Rust.",
+      "language": "Rust",
+      "stars": 33,
+      "forks": 0
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3693,
+      "forks": 636
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3948,
+      "forks": 296
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7165,
+      "forks": 397
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 3536,
+      "forks": 346
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 8336,
+      "forks": 214
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 1808,
+      "forks": 159
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5196,
+      "forks": 1179
+    }
+  ]
+}
