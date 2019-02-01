@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast alternative for babel written in rust",
+      "language": "Rust",
+      "stars": 3206,
+      "forks": 48
+    },
+    {
+      "author": "elichai",
+      "name": "log-derive",
+      "href": "https://github.com/elichai/log-derive",
+      "description": null,
+      "language": "Rust",
+      "stars": 52,
+      "forks": 0
+    },
+    {
+      "author": "vi",
+      "name": "websocat",
+      "href": "https://github.com/vi/websocat",
+      "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+      "language": "Rust",
+      "stars": 604,
+      "forks": 22
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33755,
+      "forks": 5504
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 11857,
+      "forks": 216
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 1364,
+      "forks": 122
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3710,
+      "forks": 638
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 398,
+      "forks": 29
+    },
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam",
+      "href": "https://github.com/crossbeam-rs/crossbeam",
+      "description": "Tools for concurrent programming in Rust",
+      "language": "Rust",
+      "stars": 1516,
+      "forks": 94
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12530,
+      "forks": 509
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 184,
+      "forks": 20
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 3962,
+      "forks": 296
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9433,
+      "forks": 622
+    },
+    {
+      "author": "Smithay",
+      "name": "wayland-rs",
+      "href": "https://github.com/Smithay/wayland-rs",
+      "description": "Rust implementation of the wayland protocol (client and server).",
+      "language": "Rust",
+      "stars": 203,
+      "forks": 41
+    },
+    {
+      "author": "vault713",
+      "name": "wallet713",
+      "href": "https://github.com/vault713/wallet713",
+      "description": "A wallet that makes it easy to send, store, and swap Grin.",
+      "language": "Rust",
+      "stars": 148,
+      "forks": 27
+    },
+    {
+      "author": "kpcyrd",
+      "name": "sn0int",
+      "href": "https://github.com/kpcyrd/sn0int",
+      "description": "Semi-automatic OSINT framework and package manager",
+      "language": "Rust",
+      "stars": 248,
+      "forks": 14
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14249,
+      "forks": 615
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "Universal Binaries Powered by WebAssembly",
+      "language": "Rust",
+      "stars": 1573,
+      "forks": 40
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 3546,
+      "forks": 347
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13347,
+      "forks": 2055
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 5730,
+      "forks": 178
+    },
+    {
+      "author": "mokeyish",
+      "name": "n-sql",
+      "href": "https://github.com/mokeyish/n-sql",
+      "description": null,
+      "language": "Rust",
+      "stars": 29,
+      "forks": 8
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol",
+      "language": "Rust",
+      "stars": 669,
+      "forks": 21
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 6349,
+      "forks": 412
+    },
+    {
+      "author": "DenisKolodin",
+      "name": "yew",
+      "href": "https://github.com/DenisKolodin/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 6456,
+      "forks": 229
+    }
+  ]
+}
