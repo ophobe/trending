@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 148,
+      "forks": 5
+    },
+    {
+      "author": "uber",
+      "name": "aresdb",
+      "href": "https://github.com/uber/aresdb",
+      "description": "A GPU-powered real-time analytics storage and query engine.",
+      "language": "Go",
+      "stars": 1201,
+      "forks": 52
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 9850,
+      "forks": 837
+    },
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 13100,
+      "forks": 708
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32327,
+      "forks": 3700
+    },
+    {
+      "author": "skanehira",
+      "name": "docui",
+      "href": "https://github.com/skanehira/docui",
+      "description": "TUI Tool for Docker",
+      "language": "Go",
+      "stars": 194,
+      "forks": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47760,
+      "forks": 16565
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24015,
+      "forks": 2019
+    },
+    {
+      "author": "purpleidea",
+      "name": "mgmt",
+      "href": "https://github.com/purpleidea/mgmt",
+      "description": "Next generation distributed, event-driven, parallel config management!",
+      "language": "Go",
+      "stars": 1647,
+      "forks": 189
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 1520,
+      "forks": 96
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17157,
+      "forks": 603
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52740,
+      "forks": 7256
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small devices, based on LLVM.",
+      "language": "Go",
+      "stars": 1772,
+      "forks": 61
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 3894,
+      "forks": 157
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 19396,
+      "forks": 746
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 12213,
+      "forks": 1284
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": 3897,
+      "forks": 358
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39591,
+      "forks": 5137
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 1484,
+      "forks": 266
+    },
+    {
+      "author": "google",
+      "name": "stenographer",
+      "href": "https://github.com/google/stenographer",
+      "description": "Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. Discussion/announcements at stenographer@googlegroups.com",
+      "language": "Go",
+      "stars": 1222,
+      "forks": 130
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 12749,
+      "forks": 997
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 5216,
+      "forks": 213
+    },
+    {
+      "author": "hunterloftis",
+      "name": "oneweekend",
+      "href": "https://github.com/hunterloftis/oneweekend",
+      "description": "Ray Tracing book series implemented in Golang, chapter-by-chapter",
+      "language": "Go",
+      "stars": 66,
+      "forks": 3
+    },
+    {
+      "author": "bxcodec",
+      "name": "faker",
+      "href": "https://github.com/bxcodec/faker",
+      "description": "Go (Golang) Fake Data Generator for Struct",
+      "language": "Go",
+      "stars": 543,
+      "forks": 37
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13096,
+      "forks": 2891
+    }
+  ]
+}
