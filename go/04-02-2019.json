@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 389,
+      "forks": 14
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 14953,
+      "forks": 2383
+    },
+    {
+      "author": "uber",
+      "name": "aresdb",
+      "href": "https://github.com/uber/aresdb",
+      "description": "A GPU-powered real-time analytics storage and query engine.",
+      "language": "Go",
+      "stars": 1259,
+      "forks": 57
+    },
+    {
+      "author": "skanehira",
+      "name": "docui",
+      "href": "https://github.com/skanehira/docui",
+      "description": "TUI Tool for Docker",
+      "language": "Go",
+      "stars": 244,
+      "forks": 11
+    },
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 13146,
+      "forks": 708
+    },
+    {
+      "author": "ibuildthecloud",
+      "name": "k3s",
+      "href": "https://github.com/ibuildthecloud/k3s",
+      "description": "5 less then k8s. Lightweight Kubernetes.",
+      "language": "Go",
+      "stars": 822,
+      "forks": 16
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52780,
+      "forks": 7257
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 3932,
+      "forks": 159
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17198,
+      "forks": 603
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 9885,
+      "forks": 838
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47786,
+      "forks": 16576
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32350,
+      "forks": 3704
+    },
+    {
+      "author": "hunterloftis",
+      "name": "oneweekend",
+      "href": "https://github.com/hunterloftis/oneweekend",
+      "description": "Ray Tracing book series implemented in Golang, chapter-by-chapter",
+      "language": "Go",
+      "stars": 93,
+      "forks": 4
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 12239,
+      "forks": 1289
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24039,
+      "forks": 2022
+    },
+    {
+      "author": "bxcodec",
+      "name": "faker",
+      "href": "https://github.com/bxcodec/faker",
+      "description": "Go (Golang) Fake Data Generator for Struct",
+      "language": "Go",
+      "stars": 567,
+      "forks": 37
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy. Phishing NG.",
+      "language": "Go",
+      "stars": 1503,
+      "forks": 269
+    },
+    {
+      "author": "purpleidea",
+      "name": "mgmt",
+      "href": "https://github.com/purpleidea/mgmt",
+      "description": "Next generation distributed, event-driven, parallel config management!",
+      "language": "Go",
+      "stars": 1667,
+      "forks": 192
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 5238,
+      "forks": 214
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 12932,
+      "forks": 1012
+    },
+    {
+      "author": "windmilleng",
+      "name": "tilt",
+      "href": "https://github.com/windmilleng/tilt",
+      "description": "Local Kubernetes development with no stress",
+      "language": "Go",
+      "stars": 1968,
+      "forks": 35
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small devices, based on LLVM.",
+      "language": "Go",
+      "stars": 1790,
+      "forks": 61
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。",
+      "language": "Go",
+      "stars": 392,
+      "forks": 82
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13111,
+      "forks": 2893
+    },
+    {
+      "author": "isacikgoz",
+      "name": "gitin",
+      "href": "https://github.com/isacikgoz/gitin",
+      "description": "commit/branch/workdir explorer for git",
+      "language": "Go",
+      "stars": 44,
+      "forks": 0
+    }
+  ]
+}
