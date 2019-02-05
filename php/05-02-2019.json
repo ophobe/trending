@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 48973,
+      "forks": 15212
+    },
+    {
+      "author": "calebporzio",
+      "name": "awesome-helpers",
+      "href": "https://github.com/calebporzio/awesome-helpers",
+      "description": "Helper functions I find super-duper handy",
+      "language": "PHP",
+      "stars": 138,
+      "forks": 6
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19300,
+      "forks": 2314
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 15953,
+      "forks": 6223
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 16419,
+      "forks": 6010
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 18250,
+      "forks": 5382
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 12943,
+      "forks": 1694
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 15541,
+      "forks": 1897
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 9355,
+      "forks": 576
+    },
+    {
+      "author": "twigphp",
+      "name": "Twig",
+      "href": "https://github.com/twigphp/Twig",
+      "description": "Twig, the flexible, fast, and secure template language for PHP",
+      "language": "PHP",
+      "stars": 5770,
+      "forks": 1018
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 19753,
+      "forks": 6672
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 13543,
+      "forks": 1490
+    },
+    {
+      "author": "filp",
+      "name": "whoops",
+      "href": "https://github.com/filp/whoops",
+      "description": "PHP errors for cool kids",
+      "language": "PHP",
+      "stars": 9323,
+      "forks": 506
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Better Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 10008,
+      "forks": 844
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 11585,
+      "forks": 1048
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 8571,
+      "forks": 487
+    },
+    {
+      "author": "akondas",
+      "name": "php-grandmaster",
+      "href": "https://github.com/akondas/php-grandmaster",
+      "description": "Chess engine written in PHP",
+      "language": "PHP",
+      "stars": 28,
+      "forks": 4
+    },
+    {
+      "author": "vlucas",
+      "name": "phpdotenv",
+      "href": "https://github.com/vlucas/phpdotenv",
+      "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+      "language": "PHP",
+      "stars": 8759,
+      "forks": 409
+    },
+    {
+      "author": "mockery",
+      "name": "mockery",
+      "href": "https://github.com/mockery/mockery",
+      "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+      "language": "PHP",
+      "stars": 7108,
+      "forks": 342
+    },
+    {
+      "author": "symfony",
+      "name": "css-selector",
+      "href": "https://github.com/symfony/css-selector",
+      "description": "The CssSelector component converts CSS selectors to XPath expressions.",
+      "language": "PHP",
+      "stars": 4677,
+      "forks": 21
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "href": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": 4347,
+      "forks": 939
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "php-code-coverage",
+      "href": "https://github.com/sebastianbergmann/php-code-coverage",
+      "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+      "language": "PHP",
+      "stars": 5486,
+      "forks": 276
+    },
+    {
+      "author": "swiftmailer",
+      "name": "swiftmailer",
+      "href": "https://github.com/swiftmailer/swiftmailer",
+      "description": "Comprehensive mailing tools for PHP",
+      "language": "PHP",
+      "stars": 7243,
+      "forks": 727
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 5205,
+      "forks": 52
+    },
+    {
+      "author": "Intervention",
+      "name": "image",
+      "href": "https://github.com/Intervention/image",
+      "description": "PHP Image Manipulation",
+      "language": "PHP",
+      "stars": 8717,
+      "forks": 1029
+    }
+  ]
+}
