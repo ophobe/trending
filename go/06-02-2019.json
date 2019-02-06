@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "isacikgoz",
+      "name": "gitin",
+      "href": "https://github.com/isacikgoz/gitin",
+      "description": "commit/branch/workdir explorer for git",
+      "language": "Go",
+      "stars": 858,
+      "forks": 19
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 3525,
+      "forks": 132
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 637,
+      "forks": 26
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24113,
+      "forks": 2027
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 15115,
+      "forks": 2388
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47850,
+      "forks": 16589
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52830,
+      "forks": 7266
+    },
+    {
+      "author": "robscott",
+      "name": "kube-capacity",
+      "href": "https://github.com/robscott/kube-capacity",
+      "description": "A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster",
+      "language": "Go",
+      "stars": 117,
+      "forks": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 11367,
+      "forks": 1727
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 13721,
+      "forks": 430
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39652,
+      "forks": 5147
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13158,
+      "forks": 2904
+    },
+    {
+      "author": "uber",
+      "name": "aresdb",
+      "href": "https://github.com/uber/aresdb",
+      "description": "A GPU-powered real-time analytics storage and query engine.",
+      "language": "Go",
+      "stars": 1328,
+      "forks": 63
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17244,
+      "forks": 606
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32396,
+      "forks": 3707
+    },
+    {
+      "author": "dimkouv",
+      "name": "massivedl",
+      "href": "https://github.com/dimkouv/massivedl",
+      "description": "Download a large list of files in parallel",
+      "language": "Go",
+      "stars": 70,
+      "forks": 2
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 12974,
+      "forks": 1016
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 19445,
+      "forks": 749
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20294,
+      "forks": 2088
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 19546,
+      "forks": 3479
+    },
+    {
+      "author": "thedevsaddam",
+      "name": "docgen",
+      "href": "https://github.com/thedevsaddam/docgen",
+      "description": "Transform your postman collection to HTML/Markdown documentation",
+      "language": "Go",
+      "stars": 65,
+      "forks": 11
+    },
+    {
+      "author": "ibuildthecloud",
+      "name": "k3s",
+      "href": "https://github.com/ibuildthecloud/k3s",
+      "description": "5 less then k8s. Lightweight Kubernetes.",
+      "language": "Go",
+      "stars": 882,
+      "forks": 17
+    },
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 13180,
+      "forks": 711
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": 3935,
+      "forks": 365
+    },
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 2473,
+      "forks": 87
+    }
+  ]
+}
