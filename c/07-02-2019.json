@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 69058,
+      "forks": 24846
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 35310,
+      "forks": 3050
+    },
+    {
+      "author": "rokups",
+      "name": "virtual-reality",
+      "href": "https://github.com/rokups/virtual-reality",
+      "description": "Stealthy backdoor for Windows operating systems",
+      "language": "C",
+      "stars": 39,
+      "forks": 0
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21679,
+      "forks": 5226
+    },
+    {
+      "author": "libvips",
+      "name": "libvips",
+      "href": "https://github.com/libvips/libvips",
+      "description": "A fast image processing library with low memory needs.",
+      "language": "C",
+      "stars": 2792,
+      "forks": 234
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9547,
+      "forks": 3300
+    },
+    {
+      "author": "jakeajames",
+      "name": "rootlessJB3",
+      "href": "https://github.com/jakeajames/rootlessJB3",
+      "description": "hahh",
+      "language": "C",
+      "stars": 105,
+      "forks": 35
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 26007,
+      "forks": 15014
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software",
+      "language": "C",
+      "stars": 3484,
+      "forks": 631
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 12086,
+      "forks": 2550
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8781,
+      "forks": 6213
+    },
+    {
+      "author": "adafruit",
+      "name": "circuitpython",
+      "href": "https://github.com/adafruit/circuitpython",
+      "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers",
+      "language": "C",
+      "stars": 1019,
+      "forks": 2247
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11648,
+      "forks": 6485
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13722,
+      "forks": 5234
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 7837,
+      "forks": 2247
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 10423,
+      "forks": 709
+    },
+    {
+      "author": "emscripten-core",
+      "name": "emscripten",
+      "href": "https://github.com/emscripten-core/emscripten",
+      "description": "Emscripten: An LLVM-to-Web Compiler",
+      "language": "C",
+      "stars": 16472,
+      "forks": 1923
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools security",
+      "language": "C",
+      "stars": 9464,
+      "forks": 1780
+    },
+    {
+      "author": "mvp",
+      "name": "uhubctl",
+      "href": "https://github.com/mvp/uhubctl",
+      "description": "uhubctl - USB hub per-port power control",
+      "language": "C",
+      "stars": 296,
+      "forks": 50
+    },
+    {
+      "author": "Microsoft",
+      "name": "winfile",
+      "href": "https://github.com/Microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 5159,
+      "forks": 580
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 4934,
+      "forks": 6613
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": 4323,
+      "forks": 1568
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 1651,
+      "forks": 1058
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 34149,
+      "forks": 13069
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 5899,
+      "forks": 261
+    }
+  ]
+}
