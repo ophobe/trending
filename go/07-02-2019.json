@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "isacikgoz",
+      "name": "gitin",
+      "href": "https://github.com/isacikgoz/gitin",
+      "description": "commit/branch/workdir explorer for git",
+      "language": "Go",
+      "stars": 1056,
+      "forks": 19
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 3640,
+      "forks": 135
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 47908,
+      "forks": 16603
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 683,
+      "forks": 28
+    },
+    {
+      "author": "recoilme",
+      "name": "pudge",
+      "href": "https://github.com/recoilme/pudge",
+      "description": "Fast and simple key/value store written using Go's standard library",
+      "language": "Go",
+      "stars": 81,
+      "forks": 7
+    },
+    {
+      "author": "skanehira",
+      "name": "docui",
+      "href": "https://github.com/skanehira/docui",
+      "description": "TUI Tool for Docker",
+      "language": "Go",
+      "stars": 333,
+      "forks": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 11398,
+      "forks": 1730
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32429,
+      "forks": 3709
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 14079,
+      "forks": 2673
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52860,
+      "forks": 7267
+    },
+    {
+      "author": "joewalnes",
+      "name": "websocketd",
+      "href": "https://github.com/joewalnes/websocketd",
+      "description": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+      "language": "Go",
+      "stars": 13206,
+      "forks": 712
+    },
+    {
+      "author": "uber",
+      "name": "aresdb",
+      "href": "https://github.com/uber/aresdb",
+      "description": "A GPU-powered real-time analytics storage and query engine.",
+      "language": "Go",
+      "stars": 1349,
+      "forks": 67
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": 3958,
+      "forks": 365
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13177,
+      "forks": 2907
+    },
+    {
+      "author": "robscott",
+      "name": "kube-capacity",
+      "href": "https://github.com/robscott/kube-capacity",
+      "description": "A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster",
+      "language": "Go",
+      "stars": 132,
+      "forks": 6
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39674,
+      "forks": 5150
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 13745,
+      "forks": 431
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 9955,
+      "forks": 3263
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 19465,
+      "forks": 751
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 15132,
+      "forks": 2393
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24127,
+      "forks": 2027
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 3980,
+      "forks": 162
+    },
+    {
+      "author": "ibuildthecloud",
+      "name": "k3s",
+      "href": "https://github.com/ibuildthecloud/k3s",
+      "description": "5 less then k8s. Lightweight Kubernetes.",
+      "language": "Go",
+      "stars": 896,
+      "forks": 17
+    },
+    {
+      "author": "marco-lancini",
+      "name": "goscan",
+      "href": "https://github.com/marco-lancini/goscan",
+      "description": "Interactive Network Scanner",
+      "language": "Go",
+      "stars": 68,
+      "forks": 12
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17261,
+      "forks": 606
+    }
+  ]
+}
