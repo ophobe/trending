@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "elixir-lang",
+      "name": "elixir",
+      "href": "https://github.com/elixir-lang/elixir",
+      "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
+      "language": "Elixir",
+      "stars": 14714,
+      "forks": 2117
+    },
+    {
+      "author": "coryodaniel",
+      "name": "k8s",
+      "href": "https://github.com/coryodaniel/k8s",
+      "description": "A Kubernetes library and HTTP client in Elixir",
+      "language": "Elixir",
+      "stars": 40,
+      "forks": 1
+    },
+    {
+      "author": "CityOfZion",
+      "name": "neo-scan",
+      "href": "https://github.com/CityOfZion/neo-scan",
+      "description": "Blockchain explorer for NEO",
+      "language": "Elixir",
+      "stars": 62,
+      "forks": 61
+    },
+    {
+      "author": "ospaarmann",
+      "name": "exdgraph",
+      "href": "https://github.com/ospaarmann/exdgraph",
+      "description": "gRPC based Elixir Dgraph client. Under development.",
+      "language": "Elixir",
+      "stars": 65,
+      "forks": 8
+    },
+    {
+      "author": "parroty",
+      "name": "excoveralls",
+      "href": "https://github.com/parroty/excoveralls",
+      "description": "Coverage report tool for Elixir with coveralls.io integration.",
+      "language": "Elixir",
+      "stars": 444,
+      "forks": 102
+    },
+    {
+      "author": "hexpm",
+      "name": "hexpm",
+      "href": "https://github.com/hexpm/hexpm",
+      "description": "API server and website for Hex",
+      "language": "Elixir",
+      "stars": 514,
+      "forks": 189
+    },
+    {
+      "author": "elixir-ecto",
+      "name": "db_connection",
+      "href": "https://github.com/elixir-ecto/db_connection",
+      "description": "Database connection behaviour",
+      "language": "Elixir",
+      "stars": 153,
+      "forks": 49
+    },
+    {
+      "author": "oestrich",
+      "name": "grapevine",
+      "href": "https://github.com/oestrich/grapevine",
+      "description": "The MUD Chat Network",
+      "language": "Elixir",
+      "stars": 39,
+      "forks": 6
+    },
+    {
+      "author": "keathley",
+      "name": "wallaby",
+      "href": "https://github.com/keathley/wallaby",
+      "description": "Concurrent browser tests with elixir",
+      "language": "Elixir",
+      "stars": 782,
+      "forks": 107
+    },
+    {
+      "author": "code-corps",
+      "name": "stripity_stripe",
+      "href": "https://github.com/code-corps/stripity_stripe",
+      "description": "An Elixir Library for Stripe",
+      "language": "Elixir",
+      "stars": 387,
+      "forks": 133
+    },
+    {
+      "author": "phoenixframework",
+      "name": "phoenix",
+      "href": "https://github.com/phoenixframework/phoenix",
+      "description": "Productive. Reliable. Fast.",
+      "language": "Elixir",
+      "stars": 13224,
+      "forks": 1660
+    },
+    {
+      "author": "h4cc",
+      "name": "awesome-elixir",
+      "href": "https://github.com/h4cc/awesome-elixir",
+      "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+      "language": "Elixir",
+      "stars": 8926,
+      "forks": 877
+    },
+    {
+      "author": "elixir-ecto",
+      "name": "ecto",
+      "href": "https://github.com/elixir-ecto/ecto",
+      "description": "A database wrapper and language integrated query for Elixir",
+      "language": "Elixir",
+      "stars": 4008,
+      "forks": 964
+    },
+    {
+      "author": "christopheradams",
+      "name": "elixir_style_guide",
+      "href": "https://github.com/christopheradams/elixir_style_guide",
+      "description": "A community driven style guide for Elixir",
+      "language": "Elixir",
+      "stars": 2947,
+      "forks": 226
+    },
+    {
+      "author": "rrrene",
+      "name": "credo",
+      "href": "https://github.com/rrrene/credo",
+      "description": "A static code analysis tool for the Elixir language with a focus on code consistency and teaching.",
+      "language": "Elixir",
+      "stars": 2770,
+      "forks": 206
+    },
+    {
+      "author": "absinthe-graphql",
+      "name": "absinthe",
+      "href": "https://github.com/absinthe-graphql/absinthe",
+      "description": "The GraphQL toolkit for Elixir",
+      "language": "Elixir",
+      "stars": 2520,
+      "forks": 235
+    },
+    {
+      "author": "seven1m",
+      "name": "30-days-of-elixir",
+      "href": "https://github.com/seven1m/30-days-of-elixir",
+      "description": "A walk through the Elixir language in 30 exercises.",
+      "language": "Elixir",
+      "stars": 2489,
+      "forks": 356
+    },
+    {
+      "author": "ueberauth",
+      "name": "guardian",
+      "href": "https://github.com/ueberauth/guardian",
+      "description": "Elixir Authentication",
+      "language": "Elixir",
+      "stars": 2416,
+      "forks": 288
+    },
+    {
+      "author": "bitwalker",
+      "name": "distillery",
+      "href": "https://github.com/bitwalker/distillery",
+      "description": "Simplify deployments in Elixir with OTP releases!",
+      "language": "Elixir",
+      "stars": 2272,
+      "forks": 304
+    },
+    {
+      "author": "sergiotapia",
+      "name": "magnetissimo",
+      "href": "https://github.com/sergiotapia/magnetissimo",
+      "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+      "language": "Elixir",
+      "stars": 2227,
+      "forks": 148
+    },
+    {
+      "author": "elixir-plug",
+      "name": "plug",
+      "href": "https://github.com/elixir-plug/plug",
+      "description": "A specification and conveniences for composable modules between web applications",
+      "language": "Elixir",
+      "stars": 1941,
+      "forks": 407
+    },
+    {
+      "author": "edeliver",
+      "name": "edeliver",
+      "href": "https://github.com/edeliver/edeliver",
+      "description": "Deployment for Elixir and Erlang",
+      "language": "Elixir",
+      "stars": 1689,
+      "forks": 153
+    },
+    {
+      "author": "devinus",
+      "name": "poison",
+      "href": "https://github.com/devinus/poison",
+      "description": "An incredibly fast, pure Elixir JSON library",
+      "language": "Elixir",
+      "stars": 1593,
+      "forks": 184
+    },
+    {
+      "author": "thechangelog",
+      "name": "changelog.com",
+      "href": "https://github.com/thechangelog/changelog.com",
+      "description": "Hacker to the 💚",
+      "language": "Elixir",
+      "stars": 1566,
+      "forks": 148
+    },
+    {
+      "author": "edgurgel",
+      "name": "httpoison",
+      "href": "https://github.com/edgurgel/httpoison",
+      "description": "Yet Another HTTP client for Elixir powered by hackney",
+      "language": "Elixir",
+      "stars": 1537,
+      "forks": 250
+    }
+  ]
+}
