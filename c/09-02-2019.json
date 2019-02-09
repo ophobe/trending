@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "lemire",
+      "name": "fastmod",
+      "href": "https://github.com/lemire/fastmod",
+      "description": "A C/C++ header file for fast 32-bit division remainders (and divisibility tests) on 64-bit hardware.",
+      "language": "C",
+      "stars": 66,
+      "forks": 4
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 69115,
+      "forks": 24856
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software",
+      "language": "C",
+      "stars": 3617,
+      "forks": 639
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 3604,
+      "forks": 238
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21704,
+      "forks": 5229
+    },
+    {
+      "author": "rokups",
+      "name": "virtual-reality",
+      "href": "https://github.com/rokups/virtual-reality",
+      "description": "Stealthy backdoor for Windows operating systems",
+      "language": "C",
+      "stars": 77,
+      "forks": 5
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 35344,
+      "forks": 3052
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 Tiny, lightning fast, feature-packed file manager",
+      "language": "C",
+      "stars": 4515,
+      "forks": 151
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9568,
+      "forks": 3306
+    },
+    {
+      "author": "jakeajames",
+      "name": "rootlessJB3",
+      "href": "https://github.com/jakeajames/rootlessJB3",
+      "description": "hahh",
+      "language": "C",
+      "stars": 126,
+      "forks": 44
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 8980,
+      "forks": 2067
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 10448,
+      "forks": 712
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 12106,
+      "forks": 2550
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3653,
+      "forks": 6979
+    },
+    {
+      "author": "emscripten-core",
+      "name": "emscripten",
+      "href": "https://github.com/emscripten-core/emscripten",
+      "description": "Emscripten: An LLVM-to-Web Compiler",
+      "language": "C",
+      "stars": 16486,
+      "forks": 1924
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 8337,
+      "forks": 592
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "href": "https://github.com/timescale/timescaledb",
+      "description": "An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.",
+      "language": "C",
+      "stars": 6571,
+      "forks": 330
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8792,
+      "forks": 6237
+    },
+    {
+      "author": "ARMmbed",
+      "name": "mbed-os",
+      "href": "https://github.com/ARMmbed/mbed-os",
+      "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+      "language": "C",
+      "stars": 2276,
+      "forks": 1779
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 1671,
+      "forks": 1062
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 34166,
+      "forks": 13073
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 11.4b3",
+      "language": "C",
+      "stars": 711,
+      "forks": 146
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 26022,
+      "forks": 15021
+    },
+    {
+      "author": "processhacker",
+      "name": "processhacker",
+      "href": "https://github.com/processhacker/processhacker",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+      "language": "C",
+      "stars": 1872,
+      "forks": 357
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 5199,
+      "forks": 396
+    }
+  ]
+}
