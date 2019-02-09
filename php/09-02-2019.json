@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 49557,
+      "forks": 15245
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 16038,
+      "forks": 6236
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 18321,
+      "forks": 5388
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19362,
+      "forks": 2316
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 16465,
+      "forks": 6037
+    },
+    {
+      "author": "spatie",
+      "name": "enum",
+      "href": "https://github.com/spatie/enum",
+      "description": "Strongly typed enums in PHP supporting autocompletion and refactoring",
+      "language": "PHP",
+      "stars": 32,
+      "forks": 0
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 19800,
+      "forks": 6678
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "href": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 6593,
+      "forks": 1150
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 13598,
+      "forks": 1492
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "href": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": 9401,
+      "forks": 585
+    },
+    {
+      "author": "spatie",
+      "name": "guzzle-rate-limiter-middleware",
+      "href": "https://github.com/spatie/guzzle-rate-limiter-middleware",
+      "description": "A rate limiter middleware for Guzzle",
+      "language": "PHP",
+      "stars": 32,
+      "forks": 0
+    },
+    {
+      "author": "ssrpanel",
+      "name": "SSRPanel",
+      "href": "https://github.com/ssrpanel/SSRPanel",
+      "description": "An Account Managent Panel Which Is Used For Shadowsocks & ShadowsocksR & V2Ray",
+      "language": "PHP",
+      "stars": 1916,
+      "forks": 976
+    },
+    {
+      "author": "filp",
+      "name": "whoops",
+      "href": "https://github.com/filp/whoops",
+      "description": "PHP errors for cool kids",
+      "language": "PHP",
+      "stars": 9362,
+      "forks": 508
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 11630,
+      "forks": 1049
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 5140,
+      "forks": 66
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 5239,
+      "forks": 52
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 5992,
+      "forks": 156
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 15585,
+      "forks": 1897
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Better Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 10048,
+      "forks": 845
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 5620,
+      "forks": 197
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 5405,
+      "forks": 39
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-mbstring",
+      "href": "https://github.com/symfony/polyfill-mbstring",
+      "description": "This component provides a partial, native PHP implementation for the Mbstring extension.",
+      "language": "PHP",
+      "stars": 5265,
+      "forks": 16
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 5349,
+      "forks": 31
+    },
+    {
+      "author": "symfony",
+      "name": "process",
+      "href": "https://github.com/symfony/process",
+      "description": "The Process component executes commands in sub-processes.",
+      "language": "PHP",
+      "stars": 5158,
+      "forks": 71
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 5376,
+      "forks": 32
+    }
+  ]
+}
