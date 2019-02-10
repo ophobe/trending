@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 69133,
+      "forks": 24858
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 11.4b3",
+      "language": "C",
+      "stars": 735,
+      "forks": 150
+    },
+    {
+      "author": "PaulKlinger",
+      "name": "tinypc",
+      "href": "https://github.com/PaulKlinger/tinypc",
+      "description": "A miniature gaming PC that plays snake",
+      "language": "C",
+      "stars": 31,
+      "forks": 2
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 3624,
+      "forks": 239
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 35362,
+      "forks": 3053
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software",
+      "language": "C",
+      "stars": 3635,
+      "forks": 640
+    },
+    {
+      "author": "lemire",
+      "name": "fastmod",
+      "href": "https://github.com/lemire/fastmod",
+      "description": "A C/C++ header file for fast 32-bit division remainders (and divisibility tests) on 64-bit hardware.",
+      "language": "C",
+      "stars": 82,
+      "forks": 4
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 Tiny, lightning fast, feature-packed file manager",
+      "language": "C",
+      "stars": 4529,
+      "forks": 153
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3661,
+      "forks": 6990
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 12123,
+      "forks": 2551
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 8345,
+      "forks": 593
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 34178,
+      "forks": 13077
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 8799,
+      "forks": 6244
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 9229,
+      "forks": 1256
+    },
+    {
+      "author": "littlevgl",
+      "name": "lvgl",
+      "href": "https://github.com/littlevgl/lvgl",
+      "description": "Graphics library to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. It offers anti-aliasing, opacity, and animations using only one frame buffer.",
+      "language": "C",
+      "stars": 1392,
+      "forks": 366
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 21714,
+      "forks": 5231
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 10459,
+      "forks": 712
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 3491,
+      "forks": 2153
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 11668,
+      "forks": 6504
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 9903,
+      "forks": 5172
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 8986,
+      "forks": 2067
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 6914,
+      "forks": 822
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used)",
+      "language": "C",
+      "stars": 3114,
+      "forks": 6504
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 13739,
+      "forks": 5239
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 11996,
+      "forks": 2761
+    }
+  ]
+}
