@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Ullaakut",
+      "name": "Gorsair",
+      "href": "https://github.com/Ullaakut/Gorsair",
+      "description": "Gorsair hacks its way into remote docker containers that expose their APIs.",
+      "language": "Go",
+      "stars": 434,
+      "forks": 27
+    },
+    {
+      "author": "elastic",
+      "name": "go-elasticsearch",
+      "href": "https://github.com/elastic/go-elasticsearch",
+      "description": "The official Go client for Elasticsearch",
+      "language": "Go",
+      "stars": 727,
+      "forks": 44
+    },
+    {
+      "author": "chenjiandongx",
+      "name": "go-echarts",
+      "href": "https://github.com/chenjiandongx/go-echarts",
+      "description": "🎨 The adorable charts library for Golang",
+      "language": "Go",
+      "stars": 131,
+      "forks": 9
+    },
+    {
+      "author": "isacikgoz",
+      "name": "gitin",
+      "href": "https://github.com/isacikgoz/gitin",
+      "description": "commit/branch/workdir explorer for git",
+      "language": "Go",
+      "stars": 1398,
+      "forks": 25
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 4018,
+      "forks": 140
+    },
+    {
+      "author": "eranyanay",
+      "name": "1m-go-websockets",
+      "href": "https://github.com/eranyanay/1m-go-websockets",
+      "description": "1M websockets in Go",
+      "language": "Go",
+      "stars": 71,
+      "forks": 2
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 48041,
+      "forks": 16637
+    },
+    {
+      "author": "pomerium",
+      "name": "pomerium",
+      "href": "https://github.com/pomerium/pomerium",
+      "description": "Pomerium is an identity-aware access proxy.",
+      "language": "Go",
+      "stars": 103,
+      "forks": 3
+    },
+    {
+      "author": "skanehira",
+      "name": "docui",
+      "href": "https://github.com/skanehira/docui",
+      "description": "TUI Tool for Docker",
+      "language": "Go",
+      "stars": 725,
+      "forks": 32
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 52981,
+      "forks": 7276
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 841,
+      "forks": 32
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13278,
+      "forks": 2923
+    },
+    {
+      "author": "smallstep",
+      "name": "certificates",
+      "href": "https://github.com/smallstep/certificates",
+      "description": "An online certificate authority and related tools for secure automated certificate management, so you can use TLS everywhere.",
+      "language": "Go",
+      "stars": 180,
+      "forks": 10
+    },
+    {
+      "author": "jonatasbaldin",
+      "name": "fin",
+      "href": "https://github.com/jonatasbaldin/fin",
+      "description": "Fin is an open source backend API to track personal finances, made with Go 💸",
+      "language": "Go",
+      "stars": 63,
+      "forks": 2
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32538,
+      "forks": 3718
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 19543,
+      "forks": 754
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 4346,
+      "forks": 173
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 39765,
+      "forks": 5169
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 2801,
+      "forks": 279
+    },
+    {
+      "author": "ztrue",
+      "name": "tracerr",
+      "href": "https://github.com/ztrue/tracerr",
+      "description": "Golang errors with stack trace and source fragments.",
+      "language": "Go",
+      "stars": 44,
+      "forks": 0
+    },
+    {
+      "author": "uber",
+      "name": "aresdb",
+      "href": "https://github.com/uber/aresdb",
+      "description": "A GPU-powered real-time analytics storage and query engine.",
+      "language": "Go",
+      "stars": 1422,
+      "forks": 68
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17351,
+      "forks": 613
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 1966,
+      "forks": 72
+    },
+    {
+      "author": "h2non",
+      "name": "filetype",
+      "href": "https://github.com/h2non/filetype",
+      "description": "Small, dependency-free and fast Go package to infer file types based on its magic numbers signature",
+      "language": "Go",
+      "stars": 769,
+      "forks": 66
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 11471,
+      "forks": 1738
+    }
+  ]
+}
