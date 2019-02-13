@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast javascript to javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 4599,
+      "forks": 64
+    },
+    {
+      "author": "nathan",
+      "name": "pax",
+      "href": "https://github.com/nathan/pax",
+      "description": "The fastest JavaScript bundler in the galaxy.",
+      "language": "Rust",
+      "stars": 1784,
+      "forks": 26
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 33970,
+      "forks": 5533
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 2761,
+      "forks": 125
+    },
+    {
+      "author": "fitzgen",
+      "name": "dodrio",
+      "href": "https://github.com/fitzgen/dodrio",
+      "description": null,
+      "language": "Rust",
+      "stars": 47,
+      "forks": 2
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12707,
+      "forks": 517
+    },
+    {
+      "author": "gamozolabs",
+      "name": "mesos",
+      "href": "https://github.com/gamozolabs/mesos",
+      "description": "Binary coverage tool without binary modification for Windows",
+      "language": "Rust",
+      "stars": 99,
+      "forks": 5
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14399,
+      "forks": 626
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 12047,
+      "forks": 224
+    },
+    {
+      "author": "Canop",
+      "name": "broot",
+      "href": "https://github.com/Canop/broot",
+      "description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.",
+      "language": "Rust",
+      "stars": 405,
+      "forks": 12
+    },
+    {
+      "author": "notion-cli",
+      "name": "notion",
+      "href": "https://github.com/notion-cli/notion",
+      "description": "Notion: the hassle-free JavaScript toolchain manager",
+      "language": "Rust",
+      "stars": 657,
+      "forks": 26
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 3240,
+      "forks": 233
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9553,
+      "forks": 626
+    },
+    {
+      "author": "holochain",
+      "name": "holochain-rust",
+      "href": "https://github.com/holochain/holochain-rust",
+      "description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes",
+      "language": "Rust",
+      "stars": 500,
+      "forks": 177
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 2040,
+      "forks": 50
+    },
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam",
+      "href": "https://github.com/crossbeam-rs/crossbeam",
+      "description": "Tools for concurrent programming in Rust",
+      "language": "Rust",
+      "stars": 1580,
+      "forks": 96
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7297,
+      "forks": 415
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 6447,
+      "forks": 424
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4551,
+      "forks": 652
+    },
+    {
+      "author": "sharkdp",
+      "name": "hexyl",
+      "href": "https://github.com/sharkdp/hexyl",
+      "description": "A command-line hex viewer",
+      "language": "Rust",
+      "stars": 3947,
+      "forks": 96
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4704,
+      "forks": 554
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 2499,
+      "forks": 52
+    },
+    {
+      "author": "bparli",
+      "name": "convey",
+      "href": "https://github.com/bparli/convey",
+      "description": "Layer 4 load balancer with dynamic configuration loading",
+      "language": "Rust",
+      "stars": 49,
+      "forks": 4
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 2001,
+      "forks": 106
+    },
+    {
+      "author": "rust-embedded",
+      "name": "rust-raspi3-OS-tutorials",
+      "href": "https://github.com/rust-embedded/rust-raspi3-OS-tutorials",
+      "description": "📚 Rust bare-metal and OS tutorials on the Raspberry Pi 3",
+      "language": "Rust",
+      "stars": 333,
+      "forks": 15
+    }
+  ]
+}
