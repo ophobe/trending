@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 20676,
+      "forks": 18121
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "⚡️ Prisma enables seamless type-safe database access & declarative data modeling",
+      "language": "Scala",
+      "stars": 12748,
+      "forks": 744
+    },
+    {
+      "author": "salesforce",
+      "name": "TransmogrifAI",
+      "href": "https://github.com/salesforce/TransmogrifAI",
+      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Spark with minimal hand tuning",
+      "language": "Scala",
+      "stars": 1306,
+      "forks": 211
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5104,
+      "forks": 782
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 3489,
+      "forks": 242
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 6950,
+      "forks": 1246
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 370,
+      "forks": 107
+    },
+    {
+      "author": "wireapp",
+      "name": "wire-android",
+      "href": "https://github.com/wireapp/wire-android",
+      "description": "☎️ Wire for Android",
+      "language": "Scala",
+      "stars": 2192,
+      "forks": 421
+    },
+    {
+      "author": "scorelab",
+      "name": "senz",
+      "href": "https://github.com/scorelab/senz",
+      "description": "SenZ is a new kind of query language that can be used to communicate with IoT devices. It is easily integrable, incredibly fast, and is in the highest end of security integration.",
+      "language": "Scala",
+      "stars": 25,
+      "forks": 64
+    },
+    {
+      "author": "yaooqinn",
+      "name": "kyuubi",
+      "href": "https://github.com/yaooqinn/kyuubi",
+      "description": "Kyuubi is an enhanced editon of Apache Spark's primordial Thrift JDBC/ODBC Server.",
+      "language": "Scala",
+      "stars": 101,
+      "forks": 31
+    },
+    {
+      "author": "locationtech",
+      "name": "geomesa",
+      "href": "https://github.com/locationtech/geomesa",
+      "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+      "language": "Scala",
+      "stars": 646,
+      "forks": 244
+    },
+    {
+      "author": "adamw",
+      "name": "quicklens",
+      "href": "https://github.com/adamw/quicklens",
+      "description": "Modify deeply nested case class fields",
+      "language": "Scala",
+      "stars": 450,
+      "forks": 20
+    },
+    {
+      "author": "tpolecat",
+      "name": "doobie",
+      "href": "https://github.com/tpolecat/doobie",
+      "description": "Functional JDBC layer for Scala.",
+      "language": "Scala",
+      "stars": 1366,
+      "forks": 206
+    },
+    {
+      "author": "Azure",
+      "name": "azure-cosmosdb-spark",
+      "href": "https://github.com/Azure/azure-cosmosdb-spark",
+      "description": "Apache Spark Connector for Azure Cosmos DB",
+      "language": "Scala",
+      "stars": 102,
+      "forks": 69
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 728,
+      "forks": 314
+    },
+    {
+      "author": "frees-io",
+      "name": "iota",
+      "href": "https://github.com/frees-io/iota",
+      "description": "Fast [co]product types with a clean syntax. For Cats & Scalaz.",
+      "language": "Scala",
+      "stars": 142,
+      "forks": 18
+    },
+    {
+      "author": "kamon-io",
+      "name": "sbt-aspectj-runner",
+      "href": "https://github.com/kamon-io/sbt-aspectj-runner",
+      "description": "sbt plugin for running aspectj weaver",
+      "language": "Scala",
+      "stars": 32,
+      "forks": 17
+    },
+    {
+      "author": "pingcap",
+      "name": "tispark",
+      "href": "https://github.com/pingcap/tispark",
+      "description": "TiSpark is built for running Apache Spark on top of TiDB/TiKV",
+      "language": "Scala",
+      "stars": 378,
+      "forks": 107
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 820,
+      "forks": 267
+    },
+    {
+      "author": "slamdata",
+      "name": "matryoshka",
+      "href": "https://github.com/slamdata/matryoshka",
+      "description": "Generalized recursion schemes and traversals for Scala.",
+      "language": "Scala",
+      "stars": 631,
+      "forks": 82
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11662,
+      "forks": 1901
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11285,
+      "forks": 2643
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 10972,
+      "forks": 3710
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9565,
+      "forks": 2953
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7574,
+      "forks": 1053
+    }
+  ]
+}
