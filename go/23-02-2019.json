@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ovh",
+      "name": "cds",
+      "href": "https://github.com/ovh/cds",
+      "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+      "language": "Go",
+      "stars": 725,
+      "forks": 82
+    },
+    {
+      "author": "alexellis",
+      "name": "inlets",
+      "href": "https://github.com/alexellis/inlets",
+      "description": "Expose your local endpoints to the Internet",
+      "language": "Go",
+      "stars": 1788,
+      "forks": 89
+    },
+    {
+      "author": "Dliv3",
+      "name": "Venom",
+      "href": "https://github.com/Dliv3/Venom",
+      "description": "Venom - A Multi-hop Proxy for Penetration Testers Written in Go",
+      "language": "Go",
+      "stars": 237,
+      "forks": 30
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 48610,
+      "forks": 16833
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 53542,
+      "forks": 7329
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 40257,
+      "forks": 5245
+    },
+    {
+      "author": "lni",
+      "name": "dragonboat",
+      "href": "https://github.com/lni/dragonboat",
+      "description": "A feature complete and high performance multi-group Raft library in Go.",
+      "language": "Go",
+      "stars": 1737,
+      "forks": 143
+    },
+    {
+      "author": "tadvi",
+      "name": "winc",
+      "href": "https://github.com/tadvi/winc",
+      "description": "Common library for Go GUI apps on Windows",
+      "language": "Go",
+      "stars": 46,
+      "forks": 3
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13741,
+      "forks": 2998
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 32906,
+      "forks": 3750
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 13216,
+      "forks": 1028
+    },
+    {
+      "author": "parsiya",
+      "name": "Hacking-with-Go",
+      "href": "https://github.com/parsiya/Hacking-with-Go",
+      "description": "Golang for Security Professionals",
+      "language": "Go",
+      "stars": 491,
+      "forks": 69
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 15566,
+      "forks": 2480
+    },
+    {
+      "author": "chai2010",
+      "name": "go2-book",
+      "href": "https://github.com/chai2010/go2-book",
+      "description": "📚 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性",
+      "language": "Go",
+      "stars": 89,
+      "forks": 3
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 40396,
+      "forks": 8933
+    },
+    {
+      "author": "ardanlabs",
+      "name": "service",
+      "href": "https://github.com/ardanlabs/service",
+      "description": "Starter code for writing web services in Go",
+      "language": "Go",
+      "stars": 337,
+      "forks": 56
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 4590,
+      "forks": 152
+    },
+    {
+      "author": "markphelps",
+      "name": "flipt",
+      "href": "https://github.com/markphelps/flipt",
+      "description": "A self contained feature flag solution",
+      "language": "Go",
+      "stars": 273,
+      "forks": 11
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23103,
+      "forks": 4630
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 8467,
+      "forks": 571
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 19782,
+      "forks": 766
+    },
+    {
+      "author": "ncw",
+      "name": "rclone",
+      "href": "https://github.com/ncw/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 12996,
+      "forks": 1024
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24583,
+      "forks": 2878
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 22209,
+      "forks": 3030
+    },
+    {
+      "author": "eranyanay",
+      "name": "1m-go-websockets",
+      "href": "https://github.com/eranyanay/1m-go-websockets",
+      "description": "handling 1M websockets connections in Go",
+      "language": "Go",
+      "stars": 2860,
+      "forks": 197
+    }
+  ]
+}
