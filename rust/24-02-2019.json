@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast javascript to javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 5006,
+      "forks": 73
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 34188,
+      "forks": 5551
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12859,
+      "forks": 518
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14537,
+      "forks": 634
+    },
+    {
+      "author": "johnthagen",
+      "name": "min-sized-rust",
+      "href": "https://github.com/johnthagen/min-sized-rust",
+      "description": "🦀 How to minimize Rust binary size 📦",
+      "language": "Rust",
+      "stars": 28,
+      "forks": 1
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 2901,
+      "forks": 137
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 4098,
+      "forks": 306
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 3848,
+      "forks": 692
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 6514,
+      "forks": 430
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 8565,
+      "forks": 222
+    },
+    {
+      "author": "lpil",
+      "name": "gleam",
+      "href": "https://github.com/lpil/gleam",
+      "description": "✨ A statically typed language for the Erlang VM",
+      "language": "Rust",
+      "stars": 260,
+      "forks": 7
+    },
+    {
+      "author": "polaris64",
+      "name": "syswall",
+      "href": "https://github.com/polaris64/syswall",
+      "description": "Work in progress firewall for Linux syscalls, written in Rust",
+      "language": "Rust",
+      "stars": 100,
+      "forks": 4
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9690,
+      "forks": 633
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13498,
+      "forks": 2079
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 12272,
+      "forks": 226
+    },
+    {
+      "author": "nokia",
+      "name": "not-perf",
+      "href": "https://github.com/nokia/not-perf",
+      "description": "A sampling CPU profiler for Linux",
+      "language": "Rust",
+      "stars": 420,
+      "forks": 13
+    },
+    {
+      "author": "ihrwein",
+      "name": "backoff",
+      "href": "https://github.com/ihrwein/backoff",
+      "description": "Exponential backoff and retry for Rust.",
+      "language": "Rust",
+      "stars": 43,
+      "forks": 2
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "Data-oriented Rust UI design toolkit.",
+      "language": "Rust",
+      "stars": 203,
+      "forks": 11
+    },
+    {
+      "author": "chinedufn",
+      "name": "percy",
+      "href": "https://github.com/chinedufn/percy",
+      "description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly",
+      "language": "Rust",
+      "stars": 1027,
+      "forks": 26
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7437,
+      "forks": 424
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 3634,
+      "forks": 356
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 2305,
+      "forks": 155
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 1225,
+      "forks": 86
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 526,
+      "forks": 19
+    },
+    {
+      "author": "nearprotocol",
+      "name": "nearcore",
+      "href": "https://github.com/nearprotocol/nearcore",
+      "description": "Official NEAR Protocol client.",
+      "language": "Rust",
+      "stars": 103,
+      "forks": 10
+    }
+  ]
+}
