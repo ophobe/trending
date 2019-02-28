@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 3175,
+      "forks": 106
+    },
+    {
+      "author": "cosmos72",
+      "name": "gomacro",
+      "href": "https://github.com/cosmos72/gomacro",
+      "description": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+      "language": "Go",
+      "stars": 1032,
+      "forks": 28
+    },
+    {
+      "author": "micro",
+      "name": "micro",
+      "href": "https://github.com/micro/micro",
+      "description": "A microservice toolkit",
+      "language": "Go",
+      "stars": 5504,
+      "forks": 451
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 48842,
+      "forks": 16909
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 53809,
+      "forks": 7358
+    },
+    {
+      "author": "banzaicloud",
+      "name": "istio-operator",
+      "href": "https://github.com/banzaicloud/istio-operator",
+      "description": "An operator that manages Istio deployments on Kubernetes",
+      "language": "Go",
+      "stars": 116,
+      "forks": 3
+    },
+    {
+      "author": "smallnest",
+      "name": "1m-go-tcp-server",
+      "href": "https://github.com/smallnest/1m-go-tcp-server",
+      "description": "benchmarks for implementation of servers which support 1 million connections (百万连接的Go TCP服务器的实现以及吞吐和延迟)",
+      "language": "Go",
+      "stars": 89,
+      "forks": 5
+    },
+    {
+      "author": "corneliusweig",
+      "name": "rakkess",
+      "href": "https://github.com/corneliusweig/rakkess",
+      "description": "Review Access - kubectl plugin to show an access matrix for all available resources",
+      "language": "Go",
+      "stars": 114,
+      "forks": 2
+    },
+    {
+      "author": "chai2010",
+      "name": "go2-book",
+      "href": "https://github.com/chai2010/go2-book",
+      "description": "📚 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性",
+      "language": "Go",
+      "stars": 455,
+      "forks": 17
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 1297,
+      "forks": 63
+    },
+    {
+      "author": "ovh",
+      "name": "cds",
+      "href": "https://github.com/ovh/cds",
+      "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+      "language": "Go",
+      "stars": 1335,
+      "forks": 108
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 28134,
+      "forks": 7892
+    },
+    {
+      "author": "eranyanay",
+      "name": "1m-go-websockets",
+      "href": "https://github.com/eranyanay/1m-go-websockets",
+      "description": "handling 1M websockets connections in Go",
+      "language": "Go",
+      "stars": 2959,
+      "forks": 209
+    },
+    {
+      "author": "alexellis",
+      "name": "inlets",
+      "href": "https://github.com/alexellis/inlets",
+      "description": "Expose your local endpoints to the Internet",
+      "language": "Go",
+      "stars": 2067,
+      "forks": 101
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 40470,
+      "forks": 5267
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 22330,
+      "forks": 3053
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24696,
+      "forks": 2899
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Machine learning platform for developers",
+      "language": "Go",
+      "stars": 479,
+      "forks": 24
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33052,
+      "forks": 3760
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 10288,
+      "forks": 3376
+    },
+    {
+      "author": "wal-g",
+      "name": "wal-g",
+      "href": "https://github.com/wal-g/wal-g",
+      "description": "Archival and Restoration for Postgres",
+      "language": "Go",
+      "stars": 951,
+      "forks": 61
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 40497,
+      "forks": 8941
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13863,
+      "forks": 3023
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20698,
+      "forks": 2118
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 17748,
+      "forks": 639
+    }
+  ]
+}
