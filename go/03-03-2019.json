@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 3932,
+      "forks": 141
+    },
+    {
+      "author": "smallnest",
+      "name": "1m-go-tcp-server",
+      "href": "https://github.com/smallnest/1m-go-tcp-server",
+      "description": "benchmarks for implementation of servers which support 1 million connections",
+      "language": "Go",
+      "stars": 264,
+      "forks": 27
+    },
+    {
+      "author": "eranyanay",
+      "name": "1m-go-websockets",
+      "href": "https://github.com/eranyanay/1m-go-websockets",
+      "description": "handling 1M websockets connections in Go",
+      "language": "Go",
+      "stars": 3090,
+      "forks": 220
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 48970,
+      "forks": 16947
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 40565,
+      "forks": 5281
+    },
+    {
+      "author": "google-cloud-tools",
+      "name": "kube-eagle",
+      "href": "https://github.com/google-cloud-tools/kube-eagle",
+      "description": "A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.",
+      "language": "Go",
+      "stars": 48,
+      "forks": 1
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 53910,
+      "forks": 7380
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 13967,
+      "forks": 3044
+    },
+    {
+      "author": "CovenantSQL",
+      "name": "CovenantSQL",
+      "href": "https://github.com/CovenantSQL/CovenantSQL",
+      "description": "a SQL database with Blockchain features.",
+      "language": "Go",
+      "stars": 536,
+      "forks": 46
+    },
+    {
+      "author": "benbjohnson",
+      "name": "immutable",
+      "href": "https://github.com/benbjohnson/immutable",
+      "description": "Immutable collections for Go",
+      "language": "Go",
+      "stars": 88,
+      "forks": 3
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 19938,
+      "forks": 767
+    },
+    {
+      "author": "weaveworks",
+      "name": "footloose",
+      "href": "https://github.com/weaveworks/footloose",
+      "description": "Container Machines - Containers that look like Virtual Machines",
+      "language": "Go",
+      "stars": 210,
+      "forks": 10
+    },
+    {
+      "author": "VKCOM",
+      "name": "noverify",
+      "href": "https://github.com/VKCOM/noverify",
+      "description": "Pretty fast linter (code static analysis utility) for PHP",
+      "language": "Go",
+      "stars": 76,
+      "forks": 6
+    },
+    {
+      "author": "quasilyte",
+      "name": "go-parsefix",
+      "href": "https://github.com/quasilyte/go-parsefix",
+      "description": "Fixes simple parse errors automatically. Works great in combination with goimports.",
+      "language": "Go",
+      "stars": 38,
+      "forks": 2
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33117,
+      "forks": 3769
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 20513,
+      "forks": 3633
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24763,
+      "forks": 2907
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 28196,
+      "forks": 7893
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。",
+      "language": "Go",
+      "stars": 777,
+      "forks": 149
+    },
+    {
+      "author": "LukaSikic",
+      "name": "subzy",
+      "href": "https://github.com/LukaSikic/subzy",
+      "description": "Subdomain takeover checker",
+      "language": "Go",
+      "stars": 33,
+      "forks": 8
+    },
+    {
+      "author": "ovh",
+      "name": "cds",
+      "href": "https://github.com/ovh/cds",
+      "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+      "language": "Go",
+      "stars": 1422,
+      "forks": 110
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 40570,
+      "forks": 8951
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 14272,
+      "forks": 455
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 3596,
+      "forks": 730
+    },
+    {
+      "author": "go-delve",
+      "name": "delve",
+      "href": "https://github.com/go-delve/delve",
+      "description": "Delve is a debugger for the Go programming language.",
+      "language": "Go",
+      "stars": 10662,
+      "forks": 934
+    }
+  ]
+}
