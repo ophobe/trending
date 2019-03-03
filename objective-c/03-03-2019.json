@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "coobjc",
+      "href": "https://github.com/alibaba/coobjc",
+      "description": "coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.",
+      "language": "Objective-C",
+      "stars": 2158,
+      "forks": 262
+    },
+    {
+      "author": "Tencent",
+      "name": "QMUI_iOS",
+      "href": "https://github.com/Tencent/QMUI_iOS",
+      "description": "QMUI iOS——致力于提高项目 UI 开发效率的解决方案",
+      "language": "Objective-C",
+      "stars": 3648,
+      "forks": 628
+    },
+    {
+      "author": "expo",
+      "name": "expo",
+      "href": "https://github.com/expo/expo",
+      "description": "The Expo platform for making cross-platform mobile apps",
+      "language": "Objective-C",
+      "stars": 5441,
+      "forks": 543
+    },
+    {
+      "author": "sveinbjornt",
+      "name": "Sloth",
+      "href": "https://github.com/sveinbjornt/Sloth",
+      "description": "Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof.",
+      "language": "Objective-C",
+      "stars": 3444,
+      "forks": 67
+    },
+    {
+      "author": "keycastr",
+      "name": "keycastr",
+      "href": "https://github.com/keycastr/keycastr",
+      "description": "KeyCastr, an open-source keystroke visualizer",
+      "language": "Objective-C",
+      "stars": 3444,
+      "forks": 247
+    },
+    {
+      "author": "halfrost",
+      "name": "Halfrost-Field",
+      "href": "https://github.com/halfrost/Halfrost-Field",
+      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Objective-C",
+      "stars": 3597,
+      "forks": 585
+    },
+    {
+      "author": "react-native-community",
+      "name": "react-native-maps",
+      "href": "https://github.com/react-native-community/react-native-maps",
+      "description": "React Native Mapview component for iOS + Android",
+      "language": "Objective-C",
+      "stars": 9013,
+      "forks": 2762
+    },
+    {
+      "author": "ivpusic",
+      "name": "react-native-image-crop-picker",
+      "href": "https://github.com/ivpusic/react-native-image-crop-picker",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
+      "language": "Objective-C",
+      "stars": 3072,
+      "forks": 677
+    },
+    {
+      "author": "firebase",
+      "name": "quickstart-ios",
+      "href": "https://github.com/firebase/quickstart-ios",
+      "description": "Firebase Quickstart Samples for iOS",
+      "language": "Objective-C",
+      "stars": 1463,
+      "forks": 938
+    },
+    {
+      "author": "weexteam",
+      "name": "weex-devtool-iOS",
+      "href": "https://github.com/weexteam/weex-devtool-iOS",
+      "description": "Remote debug for your native iOS app using Chrome Developer Tools",
+      "language": "Objective-C",
+      "stars": 104,
+      "forks": 31
+    },
+    {
+      "author": "anurodhp",
+      "name": "Monal",
+      "href": "https://github.com/anurodhp/Monal",
+      "description": "Free XMPP client for iOS and OS X",
+      "language": "Objective-C",
+      "stars": 179,
+      "forks": 43
+    },
+    {
+      "author": "renzifeng",
+      "name": "ZFPlayer",
+      "href": "https://github.com/renzifeng/ZFPlayer",
+      "description": "Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)",
+      "language": "Objective-C",
+      "stars": 5229,
+      "forks": 1236
+    },
+    {
+      "author": "arnesson",
+      "name": "cordova-plugin-firebase",
+      "href": "https://github.com/arnesson/cordova-plugin-firebase",
+      "description": "Cordova plugin for Google Firebase",
+      "language": "Objective-C",
+      "stars": 835,
+      "forks": 799
+    },
+    {
+      "author": "facebook",
+      "name": "FBSimulatorControl",
+      "href": "https://github.com/facebook/FBSimulatorControl",
+      "description": "A Mac OS X library for managing and manipulating iOS Simulators",
+      "language": "Objective-C",
+      "stars": 2312,
+      "forks": 247
+    },
+    {
+      "author": "google",
+      "name": "gtm-session-fetcher",
+      "href": "https://github.com/google/gtm-session-fetcher",
+      "description": "Google Toolbox for Mac - Session Fetcher",
+      "language": "Objective-C",
+      "stars": 107,
+      "forks": 76
+    },
+    {
+      "author": "tencentyun",
+      "name": "SuperPlayer_iOS",
+      "href": "https://github.com/tencentyun/SuperPlayer_iOS",
+      "description": "腾讯云超级播放器（iOS）",
+      "language": "Objective-C",
+      "stars": 486,
+      "forks": 49
+    },
+    {
+      "author": "artsy",
+      "name": "eigen",
+      "href": "https://github.com/artsy/eigen",
+      "description": "The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app.",
+      "language": "Objective-C",
+      "stars": 2457,
+      "forks": 385
+    },
+    {
+      "author": "AzureAD",
+      "name": "azure-activedirectory-library-for-objc",
+      "href": "https://github.com/AzureAD/azure-activedirectory-library-for-objc",
+      "description": "The ADAL SDK for Objective C gives you the ability to add support for Work Accounts to your iOS and macOS applications with just a few lines of additional code. This SDK gives your application the full functionality of Microsoft Azure AD, including industry standard protocol support for OAuth2, Web API integration with user level consent, and tw…",
+      "language": "Objective-C",
+      "stars": 133,
+      "forks": 99
+    },
+    {
+      "author": "AFNetworking",
+      "name": "AFNetworking",
+      "href": "https://github.com/AFNetworking/AFNetworking",
+      "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+      "language": "Objective-C",
+      "stars": 31945,
+      "forks": 9717
+    },
+    {
+      "author": "SDWebImage",
+      "name": "SDWebImage",
+      "href": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": 21106,
+      "forks": 5339
+    },
+    {
+      "author": "BradLarson",
+      "name": "GPUImage",
+      "href": "https://github.com/BradLarson/GPUImage",
+      "description": "An open source iOS framework for GPU-based image and video processing",
+      "language": "Objective-C",
+      "stars": 18357,
+      "forks": 4383
+    },
+    {
+      "author": "SnapKit",
+      "name": "Masonry",
+      "href": "https://github.com/SnapKit/Masonry",
+      "description": "Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",
+      "language": "Objective-C",
+      "stars": 17151,
+      "forks": 3074
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "href": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Objective-C",
+      "stars": 16317,
+      "forks": 2220
+    },
+    {
+      "author": "jdg",
+      "name": "MBProgressHUD",
+      "href": "https://github.com/jdg/MBProgressHUD",
+      "description": "MBProgressHUD + Customizations",
+      "language": "Objective-C",
+      "stars": 15095,
+      "forks": 3430
+    },
+    {
+      "author": "realm",
+      "name": "realm-cocoa",
+      "href": "https://github.com/realm/realm-cocoa",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+      "language": "Objective-C",
+      "stars": 12946,
+      "forks": 1662
+    }
+  ]
+}
