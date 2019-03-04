@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "kyren",
+      "name": "luster",
+      "href": "https://github.com/kyren/luster",
+      "description": "An experimental Lua VM implemented in pure Rust",
+      "language": "Rust",
+      "stars": 375,
+      "forks": 14
+    },
+    {
+      "author": "timvisee",
+      "name": "ffsend",
+      "href": "https://github.com/timvisee/ffsend",
+      "description": "📬 Easily and securely share files from the command line. A fully featured Firefox Send client.",
+      "language": "Rust",
+      "stars": 204,
+      "forks": 3
+    },
+    {
+      "author": "cloudflare",
+      "name": "wirefilter",
+      "href": "https://github.com/cloudflare/wirefilter",
+      "description": "An execution engine for Wireshark-like filters",
+      "language": "Rust",
+      "stars": 122,
+      "forks": 4
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "href": "https://github.com/hrkfdn/ncspot",
+      "description": "ncurses Spotify client written in Rust using librespot, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": 102,
+      "forks": 5
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 616,
+      "forks": 21
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 34355,
+      "forks": 5557
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 14644,
+      "forks": 640
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "Universal Binaries Powered by WebAssembly",
+      "language": "Rust",
+      "stars": 2491,
+      "forks": 75
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 9790,
+      "forks": 638
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 12373,
+      "forks": 226
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 12961,
+      "forks": 523
+    },
+    {
+      "author": "pest-parser",
+      "name": "pest",
+      "href": "https://github.com/pest-parser/pest",
+      "description": "The Elegant Parser",
+      "language": "Rust",
+      "stars": 1257,
+      "forks": 71
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 4700,
+      "forks": 682
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast javascript to javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 5133,
+      "forks": 77
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 4878,
+      "forks": 575
+    },
+    {
+      "author": "vishaltelangre",
+      "name": "ff",
+      "href": "https://github.com/vishaltelangre/ff",
+      "description": "Find files (ff) by name, fast!",
+      "language": "Rust",
+      "stars": 181,
+      "forks": 5
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 15739,
+      "forks": 568
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 2995,
+      "forks": 148
+    },
+    {
+      "author": "Spotifyd",
+      "name": "spotifyd",
+      "href": "https://github.com/Spotifyd/spotifyd",
+      "description": "A spotify daemon",
+      "language": "Rust",
+      "stars": 1622,
+      "forks": 80
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 4144,
+      "forks": 312
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7542,
+      "forks": 429
+    },
+    {
+      "author": "rustasync",
+      "name": "tide",
+      "href": "https://github.com/rustasync/tide",
+      "description": "Modular web framework",
+      "language": "Rust",
+      "stars": 479,
+      "forks": 53
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 2745,
+      "forks": 323
+    },
+    {
+      "author": "maciejhirsz",
+      "name": "ramhorns",
+      "href": "https://github.com/maciejhirsz/ramhorns",
+      "description": "Experimental Mustache template engine implementation in pure Rust.",
+      "language": "Rust",
+      "stars": 76,
+      "forks": 2
+    },
+    {
+      "author": "wasm-network",
+      "name": "tweek-rust",
+      "href": "https://github.com/wasm-network/tweek-rust",
+      "description": "A Tween Animation Kit for Rust",
+      "language": "Rust",
+      "stars": 37,
+      "forks": 1
+    }
+  ]
+}
