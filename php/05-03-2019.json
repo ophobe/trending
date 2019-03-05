@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "didi",
+      "name": "rdebug",
+      "href": "https://github.com/didi/rdebug",
+      "description": "Rdebug — Real Debugger",
+      "language": "PHP",
+      "stars": 212,
+      "forks": 19
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 50456,
+      "forks": 15427
+    },
+    {
+      "author": "Sylius",
+      "name": "Sylius",
+      "href": "https://github.com/Sylius/Sylius",
+      "description": "Open Source eCommerce Framework on top of Symfony",
+      "language": "PHP",
+      "stars": 5025,
+      "forks": 1513
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 16386,
+      "forks": 6290
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Better Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 10262,
+      "forks": 853
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 18689,
+      "forks": 5402
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19696,
+      "forks": 2340
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 15863,
+      "forks": 1903
+    },
+    {
+      "author": "makeabledk",
+      "name": "laravel-factory-enhanced",
+      "href": "https://github.com/makeabledk/laravel-factory-enhanced",
+      "description": "Brings relationship support to the Laravel Factory. Make factories great again.",
+      "language": "PHP",
+      "stars": 62,
+      "forks": 1
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 20055,
+      "forks": 6746
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "href": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades for PHP Applications",
+      "language": "PHP",
+      "stars": 898,
+      "forks": 42
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 6153,
+      "forks": 158
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 5525,
+      "forks": 32
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "href": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": 4564,
+      "forks": 950
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 5767,
+      "forks": 199
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 13243,
+      "forks": 1699
+    },
+    {
+      "author": "filp",
+      "name": "whoops",
+      "href": "https://github.com/filp/whoops",
+      "description": "PHP errors for cool kids",
+      "language": "PHP",
+      "stars": 9548,
+      "forks": 512
+    },
+    {
+      "author": "symfony",
+      "name": "debug",
+      "href": "https://github.com/symfony/debug",
+      "description": "The Debug component provides tools to ease debugging PHP code.",
+      "language": "PHP",
+      "stars": 5505,
+      "forks": 31
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 5555,
+      "forks": 38
+    },
+    {
+      "author": "firebase",
+      "name": "php-jwt",
+      "href": "https://github.com/firebase/php-jwt",
+      "description": "PEAR package for JWT",
+      "language": "PHP",
+      "stars": 4778,
+      "forks": 746
+    },
+    {
+      "author": "lcobucci",
+      "name": "jwt",
+      "href": "https://github.com/lcobucci/jwt",
+      "description": "A simple library to work with JSON Web Token and JSON Web Signature",
+      "language": "PHP",
+      "stars": 3750,
+      "forks": 333
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 5380,
+      "forks": 54
+    },
+    {
+      "author": "eerotal",
+      "name": "LibreSignage",
+      "href": "https://github.com/eerotal/LibreSignage",
+      "description": "An open source digital signage solution",
+      "language": "PHP",
+      "stars": 147,
+      "forks": 7
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 11857,
+      "forks": 1050
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 5265,
+      "forks": 66
+    }
+  ]
+}
