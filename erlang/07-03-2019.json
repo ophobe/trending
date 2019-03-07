@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP)",
+      "language": "Erlang",
+      "stars": 3927,
+      "forks": 1207
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 5377,
+      "forks": 1519
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Messaging Broker",
+      "language": "Erlang",
+      "stars": 4228,
+      "forks": 813
+    },
+    {
+      "author": "apache",
+      "name": "couchdb",
+      "href": "https://github.com/apache/couchdb",
+      "description": "Apache CouchDB",
+      "language": "Erlang",
+      "stars": 4101,
+      "forks": 822
+    },
+    {
+      "author": "basho",
+      "name": "riak-erlang-http-client",
+      "href": "https://github.com/basho/riak-erlang-http-client",
+      "description": "Riak Erlang client using the HTTP interface",
+      "language": "Erlang",
+      "stars": 44,
+      "forks": 28
+    },
+    {
+      "author": "basho",
+      "name": "riak_pipe",
+      "href": "https://github.com/basho/riak_pipe",
+      "description": "Riak Pipelines",
+      "language": "Erlang",
+      "stars": 152,
+      "forks": 52
+    },
+    {
+      "author": "basho",
+      "name": "riak-erlang-client",
+      "href": "https://github.com/basho/riak-erlang-client",
+      "description": "The Riak client for Erlang.",
+      "language": "Erlang",
+      "stars": 290,
+      "forks": 171
+    },
+    {
+      "author": "basho",
+      "name": "riak_ensemble",
+      "href": "https://github.com/basho/riak_ensemble",
+      "description": "Multi-Paxos framework in Erlang",
+      "language": "Erlang",
+      "stars": 148,
+      "forks": 68
+    },
+    {
+      "author": "basho",
+      "name": "riak_kv",
+      "href": "https://github.com/basho/riak_kv",
+      "description": "Riak Key/Value Store",
+      "language": "Erlang",
+      "stars": 440,
+      "forks": 207
+    },
+    {
+      "author": "basho",
+      "name": "riak_repl",
+      "href": "https://github.com/basho/riak_repl",
+      "description": "Riak DC Replication",
+      "language": "Erlang",
+      "stars": 42,
+      "forks": 25
+    },
+    {
+      "author": "basho",
+      "name": "riak_pb",
+      "href": "https://github.com/basho/riak_pb",
+      "description": "Riak Protocol Buffers Messages",
+      "language": "Erlang",
+      "stars": 64,
+      "forks": 111
+    },
+    {
+      "author": "ryancrum",
+      "name": "bifrost",
+      "href": "https://github.com/ryancrum/bifrost",
+      "description": "Erlang FTP Server Framework",
+      "language": "Erlang",
+      "stars": 35,
+      "forks": 17
+    },
+    {
+      "author": "seriyps",
+      "name": "mtproto_proxy",
+      "href": "https://github.com/seriyps/mtproto_proxy",
+      "description": "Erlang MTProto proxy that powers @socksy_bot",
+      "language": "Erlang",
+      "stars": 56,
+      "forks": 6
+    },
+    {
+      "author": "basho",
+      "name": "riak_api",
+      "href": "https://github.com/basho/riak_api",
+      "description": "Riak Client APIs",
+      "language": "Erlang",
+      "stars": 22,
+      "forks": 37
+    },
+    {
+      "author": "adrienmo",
+      "name": "eredis_cluster",
+      "href": "https://github.com/adrienmo/eredis_cluster",
+      "description": "eredis_cluster is an erlang wrapper for eredis to support cluster mode of redis 3.0.0+",
+      "language": "Erlang",
+      "stars": 60,
+      "forks": 27
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 7415,
+      "forks": 2011
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5420,
+      "forks": 971
+    },
+    {
+      "author": "happi",
+      "name": "theBeamBook",
+      "href": "https://github.com/happi/theBeamBook",
+      "description": "A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.",
+      "language": "Erlang",
+      "stars": 2195,
+      "forks": 190
+    },
+    {
+      "author": "processone",
+      "name": "tsung",
+      "href": "https://github.com/processone/tsung",
+      "description": "Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc.",
+      "language": "Erlang",
+      "stars": 1777,
+      "forks": 365
+    },
+    {
+      "author": "ChicagoBoss",
+      "name": "ChicagoBoss",
+      "href": "https://github.com/ChicagoBoss/ChicagoBoss",
+      "description": "Erlang web MVC, now featuring Comet",
+      "language": "Erlang",
+      "stars": 1740,
+      "forks": 305
+    },
+    {
+      "author": "biokoda",
+      "name": "actordb",
+      "href": "https://github.com/biokoda/actordb",
+      "description": "ActorDB distributed SQL database",
+      "language": "Erlang",
+      "stars": 1728,
+      "forks": 66
+    },
+    {
+      "author": "rvirding",
+      "name": "lfe",
+      "href": "https://github.com/rvirding/lfe",
+      "description": "Lisp Flavoured Erlang (LFE)",
+      "language": "Erlang",
+      "stars": 1680,
+      "forks": 107
+    },
+    {
+      "author": "mochi",
+      "name": "mochiweb",
+      "href": "https://github.com/mochi/mochiweb",
+      "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+      "language": "Erlang",
+      "stars": 1666,
+      "forks": 441
+    },
+    {
+      "author": "vernemq",
+      "name": "vernemq",
+      "href": "https://github.com/vernemq/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1639,
+      "forks": 175
+    },
+    {
+      "author": "discoproject",
+      "name": "disco",
+      "href": "https://github.com/discoproject/disco",
+      "description": "a Map/Reduce framework for distributed computing",
+      "language": "Erlang",
+      "stars": 1576,
+      "forks": 253
+    }
+  ]
+}
