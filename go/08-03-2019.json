@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "uber",
+      "name": "kraken",
+      "href": "https://github.com/uber/kraken",
+      "description": "P2P docker registry capable of distributing TBs of data in seconds",
+      "language": "Go",
+      "stars": 1500,
+      "forks": 39
+    },
+    {
+      "author": "xujiajun",
+      "name": "nutsdb",
+      "href": "https://github.com/xujiajun/nutsdb",
+      "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
+      "language": "Go",
+      "stars": 412,
+      "forks": 20
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 4938,
+      "forks": 199
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice framework",
+      "language": "Go",
+      "stars": 6184,
+      "forks": 621
+    },
+    {
+      "author": "jpschroeder",
+      "name": "pipe-to-me",
+      "href": "https://github.com/jpschroeder/pipe-to-me",
+      "description": "Stream data over http using curl.",
+      "language": "Go",
+      "stars": 168,
+      "forks": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 49262,
+      "forks": 17034
+    },
+    {
+      "author": "ovh",
+      "name": "cds",
+      "href": "https://github.com/ovh/cds",
+      "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+      "language": "Go",
+      "stars": 1570,
+      "forks": 113
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 54204,
+      "forks": 7418
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 20885,
+      "forks": 1627
+    },
+    {
+      "author": "dunglas",
+      "name": "mercure",
+      "href": "https://github.com/dunglas/mercure",
+      "description": "Server-sent live updates: protocol and reference implementation",
+      "language": "Go",
+      "stars": 1007,
+      "forks": 47
+    },
+    {
+      "author": "benbjohnson",
+      "name": "immutable",
+      "href": "https://github.com/benbjohnson/immutable",
+      "description": "Immutable collections for Go",
+      "language": "Go",
+      "stars": 217,
+      "forks": 6
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 10098,
+      "forks": 1221
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 40840,
+      "forks": 5313
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 4898,
+      "forks": 195
+    },
+    {
+      "author": "lalamove",
+      "name": "konfig",
+      "href": "https://github.com/lalamove/konfig",
+      "description": "Composable, observable and performant config handling for Go for the distributed processing era",
+      "language": "Go",
+      "stars": 418,
+      "forks": 17
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24926,
+      "forks": 2934
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 20076,
+      "forks": 769
+    },
+    {
+      "author": "davidbanham",
+      "name": "human_duration",
+      "href": "https://github.com/davidbanham/human_duration",
+      "description": "A little Go util to print duration strings in a human-friendly format",
+      "language": "Go",
+      "stars": 59,
+      "forks": 4
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 20725,
+      "forks": 3667
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 4886,
+      "forks": 938
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33278,
+      "forks": 3784
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 28345,
+      "forks": 7926
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "🔴蓝灯最新版本下载 https://github.com/getlantern/download 🔴 Lantern Latest Download https://github.com/getlantern/download 🔴",
+      "language": "Go",
+      "stars": 40695,
+      "forks": 8962
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 12109,
+      "forks": 1652
+    },
+    {
+      "author": "uber",
+      "name": "makisu",
+      "href": "https://github.com/uber/makisu",
+      "description": "Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.",
+      "language": "Go",
+      "stars": 1422,
+      "forks": 52
+    }
+  ]
+}
