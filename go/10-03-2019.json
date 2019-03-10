@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gotify",
+      "name": "server",
+      "href": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": 1683,
+      "forks": 60
+    },
+    {
+      "author": "pwaller",
+      "name": "go2ll-talk",
+      "href": "https://github.com/pwaller/go2ll-talk",
+      "description": "Live coding a basic Go compiler with LLVM in 20 minutes",
+      "language": "Go",
+      "stars": 134,
+      "forks": 3
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 5070,
+      "forks": 210
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 54273,
+      "forks": 7422
+    },
+    {
+      "author": "uber",
+      "name": "kraken",
+      "href": "https://github.com/uber/kraken",
+      "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+      "language": "Go",
+      "stars": 1641,
+      "forks": 44
+    },
+    {
+      "author": "gotify",
+      "name": "cli",
+      "href": "https://github.com/gotify/cli",
+      "description": "A command line interface for pushing messages to gotify/server.",
+      "language": "Go",
+      "stars": 57,
+      "forks": 4
+    },
+    {
+      "author": "ma6254",
+      "name": "FictionDown",
+      "href": "https://github.com/ma6254/FictionDown",
+      "description": "小说下载|小说爬取|起点|笔趣阁|导出Markdown|导出txt|转换epub|广告过滤|自动校对",
+      "language": "Go",
+      "stars": 44,
+      "forks": 6
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "href": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform file system notifications for Go.",
+      "language": "Go",
+      "stars": 3161,
+      "forks": 367
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 49312,
+      "forks": 17053
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 20787,
+      "forks": 3674
+    },
+    {
+      "author": "xujiajun",
+      "name": "nutsdb",
+      "href": "https://github.com/xujiajun/nutsdb",
+      "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
+      "language": "Go",
+      "stars": 473,
+      "forks": 22
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 40891,
+      "forks": 5320
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23375,
+      "forks": 4694
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33317,
+      "forks": 3784
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 12160,
+      "forks": 1660
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 6244,
+      "forks": 457
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 4917,
+      "forks": 945
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 7828,
+      "forks": 440
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 8828,
+      "forks": 604
+    },
+    {
+      "author": "ovh",
+      "name": "cds",
+      "href": "https://github.com/ovh/cds",
+      "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+      "language": "Go",
+      "stars": 1648,
+      "forks": 116
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24557,
+      "forks": 2067
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 24974,
+      "forks": 2937
+    },
+    {
+      "author": "jpschroeder",
+      "name": "pipe-to-me",
+      "href": "https://github.com/jpschroeder/pipe-to-me",
+      "description": "Stream data over http using curl.",
+      "language": "Go",
+      "stars": 224,
+      "forks": 12
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice framework",
+      "language": "Go",
+      "stars": 6245,
+      "forks": 623
+    },
+    {
+      "author": "gocaio",
+      "name": "goca",
+      "href": "https://github.com/gocaio/goca",
+      "description": "Goca Scanner",
+      "language": "Go",
+      "stars": 127,
+      "forks": 12
+    }
+  ]
+}
