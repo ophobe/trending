@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JohnSully",
+      "name": "KeyDB",
+      "href": "https://github.com/JohnSully/KeyDB",
+      "description": "A Multithreaded Fork of Redis",
+      "language": "C",
+      "stars": 378,
+      "forks": 9
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 5488,
+      "forks": 407
+    },
+    {
+      "author": "opendtrace",
+      "name": "opendtrace",
+      "href": "https://github.com/opendtrace/opendtrace",
+      "description": "Code for the cross platform, single source, OpenDTrace implementation",
+      "language": "C",
+      "stars": 118,
+      "forks": 10
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 8055,
+      "forks": 3095
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 70546,
+      "forks": 25218
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 34827,
+      "forks": 13327
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+      "language": "C",
+      "stars": 2019,
+      "forks": 385
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 11074,
+      "forks": 791
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 36369,
+      "forks": 3145
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 26488,
+      "forks": 15255
+    },
+    {
+      "author": "billziss-gh",
+      "name": "winspd",
+      "href": "https://github.com/billziss-gh/winspd",
+      "description": "Windows Storage Proxy Driver - User mode disk storage",
+      "language": "C",
+      "stars": 36,
+      "forks": 6
+    },
+    {
+      "author": "gonzula",
+      "name": "splash",
+      "href": "https://github.com/gonzula/splash",
+      "description": "Simple Programming LAnguage for SHortcuts",
+      "language": "C",
+      "stars": 101,
+      "forks": 6
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "数据结构和算法必知必会的50个代码实现",
+      "language": "C",
+      "stars": 3095,
+      "forks": 993
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 22178,
+      "forks": 5293
+    },
+    {
+      "author": "ozy",
+      "name": "ToyJVM",
+      "href": "https://github.com/ozy/ToyJVM",
+      "description": "An experimental Java Virtual Machine written in C",
+      "language": "C",
+      "stars": 90,
+      "forks": 5
+    },
+    {
+      "author": "alibaba",
+      "name": "tengine",
+      "href": "https://github.com/alibaba/tengine",
+      "description": "A distribution of Nginx with some advanced features",
+      "language": "C",
+      "stars": 8076,
+      "forks": 1968
+    },
+    {
+      "author": "yulonghu",
+      "name": "asf",
+      "href": "https://github.com/yulonghu/asf",
+      "description": "High performance PHP framework written in C, Work so easy.",
+      "language": "C",
+      "stars": 198,
+      "forks": 8
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 12060,
+      "forks": 6861
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 13770,
+      "forks": 790
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 19458,
+      "forks": 1553
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 10234,
+      "forks": 5253
+    },
+    {
+      "author": "lc-soft",
+      "name": "LC-Finder",
+      "href": "https://github.com/lc-soft/LC-Finder",
+      "description": "An image annotation and object detection tool written in C",
+      "language": "C",
+      "stars": 130,
+      "forks": 24
+    },
+    {
+      "author": "HuangRunHua",
+      "name": "DataStructure",
+      "href": "https://github.com/HuangRunHua/DataStructure",
+      "description": "数据结构和算法",
+      "language": "C",
+      "stars": 88,
+      "forks": 10
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 9906,
+      "forks": 3380
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 6521,
+      "forks": 913
+    }
+  ]
+}
