@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "gotify",
+      "name": "server",
+      "href": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": 2830,
+      "forks": 105
+    },
+    {
+      "author": "openacid",
+      "name": "slim",
+      "href": "https://github.com/openacid/slim",
+      "description": "Unbelievably space efficient data structures in Golang.",
+      "language": "Go",
+      "stars": 252,
+      "forks": 18
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 5262,
+      "forks": 223
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 49420,
+      "forks": 17082
+    },
+    {
+      "author": "xujiajun",
+      "name": "nutsdb",
+      "href": "https://github.com/xujiajun/nutsdb",
+      "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
+      "language": "Go",
+      "stars": 573,
+      "forks": 29
+    },
+    {
+      "author": "uber",
+      "name": "kraken",
+      "href": "https://github.com/uber/kraken",
+      "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+      "language": "Go",
+      "stars": 1869,
+      "forks": 57
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 54382,
+      "forks": 7434
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 40997,
+      "forks": 5338
+    },
+    {
+      "author": "retroplasma",
+      "name": "flyover-reverse-engineering",
+      "href": "https://github.com/retroplasma/flyover-reverse-engineering",
+      "description": "Reversing Apple's 3D satellite mode",
+      "language": "Go",
+      "stars": 345,
+      "forks": 18
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 16008,
+      "forks": 2566
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 20862,
+      "forks": 3694
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25056,
+      "forks": 2945
+    },
+    {
+      "author": "weaveworks",
+      "name": "footloose",
+      "href": "https://github.com/weaveworks/footloose",
+      "description": "Container Machines - Containers that look like Virtual Machines",
+      "language": "Go",
+      "stars": 307,
+      "forks": 14
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33385,
+      "forks": 3789
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20900,
+      "forks": 2134
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice framework",
+      "language": "Go",
+      "stars": 6324,
+      "forks": 625
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23421,
+      "forks": 4706
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 11776,
+      "forks": 3564
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 20957,
+      "forks": 1637
+    },
+    {
+      "author": "gojektech",
+      "name": "weaver",
+      "href": "https://github.com/gojektech/weaver",
+      "description": "An Advanced HTTP Reverse Proxy with Dynamic Sharding Strategies",
+      "language": "Go",
+      "stars": 72,
+      "forks": 8
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 22791,
+      "forks": 8064
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 8931,
+      "forks": 609
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 10492,
+      "forks": 3441
+    },
+    {
+      "author": "Konstantin8105",
+      "name": "c4go",
+      "href": "https://github.com/Konstantin8105/c4go",
+      "description": "Transpiling C code to Go code",
+      "language": "Go",
+      "stars": 106,
+      "forks": 14
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",
+      "language": "Go",
+      "stars": 15953,
+      "forks": 4485
+    }
+  ]
+}
