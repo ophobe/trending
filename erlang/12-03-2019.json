@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 5395,
+      "forks": 1531
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 7430,
+      "forks": 2012
+    },
+    {
+      "author": "Vagabond",
+      "name": "gen_smtp",
+      "href": "https://github.com/Vagabond/gen_smtp",
+      "description": "A generic Erlang SMTP server and client that can be extended via callback modules",
+      "language": "Erlang",
+      "stars": 491,
+      "forks": 210
+    },
+    {
+      "author": "heroku",
+      "name": "ranch_proxy_protocol",
+      "href": "https://github.com/heroku/ranch_proxy_protocol",
+      "description": "PROXY protocol support for ranch",
+      "language": "Erlang",
+      "stars": 44,
+      "forks": 30
+    },
+    {
+      "author": "jj1bdx",
+      "name": "sfmt-erlang",
+      "href": "https://github.com/jj1bdx/sfmt-erlang",
+      "description": "sfmt-erlang: SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang",
+      "language": "Erlang",
+      "stars": 66,
+      "forks": 17
+    },
+    {
+      "author": "msgpack",
+      "name": "msgpack-erlang",
+      "href": "https://github.com/msgpack/msgpack-erlang",
+      "description": "MessagePack (de)serializer implementation for Erlang / msgpack.org[Erlang]",
+      "language": "Erlang",
+      "stars": 176,
+      "forks": 67
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-web-stomp",
+      "href": "https://github.com/rabbitmq/rabbitmq-web-stomp",
+      "description": "Provides support for STOMP over WebSockets",
+      "language": "Erlang",
+      "stars": 81,
+      "forks": 28
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-web-mqtt",
+      "href": "https://github.com/rabbitmq/rabbitmq-web-mqtt",
+      "description": "Provides support for MQTT over WebSockets",
+      "language": "Erlang",
+      "stars": 48,
+      "forks": 10
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-top",
+      "href": "https://github.com/rabbitmq/rabbitmq-top",
+      "description": "Adds top-like information on the Erlang VM to the management plugin.",
+      "language": "Erlang",
+      "stars": 31,
+      "forks": 7
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-stomp",
+      "href": "https://github.com/rabbitmq/rabbitmq-stomp",
+      "description": "RabbitMQ STOMP plugin",
+      "language": "Erlang",
+      "stars": 47,
+      "forks": 24
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-shovel",
+      "href": "https://github.com/rabbitmq/rabbitmq-shovel",
+      "description": "RabbitMQ Shovel plugin",
+      "language": "Erlang",
+      "stars": 40,
+      "forks": 10
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-sharding",
+      "href": "https://github.com/rabbitmq/rabbitmq-sharding",
+      "description": "Sharded logical queues for RabbitMQ: a queue type which provides improved parallelism and thoughput at the cost of total ordering",
+      "language": "Erlang",
+      "stars": 181,
+      "forks": 23
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-recent-history-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-recent-history-exchange",
+      "description": "RabbitMQ Recent History Exchange",
+      "language": "Erlang",
+      "stars": 72,
+      "forks": 18
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 146,
+      "forks": 46
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-mqtt",
+      "href": "https://github.com/rabbitmq/rabbitmq-mqtt",
+      "description": "RabbitMQ MQTT plugin",
+      "language": "Erlang",
+      "stars": 142,
+      "forks": 64
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 249,
+      "forks": 129
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-federation",
+      "href": "https://github.com/rabbitmq/rabbitmq-federation",
+      "description": "RabbitMQ Federation plugin",
+      "language": "Erlang",
+      "stars": 35,
+      "forks": 19
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-event-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-event-exchange",
+      "description": "Expose broker events as messages",
+      "language": "Erlang",
+      "stars": 60,
+      "forks": 14
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-erlang-client",
+      "href": "https://github.com/rabbitmq/rabbitmq-erlang-client",
+      "description": "Erlang client for RabbitMQ",
+      "language": "Erlang",
+      "stars": 162,
+      "forks": 114
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-consistent-hash-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-consistent-hash-exchange",
+      "description": "RabbitMQ Consistent Hash Exchange Type",
+      "language": "Erlang",
+      "stars": 122,
+      "forks": 23
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-common",
+      "href": "https://github.com/rabbitmq/rabbitmq-common",
+      "description": "Common library used by rabbitmq-server and rabbitmq-erlang-client",
+      "language": "Erlang",
+      "stars": 45,
+      "forks": 82
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-amqp1.0",
+      "href": "https://github.com/rabbitmq/rabbitmq-amqp1.0",
+      "description": "AMQP 1.0 support for RabbitMQ",
+      "language": "Erlang",
+      "stars": 69,
+      "forks": 15
+    },
+    {
+      "author": "rabbitmq",
+      "name": "ra",
+      "href": "https://github.com/rabbitmq/ra",
+      "description": "A Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raft clusters in a single system.",
+      "language": "Erlang",
+      "stars": 235,
+      "forks": 26
+    },
+    {
+      "author": "emqx",
+      "name": "emqx-auth-http",
+      "href": "https://github.com/emqx/emqx-auth-http",
+      "description": "EMQ X HTTP Authentication/ACL Plugin",
+      "language": "Erlang",
+      "stars": 29,
+      "forks": 26
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5433,
+      "forks": 973
+    }
+  ]
+}
