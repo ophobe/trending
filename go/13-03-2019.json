@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "rancher",
+      "name": "submariner",
+      "href": "https://github.com/rancher/submariner",
+      "description": "Connect all your Kubernetes clusters, no matter where they are in the world.",
+      "language": "Go",
+      "stars": 361,
+      "forks": 10
+    },
+    {
+      "author": "gotify",
+      "name": "server",
+      "href": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": 3004,
+      "forks": 113
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 468,
+      "forks": 113
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 5345,
+      "forks": 229
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 54450,
+      "forks": 7444
+    },
+    {
+      "author": "pions",
+      "name": "webrtc",
+      "href": "https://github.com/pions/webrtc",
+      "description": "A Go implementation of the WebRTC API",
+      "language": "Go",
+      "stars": 1240,
+      "forks": 135
+    },
+    {
+      "author": "go-ego",
+      "name": "gse",
+      "href": "https://github.com/go-ego/gse",
+      "description": "Go efficient text segmentation; support english, chinese, japanese and other. Go 语言高性能分词",
+      "language": "Go",
+      "stars": 869,
+      "forks": 64
+    },
+    {
+      "author": "openacid",
+      "name": "slim",
+      "href": "https://github.com/openacid/slim",
+      "description": "Unbelievably space efficient data structures in Golang.",
+      "language": "Go",
+      "stars": 319,
+      "forks": 21
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 49476,
+      "forks": 17092
+    },
+    {
+      "author": "uber",
+      "name": "kraken",
+      "href": "https://github.com/uber/kraken",
+      "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+      "language": "Go",
+      "stars": 1926,
+      "forks": 60
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 20944,
+      "forks": 2140
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 20907,
+      "forks": 3700
+    },
+    {
+      "author": "xujiajun",
+      "name": "nutsdb",
+      "href": "https://github.com/xujiajun/nutsdb",
+      "description": "A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
+      "language": "Go",
+      "stars": 620,
+      "forks": 29
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 22613,
+      "forks": 3101
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33422,
+      "forks": 3789
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25094,
+      "forks": 2946
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 41026,
+      "forks": 5342
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23454,
+      "forks": 4709
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 16041,
+      "forks": 2571
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 10523,
+      "forks": 3449
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "Minio is an open source object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 15087,
+      "forks": 1401
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 17706,
+      "forks": 2544
+    },
+    {
+      "author": "mholt",
+      "name": "caddy",
+      "href": "https://github.com/mholt/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 20985,
+      "forks": 1641
+    },
+    {
+      "author": "MiSecurity",
+      "name": "exchange_proxy",
+      "href": "https://github.com/MiSecurity/exchange_proxy",
+      "description": "Security proxy server for Exchange server",
+      "language": "Go",
+      "stars": 72,
+      "forks": 32
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 19273,
+      "forks": 3970
+    }
+  ]
+}
