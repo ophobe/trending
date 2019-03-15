@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "coobjc",
+      "href": "https://github.com/alibaba/coobjc",
+      "description": "coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.",
+      "language": "Objective-C",
+      "stars": 2822,
+      "forks": 337
+    },
+    {
+      "author": "ming1016",
+      "name": "GCDFetchFeed",
+      "href": "https://github.com/ming1016/GCDFetchFeed",
+      "description": "“已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向",
+      "language": "Objective-C",
+      "stars": 727,
+      "forks": 119
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "href": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Objective-C",
+      "stars": 16435,
+      "forks": 2240
+    },
+    {
+      "author": "expo",
+      "name": "expo",
+      "href": "https://github.com/expo/expo",
+      "description": "The Expo platform for making cross-platform mobile apps",
+      "language": "Objective-C",
+      "stars": 5599,
+      "forks": 571
+    },
+    {
+      "author": "react-native-community",
+      "name": "react-native-maps",
+      "href": "https://github.com/react-native-community/react-native-maps",
+      "description": "React Native Mapview component for iOS + Android",
+      "language": "Objective-C",
+      "stars": 9083,
+      "forks": 2790
+    },
+    {
+      "author": "tigerAndBull",
+      "name": "LoadAnimatedDemo-ios",
+      "href": "https://github.com/tigerAndBull/LoadAnimatedDemo-ios",
+      "description": "ios - 原生骨架屏，网络加载过渡动画（持续更新,swift版在制作中...）",
+      "language": "Objective-C",
+      "stars": 766,
+      "forks": 99
+    },
+    {
+      "author": "shabake",
+      "name": "GHDropMenuDemo",
+      "href": "https://github.com/shabake/GHDropMenuDemo",
+      "description": "仿京东/美团电商筛选菜单 电商筛选菜单 电商通用筛选菜单",
+      "language": "Objective-C",
+      "stars": 208,
+      "forks": 31
+    },
+    {
+      "author": "LeoMobileDeveloper",
+      "name": "Blogs",
+      "href": "https://github.com/LeoMobileDeveloper/Blogs",
+      "description": "iOS/React/Swift/React Native的一点心得",
+      "language": "Objective-C",
+      "stars": 523,
+      "forks": 88
+    },
+    {
+      "author": "pujiaxin33",
+      "name": "JXPagingView",
+      "href": "https://github.com/pujiaxin33/JXPagingView",
+      "description": "类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。",
+      "language": "Objective-C",
+      "stars": 541,
+      "forks": 92
+    },
+    {
+      "author": "xietao3",
+      "name": "Study-Plan",
+      "href": "https://github.com/xietao3/Study-Plan",
+      "description": "📖 学习之路",
+      "language": "Objective-C",
+      "stars": 82,
+      "forks": 17
+    },
+    {
+      "author": "pujiaxin33",
+      "name": "JXCategoryView",
+      "href": "https://github.com/pujiaxin33/JXCategoryView",
+      "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
+      "language": "Objective-C",
+      "stars": 2757,
+      "forks": 524
+    },
+    {
+      "author": "Instagram",
+      "name": "IGListKit",
+      "href": "https://github.com/Instagram/IGListKit",
+      "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
+      "language": "Objective-C",
+      "stars": 9918,
+      "forks": 1053
+    },
+    {
+      "author": "QuintGao",
+      "name": "GKPageScrollView",
+      "href": "https://github.com/QuintGao/GKPageScrollView",
+      "description": "iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果",
+      "language": "Objective-C",
+      "stars": 147,
+      "forks": 32
+    },
+    {
+      "author": "eczarny",
+      "name": "spectacle",
+      "href": "https://github.com/eczarny/spectacle",
+      "description": "Spectacle allows you to organize your windows without using a mouse.",
+      "language": "Objective-C",
+      "stars": 10920,
+      "forks": 594
+    },
+    {
+      "author": "material-components",
+      "name": "material-components-ios",
+      "href": "https://github.com/material-components/material-components-ios",
+      "description": "Modular and customizable Material Design UI components for iOS",
+      "language": "Objective-C",
+      "stars": 3265,
+      "forks": 530
+    },
+    {
+      "author": "zuoqing1988",
+      "name": "ZQCNN",
+      "href": "https://github.com/zuoqing1988/ZQCNN",
+      "description": "一款比mini-caffe更快的Forward库，觉得好用请点星啊，400星公布快速人脸检测模型，500星公布106点landmark，600星公布人头检测模型，700星公布人脸检测套餐（六种pnet,两种rnet随意混合使用满足各种速度/精度要求），800星公布更准的106点模型",
+      "language": "Objective-C",
+      "stars": 797,
+      "forks": 162
+    },
+    {
+      "author": "signalapp",
+      "name": "Signal-iOS",
+      "href": "https://github.com/signalapp/Signal-iOS",
+      "description": "A private messenger for iOS.",
+      "language": "Objective-C",
+      "stars": 3953,
+      "forks": 998
+    },
+    {
+      "author": "sveinbjornt",
+      "name": "Sloth",
+      "href": "https://github.com/sveinbjornt/Sloth",
+      "description": "Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof.",
+      "language": "Objective-C",
+      "stars": 3516,
+      "forks": 67
+    },
+    {
+      "author": "SDWebImage",
+      "name": "SDWebImage",
+      "href": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": 21156,
+      "forks": 5349
+    },
+    {
+      "author": "realm",
+      "name": "realm-cocoa",
+      "href": "https://github.com/realm/realm-cocoa",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+      "language": "Objective-C",
+      "stars": 12995,
+      "forks": 1670
+    },
+    {
+      "author": "crazycodeboy",
+      "name": "RNStudyNotes",
+      "href": "https://github.com/crazycodeboy/RNStudyNotes",
+      "description": "React Native 研究与实践",
+      "language": "Objective-C",
+      "stars": 3344,
+      "forks": 644
+    },
+    {
+      "author": "newmarcel",
+      "name": "KeepingYouAwake",
+      "href": "https://github.com/newmarcel/KeepingYouAwake",
+      "description": "Prevents your Mac from going to sleep.",
+      "language": "Objective-C",
+      "stars": 3062,
+      "forks": 141
+    },
+    {
+      "author": "blinksh",
+      "name": "blink",
+      "href": "https://github.com/blinksh/blink",
+      "description": "Blink Mobile Shell for iOS (Mosh based)",
+      "language": "Objective-C",
+      "stars": 2512,
+      "forks": 278
+    },
+    {
+      "author": "davodesign84",
+      "name": "react-native-mixpanel",
+      "href": "https://github.com/davodesign84/react-native-mixpanel",
+      "description": "A React Native wrapper for Mixpanel tracking",
+      "language": "Objective-C",
+      "stars": 338,
+      "forks": 164
+    },
+    {
+      "author": "forcedotcom",
+      "name": "SalesforceMobileSDK-iOS",
+      "href": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS",
+      "description": "iOS SDK for Salesforce",
+      "language": "Objective-C",
+      "stars": 419,
+      "forks": 336
+    }
+  ]
+}
