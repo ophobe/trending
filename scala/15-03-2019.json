@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 20954,
+      "forks": 18303
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13133,
+      "forks": 760
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4610,
+      "forks": 969
+    },
+    {
+      "author": "getquill",
+      "name": "quill",
+      "href": "https://github.com/getquill/quill",
+      "description": "Compile-time Language Integrated Queries for Scala",
+      "language": "Scala",
+      "stars": 1388,
+      "forks": 207
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6904,
+      "forks": 1713
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11351,
+      "forks": 2663
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 1448,
+      "forks": 423
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-scala-driver",
+      "href": "https://github.com/mongodb/mongo-scala-driver",
+      "description": null,
+      "language": "Scala",
+      "stars": 252,
+      "forks": 113
+    },
+    {
+      "author": "magneticio",
+      "name": "vamp",
+      "href": "https://github.com/magneticio/vamp",
+      "description": "Vamp - canary releasing and autoscaling for microservice systems",
+      "language": "Scala",
+      "stars": 618,
+      "forks": 61
+    },
+    {
+      "author": "typelevel",
+      "name": "sbt-catalysts",
+      "href": "https://github.com/typelevel/sbt-catalysts",
+      "description": null,
+      "language": "Scala",
+      "stars": 29,
+      "forks": 14
+    },
+    {
+      "author": "mpollmeier",
+      "name": "gremlin-scala",
+      "href": "https://github.com/mpollmeier/gremlin-scala",
+      "description": "Scala wrapper for Apache TinkerPop 3 Graph DSL",
+      "language": "Scala",
+      "stars": 411,
+      "forks": 63
+    },
+    {
+      "author": "fthomas",
+      "name": "scala-steward",
+      "href": "https://github.com/fthomas/scala-steward",
+      "description": "🤖 A robot that helps you keeping your Scala projects up-to-date",
+      "language": "Scala",
+      "stars": 230,
+      "forks": 105
+    },
+    {
+      "author": "guardian",
+      "name": "grid",
+      "href": "https://github.com/guardian/grid",
+      "description": "The Guardian’s new image management system",
+      "language": "Scala",
+      "stars": 1317,
+      "forks": 104
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 914,
+      "forks": 430
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-scalatutorial",
+      "href": "https://github.com/scala-exercises/exercises-scalatutorial",
+      "description": "Exercises for the \"Functional Programming Principles in Scala\", part of the FP in Scala specialized program by EPFL.",
+      "language": "Scala",
+      "stars": 70,
+      "forks": 237
+    },
+    {
+      "author": "scala-hamsters",
+      "name": "hamsters",
+      "href": "https://github.com/scala-hamsters/hamsters",
+      "description": "A mini Scala utility library",
+      "language": "Scala",
+      "stars": 277,
+      "forks": 26
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3",
+      "language": "Scala",
+      "stars": 718,
+      "forks": 167
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-osgi",
+      "href": "https://github.com/sbt/sbt-osgi",
+      "description": "sbt plugin for creating OSGi bundles",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 38
+    },
+    {
+      "author": "stripe",
+      "name": "rainier",
+      "href": "https://github.com/stripe/rainier",
+      "description": "Bayesian inference in Scala.",
+      "language": "Scala",
+      "stars": 251,
+      "forks": 28
+    },
+    {
+      "author": "Azure",
+      "name": "azure-cosmosdb-spark",
+      "href": "https://github.com/Azure/azure-cosmosdb-spark",
+      "description": "Apache Spark Connector for Azure Cosmos DB",
+      "language": "Scala",
+      "stars": 106,
+      "forks": 70
+    },
+    {
+      "author": "neoremind",
+      "name": "kraps-rpc",
+      "href": "https://github.com/neoremind/kraps-rpc",
+      "description": "A RPC framework leveraging Spark RPC module",
+      "language": "Scala",
+      "stars": 115,
+      "forks": 60
+    },
+    {
+      "author": "TouK",
+      "name": "nussknacker",
+      "href": "https://github.com/TouK/nussknacker",
+      "description": "Process authoring tool for Apache Flink",
+      "language": "Scala",
+      "stars": 120,
+      "forks": 27
+    },
+    {
+      "author": "ing-bank",
+      "name": "scruid",
+      "href": "https://github.com/ing-bank/scruid",
+      "description": "Scala + Druid: Scruid. A library that allows you to compose queries in Scala, and parse the result back into typesafe classes.",
+      "language": "Scala",
+      "stars": 53,
+      "forks": 15
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 261,
+      "forks": 173
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 380,
+      "forks": 114
+    }
+  ]
+}
