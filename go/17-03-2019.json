@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "infinimesh",
+      "name": "kaf",
+      "href": "https://github.com/infinimesh/kaf",
+      "description": "Modern CLI for Apache Kafka, written in Go.",
+      "language": "Go",
+      "stars": 98,
+      "forks": 2
+    },
+    {
+      "author": "gotify",
+      "name": "server",
+      "href": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": 3456,
+      "forks": 141
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 41181,
+      "forks": 5361
+    },
+    {
+      "author": "kylesliu",
+      "name": "awesome-golang-leetcode",
+      "href": "https://github.com/kylesliu/awesome-golang-leetcode",
+      "description": "📝 LeetCode of algorithms with golang solution(updating).",
+      "language": "Go",
+      "stars": 231,
+      "forks": 16
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 49626,
+      "forks": 17131
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25218,
+      "forks": 2955
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 54644,
+      "forks": 7471
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 21064,
+      "forks": 3730
+    },
+    {
+      "author": "xssed",
+      "name": "owlcache",
+      "href": "https://github.com/xssed/owlcache",
+      "description": "🦉Owlcache 是一款由Golang编写的轻量级、高性能、无中心分布式的Key/Value内存缓存型的数据共享应用(一定场景下可以作为轻量型数据库来使用)。 keyword : golang cache",
+      "language": "Go",
+      "stars": 123,
+      "forks": 16
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 5520,
+      "forks": 246
+    },
+    {
+      "author": "openacid",
+      "name": "slim",
+      "href": "https://github.com/openacid/slim",
+      "description": "Unbelievably space efficient data structures in Golang.",
+      "language": "Go",
+      "stars": 832,
+      "forks": 46
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 12338,
+      "forks": 1696
+    },
+    {
+      "author": "dgryski",
+      "name": "go-xxh3",
+      "href": "https://github.com/dgryski/go-xxh3",
+      "description": "xxh3 fast hash function",
+      "language": "Go",
+      "stars": 51,
+      "forks": 2
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33539,
+      "forks": 3802
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23540,
+      "forks": 4722
+    },
+    {
+      "author": "rancher",
+      "name": "submariner",
+      "href": "https://github.com/rancher/submariner",
+      "description": "Connect all your Kubernetes clusters, no matter where they are in the world.",
+      "language": "Go",
+      "stars": 668,
+      "forks": 24
+    },
+    {
+      "author": "usefathom",
+      "name": "fathom",
+      "href": "https://github.com/usefathom/fathom",
+      "description": "Fathom. Simple, trustworthy website analytics. Built with Golang & Preact.",
+      "language": "Go",
+      "stars": 5116,
+      "forks": 203
+    },
+    {
+      "author": "grandecola",
+      "name": "bigqueue",
+      "href": "https://github.com/grandecola/bigqueue",
+      "description": "Embedded, Fast and Persistent bigqueue implementation",
+      "language": "Go",
+      "stars": 264,
+      "forks": 19
+    },
+    {
+      "author": "aimerforreimu",
+      "name": "AUXPI",
+      "href": "https://github.com/aimerforreimu/AUXPI",
+      "description": "🍭 集合多家 API 的新一代图床",
+      "language": "Go",
+      "stars": 281,
+      "forks": 43
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 21052,
+      "forks": 2146
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 28543,
+      "forks": 7967
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 52530,
+      "forks": 15193
+    },
+    {
+      "author": "gojektech",
+      "name": "weaver",
+      "href": "https://github.com/gojektech/weaver",
+      "description": "An Advanced HTTP Reverse Proxy with Dynamic Sharding Strategies",
+      "language": "Go",
+      "stars": 217,
+      "forks": 13
+    },
+    {
+      "author": "uber",
+      "name": "kraken",
+      "href": "https://github.com/uber/kraken",
+      "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+      "language": "Go",
+      "stars": 2065,
+      "forks": 68
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 20251,
+      "forks": 774
+    }
+  ]
+}
