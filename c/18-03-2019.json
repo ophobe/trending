@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 70835,
+      "forks": 25288
+    },
+    {
+      "author": "JohnSully",
+      "name": "KeyDB",
+      "href": "https://github.com/JohnSully/KeyDB",
+      "description": "A Multithreaded Fork of Redis",
+      "language": "C",
+      "stars": 1264,
+      "forks": 45
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 36546,
+      "forks": 3163
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "href": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": 2753,
+      "forks": 253
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "数据结构和算法必知必会的50个代码实现",
+      "language": "C",
+      "stars": 3237,
+      "forks": 1041
+    },
+    {
+      "author": "cstack",
+      "name": "db_tutorial",
+      "href": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "language": "C",
+      "stars": 2356,
+      "forks": 185
+    },
+    {
+      "author": "bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 22458,
+      "forks": 5940
+    },
+    {
+      "author": "SharpAI",
+      "name": "DeepCamera",
+      "href": "https://github.com/SharpAI/DeepCamera",
+      "description": "Open source AI-powered video surveillance on embedded Linux/Android with ARM GPU/NPU support, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform.",
+      "language": "C",
+      "stars": 325,
+      "forks": 25
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 34991,
+      "forks": 13390
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 26583,
+      "forks": 15291
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 11241,
+      "forks": 805
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 12163,
+      "forks": 6921
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 7170,
+      "forks": 852
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 22265,
+      "forks": 5296
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 14182,
+      "forks": 5355
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+      "language": "C",
+      "stars": 2152,
+      "forks": 407
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 11809,
+      "forks": 1912
+    },
+    {
+      "author": "tmly115",
+      "name": "SimpleShell",
+      "href": "https://github.com/tmly115/SimpleShell",
+      "description": "A simple and easy to use shell for unix.",
+      "language": "C",
+      "stars": 50,
+      "forks": 9
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 5599,
+      "forks": 413
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 14800,
+      "forks": 1541
+    },
+    {
+      "author": "anhkgg",
+      "name": "SuperWeChatPC",
+      "href": "https://github.com/anhkgg/SuperWeChatPC",
+      "description": "超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK",
+      "language": "C",
+      "stars": 1025,
+      "forks": 310
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 13160,
+      "forks": 895
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 10291,
+      "forks": 5258
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 12422,
+      "forks": 2818
+    },
+    {
+      "author": "CasterWx",
+      "name": "AntzOS",
+      "href": "https://github.com/CasterWx/AntzOS",
+      "description": "🌏 Develop an intelligent AI half terminal half graphical operating system Antz. 一个随心所欲制造的操作系统Antz。",
+      "language": "C",
+      "stars": 177,
+      "forks": 13
+    }
+  ]
+}
