@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "coobjc",
+      "href": "https://github.com/alibaba/coobjc",
+      "description": "coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc.",
+      "language": "Objective-C",
+      "stars": 2890,
+      "forks": 348
+    },
+    {
+      "author": "expo",
+      "name": "expo",
+      "href": "https://github.com/expo/expo",
+      "description": "The Expo platform for making cross-platform mobile apps",
+      "language": "Objective-C",
+      "stars": 5664,
+      "forks": 582
+    },
+    {
+      "author": "chenxiancai",
+      "name": "STCObfuscator",
+      "href": "https://github.com/chenxiancai/STCObfuscator",
+      "description": "iOS全局自动化 代码混淆 工具！支持cocoapod组件代码一并 混淆，完美避开hardcode方法、静态库方法和系统库方法！",
+      "language": "Objective-C",
+      "stars": 466,
+      "forks": 90
+    },
+    {
+      "author": "pujiaxin33",
+      "name": "JXCategoryView",
+      "href": "https://github.com/pujiaxin33/JXCategoryView",
+      "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
+      "language": "Objective-C",
+      "stars": 2788,
+      "forks": 531
+    },
+    {
+      "author": "renmoqiqi",
+      "name": "100-Days-Of-iOS-DataStructure-Algorithm",
+      "href": "https://github.com/renmoqiqi/100-Days-Of-iOS-DataStructure-Algorithm",
+      "description": "100天iOS数据结构与算法实战",
+      "language": "Objective-C",
+      "stars": 92,
+      "forks": 8
+    },
+    {
+      "author": "react-native-community",
+      "name": "react-native-maps",
+      "href": "https://github.com/react-native-community/react-native-maps",
+      "description": "React Native Mapview component for iOS + Android",
+      "language": "Objective-C",
+      "stars": 9116,
+      "forks": 2797
+    },
+    {
+      "author": "banchichen",
+      "name": "TZImagePickerController",
+      "href": "https://github.com/banchichen/TZImagePickerController",
+      "description": "一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。 A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+",
+      "language": "Objective-C",
+      "stars": 6109,
+      "forks": 1361
+    },
+    {
+      "author": "react-native-community",
+      "name": "react-native-webview",
+      "href": "https://github.com/react-native-community/react-native-webview",
+      "description": "React Native Cross-Platform WebView",
+      "language": "Objective-C",
+      "stars": 807,
+      "forks": 257
+    },
+    {
+      "author": "sequelpro",
+      "name": "sequelpro",
+      "href": "https://github.com/sequelpro/sequelpro",
+      "description": "MySQL/MariaDB database management for macOS",
+      "language": "Objective-C",
+      "stars": 6257,
+      "forks": 543
+    },
+    {
+      "author": "Tencent",
+      "name": "QMUI_iOS",
+      "href": "https://github.com/Tencent/QMUI_iOS",
+      "description": "QMUI iOS——致力于提高项目 UI 开发效率的解决方案",
+      "language": "Objective-C",
+      "stars": 3782,
+      "forks": 647
+    },
+    {
+      "author": "SDWebImage",
+      "name": "SDWebImage",
+      "href": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": 21186,
+      "forks": 5353
+    },
+    {
+      "author": "eczarny",
+      "name": "spectacle",
+      "href": "https://github.com/eczarny/spectacle",
+      "description": "Spectacle allows you to organize your windows without using a mouse.",
+      "language": "Objective-C",
+      "stars": 10955,
+      "forks": 594
+    },
+    {
+      "author": "CoderMJLee",
+      "name": "MJRefresh",
+      "href": "https://github.com/CoderMJLee/MJRefresh",
+      "description": "An easy way to use pull-to-refresh.",
+      "language": "Objective-C",
+      "stars": 12595,
+      "forks": 3434
+    },
+    {
+      "author": "SnapKit",
+      "name": "Masonry",
+      "href": "https://github.com/SnapKit/Masonry",
+      "description": "Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout",
+      "language": "Objective-C",
+      "stars": 17176,
+      "forks": 3076
+    },
+    {
+      "author": "gnachman",
+      "name": "iTerm2",
+      "href": "https://github.com/gnachman/iTerm2",
+      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+      "language": "Objective-C",
+      "stars": 8355,
+      "forks": 845
+    },
+    {
+      "author": "ChenYilong",
+      "name": "CYLTabBarController",
+      "href": "https://github.com/ChenYilong/CYLTabBarController",
+      "description": "[EN]Highly customizable tabBar and tabBarController for iOS. [CN]【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建，自带红点角标、动画，支持动态刷新。【iOS12 & iPhone XS MAX supported】",
+      "language": "Objective-C",
+      "stars": 5174,
+      "forks": 1136
+    },
+    {
+      "author": "blinksh",
+      "name": "blink",
+      "href": "https://github.com/blinksh/blink",
+      "description": "Blink Mobile Shell for iOS (Mosh based)",
+      "language": "Objective-C",
+      "stars": 2553,
+      "forks": 280
+    },
+    {
+      "author": "newyjp",
+      "name": "JPVideoPlayer",
+      "href": "https://github.com/newyjp/JPVideoPlayer",
+      "description": "Automatic play video & cache video data in UITableView like Weibo and Douyin.",
+      "language": "Objective-C",
+      "stars": 1828,
+      "forks": 344
+    },
+    {
+      "author": "material-components",
+      "name": "material-components-ios",
+      "href": "https://github.com/material-components/material-components-ios",
+      "description": "Modular and customizable Material Design UI components for iOS",
+      "language": "Objective-C",
+      "stars": 3283,
+      "forks": 534
+    },
+    {
+      "author": "react-native-community",
+      "name": "react-native-device-info",
+      "href": "https://github.com/react-native-community/react-native-device-info",
+      "description": "Device Information for React Native iOS and Android",
+      "language": "Objective-C",
+      "stars": 3629,
+      "forks": 799
+    },
+    {
+      "author": "SVProgressHUD",
+      "name": "SVProgressHUD",
+      "href": "https://github.com/SVProgressHUD/SVProgressHUD",
+      "description": "A clean and lightweight progress HUD for your iOS and tvOS app.",
+      "language": "Objective-C",
+      "stars": 11546,
+      "forks": 2291
+    },
+    {
+      "author": "eseedo",
+      "name": "iOSCourse",
+      "href": "https://github.com/eseedo/iOSCourse",
+      "description": "iOS开发初学者入门",
+      "language": "Objective-C",
+      "stars": 1683,
+      "forks": 749
+    },
+    {
+      "author": "CocoaLumberjack",
+      "name": "CocoaLumberjack",
+      "href": "https://github.com/CocoaLumberjack/CocoaLumberjack",
+      "description": "A fast & simple, yet powerful & flexible logging framework for Mac and iOS",
+      "language": "Objective-C",
+      "stars": 11069,
+      "forks": 1929
+    },
+    {
+      "author": "facebook",
+      "name": "SocketRocket",
+      "href": "https://github.com/facebook/SocketRocket",
+      "description": "A conforming Objective-C WebSocket client library.",
+      "language": "Objective-C",
+      "stars": 8416,
+      "forks": 1709
+    },
+    {
+      "author": "realm",
+      "name": "realm-cocoa",
+      "href": "https://github.com/realm/realm-cocoa",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+      "language": "Objective-C",
+      "stars": 13016,
+      "forks": 1671
+    }
+  ]
+}
