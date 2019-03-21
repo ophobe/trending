@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 70977,
+      "forks": 25332
+    },
+    {
+      "author": "CasterWx",
+      "name": "AntzOS",
+      "href": "https://github.com/CasterWx/AntzOS",
+      "description": "🌏 Develop an intelligent AI half terminal half graphical operating system Antz. 一个随心所欲制造的操作系统Antz。",
+      "language": "C",
+      "stars": 229,
+      "forks": 18
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 35068,
+      "forks": 13421
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 36657,
+      "forks": 3170
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "数据结构和算法必知必会的50个代码实现",
+      "language": "C",
+      "stars": 3305,
+      "forks": 1069
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 14238,
+      "forks": 5376
+    },
+    {
+      "author": "frednora",
+      "name": "gramado",
+      "href": "https://github.com/frednora/gramado",
+      "description": "Gramado Operating System",
+      "language": "C",
+      "stars": 197,
+      "forks": 18
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 11329,
+      "forks": 814
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "href": "https://github.com/SanderMertens/flecs",
+      "description": "A Multithreaded Entity Component System written in C99",
+      "language": "C",
+      "stars": 140,
+      "forks": 8
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 22328,
+      "forks": 5300
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "href": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT operating system from China.",
+      "language": "C",
+      "stars": 2325,
+      "forks": 1669
+    },
+    {
+      "author": "govolution",
+      "name": "avet",
+      "href": "https://github.com/govolution/avet",
+      "description": "AntiVirus Evasion Tool",
+      "language": "C",
+      "stars": 843,
+      "forks": 248
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+      "language": "C",
+      "stars": 2205,
+      "forks": 417
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 12209,
+      "forks": 6965
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "href": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": 2579,
+      "forks": 1370
+    },
+    {
+      "author": "radare",
+      "name": "radare2",
+      "href": "https://github.com/radare/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 9847,
+      "forks": 1808
+    },
+    {
+      "author": "bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 22501,
+      "forks": 5949
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 9523,
+      "forks": 1588
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 3949,
+      "forks": 7510
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 12484,
+      "forks": 2818
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 26629,
+      "forks": 15316
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 8149,
+      "forks": 3143
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 9773,
+      "forks": 4320
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 9260,
+      "forks": 2190
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 14856,
+      "forks": 1547
+    }
+  ]
+}
