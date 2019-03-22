@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13256,
+      "forks": 764
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21052,
+      "forks": 18364
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9655,
+      "forks": 2979
+    },
+    {
+      "author": "salesforce",
+      "name": "TransmogrifAI",
+      "href": "https://github.com/salesforce/TransmogrifAI",
+      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand tuning",
+      "language": "Scala",
+      "stars": 1361,
+      "forks": 228
+    },
+    {
+      "author": "cas-bigdatalab",
+      "name": "piflow",
+      "href": "https://github.com/cas-bigdatalab/piflow",
+      "description": "πflow is a big data flow engine with spark support",
+      "language": "Scala",
+      "stars": 95,
+      "forks": 34
+    },
+    {
+      "author": "twitter",
+      "name": "scalding",
+      "href": "https://github.com/twitter/scalding",
+      "description": "A Scala API for Cascading",
+      "language": "Scala",
+      "stars": 3111,
+      "forks": 660
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1440,
+      "forks": 241
+    },
+    {
+      "author": "JetBrains",
+      "name": "intellij-scala",
+      "href": "https://github.com/JetBrains/intellij-scala",
+      "description": "Scala plugin for IntelliJ IDEA",
+      "language": "Scala",
+      "stars": 883,
+      "forks": 309
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 621,
+      "forks": 162
+    },
+    {
+      "author": "tpolecat",
+      "name": "doobie",
+      "href": "https://github.com/tpolecat/doobie",
+      "description": "Functional JDBC layer for Scala.",
+      "language": "Scala",
+      "stars": 1390,
+      "forks": 213
+    },
+    {
+      "author": "scalalandio",
+      "name": "chimney",
+      "href": "https://github.com/scalalandio/chimney",
+      "description": "Scala library for boilerplate-free data transformations",
+      "language": "Scala",
+      "stars": 344,
+      "forks": 20
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-collections",
+      "href": "https://github.com/typelevel/cats-collections",
+      "description": "Data structures for pure functional programming in Scala",
+      "language": "Scala",
+      "stars": 373,
+      "forks": 63
+    },
+    {
+      "author": "hseeberger",
+      "name": "akka-http-json",
+      "href": "https://github.com/hseeberger/akka-http-json",
+      "description": "Integrate some of the best JSON libs in Scala with Akka HTTP",
+      "language": "Scala",
+      "stars": 460,
+      "forks": 92
+    },
+    {
+      "author": "dwijnand",
+      "name": "sbt-travisci",
+      "href": "https://github.com/dwijnand/sbt-travisci",
+      "description": "An sbt plugin to integrate with Travis CI",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 7
+    },
+    {
+      "author": "dwijnand",
+      "name": "sbt-project-graph",
+      "href": "https://github.com/dwijnand/sbt-project-graph",
+      "description": "An sbt plugin to help visualise inter-project dependencies",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 7
+    },
+    {
+      "author": "dwijnand",
+      "name": "sbt-dynver",
+      "href": "https://github.com/dwijnand/sbt-dynver",
+      "description": "An sbt plugin to dynamically set your version from git",
+      "language": "Scala",
+      "stars": 160,
+      "forks": 20
+    },
+    {
+      "author": "aws",
+      "name": "sagemaker-spark",
+      "href": "https://github.com/aws/sagemaker-spark",
+      "description": "A Spark library for Amazon SageMaker.",
+      "language": "Scala",
+      "stars": 122,
+      "forks": 63
+    },
+    {
+      "author": "lightbend",
+      "name": "paradox",
+      "href": "https://github.com/lightbend/paradox",
+      "description": "Markdown documentation",
+      "language": "Scala",
+      "stars": 189,
+      "forks": 46
+    },
+    {
+      "author": "Landoop",
+      "name": "stream-reactor",
+      "href": "https://github.com/Landoop/stream-reactor",
+      "description": "Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more.",
+      "language": "Scala",
+      "stars": 557,
+      "forks": 212
+    },
+    {
+      "author": "hortonworks-spark",
+      "name": "shc",
+      "href": "https://github.com/hortonworks-spark/shc",
+      "description": "The Apache Spark - Apache HBase Connector is a library to support Spark accessing HBase table as external data source or sink.",
+      "language": "Scala",
+      "stars": 355,
+      "forks": 181
+    },
+    {
+      "author": "lihaoyi",
+      "name": "Ammonite",
+      "href": "https://github.com/lihaoyi/Ammonite",
+      "description": "Scala Scripting",
+      "language": "Scala",
+      "stars": 1922,
+      "forks": 296
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11695,
+      "forks": 1901
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11380,
+      "forks": 2664
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11047,
+      "forks": 3719
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7613,
+      "forks": 1051
+    }
+  ]
+}
