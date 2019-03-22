@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 50946,
+      "forks": 15536
+    },
+    {
+      "author": "spatie",
+      "name": "async",
+      "href": "https://github.com/spatie/async",
+      "description": "Easily run code asynchronously",
+      "language": "PHP",
+      "stars": 643,
+      "forks": 50
+    },
+    {
+      "author": "spatie",
+      "name": "laravel-export",
+      "href": "https://github.com/spatie/laravel-export",
+      "description": "Create a static site bundle from a Laravel app",
+      "language": "PHP",
+      "stars": 61,
+      "forks": 4
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 16622,
+      "forks": 6330
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 17211,
+      "forks": 6434
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 14091,
+      "forks": 1513
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 18942,
+      "forks": 5419
+    },
+    {
+      "author": "linkorb",
+      "name": "infra",
+      "href": "https://github.com/linkorb/infra",
+      "description": "🚀 INFRA: your infrastructure as a GraphQL service",
+      "language": "PHP",
+      "stars": 38,
+      "forks": 2
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19921,
+      "forks": 2355
+    },
+    {
+      "author": "doctrine",
+      "name": "instantiator",
+      "href": "https://github.com/doctrine/instantiator",
+      "description": null,
+      "language": "PHP",
+      "stars": 6386,
+      "forks": 41
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 6559,
+      "forks": 89
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "href": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": 12793,
+      "forks": 7048
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 5665,
+      "forks": 1024
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 13425,
+      "forks": 1704
+    },
+    {
+      "author": "symfony",
+      "name": "contracts",
+      "href": "https://github.com/symfony/contracts",
+      "description": "A set of abstractions extracted out of the Symfony components",
+      "language": "PHP",
+      "stars": 1325,
+      "forks": 4
+    },
+    {
+      "author": "caouecs",
+      "name": "Laravel-lang",
+      "href": "https://github.com/caouecs/Laravel-lang",
+      "description": "List of 68 languages for Laravel 5",
+      "language": "PHP",
+      "stars": 3645,
+      "forks": 1528
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "href": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": 16065,
+      "forks": 1911
+    },
+    {
+      "author": "thephpleague",
+      "name": "flysystem",
+      "href": "https://github.com/thephpleague/flysystem",
+      "description": "Abstraction for local and remote filesystems",
+      "language": "PHP",
+      "stars": 8930,
+      "forks": 499
+    },
+    {
+      "author": "Roave",
+      "name": "no-leaks",
+      "href": "https://github.com/Roave/no-leaks",
+      "description": "🚰 PHPUnit Plugin for detecting Memory Leaks in code and tests",
+      "language": "PHP",
+      "stars": 219,
+      "forks": 4
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "href": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": 6403,
+      "forks": 435
+    },
+    {
+      "author": "spatie",
+      "name": "laravel-responsecache",
+      "href": "https://github.com/spatie/laravel-responsecache",
+      "description": "Speed up a Laravel app by caching the entire response",
+      "language": "PHP",
+      "stars": 1012,
+      "forks": 95
+    },
+    {
+      "author": "briannesbitt",
+      "name": "Carbon",
+      "href": "https://github.com/briannesbitt/Carbon",
+      "description": "A simple PHP API extension for DateTime.",
+      "language": "PHP",
+      "stars": 12028,
+      "forks": 1055
+    },
+    {
+      "author": "erusev",
+      "name": "parsedown",
+      "href": "https://github.com/erusev/parsedown",
+      "description": "Better Markdown Parser in PHP",
+      "language": "PHP",
+      "stars": 10439,
+      "forks": 860
+    },
+    {
+      "author": "guzzle",
+      "name": "psr7",
+      "href": "https://github.com/guzzle/psr7",
+      "description": "PSR-7 HTTP message library",
+      "language": "PHP",
+      "stars": 4347,
+      "forks": 159
+    },
+    {
+      "author": "swoft-cloud",
+      "name": "swoft",
+      "href": "https://github.com/swoft-cloud/swoft",
+      "description": "⚡️ Modern High performance AOP and Coroutine PHP Framework, base on Swoole",
+      "language": "PHP",
+      "stars": 2551,
+      "forks": 412
+    }
+  ]
+}
