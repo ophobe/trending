@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "spatie",
+      "name": "async",
+      "href": "https://github.com/spatie/async",
+      "description": "Easily run code asynchronously",
+      "language": "PHP",
+      "stars": 673,
+      "forks": 51
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 50964,
+      "forks": 15542
+    },
+    {
+      "author": "Badcow",
+      "name": "DNS",
+      "href": "https://github.com/Badcow/DNS",
+      "description": "The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various RData types), a parser to convert BIND style text files to the PHP objects, and builders to create aesthetically pleasing BIND records.",
+      "language": "PHP",
+      "stars": 73,
+      "forks": 13
+    },
+    {
+      "author": "symfony",
+      "name": "contracts",
+      "href": "https://github.com/symfony/contracts",
+      "description": "A set of abstractions extracted out of the Symfony components",
+      "language": "PHP",
+      "stars": 1341,
+      "forks": 5
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 6301,
+      "forks": 161
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-intl-idn",
+      "href": "https://github.com/symfony/polyfill-intl-idn",
+      "description": "This component provides a partial, native PHP implementation for the Intl extension (IDN features).",
+      "language": "PHP",
+      "stars": 221,
+      "forks": 0
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 18956,
+      "forks": 5420
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 5901,
+      "forks": 198
+    },
+    {
+      "author": "symfony",
+      "name": "event-dispatcher",
+      "href": "https://github.com/symfony/event-dispatcher",
+      "description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.",
+      "language": "PHP",
+      "stars": 5689,
+      "forks": 38
+    },
+    {
+      "author": "symfony",
+      "name": "http-kernel",
+      "href": "https://github.com/symfony/http-kernel",
+      "description": "The HttpKernel component provides a structured process for converting a Request into a Response.",
+      "language": "PHP",
+      "stars": 5515,
+      "forks": 54
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 5386,
+      "forks": 68
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 5660,
+      "forks": 32
+    },
+    {
+      "author": "swooletw",
+      "name": "laravel-swoole",
+      "href": "https://github.com/swooletw/laravel-swoole",
+      "description": "High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.",
+      "language": "PHP",
+      "stars": 1866,
+      "forks": 149
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 16628,
+      "forks": 6332
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-php72",
+      "href": "https://github.com/symfony/polyfill-php72",
+      "description": "This component provides functions added to PHP 7.2 core.",
+      "language": "PHP",
+      "stars": 3064,
+      "forks": 0
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 14100,
+      "forks": 1513
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19933,
+      "forks": 2356
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-mbstring",
+      "href": "https://github.com/symfony/polyfill-mbstring",
+      "description": "This component provides a partial, native PHP implementation for the Mbstring extension.",
+      "language": "PHP",
+      "stars": 5528,
+      "forks": 17
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 13434,
+      "forks": 1705
+    },
+    {
+      "author": "FriendsOfPHP",
+      "name": "PHP-CS-Fixer",
+      "href": "https://github.com/FriendsOfPHP/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": 7370,
+      "forks": 990
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 6567,
+      "forks": 89
+    },
+    {
+      "author": "doctrine",
+      "name": "instantiator",
+      "href": "https://github.com/doctrine/instantiator",
+      "description": null,
+      "language": "PHP",
+      "stars": 6395,
+      "forks": 41
+    },
+    {
+      "author": "the-benchmarker",
+      "name": "web-frameworks",
+      "href": "https://github.com/the-benchmarker/web-frameworks",
+      "description": "Which is the fastest web framework?",
+      "language": "PHP",
+      "stars": 1846,
+      "forks": 155
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-iconv",
+      "href": "https://github.com/symfony/polyfill-iconv",
+      "description": "This component provides a native PHP implementation of the php.net/iconv functions.",
+      "language": "PHP",
+      "stars": 317,
+      "forks": 5
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 17219,
+      "forks": 6440
+    }
+  ]
+}
