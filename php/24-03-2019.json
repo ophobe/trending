@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "swooletw",
+      "name": "laravel-swoole",
+      "href": "https://github.com/swooletw/laravel-swoole",
+      "description": "High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.",
+      "language": "PHP",
+      "stars": 1912,
+      "forks": 149
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 50980,
+      "forks": 15548
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 17232,
+      "forks": 6450
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 19944,
+      "forks": 2359
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "href": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 20218,
+      "forks": 6770
+    },
+    {
+      "author": "woocommerce",
+      "name": "woocommerce",
+      "href": "https://github.com/woocommerce/woocommerce",
+      "description": "An open source eCommerce plugin for WordPress.",
+      "language": "PHP",
+      "stars": 5141,
+      "forks": 5220
+    },
+    {
+      "author": "spatie",
+      "name": "async",
+      "href": "https://github.com/spatie/async",
+      "description": "Easily run code asynchronously",
+      "language": "PHP",
+      "stars": 684,
+      "forks": 51
+    },
+    {
+      "author": "spatie",
+      "name": "laravel-flash",
+      "href": "https://github.com/spatie/laravel-flash",
+      "description": "A lightweight package to flash messages",
+      "language": "PHP",
+      "stars": 154,
+      "forks": 11
+    },
+    {
+      "author": "Badcow",
+      "name": "DNS",
+      "href": "https://github.com/Badcow/DNS",
+      "description": "The aim of this project is to create abstract object representations of DNS records in PHP. The project consists of various classes representing DNS objects (such as Zone, ResourceRecord, and various RData types), a parser to convert BIND style text files to the PHP objects, and builders to create aesthetically pleasing BIND records.",
+      "language": "PHP",
+      "stars": 84,
+      "forks": 13
+    },
+    {
+      "author": "akiyamaSM",
+      "name": "larapoll",
+      "href": "https://github.com/akiyamaSM/larapoll",
+      "description": "A Laravel package to manage your polls",
+      "language": "PHP",
+      "stars": 100,
+      "forks": 28
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "href": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": 12804,
+      "forks": 7056
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 16636,
+      "forks": 6336
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "href": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": 18964,
+      "forks": 5420
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 13442,
+      "forks": 1705
+    },
+    {
+      "author": "FriendsOfPHP",
+      "name": "PHP-CS-Fixer",
+      "href": "https://github.com/FriendsOfPHP/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": 7376,
+      "forks": 990
+    },
+    {
+      "author": "MISP",
+      "name": "MISP",
+      "href": "https://github.com/MISP/MISP",
+      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)",
+      "language": "PHP",
+      "stars": 1940,
+      "forks": 612
+    },
+    {
+      "author": "symfony",
+      "name": "polyfill-intl-idn",
+      "href": "https://github.com/symfony/polyfill-intl-idn",
+      "description": "This component provides a partial, native PHP implementation for the Intl extension (IDN features).",
+      "language": "PHP",
+      "stars": 230,
+      "forks": 0
+    },
+    {
+      "author": "doctrine",
+      "name": "instantiator",
+      "href": "https://github.com/doctrine/instantiator",
+      "description": null,
+      "language": "PHP",
+      "stars": 6401,
+      "forks": 41
+    },
+    {
+      "author": "symfony",
+      "name": "console",
+      "href": "https://github.com/symfony/console",
+      "description": "The Console component eases the creation of beautiful and testable command line interfaces.",
+      "language": "PHP",
+      "stars": 6308,
+      "forks": 161
+    },
+    {
+      "author": "symfony",
+      "name": "routing",
+      "href": "https://github.com/symfony/routing",
+      "description": "The Routing component maps an HTTP request to a set of configuration variables.",
+      "language": "PHP",
+      "stars": 5393,
+      "forks": 68
+    },
+    {
+      "author": "WordPress",
+      "name": "WordPress",
+      "href": "https://github.com/WordPress/WordPress",
+      "description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.",
+      "language": "PHP",
+      "stars": 12200,
+      "forks": 7394
+    },
+    {
+      "author": "gongfuxiang",
+      "name": "shopxo",
+      "href": "https://github.com/gongfuxiang/shopxo",
+      "description": "ShopXO商城系统、国内领先企业级B2C免费开源电商系统，包含PC/wap/小程序，遵循Apache2开源协议发布",
+      "language": "PHP",
+      "stars": 204,
+      "forks": 83
+    },
+    {
+      "author": "doctrine",
+      "name": "collections",
+      "href": "https://github.com/doctrine/collections",
+      "description": "Collections Abstraction Library",
+      "language": "PHP",
+      "stars": 3150,
+      "forks": 130
+    },
+    {
+      "author": "doctrine",
+      "name": "inflector",
+      "href": "https://github.com/doctrine/inflector",
+      "description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.",
+      "language": "PHP",
+      "stars": 6573,
+      "forks": 89
+    },
+    {
+      "author": "symfony",
+      "name": "finder",
+      "href": "https://github.com/symfony/finder",
+      "description": "The Finder component finds files and directories via an intuitive fluent interface.",
+      "language": "PHP",
+      "stars": 5666,
+      "forks": 32
+    }
+  ]
+}
