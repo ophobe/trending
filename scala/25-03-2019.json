@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21085,
+      "forks": 18383
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13300,
+      "forks": 765
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural Language Understanding Library for Apache Spark.",
+      "language": "Scala",
+      "stars": 586,
+      "forks": 143
+    },
+    {
+      "author": "scalameta",
+      "name": "mdoc",
+      "href": "https://github.com/scalameta/mdoc",
+      "description": "Typechecked markdown documentation for Scala",
+      "language": "Scala",
+      "stars": 73,
+      "forks": 8
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6958,
+      "forks": 1721
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3093,
+      "forks": 781
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11053,
+      "forks": 3720
+    },
+    {
+      "author": "cas-bigdatalab",
+      "name": "piflow",
+      "href": "https://github.com/cas-bigdatalab/piflow",
+      "description": "πflow is a big data flow engine with spark support",
+      "language": "Scala",
+      "stars": 102,
+      "forks": 36
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4638,
+      "forks": 975
+    },
+    {
+      "author": "oharastream",
+      "name": "ohara",
+      "href": "https://github.com/oharastream/ohara",
+      "description": "OharaStream - A powerful ETL tool and easy-to-use visual stream processing",
+      "language": "Scala",
+      "stars": 30,
+      "forks": 17
+    },
+    {
+      "author": "akka",
+      "name": "alpakka-kafka",
+      "href": "https://github.com/akka/alpakka-kafka",
+      "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 1140,
+      "forks": 331
+    },
+    {
+      "author": "census-ecosystem",
+      "name": "opencensus-scala",
+      "href": "https://github.com/census-ecosystem/opencensus-scala",
+      "description": "A scala wrapper for the opencensus-java library",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 9
+    },
+    {
+      "author": "kaitai-io",
+      "name": "kaitai_struct_compiler",
+      "href": "https://github.com/kaitai-io/kaitai_struct_compiler",
+      "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb",
+      "language": "Scala",
+      "stars": 139,
+      "forks": 49
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 623,
+      "forks": 164
+    },
+    {
+      "author": "coursier",
+      "name": "coursier",
+      "href": "https://github.com/coursier/coursier",
+      "description": "Pure Scala Artifact Fetching",
+      "language": "Scala",
+      "stars": 1417,
+      "forks": 160
+    },
+    {
+      "author": "palantir",
+      "name": "spark",
+      "href": "https://github.com/palantir/spark",
+      "description": "Palantir Distribution of Apache Spark",
+      "language": "Scala",
+      "stars": 38,
+      "forks": 18383
+    },
+    {
+      "author": "circe",
+      "name": "circe-magnolia",
+      "href": "https://github.com/circe/circe-magnolia",
+      "description": "Circe codec derivation using magnolia",
+      "language": "Scala",
+      "stars": 53,
+      "forks": 6
+    },
+    {
+      "author": "TouK",
+      "name": "nussknacker",
+      "href": "https://github.com/TouK/nussknacker",
+      "description": "Process authoring tool for Apache Flink",
+      "language": "Scala",
+      "stars": 123,
+      "forks": 29
+    },
+    {
+      "author": "ThoughtWorksInc",
+      "name": "Dsl.scala",
+      "href": "https://github.com/ThoughtWorksInc/Dsl.scala",
+      "description": "A framework to create embedded Domain-Specific Languages in Scala",
+      "language": "Scala",
+      "stars": 114,
+      "forks": 15
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel-testers",
+      "href": "https://github.com/freechipsproject/chisel-testers",
+      "description": "Provides various testers for chisel users",
+      "language": "Scala",
+      "stars": 26,
+      "forks": 23
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves node application",
+      "language": "Scala",
+      "stars": 968,
+      "forks": 296
+    },
+    {
+      "author": "gearpump",
+      "name": "gearpump",
+      "href": "https://github.com/gearpump/gearpump",
+      "description": "Lightweight real-time big data streaming engine over Akka",
+      "language": "Scala",
+      "stars": 690,
+      "forks": 148
+    },
+    {
+      "author": "dmurvihill",
+      "name": "courier",
+      "href": "https://github.com/dmurvihill/courier",
+      "description": "send electronic mail with scala",
+      "language": "Scala",
+      "stars": 166,
+      "forks": 38
+    },
+    {
+      "author": "lightbend",
+      "name": "kafka-streams-query",
+      "href": "https://github.com/lightbend/kafka-streams-query",
+      "description": "Library offering http based query on top of Kafka Streams Interactive Queries",
+      "language": "Scala",
+      "stars": 61,
+      "forks": 14
+    },
+    {
+      "author": "InterestingLab",
+      "name": "waterdrop",
+      "href": "https://github.com/InterestingLab/waterdrop",
+      "description": "An easy-to-use, scalable, bigdata processing tool",
+      "language": "Scala",
+      "stars": 364,
+      "forks": 116
+    }
+  ]
+}
