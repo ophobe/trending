@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21102,
+      "forks": 18410
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13322,
+      "forks": 766
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6970,
+      "forks": 1723
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5227,
+      "forks": 792
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-ziokeeper",
+      "href": "https://github.com/scalaz/scalaz-ziokeeper",
+      "description": "A functional library for consistent replication of metadata across dynamic clusters",
+      "language": "Scala",
+      "stars": 30,
+      "forks": 7
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11393,
+      "forks": 2667
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural Language Understanding Library for Apache Spark.",
+      "language": "Scala",
+      "stars": 592,
+      "forks": 146
+    },
+    {
+      "author": "freechipsproject",
+      "name": "rocket-chip",
+      "href": "https://github.com/freechipsproject/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 986,
+      "forks": 420
+    },
+    {
+      "author": "hyoungseok",
+      "name": "brusta",
+      "href": "https://github.com/hyoungseok/brusta",
+      "description": "PyTorch model serving project",
+      "language": "Scala",
+      "stars": 24,
+      "forks": 1
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4638,
+      "forks": 976
+    },
+    {
+      "author": "tensorflow",
+      "name": "ecosystem",
+      "href": "https://github.com/tensorflow/ecosystem",
+      "description": "Integration of TensorFlow with other open-source frameworks",
+      "language": "Scala",
+      "stars": 837,
+      "forks": 250
+    },
+    {
+      "author": "irundaia",
+      "name": "sbt-sassify",
+      "href": "https://github.com/irundaia/sbt-sassify",
+      "description": "sbt-web plugin for Sass files",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 12
+    },
+    {
+      "author": "saksdirect",
+      "name": "sundial",
+      "href": "https://github.com/saksdirect/sundial",
+      "description": "a jobsystem on AWS ECS, AWS Batch or AWS EMR managing dependencies and scheduling",
+      "language": "Scala",
+      "stars": 60,
+      "forks": 13
+    },
+    {
+      "author": "lihaoyi",
+      "name": "os-lib",
+      "href": "https://github.com/lihaoyi/os-lib",
+      "description": "OS-Lib is a simple, flexible, high-performance Scala interface to common OS filesystem and subprocess APIs",
+      "language": "Scala",
+      "stars": 204,
+      "forks": 13
+    },
+    {
+      "author": "lihaoyi",
+      "name": "PPrint",
+      "href": "https://github.com/lihaoyi/PPrint",
+      "description": "Pretty-printing value, types and type-signatures in Scala",
+      "language": "Scala",
+      "stars": 79,
+      "forks": 10
+    },
+    {
+      "author": "MrPowers",
+      "name": "spark-daria",
+      "href": "https://github.com/MrPowers/spark-daria",
+      "description": "Essential Spark extensions and helper methods ✨😲",
+      "language": "Scala",
+      "stars": 238,
+      "forks": 62
+    },
+    {
+      "author": "gnieh",
+      "name": "sohva",
+      "href": "https://github.com/gnieh/sohva",
+      "description": "CouchDB asynchronous client for Scala",
+      "language": "Scala",
+      "stars": 23,
+      "forks": 7
+    },
+    {
+      "author": "wvlet",
+      "name": "airframe",
+      "href": "https://github.com/wvlet/airframe",
+      "description": "Lightweight Building Blocks for Scala",
+      "language": "Scala",
+      "stars": 273,
+      "forks": 29
+    },
+    {
+      "author": "slack-scala-client",
+      "name": "slack-scala-client",
+      "href": "https://github.com/slack-scala-client/slack-scala-client",
+      "description": "A scala library for interacting with the slack api and real time messaging interface",
+      "language": "Scala",
+      "stars": 154,
+      "forks": 83
+    },
+    {
+      "author": "twilio",
+      "name": "guardrail",
+      "href": "https://github.com/twilio/guardrail",
+      "description": "Principled code generation for Scala services",
+      "language": "Scala",
+      "stars": 226,
+      "forks": 48
+    },
+    {
+      "author": "eaplatanios",
+      "name": "tensorflow_scala",
+      "href": "https://github.com/eaplatanios/tensorflow_scala",
+      "description": "TensorFlow API for the Scala Programming Language",
+      "language": "Scala",
+      "stars": 626,
+      "forks": 61
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 2286,
+      "forks": 913
+    },
+    {
+      "author": "lihaoyi",
+      "name": "upickle",
+      "href": "https://github.com/lihaoyi/upickle",
+      "description": "uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala",
+      "language": "Scala",
+      "stars": 398,
+      "forks": 103
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 736,
+      "forks": 319
+    },
+    {
+      "author": "ovotech",
+      "name": "fs2-kafka",
+      "href": "https://github.com/ovotech/fs2-kafka",
+      "description": "Functional Kafka Streams for Scala",
+      "language": "Scala",
+      "stars": 63,
+      "forks": 14
+    }
+  ]
+}
