@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "valeriansaliou",
+      "name": "sonic",
+      "href": "https://github.com/valeriansaliou/sonic",
+      "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+      "language": "Rust",
+      "stars": 3575,
+      "forks": 73
+    },
+    {
+      "author": "cloudflare",
+      "name": "boringtun",
+      "href": "https://github.com/cloudflare/boringtun",
+      "description": "Userspace WireGuard® Implementation in Rust",
+      "language": "Rust",
+      "stars": 318,
+      "forks": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "miri",
+      "href": "https://github.com/rust-lang/miri",
+      "description": "An interpreter for Rust's mid-level intermediate representation",
+      "language": "Rust",
+      "stars": 645,
+      "forks": 65
+    },
+    {
+      "author": "meilisearch",
+      "name": "MeiliES",
+      "href": "https://github.com/meilisearch/MeiliES",
+      "description": "A Rust based event store using the Redis protocol",
+      "language": "Rust",
+      "stars": 93,
+      "forks": 0
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 15095,
+      "forks": 670
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 336,
+      "forks": 28
+    },
+    {
+      "author": "timvisee",
+      "name": "ffsend",
+      "href": "https://github.com/timvisee/ffsend",
+      "description": "📬 Easily and securely share files from the command line. A fully featured Firefox Send client.",
+      "language": "Rust",
+      "stars": 3279,
+      "forks": 57
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 12918,
+      "forks": 233
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 34855,
+      "forks": 5594
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast javascript to javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 5376,
+      "forks": 88
+    },
+    {
+      "author": "dtolnay",
+      "name": "rust-quiz",
+      "href": "https://github.com/dtolnay/rust-quiz",
+      "description": "Medium to hard Rust questions with complete explanations",
+      "language": "Rust",
+      "stars": 189,
+      "forks": 5
+    },
+    {
+      "author": "rust-db",
+      "name": "barrel",
+      "href": "https://github.com/rust-db/barrel",
+      "description": "🛢 A database schema migration builder for Rust",
+      "language": "Rust",
+      "stars": 164,
+      "forks": 11
+    },
+    {
+      "author": "jherman3",
+      "name": "ifs_fractal",
+      "href": "https://github.com/jherman3/ifs_fractal",
+      "description": "Iterated Function System fractal visualizer in Rust",
+      "language": "Rust",
+      "stars": 44,
+      "forks": 4
+    },
+    {
+      "author": "richox",
+      "name": "orz",
+      "href": "https://github.com/richox/orz",
+      "description": "a general purpose data compressor written in rust",
+      "language": "Rust",
+      "stars": 74,
+      "forks": 1
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 1027,
+      "forks": 41
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 13717,
+      "forks": 2120
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "free as in lock-free embedded database",
+      "language": "Rust",
+      "stars": 1844,
+      "forks": 73
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 6074,
+      "forks": 191
+    },
+    {
+      "author": "LayerXcom",
+      "name": "zero-chain",
+      "href": "https://github.com/LayerXcom/zero-chain",
+      "description": "A privacy-protecting blockchain on Substrate",
+      "language": "Rust",
+      "stars": 90,
+      "forks": 3
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 7831,
+      "forks": 460
+    },
+    {
+      "author": "tantivy-search",
+      "name": "tantivy",
+      "href": "https://github.com/tantivy-search/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+      "language": "Rust",
+      "stars": 2207,
+      "forks": 117
+    },
+    {
+      "author": "gliheng",
+      "name": "flutter-rs",
+      "href": "https://github.com/gliheng/flutter-rs",
+      "description": "Build beautiful desktop apps with flutter and rust. 🌠",
+      "language": "Rust",
+      "stars": 361,
+      "forks": 8
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 1471,
+      "forks": 128
+    },
+    {
+      "author": "rustwasm",
+      "name": "gloo",
+      "href": "https://github.com/rustwasm/gloo",
+      "description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm",
+      "language": "Rust",
+      "stars": 305,
+      "forks": 13
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 4117,
+      "forks": 907
+    }
+  ]
+}
