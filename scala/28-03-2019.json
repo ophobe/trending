@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21136,
+      "forks": 18439
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13343,
+      "forks": 769
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 6989,
+      "forks": 1727
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7010,
+      "forks": 1245
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5234,
+      "forks": 792
+    },
+    {
+      "author": "Intel-bigdata",
+      "name": "spark-adaptive",
+      "href": "https://github.com/Intel-bigdata/spark-adaptive",
+      "description": null,
+      "language": "Scala",
+      "stars": 139,
+      "forks": 59
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 385,
+      "forks": 117
+    },
+    {
+      "author": "InterestingLab",
+      "name": "waterdrop",
+      "href": "https://github.com/InterestingLab/waterdrop",
+      "description": "An easy-to-use, scalable, bigdata processing tool",
+      "language": "Scala",
+      "stars": 365,
+      "forks": 118
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Work-in-progress language server for Scala",
+      "language": "Scala",
+      "stars": 583,
+      "forks": 67
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3782,
+      "forks": 735
+    },
+    {
+      "author": "vinyldns",
+      "name": "vinyldns",
+      "href": "https://github.com/vinyldns/vinyldns",
+      "description": "Vendor agnostic DNS front-end for streamlining DNS operations and enabling self-service for your DNS infrastructure",
+      "language": "Scala",
+      "stars": 165,
+      "forks": 52
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Non Blocking, Type Safe, Reactive HTTP Client",
+      "language": "Scala",
+      "stars": 1327,
+      "forks": 526
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 2133,
+      "forks": 509
+    },
+    {
+      "author": "typelevel",
+      "name": "spire",
+      "href": "https://github.com/typelevel/spire",
+      "description": "Powerful new number types and numeric abstractions for Scala.",
+      "language": "Scala",
+      "stars": 1470,
+      "forks": 209
+    },
+    {
+      "author": "scalafx",
+      "name": "scalafx",
+      "href": "https://github.com/scalafx/scalafx",
+      "description": "ScalaFX simplifies creation of JavaFX-based user interfaces in Scala.",
+      "language": "Scala",
+      "stars": 449,
+      "forks": 67
+    },
+    {
+      "author": "ihji",
+      "name": "sbt-antlr4",
+      "href": "https://github.com/ihji/sbt-antlr4",
+      "description": "Antlr4 plugin for sbt 1.x and 0.13.x",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 27
+    },
+    {
+      "author": "labra",
+      "name": "shaclex",
+      "href": "https://github.com/labra/shaclex",
+      "description": "SHACL/ShEx implementation",
+      "language": "Scala",
+      "stars": 35,
+      "forks": 9
+    },
+    {
+      "author": "scalameta",
+      "name": "scalameta",
+      "href": "https://github.com/scalameta/scalameta",
+      "description": "Library to read, analyze, transform and generate Scala programs",
+      "language": "Scala",
+      "stars": 737,
+      "forks": 155
+    },
+    {
+      "author": "scaldi",
+      "name": "scaldi-play",
+      "href": "https://github.com/scaldi/scaldi-play",
+      "description": "Scaldi integration for Play framework",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 10
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 868,
+      "forks": 424
+    },
+    {
+      "author": "scala",
+      "name": "scala-parser-combinators",
+      "href": "https://github.com/scala/scala-parser-combinators",
+      "description": "simple combinator-based parsing for Scala. formerly part of the Scala standard library, now a separate community-maintained module",
+      "language": "Scala",
+      "stars": 380,
+      "forks": 96
+    },
+    {
+      "author": "enragedginger",
+      "name": "akka-quartz-scheduler",
+      "href": "https://github.com/enragedginger/akka-quartz-scheduler",
+      "description": "Quartz Extension and utilities for cron-style scheduling in Akka",
+      "language": "Scala",
+      "stars": 464,
+      "forks": 89
+    },
+    {
+      "author": "xitrum-framework",
+      "name": "scala-xgettext",
+      "href": "https://github.com/xitrum-framework/scala-xgettext",
+      "description": "Scala compiler plugin that acts like GNU xgettext command to extract i18n strings in Scala source code files to Gettext .po file",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 11
+    },
+    {
+      "author": "fthomas",
+      "name": "refined",
+      "href": "https://github.com/fthomas/refined",
+      "description": "Simple refinement types for Scala",
+      "language": "Scala",
+      "stars": 902,
+      "forks": 85
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves node application",
+      "language": "Scala",
+      "stars": 970,
+      "forks": 299
+    }
+  ]
+}
