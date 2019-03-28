@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "chaosblade-io",
+      "name": "chaosblade",
+      "href": "https://github.com/chaosblade-io/chaosblade",
+      "description": "An easy to use and powerful chaos engineering experiment toolkit.（一款简单易用、功能强大的混沌实验注入工具）",
+      "language": "Go",
+      "stars": 360,
+      "forks": 33
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 4246,
+      "forks": 125
+    },
+    {
+      "author": "antonmedv",
+      "name": "red",
+      "href": "https://github.com/antonmedv/red",
+      "description": "Terminal log analysis tools",
+      "language": "Go",
+      "stars": 836,
+      "forks": 25
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 55316,
+      "forks": 7556
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 50273,
+      "forks": 17347
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 21510,
+      "forks": 3815
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 41678,
+      "forks": 5424
+    },
+    {
+      "author": "awslabs",
+      "name": "amazon-ecs-local-container-endpoints",
+      "href": "https://github.com/awslabs/amazon-ecs-local-container-endpoints",
+      "description": "A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint.",
+      "language": "Go",
+      "stars": 55,
+      "forks": 2
+    },
+    {
+      "author": "uber",
+      "name": "peloton",
+      "href": "https://github.com/uber/peloton",
+      "description": "Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.",
+      "language": "Go",
+      "stars": 293,
+      "forks": 10
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 1586,
+      "forks": 198
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 12216,
+      "forks": 3662
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23791,
+      "forks": 4774
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 16478,
+      "forks": 2660
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Container-Native, Continuous Delivery Platform",
+      "language": "Go",
+      "stars": 17643,
+      "forks": 1740
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 13420,
+      "forks": 2048
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩（节省带宽和流量）、站点保护、加密传输、多路复用、header修改等。支持web图形化管理。",
+      "language": "Go",
+      "stars": 1280,
+      "forks": 225
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 5916,
+      "forks": 280
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 15185,
+      "forks": 1544
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 11206,
+      "forks": 974
+    },
+    {
+      "author": "LyricTian",
+      "name": "gin-admin",
+      "href": "https://github.com/LyricTian/gin-admin",
+      "description": "RBAC scaffolding based on Gin + GROM + Casbin + Ant Design React",
+      "language": "Go",
+      "stars": 143,
+      "forks": 36
+    },
+    {
+      "author": "XiaoMi",
+      "name": "soar",
+      "href": "https://github.com/XiaoMi/soar",
+      "description": "SQL Optimizer And Rewriter",
+      "language": "Go",
+      "stars": 4490,
+      "forks": 598
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 52671,
+      "forks": 15245
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 20494,
+      "forks": 784
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25569,
+      "forks": 2981
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 22916,
+      "forks": 3157
+    }
+  ]
+}
