@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "vugu",
+      "name": "vugu",
+      "href": "https://github.com/vugu/vugu",
+      "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)",
+      "language": "Go",
+      "stars": 252,
+      "forks": 4
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 1397,
+      "forks": 230
+    },
+    {
+      "author": "chaosblade-io",
+      "name": "chaosblade",
+      "href": "https://github.com/chaosblade-io/chaosblade",
+      "description": "An easy to use and powerful chaos engineering experiment toolkit.（一款简单易用、功能强大的混沌实验注入工具）",
+      "language": "Go",
+      "stars": 470,
+      "forks": 49
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 4353,
+      "forks": 130
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 50351,
+      "forks": 17375
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 55401,
+      "forks": 7560
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 41728,
+      "forks": 5429
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 21559,
+      "forks": 3823
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25609,
+      "forks": 2987
+    },
+    {
+      "author": "antonmedv",
+      "name": "red",
+      "href": "https://github.com/antonmedv/red",
+      "description": "Terminal log analysis tools",
+      "language": "Go",
+      "stars": 885,
+      "forks": 25
+    },
+    {
+      "author": "prologic",
+      "name": "bitraft",
+      "href": "https://github.com/prologic/bitraft",
+      "description": "A Bitcask Distributed Key/Value store using Raft for concensus with a Redis compatible API written in Go.",
+      "language": "Go",
+      "stars": 66,
+      "forks": 3
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23831,
+      "forks": 4775
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 12258,
+      "forks": 3669
+    },
+    {
+      "author": "mithrandie",
+      "name": "csvq",
+      "href": "https://github.com/mithrandie/csvq",
+      "description": "SQL-like query language for csv",
+      "language": "Go",
+      "stars": 418,
+      "forks": 13
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 12661,
+      "forks": 1760
+    },
+    {
+      "author": "timakin",
+      "name": "bodyclose",
+      "href": "https://github.com/timakin/bodyclose",
+      "description": "Analyzer: checks whether HTTP response body is closed and a re-use of TCP connection is not blocked.",
+      "language": "Go",
+      "stars": 60,
+      "forks": 1
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 10880,
+      "forks": 3535
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 5951,
+      "forks": 282
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 1614,
+      "forks": 206
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 21424,
+      "forks": 2194
+    },
+    {
+      "author": "sjqzhang",
+      "name": "go-fastdfs",
+      "href": "https://github.com/sjqzhang/go-fastdfs",
+      "description": "A simple fast, easy use distributed file system written by golang(similar fastdfs).go-fastdfs 是一个简单的分布式文件存储，具有高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。",
+      "language": "Go",
+      "stars": 474,
+      "forks": 76
+    },
+    {
+      "author": "developer-learning",
+      "name": "reading-go",
+      "href": "https://github.com/developer-learning/reading-go",
+      "description": "Go 每日阅读和 Go 夜读 > Daily Reading Go and Night Reading Go - Go source reading and offline technical or another articles or discussion on every night.",
+      "language": "Go",
+      "stars": 2387,
+      "forks": 234
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice framework",
+      "language": "Go",
+      "stars": 6571,
+      "forks": 640
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 33859,
+      "forks": 3821
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 18152,
+      "forks": 651
+    }
+  ]
+}
