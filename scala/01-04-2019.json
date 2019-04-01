@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21201,
+      "forks": 18477
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13390,
+      "forks": 772
+    },
+    {
+      "author": "mschuwalow",
+      "name": "zio-todo-backend",
+      "href": "https://github.com/mschuwalow/zio-todo-backend",
+      "description": "Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe",
+      "language": "Scala",
+      "stars": 44,
+      "forks": 5
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9700,
+      "forks": 2993
+    },
+    {
+      "author": "fthomas",
+      "name": "scala-steward",
+      "href": "https://github.com/fthomas/scala-steward",
+      "description": "🤖 A robot that helps you keeping your Scala projects up-to-date",
+      "language": "Scala",
+      "stars": 242,
+      "forks": 113
+    },
+    {
+      "author": "kamon-io",
+      "name": "kamon-play",
+      "href": "https://github.com/kamon-io/kamon-play",
+      "description": "Kamon Play Framework Integration",
+      "language": "Scala",
+      "stars": 24,
+      "forks": 22
+    },
+    {
+      "author": "SnappyDataInc",
+      "name": "snappydata",
+      "href": "https://github.com/SnappyDataInc/snappydata",
+      "description": "SnappyData - The Spark Database. Stream, Transact, Analyze, Predict in one cluster",
+      "language": "Scala",
+      "stars": 860,
+      "forks": 170
+    },
+    {
+      "author": "scala-records",
+      "name": "scala-records",
+      "href": "https://github.com/scala-records/scala-records",
+      "description": "Labeled records for Scala based on structural refinement types and macros.",
+      "language": "Scala",
+      "stars": 147,
+      "forks": 12
+    },
+    {
+      "author": "ovotech",
+      "name": "fs2-kafka",
+      "href": "https://github.com/ovotech/fs2-kafka",
+      "description": "Functional Kafka Streams for Scala",
+      "language": "Scala",
+      "stars": 66,
+      "forks": 14
+    },
+    {
+      "author": "scorelab",
+      "name": "senz",
+      "href": "https://github.com/scorelab/senz",
+      "description": "SenZ is a new kind of query language that can be used to communicate with IoT devices. It is easily integrable, incredibly fast, and is in the highest end of security integration.",
+      "language": "Scala",
+      "stars": 36,
+      "forks": 69
+    },
+    {
+      "author": "jpzk",
+      "name": "mockedstreams",
+      "href": "https://github.com/jpzk/mockedstreams",
+      "description": "Scala Library for Unit-Testing Processing Topologies in Apache Kafka / Kafka Streams",
+      "language": "Scala",
+      "stars": 151,
+      "forks": 23
+    },
+    {
+      "author": "valtech",
+      "name": "ros_hadoop",
+      "href": "https://github.com/valtech/ros_hadoop",
+      "description": "Hadoop splittable InputFormat for ROS. Process rosbag with Hadoop Spark and other HDFS compatible systems.",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 30
+    },
+    {
+      "author": "ACINQ",
+      "name": "bitcoin-lib",
+      "href": "https://github.com/ACINQ/bitcoin-lib",
+      "description": "Simple bitcoin library written in Scala",
+      "language": "Scala",
+      "stars": 79,
+      "forks": 29
+    },
+    {
+      "author": "datastax",
+      "name": "spark-cassandra-connector",
+      "href": "https://github.com/datastax/spark-cassandra-connector",
+      "description": "DataStax Spark Cassandra Connector",
+      "language": "Scala",
+      "stars": 1572,
+      "forks": 758
+    },
+    {
+      "author": "magneticio",
+      "name": "vamp",
+      "href": "https://github.com/magneticio/vamp",
+      "description": "Vamp - canary releasing and autoscaling for microservice systems",
+      "language": "Scala",
+      "stars": 618,
+      "forks": 62
+    },
+    {
+      "author": "whisklabs",
+      "name": "docker-it-scala",
+      "href": "https://github.com/whisklabs/docker-it-scala",
+      "description": "Docker integration testing kit with Scala",
+      "language": "Scala",
+      "stars": 379,
+      "forks": 82
+    },
+    {
+      "author": "xubo245",
+      "name": "CarbonDataLearning",
+      "href": "https://github.com/xubo245/CarbonDataLearning",
+      "description": "Apache CarbonData Learning",
+      "language": "Scala",
+      "stars": 41,
+      "forks": 14
+    },
+    {
+      "author": "orbeon",
+      "name": "orbeon-forms",
+      "href": "https://github.com/orbeon/orbeon-forms",
+      "description": "Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime.",
+      "language": "Scala",
+      "stars": 391,
+      "forks": 199
+    },
+    {
+      "author": "circe",
+      "name": "circe-fs2",
+      "href": "https://github.com/circe/circe-fs2",
+      "description": "Streaming JSON parsing and decoding with fs2",
+      "language": "Scala",
+      "stars": 61,
+      "forks": 14
+    },
+    {
+      "author": "seratch",
+      "name": "AWScala",
+      "href": "https://github.com/seratch/AWScala",
+      "description": "Using AWS SDK on the Scala REPL",
+      "language": "Scala",
+      "stars": 633,
+      "forks": 187
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11718,
+      "forks": 1903
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11411,
+      "forks": 2672
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11063,
+      "forks": 3728
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7621,
+      "forks": 1051
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7019,
+      "forks": 1244
+    }
+  ]
+}
