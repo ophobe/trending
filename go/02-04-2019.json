@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 2095,
+      "forks": 292
+    },
+    {
+      "author": "jondot",
+      "name": "goweight",
+      "href": "https://github.com/jondot/goweight",
+      "description": "A tool to analyze and troubleshoot a Go binary size.",
+      "language": "Go",
+      "stars": 191,
+      "forks": 8
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 11810,
+      "forks": 381
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 50542,
+      "forks": 17429
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 4754,
+      "forks": 159
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 55624,
+      "forks": 7582
+    },
+    {
+      "author": "vugu",
+      "name": "vugu",
+      "href": "https://github.com/vugu/vugu",
+      "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)",
+      "language": "Go",
+      "stars": 855,
+      "forks": 26
+    },
+    {
+      "author": "chenjiandongx",
+      "name": "go-echarts",
+      "href": "https://github.com/chenjiandongx/go-echarts",
+      "description": "🎨 The adorable charts library for Golang",
+      "language": "Go",
+      "stars": 726,
+      "forks": 54
+    },
+    {
+      "author": "kylesliu",
+      "name": "awesome-golang-leetcode",
+      "href": "https://github.com/kylesliu/awesome-golang-leetcode",
+      "description": "📝 LeetCode of algorithms with golang solution(updating).",
+      "language": "Go",
+      "stars": 462,
+      "forks": 34
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 41894,
+      "forks": 5458
+    },
+    {
+      "author": "zalando-incubator",
+      "name": "es-operator",
+      "href": "https://github.com/zalando-incubator/es-operator",
+      "description": "Kubernetes Operator for Elasticsearch",
+      "language": "Go",
+      "stars": 85,
+      "forks": 3
+    },
+    {
+      "author": "ndmckinley",
+      "name": "terraform-provider-dominos",
+      "href": "https://github.com/ndmckinley/terraform-provider-dominos",
+      "description": "The Terraform plugin for the Dominos Pizza provider.",
+      "language": "Go",
+      "stars": 80,
+      "forks": 3
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 21715,
+      "forks": 3847
+    },
+    {
+      "author": "mimah",
+      "name": "GoMet",
+      "href": "https://github.com/mimah/GoMet",
+      "description": "Multi-platform implant written in Golang. TCP forwarding, socks5, tunneling, pivoting, shell, download, exec",
+      "language": "Go",
+      "stars": 97,
+      "forks": 16
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25725,
+      "forks": 3008
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 28918,
+      "forks": 8040
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24941,
+      "forks": 2106
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 11337,
+      "forks": 983
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice framework",
+      "language": "Go",
+      "stars": 6649,
+      "forks": 644
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23905,
+      "forks": 4792
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 6054,
+      "forks": 292
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 3305,
+      "forks": 336
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 12760,
+      "forks": 1775
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 12339,
+      "forks": 3683
+    },
+    {
+      "author": "acln0",
+      "name": "zerocopy",
+      "href": "https://github.com/acln0/zerocopy",
+      "description": "Zero-copy I/O primitives and pipelines for Go. Linux-specific.",
+      "language": "Go",
+      "stars": 158,
+      "forks": 5
+    }
+  ]
+}
