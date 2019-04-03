@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 14974,
+      "forks": 1686
+    },
+    {
+      "author": "lehins",
+      "name": "haskell-scheduler",
+      "href": "https://github.com/lehins/haskell-scheduler",
+      "description": "A work stealing scheduler",
+      "language": "Haskell",
+      "stars": 40,
+      "forks": 1
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 12160,
+      "forks": 552
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2796,
+      "forks": 1046
+    },
+    {
+      "author": "chrisdone",
+      "name": "dynamic",
+      "href": "https://github.com/chrisdone/dynamic",
+      "description": "Dynamic typing in Haskell",
+      "language": "Haskell",
+      "stars": 146,
+      "forks": 2
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 3209,
+      "forks": 551
+    },
+    {
+      "author": "hadolint",
+      "name": "hadolint",
+      "href": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "stars": 1804,
+      "forks": 79
+    },
+    {
+      "author": "isovector",
+      "name": "polysemy",
+      "href": "https://github.com/isovector/polysemy",
+      "description": "final encoding of freer monads",
+      "language": "Haskell",
+      "stars": 54,
+      "forks": 1
+    },
+    {
+      "author": "fpco",
+      "name": "unliftio",
+      "href": "https://github.com/fpco/unliftio",
+      "description": "The MonadUnliftIO typeclass for unlifting monads to IO",
+      "language": "Haskell",
+      "stars": 66,
+      "forks": 19
+    },
+    {
+      "author": "dapphub",
+      "name": "dapptools",
+      "href": "https://github.com/dapphub/dapptools",
+      "description": "Dapp, Seth, Hevm, and more",
+      "language": "Haskell",
+      "stars": 119,
+      "forks": 23
+    },
+    {
+      "author": "wireapp",
+      "name": "wire-server",
+      "href": "https://github.com/wireapp/wire-server",
+      "description": "🇪🇺 Wire back-end services",
+      "language": "Haskell",
+      "stars": 1880,
+      "forks": 236
+    },
+    {
+      "author": "ghc",
+      "name": "ghc",
+      "href": "https://github.com/ghc/ghc",
+      "description": "Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's GitLab instance (https://gitlab.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org). First time contributors are encouraged to get started by just sending a Pull Requ…",
+      "language": "Haskell",
+      "stars": 2119,
+      "forks": 595
+    },
+    {
+      "author": "hasura",
+      "name": "graphql-parser-hs",
+      "href": "https://github.com/hasura/graphql-parser-hs",
+      "description": "A GraphQL query parser for Haskell",
+      "language": "Haskell",
+      "stars": 21,
+      "forks": 7
+    },
+    {
+      "author": "haskell-crypto",
+      "name": "cryptonite",
+      "href": "https://github.com/haskell-crypto/cryptonite",
+      "description": "lowlevel set of cryptographic primitives for haskell",
+      "language": "Haskell",
+      "stars": 136,
+      "forks": 77
+    },
+    {
+      "author": "google",
+      "name": "codeworld",
+      "href": "https://github.com/google/codeworld",
+      "description": "Educational computer programming environment using Haskell",
+      "language": "Haskell",
+      "stars": 907,
+      "forks": 153
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 14142,
+      "forks": 717
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5604,
+      "forks": 407
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 5117,
+      "forks": 412
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3493,
+      "forks": 282
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 3046,
+      "forks": 675
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2801,
+      "forks": 75
+    },
+    {
+      "author": "idris-lang",
+      "name": "Idris-dev",
+      "href": "https://github.com/idris-lang/Idris-dev",
+      "description": "A Dependently Typed Functional Programming Language",
+      "language": "Haskell",
+      "stars": 2782,
+      "forks": 617
+    },
+    {
+      "author": "carp-lang",
+      "name": "Carp",
+      "href": "https://github.com/carp-lang/Carp",
+      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "language": "Haskell",
+      "stars": 2683,
+      "forks": 96
+    },
+    {
+      "author": "caiorss",
+      "name": "Functional-Programming",
+      "href": "https://github.com/caiorss/Functional-Programming",
+      "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+      "language": "Haskell",
+      "stars": 2456,
+      "forks": 144
+    },
+    {
+      "author": "sdiehl",
+      "name": "write-you-a-haskell",
+      "href": "https://github.com/sdiehl/write-you-a-haskell",
+      "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+      "language": "Haskell",
+      "stars": 2420,
+      "forks": 198
+    }
+  ]
+}
