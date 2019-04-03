@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 2356,
+      "forks": 325
+    },
+    {
+      "author": "jondot",
+      "name": "goweight",
+      "href": "https://github.com/jondot/goweight",
+      "description": "A tool to analyze and troubleshoot a Go binary size.",
+      "language": "Go",
+      "stars": 338,
+      "forks": 9
+    },
+    {
+      "author": "vugu",
+      "name": "vugu",
+      "href": "https://github.com/vugu/vugu",
+      "description": "Vugu: A modern UI library for Go+WebAssembly (experimental)",
+      "language": "Go",
+      "stars": 996,
+      "forks": 27
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 50603,
+      "forks": 17450
+    },
+    {
+      "author": "mimah",
+      "name": "GoMet",
+      "href": "https://github.com/mimah/GoMet",
+      "description": "Multi-platform agent written in Golang. TCP forwarding, socks5, tunneling, pivoting, shell, download, exec",
+      "language": "Go",
+      "stars": 161,
+      "forks": 22
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 55681,
+      "forks": 7594
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 21767,
+      "forks": 3852
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 41941,
+      "forks": 5462
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 12805,
+      "forks": 1779
+    },
+    {
+      "author": "chenjiandongx",
+      "name": "go-echarts",
+      "href": "https://github.com/chenjiandongx/go-echarts",
+      "description": "🎨 The adorable charts library for Golang",
+      "language": "Go",
+      "stars": 773,
+      "forks": 54
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 4798,
+      "forks": 160
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 23943,
+      "forks": 4798
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 28949,
+      "forks": 8045
+    },
+    {
+      "author": "ndmckinley",
+      "name": "terraform-provider-dominos",
+      "href": "https://github.com/ndmckinley/terraform-provider-dominos",
+      "description": "The Terraform plugin for the Dominos Pizza provider.",
+      "language": "Go",
+      "stars": 114,
+      "forks": 3
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 24976,
+      "forks": 2108
+    },
+    {
+      "author": "Unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 12367,
+      "forks": 3694
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 25756,
+      "forks": 3010
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 11843,
+      "forks": 381
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 11367,
+      "forks": 984
+    },
+    {
+      "author": "zalando-incubator",
+      "name": "es-operator",
+      "href": "https://github.com/zalando-incubator/es-operator",
+      "description": "Kubernetes Operator for Elasticsearch",
+      "language": "Go",
+      "stars": 112,
+      "forks": 4
+    },
+    {
+      "author": "chubaofs",
+      "name": "cfs",
+      "href": "https://github.com/chubaofs/cfs",
+      "description": null,
+      "language": "Go",
+      "stars": 48,
+      "forks": 17
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 3330,
+      "forks": 342
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 13144,
+      "forks": 1419
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 21524,
+      "forks": 2205
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+      "language": "Go",
+      "stars": 5147,
+      "forks": 1022
+    }
+  ]
+}
