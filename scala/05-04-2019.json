@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "digital-asset",
+      "name": "daml",
+      "href": "https://github.com/digital-asset/daml",
+      "description": "The DAML smart contract language",
+      "language": "Scala",
+      "stars": 60,
+      "forks": 14
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21260,
+      "forks": 18510
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13479,
+      "forks": 774
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11430,
+      "forks": 2675
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4668,
+      "forks": 979
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5050,
+      "forks": 272
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-zio",
+      "href": "https://github.com/scalaz/scalaz-zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 702,
+      "forks": 188
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 2292,
+      "forks": 914
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-javaagent",
+      "href": "https://github.com/sbt/sbt-javaagent",
+      "description": "sbt plugin for adding java agents to projects",
+      "language": "Scala",
+      "stars": 31,
+      "forks": 9
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 878,
+      "forks": 432
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural Language Understanding Library for Apache Spark.",
+      "language": "Scala",
+      "stars": 602,
+      "forks": 148
+    },
+    {
+      "author": "dnvriend",
+      "name": "akka-persistence-jdbc",
+      "href": "https://github.com/dnvriend/akka-persistence-jdbc",
+      "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+      "language": "Scala",
+      "stars": 216,
+      "forks": 93
+    },
+    {
+      "author": "ISG-ICS",
+      "name": "cloudberry",
+      "href": "https://github.com/ISG-ICS/cloudberry",
+      "description": "Big Data Visualization",
+      "language": "Scala",
+      "stars": 52,
+      "forks": 63
+    },
+    {
+      "author": "cfpb",
+      "name": "hmda-platform",
+      "href": "https://github.com/cfpb/hmda-platform",
+      "description": null,
+      "language": "Scala",
+      "stars": 38,
+      "forks": 38
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 842,
+      "forks": 274
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7023,
+      "forks": 1244
+    },
+    {
+      "author": "stanford-ppl",
+      "name": "spatial",
+      "href": "https://github.com/stanford-ppl/spatial",
+      "description": "Spatial: \"Specify Parameterized Accelerators Through Inordinately Abstract Language\"",
+      "language": "Scala",
+      "stars": 118,
+      "forks": 10
+    },
+    {
+      "author": "eed3si9n",
+      "name": "scalaxb",
+      "href": "https://github.com/eed3si9n/scalaxb",
+      "description": "scalaxb is an XML data binding tool for Scala.",
+      "language": "Scala",
+      "stars": 273,
+      "forks": 121
+    },
+    {
+      "author": "scalafx",
+      "name": "scalafx",
+      "href": "https://github.com/scalafx/scalafx",
+      "description": "ScalaFX simplifies creation of JavaFX-based user interfaces in Scala.",
+      "language": "Scala",
+      "stars": 451,
+      "forks": 68
+    },
+    {
+      "author": "scodec",
+      "name": "scodec-bits",
+      "href": "https://github.com/scodec/scodec-bits",
+      "description": "Provides immutable datatypes for working with bits and bytes",
+      "language": "Scala",
+      "stars": 74,
+      "forks": 47
+    },
+    {
+      "author": "pauljamescleary",
+      "name": "scala-pet-store",
+      "href": "https://github.com/pauljamescleary/scala-pet-store",
+      "description": "An implementation of the java pet store using FP techniques in scala",
+      "language": "Scala",
+      "stars": 490,
+      "forks": 105
+    },
+    {
+      "author": "ruippeixotog",
+      "name": "scala-scraper",
+      "href": "https://github.com/ruippeixotog/scala-scraper",
+      "description": "A Scala library for scraping content from HTML pages",
+      "language": "Scala",
+      "stars": 523,
+      "forks": 87
+    },
+    {
+      "author": "scalacenter",
+      "name": "bloop",
+      "href": "https://github.com/scalacenter/bloop",
+      "description": "Scala build server and command-line tool for fast developer workflows",
+      "language": "Scala",
+      "stars": 379,
+      "forks": 69
+    },
+    {
+      "author": "ing-bank",
+      "name": "airlock",
+      "href": "https://github.com/ing-bank/airlock",
+      "description": "Airlock project. This projects acts as a proxy on top of any S3 storage solution providing services like authentication, authorisation, short-term tokens and lineage.",
+      "language": "Scala",
+      "stars": 21,
+      "forks": 5
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Scala",
+      "href": "https://github.com/TheAlgorithms/Scala",
+      "description": "All Algorithms implemented in Scala",
+      "language": "Scala",
+      "stars": 245,
+      "forks": 102
+    }
+  ]
+}
