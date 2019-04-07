@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13557,
+      "forks": 777
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21271,
+      "forks": 18523
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11437,
+      "forks": 2676
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9729,
+      "forks": 2993
+    },
+    {
+      "author": "digital-asset",
+      "name": "daml",
+      "href": "https://github.com/digital-asset/daml",
+      "description": "The DAML smart contract language",
+      "language": "Scala",
+      "stars": 69,
+      "forks": 16
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 2292,
+      "forks": 916
+    },
+    {
+      "author": "milessabin",
+      "name": "export-hook",
+      "href": "https://github.com/milessabin/export-hook",
+      "description": "Minimal infrastructure for type class providers to support the inclusion of derived, subclass and other orphan instances in their implicit scope.",
+      "language": "Scala",
+      "stars": 87,
+      "forks": 8
+    },
+    {
+      "author": "slick",
+      "name": "slick",
+      "href": "https://github.com/slick/slick",
+      "description": "Scala Language Integrated Connection Kit",
+      "language": "Scala",
+      "stars": 2198,
+      "forks": 530
+    },
+    {
+      "author": "kamon-io",
+      "name": "Kamon",
+      "href": "https://github.com/kamon-io/Kamon",
+      "description": "Distributed Tracing, Metrics and Context Propagation for application running on the JVM",
+      "language": "Scala",
+      "stars": 1170,
+      "forks": 234
+    },
+    {
+      "author": "gvolpe",
+      "name": "typelevel-stack.g8",
+      "href": "https://github.com/gvolpe/typelevel-stack.g8",
+      "description": "Unofficial Giter8 template for the Typelevel Stack (Http4s / Doobie / Circe / Cats Effect / Fs2) based on Cats v1.x.x",
+      "language": "Scala",
+      "stars": 41,
+      "forks": 6
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-stdlib",
+      "href": "https://github.com/scala-exercises/exercises-stdlib",
+      "description": "Scala Exercises' lessons for the standard library",
+      "language": "Scala",
+      "stars": 105,
+      "forks": 254
+    },
+    {
+      "author": "mschuwalow",
+      "name": "zio-todo-backend",
+      "href": "https://github.com/mschuwalow/zio-todo-backend",
+      "description": "Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe",
+      "language": "Scala",
+      "stars": 54,
+      "forks": 9
+    },
+    {
+      "author": "mpilquist",
+      "name": "simulacrum",
+      "href": "https://github.com/mpilquist/simulacrum",
+      "description": "First class syntax support for type classes in Scala",
+      "language": "Scala",
+      "stars": 772,
+      "forks": 53
+    },
+    {
+      "author": "typelevel",
+      "name": "machinist",
+      "href": "https://github.com/typelevel/machinist",
+      "description": "Spire's macros for zero-cost operator enrichment",
+      "language": "Scala",
+      "stars": 177,
+      "forks": 23
+    },
+    {
+      "author": "typelevel",
+      "name": "discipline",
+      "href": "https://github.com/typelevel/discipline",
+      "description": "Flexible law checking for Scala",
+      "language": "Scala",
+      "stars": 212,
+      "forks": 33
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4176,
+      "forks": 879
+    },
+    {
+      "author": "sifive",
+      "name": "sifive-blocks",
+      "href": "https://github.com/sifive/sifive-blocks",
+      "description": "Common RTL blocks used in SiFive's projects",
+      "language": "Scala",
+      "stars": 66,
+      "forks": 36
+    },
+    {
+      "author": "milessabin",
+      "name": "macro-compat",
+      "href": "https://github.com/milessabin/macro-compat",
+      "description": "macro-compat is a small library which allows you to compile macros with Scala 2.10.x which are written to the Scala 2.11/2 macro API.",
+      "language": "Scala",
+      "stars": 77,
+      "forks": 23
+    },
+    {
+      "author": "fthomas",
+      "name": "scala-steward",
+      "href": "https://github.com/fthomas/scala-steward",
+      "description": "🤖 A robot that helps you keeping your Scala projects up-to-date",
+      "language": "Scala",
+      "stars": 243,
+      "forks": 115
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3",
+      "language": "Scala",
+      "stars": 751,
+      "forks": 174
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11731,
+      "forks": 1901
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11072,
+      "forks": 3730
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7624,
+      "forks": 1051
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 7040,
+      "forks": 1738
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7026,
+      "forks": 1244
+    }
+  ]
+}
