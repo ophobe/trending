@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13712,
+      "forks": 781
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21284,
+      "forks": 18534
+    },
+    {
+      "author": "digital-asset",
+      "name": "daml",
+      "href": "https://github.com/digital-asset/daml",
+      "description": "The DAML smart contract language",
+      "language": "Scala",
+      "stars": 77,
+      "forks": 16
+    },
+    {
+      "author": "eli-jordan",
+      "name": "tagless-final-jam",
+      "href": "https://github.com/eli-jordan/tagless-final-jam",
+      "description": "Workshop On Tagless Final Interpreters",
+      "language": "Scala",
+      "stars": 29,
+      "forks": 8
+    },
+    {
+      "author": "MonsantoCo",
+      "name": "cloudformation-template-generator",
+      "href": "https://github.com/MonsantoCo/cloudformation-template-generator",
+      "description": "A type-safe Scala DSL for generating CloudFormation templates",
+      "language": "Scala",
+      "stars": 198,
+      "forks": 69
+    },
+    {
+      "author": "monadless",
+      "name": "monadless",
+      "href": "https://github.com/monadless/monadless",
+      "description": "Syntactic sugar for monad composition in Scala",
+      "language": "Scala",
+      "stars": 188,
+      "forks": 11
+    },
+    {
+      "author": "typelevel",
+      "name": "kittens",
+      "href": "https://github.com/typelevel/kittens",
+      "description": "Automatic type class derivation for Cats",
+      "language": "Scala",
+      "stars": 306,
+      "forks": 40
+    },
+    {
+      "author": "lift",
+      "name": "framework",
+      "href": "https://github.com/lift/framework",
+      "description": "Lift Framework",
+      "language": "Scala",
+      "stars": 1189,
+      "forks": 268
+    },
+    {
+      "author": "scalaj",
+      "name": "scalaj-http",
+      "href": "https://github.com/scalaj/scalaj-http",
+      "description": "Simple scala wrapper for HttpURLConnection. OAuth included.",
+      "language": "Scala",
+      "stars": 864,
+      "forks": 119
+    },
+    {
+      "author": "monix",
+      "name": "minitest",
+      "href": "https://github.com/monix/minitest",
+      "description": "The super light testing library for Scala and Scala.js",
+      "language": "Scala",
+      "stars": 125,
+      "forks": 25
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 778,
+      "forks": 200
+    },
+    {
+      "author": "bmc",
+      "name": "grizzled-slf4j",
+      "href": "https://github.com/bmc/grizzled-slf4j",
+      "description": "Simple Scala-friendly front-end to SLF4J",
+      "language": "Scala",
+      "stars": 46,
+      "forks": 18
+    },
+    {
+      "author": "scullxbones",
+      "name": "akka-persistence-mongo",
+      "href": "https://github.com/scullxbones/akka-persistence-mongo",
+      "description": "Implementation of akka-persistence storage plugins for mongodb",
+      "language": "Scala",
+      "stars": 85,
+      "forks": 45
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 2138,
+      "forks": 511
+    },
+    {
+      "author": "Azure",
+      "name": "azure-event-hubs-spark",
+      "href": "https://github.com/Azure/azure-event-hubs-spark",
+      "description": "Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs",
+      "language": "Scala",
+      "stars": 97,
+      "forks": 79
+    },
+    {
+      "author": "fluencelabs",
+      "name": "fluence",
+      "href": "https://github.com/fluencelabs/fluence",
+      "description": "Fluence is a decentralized database network",
+      "language": "Scala",
+      "stars": 207,
+      "forks": 16
+    },
+    {
+      "author": "rickynils",
+      "name": "scalacheck",
+      "href": "https://github.com/rickynils/scalacheck",
+      "description": "Property-based testing for Scala",
+      "language": "Scala",
+      "stars": 1486,
+      "forks": 321
+    },
+    {
+      "author": "pingcap",
+      "name": "tispark",
+      "href": "https://github.com/pingcap/tispark",
+      "description": "TiSpark is built for running Apache Spark on top of TiDB/TiKV",
+      "language": "Scala",
+      "stars": 411,
+      "forks": 117
+    },
+    {
+      "author": "tmtsoftware",
+      "name": "csw",
+      "href": "https://github.com/tmtsoftware/csw",
+      "description": "TMT Common Software Product",
+      "language": "Scala",
+      "stars": 27,
+      "forks": 10
+    },
+    {
+      "author": "jflanigan",
+      "name": "jamr",
+      "href": "https://github.com/jflanigan/jamr",
+      "description": "JAMR Parser and Generator",
+      "language": "Scala",
+      "stars": 116,
+      "forks": 36
+    },
+    {
+      "author": "aws",
+      "name": "sagemaker-spark",
+      "href": "https://github.com/aws/sagemaker-spark",
+      "description": "A Spark library for Amazon SageMaker.",
+      "language": "Scala",
+      "stars": 127,
+      "forks": 66
+    },
+    {
+      "author": "alexarchambault",
+      "name": "case-app",
+      "href": "https://github.com/alexarchambault/case-app",
+      "description": "Type-level & seamless command-line argument parsing for Scala",
+      "language": "Scala",
+      "stars": 184,
+      "forks": 24
+    },
+    {
+      "author": "http4s",
+      "name": "rho",
+      "href": "https://github.com/http4s/rho",
+      "description": "A self documenting DSL built on http4s",
+      "language": "Scala",
+      "stars": 173,
+      "forks": 43
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11734,
+      "forks": 1901
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11440,
+      "forks": 2678
+    }
+  ]
+}
