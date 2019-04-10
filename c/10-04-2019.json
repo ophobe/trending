@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "xmake-io",
+      "name": "xmake",
+      "href": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "language": "C",
+      "stars": 1746,
+      "forks": 202
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 72600,
+      "forks": 25678
+    },
+    {
+      "author": "GNOME",
+      "name": "gimp",
+      "href": "https://github.com/GNOME/gimp",
+      "description": "GNU Image Manipulation Program",
+      "language": "C",
+      "stars": 1501,
+      "forks": 307
+    },
+    {
+      "author": "audacity",
+      "name": "audacity",
+      "href": "https://github.com/audacity/audacity",
+      "description": "Audio Editor",
+      "language": "C",
+      "stars": 1875,
+      "forks": 531
+    },
+    {
+      "author": "Tencent",
+      "name": "matrix",
+      "href": "https://github.com/Tencent/matrix",
+      "description": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+      "language": "C",
+      "stars": 4461,
+      "forks": 463
+    },
+    {
+      "author": "obecebo",
+      "name": "templenes",
+      "href": "https://github.com/obecebo/templenes",
+      "description": "NES Emulator for TempleOS",
+      "language": "C",
+      "stars": 94,
+      "forks": 3
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+      "language": "C",
+      "stars": 2490,
+      "forks": 470
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "href": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": 2575,
+      "forks": 1234
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "数据结构和算法必知必会的50个代码实现",
+      "language": "C",
+      "stars": 3755,
+      "forks": 1208
+    },
+    {
+      "author": "keijiro",
+      "name": "Lasp",
+      "href": "https://github.com/keijiro/Lasp",
+      "description": "Low-latency Audio Signal Processing plugin for Unity",
+      "language": "C",
+      "stars": 319,
+      "forks": 21
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 22695,
+      "forks": 5340
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 37242,
+      "forks": 3238
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 26957,
+      "forks": 15480
+    },
+    {
+      "author": "nickmqb",
+      "name": "muon",
+      "href": "https://github.com/nickmqb/muon",
+      "description": "Modern low-level programming language",
+      "language": "C",
+      "stars": 454,
+      "forks": 8
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 12578,
+      "forks": 7234
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 35550,
+      "forks": 13594
+    },
+    {
+      "author": "cstack",
+      "name": "db_tutorial",
+      "href": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "language": "C",
+      "stars": 3134,
+      "forks": 230
+    },
+    {
+      "author": "mightycow",
+      "name": "Sluggish",
+      "href": "https://github.com/mightycow/Sluggish",
+      "description": "Toy CPU and GPU implementations of the Slug rendering algorithm",
+      "language": "C",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 8355,
+      "forks": 3214
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 14513,
+      "forks": 5438
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 9191,
+      "forks": 6759
+    },
+    {
+      "author": "bilibili",
+      "name": "ijkplayer",
+      "href": "https://github.com/bilibili/ijkplayer",
+      "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+      "language": "C",
+      "stars": 22699,
+      "forks": 5984
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 13420,
+      "forks": 907
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 12747,
+      "forks": 2854
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 9931,
+      "forks": 2447
+    }
+  ]
+}
