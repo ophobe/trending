@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 73339,
+      "forks": 25733
+    },
+    {
+      "author": "tboox",
+      "name": "tbox",
+      "href": "https://github.com/tboox/tbox",
+      "description": "🎁 A glib-like multi-platform c library",
+      "language": "C",
+      "stars": 2735,
+      "forks": 355
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "href": "https://github.com/bol-van/zapret",
+      "description": "Обход DPI в linux",
+      "language": "C",
+      "stars": 623,
+      "forks": 88
+    },
+    {
+      "author": "cstack",
+      "name": "db_tutorial",
+      "href": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "language": "C",
+      "stars": 3193,
+      "forks": 232
+    },
+    {
+      "author": "nongiach",
+      "name": "sudo_inject",
+      "href": "https://github.com/nongiach/sudo_inject",
+      "description": "[Linux] Two Privilege Escalation techniques abusing sudo token",
+      "language": "C",
+      "stars": 51,
+      "forks": 7
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 37317,
+      "forks": 3245
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 35638,
+      "forks": 13626
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 14561,
+      "forks": 5454
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "数据结构和算法必知必会的50个代码实现",
+      "language": "C",
+      "stars": 3827,
+      "forks": 1233
+    },
+    {
+      "author": "jarun",
+      "name": "keysniffer",
+      "href": "https://github.com/jarun/keysniffer",
+      "description": "🔍 Linux kernel mode debugfs keylogger",
+      "language": "C",
+      "stars": 399,
+      "forks": 61
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+      "language": "C",
+      "stars": 2541,
+      "forks": 480
+    },
+    {
+      "author": "hunt-genes",
+      "name": "ncls",
+      "href": "https://github.com/hunt-genes/ncls",
+      "description": "The Nested Containment List for Python. Basically an immutable interval-tree that is silly fast for both construction and lookups.",
+      "language": "C",
+      "stars": 54,
+      "forks": 2
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 12632,
+      "forks": 7266
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 27008,
+      "forks": 15513
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!",
+      "language": "C",
+      "stars": 4536,
+      "forks": 1121
+    },
+    {
+      "author": "viest",
+      "name": "php-ext-excel-export",
+      "href": "https://github.com/viest/php-ext-excel-export",
+      "description": "A PHP Extension for creating XLSX files.",
+      "language": "C",
+      "stars": 483,
+      "forks": 60
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 7492,
+      "forks": 873
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "keyboard controller firmware for Atmel AVR and ARM USB families",
+      "language": "C",
+      "stars": 4087,
+      "forks": 7764
+    },
+    {
+      "author": "xmake-io",
+      "name": "xmake",
+      "href": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "language": "C",
+      "stars": 1796,
+      "forks": 206
+    },
+    {
+      "author": "go-vgo",
+      "name": "robotgo",
+      "href": "https://github.com/go-vgo/robotgo",
+      "description": "RobotGo, Go Native cross-platform GUI automation",
+      "language": "C",
+      "stars": 4094,
+      "forks": 350
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 22743,
+      "forks": 5347
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 10207,
+      "forks": 3476
+    },
+    {
+      "author": "iqiyi",
+      "name": "xCrash",
+      "href": "https://github.com/iqiyi/xCrash",
+      "description": "🔥 A crash reporting library for Android APPs. Support catching native crash and Java exception. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.",
+      "language": "C",
+      "stars": 243,
+      "forks": 27
+    },
+    {
+      "author": "libffi",
+      "name": "libffi",
+      "href": "https://github.com/libffi/libffi",
+      "description": "A portable foreign-function interface library.",
+      "language": "C",
+      "stars": 1302,
+      "forks": 335
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 10039,
+      "forks": 4406
+    }
+  ]
+}
