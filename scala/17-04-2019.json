@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21419,
+      "forks": 18620
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13885,
+      "forks": 789
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-zio",
+      "href": "https://github.com/scalaz/scalaz-zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 753,
+      "forks": 199
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 7075,
+      "forks": 1751
+    },
+    {
+      "author": "apache",
+      "name": "incubator-openwhisk",
+      "href": "https://github.com/apache/incubator-openwhisk",
+      "description": "Apache OpenWhisk is a serverless event-based programming service and an Apache Incubator project.",
+      "language": "Scala",
+      "stars": 3954,
+      "forks": 761
+    },
+    {
+      "author": "Netflix",
+      "name": "atlas",
+      "href": "https://github.com/Netflix/atlas",
+      "description": "In-memory dimensional time series database.",
+      "language": "Scala",
+      "stars": 2311,
+      "forks": 200
+    },
+    {
+      "author": "OpenBankProject",
+      "name": "OBP-API",
+      "href": "https://github.com/OpenBankProject/OBP-API",
+      "description": "An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.",
+      "language": "Scala",
+      "stars": 1054,
+      "forks": 283
+    },
+    {
+      "author": "digital-asset",
+      "name": "daml",
+      "href": "https://github.com/digital-asset/daml",
+      "description": "The DAML smart contract language",
+      "language": "Scala",
+      "stars": 106,
+      "forks": 20
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 2143,
+      "forks": 514
+    },
+    {
+      "author": "lagom",
+      "name": "online-auction-scala",
+      "href": "https://github.com/lagom/online-auction-scala",
+      "description": null,
+      "language": "Scala",
+      "stars": 189,
+      "forks": 133
+    },
+    {
+      "author": "http4s",
+      "name": "blaze",
+      "href": "https://github.com/http4s/blaze",
+      "description": "Blazing fast NIO microframework and Http Parser",
+      "language": "Scala",
+      "stars": 204,
+      "forks": 32
+    },
+    {
+      "author": "freechipsproject",
+      "name": "firrtl",
+      "href": "https://github.com/freechipsproject/firrtl",
+      "description": "Flexible Intermediate Representation for RTL",
+      "language": "Scala",
+      "stars": 194,
+      "forks": 76
+    },
+    {
+      "author": "zalando-incubator",
+      "name": "remora",
+      "href": "https://github.com/zalando-incubator/remora",
+      "description": "Kafka consumer lag-checking application for monitoring, written in Scala and Akka HTTP; a wrap around the Kafka consumer group command. Integrations with Cloudwatch and Datadog. Authentication recently added",
+      "language": "Scala",
+      "stars": 136,
+      "forks": 18
+    },
+    {
+      "author": "TouK",
+      "name": "nussknacker",
+      "href": "https://github.com/TouK/nussknacker",
+      "description": "Process authoring tool for Apache Flink",
+      "language": "Scala",
+      "stars": 125,
+      "forks": 28
+    },
+    {
+      "author": "holdenk",
+      "name": "spark-testing-base",
+      "href": "https://github.com/holdenk/spark-testing-base",
+      "description": "Base classes to use when writing tests with Spark",
+      "language": "Scala",
+      "stars": 946,
+      "forks": 253
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1471,
+      "forks": 245
+    },
+    {
+      "author": "lihaoyi",
+      "name": "mill",
+      "href": "https://github.com/lihaoyi/mill",
+      "description": "Your shiny new Java/Scala build tool!",
+      "language": "Scala",
+      "stars": 1145,
+      "forks": 138
+    },
+    {
+      "author": "spark-jobserver",
+      "name": "spark-jobserver",
+      "href": "https://github.com/spark-jobserver/spark-jobserver",
+      "description": "REST job server for Apache Spark",
+      "language": "Scala",
+      "stars": 2303,
+      "forks": 916
+    },
+    {
+      "author": "bkirwi",
+      "name": "decline",
+      "href": "https://github.com/bkirwi/decline",
+      "description": "A composable command-line parser for Scala.",
+      "language": "Scala",
+      "stars": 222,
+      "forks": 23
+    },
+    {
+      "author": "kaitai-io",
+      "name": "kaitai_struct_compiler",
+      "href": "https://github.com/kaitai-io/kaitai_struct_compiler",
+      "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb",
+      "language": "Scala",
+      "stars": 142,
+      "forks": 51
+    },
+    {
+      "author": "youzan",
+      "name": "gatling-dubbo",
+      "href": "https://github.com/youzan/gatling-dubbo",
+      "description": "Gatling的非官方Dubbo压测插件，基于Gatling 2.3.1。",
+      "language": "Scala",
+      "stars": 41,
+      "forks": 13
+    },
+    {
+      "author": "oharastream",
+      "name": "ohara",
+      "href": "https://github.com/oharastream/ohara",
+      "description": "Ohara Stream - Easy to deploy the streaming application",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 20
+    },
+    {
+      "author": "johnynek",
+      "name": "bazel-deps",
+      "href": "https://github.com/johnynek/bazel-deps",
+      "description": "Generate bazel dependencies for maven artifacts",
+      "language": "Scala",
+      "stars": 131,
+      "forks": 75
+    },
+    {
+      "author": "propensive",
+      "name": "fury",
+      "href": "https://github.com/propensive/fury",
+      "description": "Fury",
+      "language": "Scala",
+      "stars": 261,
+      "forks": 24
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11746,
+      "forks": 1904
+    }
+  ]
+}
