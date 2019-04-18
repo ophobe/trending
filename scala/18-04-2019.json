@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21430,
+      "forks": 0
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 7086,
+      "forks": 0
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 13894,
+      "forks": 0
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11485,
+      "forks": 0
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5309,
+      "forks": 0
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd",
+      "href": "https://github.com/linkerd/linkerd",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 1.x.",
+      "language": "Scala",
+      "stars": 4933,
+      "forks": 0
+    },
+    {
+      "author": "mozilla",
+      "name": "telemetry-batch-view",
+      "href": "https://github.com/mozilla/telemetry-batch-view",
+      "description": "A Scala framework to build derived datasets, aka batch views, of Telemetry data.",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 0
+    },
+    {
+      "author": "scala",
+      "name": "scala-collection-compat",
+      "href": "https://github.com/scala/scala-collection-compat",
+      "description": "Scala 2.13 Collection Compatibility Library",
+      "language": "Scala",
+      "stars": 60,
+      "forks": 0
+    },
+    {
+      "author": "locationtech",
+      "name": "rasterframes",
+      "href": "https://github.com/locationtech/rasterframes",
+      "description": "Geospatial Raster support for Spark DataFrames",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 0
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1471,
+      "forks": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 638,
+      "forks": 0
+    },
+    {
+      "author": "kaitai-io",
+      "name": "kaitai_struct_compiler",
+      "href": "https://github.com/kaitai-io/kaitai_struct_compiler",
+      "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb",
+      "language": "Scala",
+      "stars": 142,
+      "forks": 0
+    },
+    {
+      "author": "ACINQ",
+      "name": "eclair",
+      "href": "https://github.com/ACINQ/eclair",
+      "description": "A scala implementation of the Lightning Network.",
+      "language": "Scala",
+      "stars": 751,
+      "forks": 0
+    },
+    {
+      "author": "akka",
+      "name": "akka-samples",
+      "href": "https://github.com/akka/akka-samples",
+      "description": "Akka Sample Projects",
+      "language": "Scala",
+      "stars": 490,
+      "forks": 0
+    },
+    {
+      "author": "TinkoffCreditSystems",
+      "name": "typed-schema",
+      "href": "https://github.com/TinkoffCreditSystems/typed-schema",
+      "description": "Typelevel http service definition DSL",
+      "language": "Scala",
+      "stars": 91,
+      "forks": 0
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1654,
+      "forks": 0
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 846,
+      "forks": 0
+    },
+    {
+      "author": "sksamuel",
+      "name": "avro4s",
+      "href": "https://github.com/sksamuel/avro4s",
+      "description": "Avro schema generation and serialization / deserialization for Scala",
+      "language": "Scala",
+      "stars": 417,
+      "forks": 0
+    },
+    {
+      "author": "sifive",
+      "name": "fpga-shells",
+      "href": "https://github.com/sifive/fpga-shells",
+      "description": null,
+      "language": "Scala",
+      "stars": 28,
+      "forks": 0
+    },
+    {
+      "author": "julien-truffaut",
+      "name": "Monocle",
+      "href": "https://github.com/julien-truffaut/Monocle",
+      "description": "Optics library for Scala",
+      "language": "Scala",
+      "stars": 1081,
+      "forks": 0
+    },
+    {
+      "author": "zalando-incubator",
+      "name": "remora",
+      "href": "https://github.com/zalando-incubator/remora",
+      "description": "Kafka consumer lag-checking application for monitoring, written in Scala and Akka HTTP; a wrap around the Kafka consumer group command. Integrations with Cloudwatch and Datadog. Authentication recently added",
+      "language": "Scala",
+      "stars": 136,
+      "forks": 0
+    },
+    {
+      "author": "CasperLabs",
+      "name": "CasperLabs",
+      "href": "https://github.com/CasperLabs/CasperLabs",
+      "description": null,
+      "language": "Scala",
+      "stars": 44,
+      "forks": 0
+    },
+    {
+      "author": "scala-exercises",
+      "name": "exercises-scalatutorial",
+      "href": "https://github.com/scala-exercises/exercises-scalatutorial",
+      "description": "Exercises for the \"Functional Programming Principles in Scala\", part of the FP in Scala specialized program by EPFL.",
+      "language": "Scala",
+      "stars": 76,
+      "forks": 0
+    },
+    {
+      "author": "twitter",
+      "name": "scrooge",
+      "href": "https://github.com/twitter/scrooge",
+      "description": "A Thrift parser/generator",
+      "language": "Scala",
+      "stars": 665,
+      "forks": 0
+    },
+    {
+      "author": "twitter",
+      "name": "twitter-server",
+      "href": "https://github.com/twitter/twitter-server",
+      "description": "Twitter-Server defines a template from which services at Twitter are built",
+      "language": "Scala",
+      "stars": 924,
+      "forks": 0
+    }
+  ]
+}
