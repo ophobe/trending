@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 73718,
+      "forks": 0
+    },
+    {
+      "author": "chrismaltby",
+      "name": "gb-studio",
+      "href": "https://github.com/chrismaltby/gb-studio",
+      "description": "Visual retro game maker",
+      "language": "C",
+      "stars": 148,
+      "forks": 0
+    },
+    {
+      "author": "orangeduck",
+      "name": "Cello",
+      "href": "https://github.com/orangeduck/Cello",
+      "description": "Higher level programming in C",
+      "language": "C",
+      "stars": 4718,
+      "forks": 0
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 35812,
+      "forks": 0
+    },
+    {
+      "author": "vnmakarov",
+      "name": "mir",
+      "href": "https://github.com/vnmakarov/mir",
+      "description": "A light-weight JIT compiler based on MIR (Medium Internal Representation)",
+      "language": "C",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "author": "wangzheng0822",
+      "name": "algo",
+      "href": "https://github.com/wangzheng0822/algo",
+      "description": "数据结构和算法必知必会的50个代码实现",
+      "language": "C",
+      "stars": 3948,
+      "forks": 0
+    },
+    {
+      "author": "lh3",
+      "name": "cgranges",
+      "href": "https://github.com/lh3/cgranges",
+      "description": "A C/C++ library for fast interval overlap queries (with a \"bedtools coverage\" example)",
+      "language": "C",
+      "stars": 49,
+      "forks": 0
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 22828,
+      "forks": 0
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 37459,
+      "forks": 0
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 12714,
+      "forks": 0
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 27093,
+      "forks": 0
+    },
+    {
+      "author": "RedisLabsModules",
+      "name": "RediSearch",
+      "href": "https://github.com/RedisLabsModules/RediSearch",
+      "description": "FullText Search and Secondary Index module for Redis",
+      "language": "C",
+      "stars": 1575,
+      "forks": 0
+    },
+    {
+      "author": "Tencent",
+      "name": "matrix",
+      "href": "https://github.com/Tencent/matrix",
+      "description": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+      "language": "C",
+      "stars": 4598,
+      "forks": 0
+    },
+    {
+      "author": "pwn20wndstuff",
+      "name": "Undecimus",
+      "href": "https://github.com/pwn20wndstuff/Undecimus",
+      "description": "unc0ver jailbreak for iOS 11.0 - 12.1.2",
+      "language": "C",
+      "stars": 2625,
+      "forks": 0
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 14644,
+      "forks": 0
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 12853,
+      "forks": 0
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 12072,
+      "forks": 0
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 12972,
+      "forks": 0
+    },
+    {
+      "author": "iqiyi",
+      "name": "xCrash",
+      "href": "https://github.com/iqiyi/xCrash",
+      "description": "🔥 A crash reporting library for Android APPs. Support catching native crash and Java exception. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.",
+      "language": "C",
+      "stars": 372,
+      "forks": 0
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 7519,
+      "forks": 0
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used)",
+      "language": "C",
+      "stars": 3735,
+      "forks": 0
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 9472,
+      "forks": 0
+    },
+    {
+      "author": "golaced",
+      "name": "OLDX-FC_QUADRUPED_QUADROTOR",
+      "href": "https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR",
+      "description": "OLDX_MocoMoco四足机器人开发平台 更新中 请STAR该项目(每Star超过20更新 当日更新)",
+      "language": "C",
+      "stars": 41,
+      "forks": 0
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 19943,
+      "forks": 0
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 6440,
+      "forks": 0
+    }
+  ]
+}
