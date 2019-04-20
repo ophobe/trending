@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 8550,
+      "forks": 0
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 2573,
+      "forks": 0
+    },
+    {
+      "author": "codercom",
+      "name": "sshcode",
+      "href": "https://github.com/codercom/sshcode",
+      "description": "Run VS Code on any server over SSH.",
+      "language": "Go",
+      "stars": 58,
+      "forks": 0
+    },
+    {
+      "author": "bet365",
+      "name": "jingo",
+      "href": "https://github.com/bet365/jingo",
+      "description": "This package provides the ability to encode golang structs to a buffer as JSON very quickly.",
+      "language": "Go",
+      "stars": 203,
+      "forks": 0
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 51436,
+      "forks": 0
+    },
+    {
+      "author": "docker-slim",
+      "name": "docker-slim",
+      "href": "https://github.com/docker-slim/docker-slim",
+      "description": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+      "language": "Go",
+      "stars": 2361,
+      "forks": 0
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 56626,
+      "forks": 0
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 13348,
+      "forks": 0
+    },
+    {
+      "author": "Microsoft",
+      "name": "fabrikate",
+      "href": "https://github.com/Microsoft/fabrikate",
+      "description": "Tooling to make GitOps with Kubernetes more productive",
+      "language": "Go",
+      "stars": 82,
+      "forks": 0
+    },
+    {
+      "author": "psampaz",
+      "name": "go-mod-outdated",
+      "href": "https://github.com/psampaz/go-mod-outdated",
+      "description": "An easy way to find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.",
+      "language": "Go",
+      "stars": 40,
+      "forks": 0
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 26251,
+      "forks": 0
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 42729,
+      "forks": 0
+    },
+    {
+      "author": "geohot",
+      "name": "minikeyvalue",
+      "href": "https://github.com/geohot/minikeyvalue",
+      "description": "A distributed key value store in under 200 lines",
+      "language": "Go",
+      "stars": 116,
+      "forks": 0
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 21910,
+      "forks": 0
+    },
+    {
+      "author": "alicebob",
+      "name": "miniredis",
+      "href": "https://github.com/alicebob/miniredis",
+      "description": "Pure Go Redis server for Go unittests",
+      "language": "Go",
+      "stars": 716,
+      "forks": 0
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 29336,
+      "forks": 0
+    },
+    {
+      "author": "mgechev",
+      "name": "revive",
+      "href": "https://github.com/mgechev/revive",
+      "description": "🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.",
+      "language": "Go",
+      "stars": 1712,
+      "forks": 0
+    },
+    {
+      "author": "vlang",
+      "name": "v",
+      "href": "https://github.com/vlang/v",
+      "description": "Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.",
+      "language": "Go",
+      "stars": 2399,
+      "forks": 0
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 25505,
+      "forks": 0
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 20975,
+      "forks": 0
+    },
+    {
+      "author": "google",
+      "name": "licensecheck",
+      "href": "https://github.com/google/licensecheck",
+      "description": "The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.",
+      "language": "Go",
+      "stars": 76,
+      "forks": 0
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 34471,
+      "forks": 0
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 15216,
+      "forks": 0
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 24294,
+      "forks": 0
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 19900,
+      "forks": 0
+    }
+  ]
+}
