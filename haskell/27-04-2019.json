@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "Infinisil",
+      "name": "all-hies",
+      "href": "https://github.com/Infinisil/all-hies",
+      "description": "Haskell IDE Engine Nix builds for all GHC versions",
+      "language": "Haskell",
+      "stars": 26,
+      "forks": 0
+    },
+    {
+      "author": "jgm",
+      "name": "pandoc",
+      "href": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "stars": 15273,
+      "forks": 0
+    },
+    {
+      "author": "alpacaaa",
+      "name": "zero-bullshit-haskell",
+      "href": "https://github.com/alpacaaa/zero-bullshit-haskell",
+      "description": "Learn Haskell, without the bullshit.",
+      "language": "Haskell",
+      "stars": 149,
+      "forks": 0
+    },
+    {
+      "author": "aymannadeem",
+      "name": "foldilocks",
+      "href": "https://github.com/aymannadeem/foldilocks",
+      "description": "Tutorial using ghci to make folds easier. Come for the tutorial, stay for the fold puns.",
+      "language": "Haskell",
+      "stars": 85,
+      "forks": 0
+    },
+    {
+      "author": "haskell",
+      "name": "haskell-ide-engine",
+      "href": "https://github.com/haskell/haskell-ide-engine",
+      "description": "The engine for haskell ide-integration. Not an IDE",
+      "language": "Haskell",
+      "stars": 1650,
+      "forks": 0
+    },
+    {
+      "author": "litxio",
+      "name": "ptghci",
+      "href": "https://github.com/litxio/ptghci",
+      "description": "High-powered REPL for Haskell, inspired by IPython",
+      "language": "Haskell",
+      "stars": 255,
+      "forks": 0
+    },
+    {
+      "author": "luna",
+      "name": "luna",
+      "href": "https://github.com/luna/luna",
+      "description": "Hybrid textual and visual functional programming.",
+      "language": "Haskell",
+      "stars": 2847,
+      "forks": 0
+    },
+    {
+      "author": "hedgehogqa",
+      "name": "haskell-hedgehog",
+      "href": "https://github.com/hedgehogqa/haskell-hedgehog",
+      "description": "Release with confidence, state-of-the-art property testing for Haskell.",
+      "language": "Haskell",
+      "stars": 417,
+      "forks": 0
+    },
+    {
+      "author": "nick8325",
+      "name": "quickcheck",
+      "href": "https://github.com/nick8325/quickcheck",
+      "description": "Automatic testing of Haskell programs.",
+      "language": "Haskell",
+      "stars": 460,
+      "forks": 0
+    },
+    {
+      "author": "owickstrom",
+      "name": "pandoc-include-code",
+      "href": "https://github.com/owickstrom/pandoc-include-code",
+      "description": "A Pandoc filter for including code from source files",
+      "language": "Haskell",
+      "stars": 58,
+      "forks": 0
+    },
+    {
+      "author": "ekmett",
+      "name": "either",
+      "href": "https://github.com/ekmett/either",
+      "description": "the EitherT monad transformer",
+      "language": "Haskell",
+      "stars": 43,
+      "forks": 0
+    },
+    {
+      "author": "tweag",
+      "name": "capability",
+      "href": "https://github.com/tweag/capability",
+      "description": "Extensional capabilities and deriving combinators",
+      "language": "Haskell",
+      "stars": 112,
+      "forks": 0
+    },
+    {
+      "author": "judah",
+      "name": "haskeline",
+      "href": "https://github.com/judah/haskeline",
+      "description": "A Haskell library for line input in command-line programs.",
+      "language": "Haskell",
+      "stars": 118,
+      "forks": 0
+    },
+    {
+      "author": "dhall-lang",
+      "name": "dhall-haskell",
+      "href": "https://github.com/dhall-lang/dhall-haskell",
+      "description": "A configuration language guaranteed to terminate",
+      "language": "Haskell",
+      "stars": 469,
+      "forks": 0
+    },
+    {
+      "author": "goldfirere",
+      "name": "singletons",
+      "href": "https://github.com/goldfirere/singletons",
+      "description": "Fake dependent types in Haskell using singletons",
+      "language": "Haskell",
+      "stars": 183,
+      "forks": 0
+    },
+    {
+      "author": "input-output-hk",
+      "name": "nix-tools",
+      "href": "https://github.com/input-output-hk/nix-tools",
+      "description": "Translate Cabals Generic Package Description to a Nix expression",
+      "language": "Haskell",
+      "stars": 32,
+      "forks": 0
+    },
+    {
+      "author": "lucasdicioccio",
+      "name": "http2-client",
+      "href": "https://github.com/lucasdicioccio/http2-client",
+      "description": "A native HTTP2 client in Haskell",
+      "language": "Haskell",
+      "stars": 36,
+      "forks": 0
+    },
+    {
+      "author": "koalaman",
+      "name": "shellcheck",
+      "href": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "stars": 14398,
+      "forks": 0
+    },
+    {
+      "author": "PostgREST",
+      "name": "postgrest",
+      "href": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "stars": 12258,
+      "forks": 0
+    },
+    {
+      "author": "purescript",
+      "name": "purescript",
+      "href": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to Javascript",
+      "language": "Haskell",
+      "stars": 5649,
+      "forks": 0
+    },
+    {
+      "author": "elm",
+      "name": "compiler",
+      "href": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "stars": 5166,
+      "forks": 0
+    },
+    {
+      "author": "facebook",
+      "name": "Haxl",
+      "href": "https://github.com/facebook/Haxl",
+      "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services.",
+      "language": "Haskell",
+      "stars": 3507,
+      "forks": 0
+    },
+    {
+      "author": "input-output-hk",
+      "name": "cardano-sl",
+      "href": "https://github.com/input-output-hk/cardano-sl",
+      "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+      "language": "Haskell",
+      "stars": 3227,
+      "forks": 0
+    },
+    {
+      "author": "commercialhaskell",
+      "name": "stack",
+      "href": "https://github.com/commercialhaskell/stack",
+      "description": "The Haskell Tool Stack",
+      "language": "Haskell",
+      "stars": 3065,
+      "forks": 0
+    },
+    {
+      "author": "data61",
+      "name": "fp-course",
+      "href": "https://github.com/data61/fp-course",
+      "description": "Functional Programming Course",
+      "language": "Haskell",
+      "stars": 2818,
+      "forks": 0
+    }
+  ]
+}
