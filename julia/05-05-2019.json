@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 21901,
+      "forks": 0
+    },
+    {
+      "author": "FluxML",
+      "name": "Flux.jl",
+      "href": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "stars": 1295,
+      "forks": 0
+    },
+    {
+      "author": "climate-machine",
+      "name": "CLIMA",
+      "href": "https://github.com/climate-machine/CLIMA",
+      "description": "Climate Machine",
+      "language": "Julia",
+      "stars": 37,
+      "forks": 0
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "Convex.jl",
+      "href": "https://github.com/JuliaOpt/Convex.jl",
+      "description": "A Julia package for disciplined convex programming",
+      "language": "Julia",
+      "stars": 274,
+      "forks": 0
+    },
+    {
+      "author": "climate-machine",
+      "name": "Oceananigans.jl",
+      "href": "https://github.com/climate-machine/Oceananigans.jl",
+      "description": "🌊 A fast and friendly non-hydrostatic ocean model in Julia that can be run in 1-3 dimensions on CPUs and GPUs.",
+      "language": "Julia",
+      "stars": 72,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "StochasticDiffEq.jl",
+      "href": "https://github.com/JuliaDiffEq/StochasticDiffEq.jl",
+      "description": "DiffEq solvers for stochastic differential equations",
+      "language": "Julia",
+      "stars": 38,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "RecursiveArrayTools.jl",
+      "href": "https://github.com/JuliaDiffEq/RecursiveArrayTools.jl",
+      "description": "Tools for easily handling objects like arrays of arrays and deeper nestings",
+      "language": "Julia",
+      "stars": 33,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "OrdinaryDiffEq.jl",
+      "href": "https://github.com/JuliaDiffEq/OrdinaryDiffEq.jl",
+      "description": "DiffEq solvers for ordinary differential equations",
+      "language": "Julia",
+      "stars": 91,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "ODE.jl",
+      "href": "https://github.com/JuliaDiffEq/ODE.jl",
+      "description": "Assorted basic Ordinary Differential Equation solvers",
+      "language": "Julia",
+      "stars": 87,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "ModelingToolkit.jl",
+      "href": "https://github.com/JuliaDiffEq/ModelingToolkit.jl",
+      "description": "A toolkit for modeling and creating DSLs for Scientific Computing in Julia",
+      "language": "Julia",
+      "stars": 86,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "LabelledArrays.jl",
+      "href": "https://github.com/JuliaDiffEq/LabelledArrays.jl",
+      "description": "Arrays which also have a label for each element",
+      "language": "Julia",
+      "stars": 27,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqPhysics.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqPhysics.jl",
+      "description": "A library for building differential equations arising from physical problems",
+      "language": "Julia",
+      "stars": 22,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqOperators.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqOperators.jl",
+      "description": "Linear operators for discretizations of differential equations",
+      "language": "Julia",
+      "stars": 27,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqBiological.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqBiological.jl",
+      "description": "DiffEq related functionality for defining biological models",
+      "language": "Julia",
+      "stars": 49,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqBayes.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqBayes.jl",
+      "description": "Extension functionality which uses Stan.jl, DynamicHMC.jl, and Turing.jl to estimate the parameters to differential equations",
+      "language": "Julia",
+      "stars": 31,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqBase.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqBase.jl",
+      "description": "The lightweight Base library for shared types and functionality.",
+      "language": "Julia",
+      "stars": 35,
+      "forks": 0
+    },
+    {
+      "author": "JuliaNLSolvers",
+      "name": "LsqFit.jl",
+      "href": "https://github.com/JuliaNLSolvers/LsqFit.jl",
+      "description": "Simple curve fitting in Julia",
+      "language": "Julia",
+      "stars": 107,
+      "forks": 0
+    },
+    {
+      "author": "JuliaParallel",
+      "name": "MPI.jl",
+      "href": "https://github.com/JuliaParallel/MPI.jl",
+      "description": "MPI wrappers for Julia",
+      "language": "Julia",
+      "stars": 111,
+      "forks": 0
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1671,
+      "forks": 0
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1361,
+      "forks": 0
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1185,
+      "forks": 0
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 867,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 798,
+      "forks": 0
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia programming language.",
+      "language": "Julia",
+      "stars": 791,
+      "forks": 0
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "JuMP.jl",
+      "href": "https://github.com/JuliaOpt/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+      "language": "Julia",
+      "stars": 781,
+      "forks": 0
+    }
+  ]
+}
