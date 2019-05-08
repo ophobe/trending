@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "JuliaLang",
+      "name": "julia",
+      "href": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Language: A fresh approach to technical computing.",
+      "language": "Julia",
+      "stars": 21955,
+      "forks": 0
+    },
+    {
+      "author": "alan-turing-institute",
+      "name": "MLJ.jl",
+      "href": "https://github.com/alan-turing-institute/MLJ.jl",
+      "description": "A Julia machine learning framework",
+      "language": "Julia",
+      "stars": 228,
+      "forks": 0
+    },
+    {
+      "author": "probcomp",
+      "name": "Gen",
+      "href": "https://github.com/probcomp/Gen",
+      "description": "A general-purpose probabilistic programming system with programmable inference",
+      "language": "Julia",
+      "stars": 37,
+      "forks": 0
+    },
+    {
+      "author": "evanfields",
+      "name": "TravelingSalesmanHeuristics.jl",
+      "href": "https://github.com/evanfields/TravelingSalesmanHeuristics.jl",
+      "description": "Julia package for simple traveling salesman problem heuristics",
+      "language": "Julia",
+      "stars": 22,
+      "forks": 0
+    },
+    {
+      "author": "climate-machine",
+      "name": "CLIMA",
+      "href": "https://github.com/climate-machine/CLIMA",
+      "description": "Climate Machine",
+      "language": "Julia",
+      "stars": 37,
+      "forks": 0
+    },
+    {
+      "author": "JuliaGPU",
+      "name": "GPUArrays.jl",
+      "href": "https://github.com/JuliaGPU/GPUArrays.jl",
+      "description": "Array operations defined for all kind of GPU backends.",
+      "language": "Julia",
+      "stars": 122,
+      "forks": 0
+    },
+    {
+      "author": "SCIP-Interfaces",
+      "name": "SCIP.jl",
+      "href": "https://github.com/SCIP-Interfaces/SCIP.jl",
+      "description": "Julia interface to SCIP solver",
+      "language": "Julia",
+      "stars": 27,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DiffEqBase.jl",
+      "href": "https://github.com/JuliaDiffEq/DiffEqBase.jl",
+      "description": "The lightweight Base library for shared types and functionality.",
+      "language": "Julia",
+      "stars": 35,
+      "forks": 0
+    },
+    {
+      "author": "JuliaMath",
+      "name": "FFTW.jl",
+      "href": "https://github.com/JuliaMath/FFTW.jl",
+      "description": "Julia bindings to the FFTW library for fast Fourier transforms",
+      "language": "Julia",
+      "stars": 48,
+      "forks": 0
+    },
+    {
+      "author": "lanl-ansi",
+      "name": "Alpine.jl",
+      "href": "https://github.com/lanl-ansi/Alpine.jl",
+      "description": "A JuMP-based Global Optimization Solver",
+      "language": "Julia",
+      "stars": 55,
+      "forks": 0
+    },
+    {
+      "author": "JuliaOpt",
+      "name": "JuMP.jl",
+      "href": "https://github.com/JuliaOpt/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+      "language": "Julia",
+      "stars": 783,
+      "forks": 0
+    },
+    {
+      "author": "JuliaGraphs",
+      "name": "LightGraphs.jl",
+      "href": "https://github.com/JuliaGraphs/LightGraphs.jl",
+      "description": "An optimized graphs package for the Julia programming language",
+      "language": "Julia",
+      "stars": 296,
+      "forks": 0
+    },
+    {
+      "author": "JuliaParallel",
+      "name": "MPI.jl",
+      "href": "https://github.com/JuliaParallel/MPI.jl",
+      "description": "MPI wrappers for Julia",
+      "language": "Julia",
+      "stars": 112,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDocs",
+      "name": "Documenter.jl",
+      "href": "https://github.com/JuliaDocs/Documenter.jl",
+      "description": "A documentation generator for Julia.",
+      "language": "Julia",
+      "stars": 201,
+      "forks": 0
+    },
+    {
+      "author": "sisl",
+      "name": "NeuralVerification.jl",
+      "href": "https://github.com/sisl/NeuralVerification.jl",
+      "description": "Methods to soundly verify deep neural networks",
+      "language": "Julia",
+      "stars": 59,
+      "forks": 0
+    },
+    {
+      "author": "JuliaLang",
+      "name": "IJulia.jl",
+      "href": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
+      "language": "Julia",
+      "stars": 1673,
+      "forks": 0
+    },
+    {
+      "author": "GiovineItalia",
+      "name": "Gadfly.jl",
+      "href": "https://github.com/GiovineItalia/Gadfly.jl",
+      "description": "Crafty statistical graphics for Julia.",
+      "language": "Julia",
+      "stars": 1365,
+      "forks": 0
+    },
+    {
+      "author": "FluxML",
+      "name": "Flux.jl",
+      "href": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "stars": 1303,
+      "forks": 0
+    },
+    {
+      "author": "pluskid",
+      "name": "Mocha.jl",
+      "href": "https://github.com/pluskid/Mocha.jl",
+      "description": "Deep Learning framework for Julia",
+      "language": "Julia",
+      "stars": 1185,
+      "forks": 0
+    },
+    {
+      "author": "denizyuret",
+      "name": "Knet.jl",
+      "href": "https://github.com/denizyuret/Knet.jl",
+      "description": "Koç University deep learning framework.",
+      "language": "Julia",
+      "stars": 870,
+      "forks": 0
+    },
+    {
+      "author": "JuliaDiffEq",
+      "name": "DifferentialEquations.jl",
+      "href": "https://github.com/JuliaDiffEq/DifferentialEquations.jl",
+      "description": "Julia suite for high-performance solvers of differential equations",
+      "language": "Julia",
+      "stars": 800,
+      "forks": 0
+    },
+    {
+      "author": "svaksha",
+      "name": "Julia.jl",
+      "href": "https://github.com/svaksha/Julia.jl",
+      "description": "Curated decibans of Julia programming language.",
+      "language": "Julia",
+      "stars": 791,
+      "forks": 0
+    },
+    {
+      "author": "JuliaPlots",
+      "name": "Plots.jl",
+      "href": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
+      "language": "Julia",
+      "stars": 763,
+      "forks": 0
+    },
+    {
+      "author": "svaksha",
+      "name": "pythonidae",
+      "href": "https://github.com/svaksha/pythonidae",
+      "description": "Curated decibans of scientific programming resources in Python.",
+      "language": "Julia",
+      "stars": 702,
+      "forks": 0
+    },
+    {
+      "author": "JuliaPy",
+      "name": "PyCall.jl",
+      "href": "https://github.com/JuliaPy/PyCall.jl",
+      "description": "Package to call Python functions from the Julia language",
+      "language": "Julia",
+      "stars": 647,
+      "forks": 0
+    }
+  ]
+}
