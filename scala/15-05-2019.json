@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21829,
+      "forks": 0
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 14206,
+      "forks": 0
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1012,
+      "forks": 0
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9870,
+      "forks": 0
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5211,
+      "forks": 0
+    },
+    {
+      "author": "cas-bigdatalab",
+      "name": "piflow",
+      "href": "https://github.com/cas-bigdatalab/piflow",
+      "description": "πflow is a big data flow engine with spark support",
+      "language": "Scala",
+      "stars": 147,
+      "forks": 0
+    },
+    {
+      "author": "scalacenter",
+      "name": "scalajs-bundler",
+      "href": "https://github.com/scalacenter/scalajs-bundler",
+      "description": null,
+      "language": "Scala",
+      "stars": 171,
+      "forks": 0
+    },
+    {
+      "author": "finagle",
+      "name": "finch",
+      "href": "https://github.com/finagle/finch",
+      "description": "Scala combinator library for building Finagle HTTP services",
+      "language": "Scala",
+      "stars": 1358,
+      "forks": 0
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-site",
+      "href": "https://github.com/sbt/sbt-site",
+      "description": "Site generation for sbt",
+      "language": "Scala",
+      "stars": 153,
+      "forks": 0
+    },
+    {
+      "author": "hseeberger",
+      "name": "akka-http-json",
+      "href": "https://github.com/hseeberger/akka-http-json",
+      "description": "Integrate some of the best JSON libs in Scala with Akka HTTP",
+      "language": "Scala",
+      "stars": 470,
+      "forks": 0
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 810,
+      "forks": 0
+    },
+    {
+      "author": "apache",
+      "name": "carbondata",
+      "href": "https://github.com/apache/carbondata",
+      "description": "Mirror of Apache CarbonData",
+      "language": "Scala",
+      "stars": 900,
+      "forks": 0
+    },
+    {
+      "author": "databricks",
+      "name": "spark-sql-perf",
+      "href": "https://github.com/databricks/spark-sql-perf",
+      "description": null,
+      "language": "Scala",
+      "stars": 289,
+      "forks": 0
+    },
+    {
+      "author": "scalameta",
+      "name": "scalafmt",
+      "href": "https://github.com/scalameta/scalafmt",
+      "description": "Code formatter for Scala",
+      "language": "Scala",
+      "stars": 774,
+      "forks": 0
+    },
+    {
+      "author": "vpavkin",
+      "name": "ticket-booking-aecor",
+      "href": "https://github.com/vpavkin/ticket-booking-aecor",
+      "description": "Sample application for \"Aecor — Purely functional event sourcing in Scala\" series.",
+      "language": "Scala",
+      "stars": 22,
+      "forks": 0
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11770,
+      "forks": 0
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11591,
+      "forks": 0
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11127,
+      "forks": 0
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7680,
+      "forks": 0
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 7245,
+      "forks": 0
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7084,
+      "forks": 0
+    },
+    {
+      "author": "adobe-fonts",
+      "name": "source-han-sans",
+      "href": "https://github.com/adobe-fonts/source-han-sans",
+      "description": "Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕",
+      "language": "Scala",
+      "stars": 6511,
+      "forks": 0
+    },
+    {
+      "author": "lhartikk",
+      "name": "ArnoldC",
+      "href": "https://github.com/lhartikk/ArnoldC",
+      "description": "Arnold Schwarzenegger based programming language",
+      "language": "Scala",
+      "stars": 5688,
+      "forks": 0
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5447,
+      "forks": 0
+    },
+    {
+      "author": "twitter-archive",
+      "name": "snowflake",
+      "href": "https://github.com/twitter-archive/snowflake",
+      "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+      "language": "Scala",
+      "stars": 5172,
+      "forks": 0
+    }
+  ]
+}
