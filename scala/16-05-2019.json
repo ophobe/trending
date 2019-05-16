@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21844,
+      "forks": 0
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 14222,
+      "forks": 0
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1018,
+      "forks": 0
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4226,
+      "forks": 0
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5215,
+      "forks": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3208,
+      "forks": 0
+    },
+    {
+      "author": "limansky",
+      "name": "beanpuree",
+      "href": "https://github.com/limansky/beanpuree",
+      "description": "Middle layer between JavaBeans and shapeless",
+      "language": "Scala",
+      "stars": 34,
+      "forks": 0
+    },
+    {
+      "author": "julienrf",
+      "name": "play-json-derived-codecs",
+      "href": "https://github.com/julienrf/play-json-derived-codecs",
+      "description": null,
+      "language": "Scala",
+      "stars": 161,
+      "forks": 0
+    },
+    {
+      "author": "playframework",
+      "name": "twirl",
+      "href": "https://github.com/playframework/twirl",
+      "description": "Twirl is Play's default template engine",
+      "language": "Scala",
+      "stars": 442,
+      "forks": 0
+    },
+    {
+      "author": "CM-Well",
+      "name": "CM-Well",
+      "href": "https://github.com/CM-Well/CM-Well",
+      "description": "CM-Well - a data warehouse for your knowledge graph",
+      "language": "Scala",
+      "stars": 127,
+      "forks": 0
+    },
+    {
+      "author": "twitter",
+      "name": "twitter-server",
+      "href": "https://github.com/twitter/twitter-server",
+      "description": "Twitter-Server defines a template from which services at Twitter are built",
+      "language": "Scala",
+      "stars": 1007,
+      "forks": 0
+    },
+    {
+      "author": "locationtech",
+      "name": "geotrellis",
+      "href": "https://github.com/locationtech/geotrellis",
+      "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+      "language": "Scala",
+      "stars": 857,
+      "forks": 0
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Non Blocking, Type Safe, Reactive HTTP Client",
+      "language": "Scala",
+      "stars": 1351,
+      "forks": 0
+    },
+    {
+      "author": "twitter",
+      "name": "finatra",
+      "href": "https://github.com/twitter/finatra",
+      "description": "Fast, testable, Scala services built on TwitterServer and Finagle",
+      "language": "Scala",
+      "stars": 1906,
+      "forks": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-tagless",
+      "href": "https://github.com/typelevel/cats-tagless",
+      "description": "Library of utilities for tagless final encoded algebras",
+      "language": "Scala",
+      "stars": 150,
+      "forks": 0
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 409,
+      "forks": 0
+    },
+    {
+      "author": "CasperLabs",
+      "name": "CasperLabs",
+      "href": "https://github.com/CasperLabs/CasperLabs",
+      "description": null,
+      "language": "Scala",
+      "stars": 48,
+      "forks": 0
+    },
+    {
+      "author": "virtualeconomy",
+      "name": "v-systems",
+      "href": "https://github.com/virtualeconomy/v-systems",
+      "description": "V Systems Reference Full Node",
+      "language": "Scala",
+      "stars": 31,
+      "forks": 0
+    },
+    {
+      "author": "kaitai-io",
+      "name": "kaitai_struct_compiler",
+      "href": "https://github.com/kaitai-io/kaitai_struct_compiler",
+      "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb",
+      "language": "Scala",
+      "stars": 148,
+      "forks": 0
+    },
+    {
+      "author": "scalaz",
+      "name": "scalaz-schema",
+      "href": "https://github.com/scalaz/scalaz-schema",
+      "description": "A purely-functional library for defining type-safe schemas for algebraic data types, providing free generators, SQL queries, JSON codecs, binary codecs, and migration from this schema definition",
+      "language": "Scala",
+      "stars": 118,
+      "forks": 0
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 11773,
+      "forks": 0
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11594,
+      "forks": 0
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11129,
+      "forks": 0
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9874,
+      "forks": 0
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7680,
+      "forks": 0
+    }
+  ]
+}
