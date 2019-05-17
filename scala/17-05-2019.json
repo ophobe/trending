@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "ashwinbhaskar",
+      "name": "functional-way",
+      "href": "https://github.com/ashwinbhaskar/functional-way",
+      "description": "An attempt to write small programs (eg -algorithms) in a functional way.",
+      "language": "Scala",
+      "stars": 66,
+      "forks": 0
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 21850,
+      "forks": 0
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 14230,
+      "forks": 0
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1026,
+      "forks": 0
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11135,
+      "forks": 0
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 9878,
+      "forks": 0
+    },
+    {
+      "author": "coursier",
+      "name": "coursier",
+      "href": "https://github.com/coursier/coursier",
+      "description": "Pure Scala Artifact Fetching",
+      "language": "Scala",
+      "stars": 1468,
+      "forks": 0
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5220,
+      "forks": 0
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 11596,
+      "forks": 0
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 233,
+      "forks": 0
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-native-packager",
+      "href": "https://github.com/sbt/sbt-native-packager",
+      "description": "sbt Native Packager",
+      "language": "Scala",
+      "stars": 1222,
+      "forks": 0
+    },
+    {
+      "author": "sksamuel",
+      "name": "avro4s",
+      "href": "https://github.com/sksamuel/avro4s",
+      "description": "Avro schema generation and serialization / deserialization for Scala",
+      "language": "Scala",
+      "stars": 424,
+      "forks": 0
+    },
+    {
+      "author": "IronCoreLabs",
+      "name": "cats-scalatest",
+      "href": "https://github.com/IronCoreLabs/cats-scalatest",
+      "description": "Scalatest binding for Cats",
+      "language": "Scala",
+      "stars": 41,
+      "forks": 0
+    },
+    {
+      "author": "akka",
+      "name": "akka-management",
+      "href": "https://github.com/akka/akka-management",
+      "description": "Akka Management is a suite of tools for operating Akka Clusters.",
+      "language": "Scala",
+      "stars": 161,
+      "forks": 0
+    },
+    {
+      "author": "http4s",
+      "name": "http4s.g8",
+      "href": "https://github.com/http4s/http4s.g8",
+      "description": "giter8 template for bootstrapping http4s services",
+      "language": "Scala",
+      "stars": 45,
+      "forks": 0
+    },
+    {
+      "author": "Landoop",
+      "name": "stream-reactor",
+      "href": "https://github.com/Landoop/stream-reactor",
+      "description": "Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more.",
+      "language": "Scala",
+      "stars": 580,
+      "forks": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 668,
+      "forks": 0
+    },
+    {
+      "author": "guardian",
+      "name": "grid",
+      "href": "https://github.com/guardian/grid",
+      "description": "The Guardian’s image management system",
+      "language": "Scala",
+      "stars": 1321,
+      "forks": 0
+    },
+    {
+      "author": "scopt",
+      "name": "scopt",
+      "href": "https://github.com/scopt/scopt",
+      "description": "command line options parsing for Scala",
+      "language": "Scala",
+      "stars": 1085,
+      "forks": 0
+    },
+    {
+      "author": "scanamo",
+      "name": "scanamo",
+      "href": "https://github.com/scanamo/scanamo",
+      "description": "Simpler DynamoDB access for Scala",
+      "language": "Scala",
+      "stars": 219,
+      "forks": 0
+    },
+    {
+      "author": "simerplaha",
+      "name": "SwayDB",
+      "href": "https://github.com/simerplaha/SwayDB",
+      "description": "Embeddable persistent & in-memory database - www.SwayDB.io",
+      "language": "Scala",
+      "stars": 139,
+      "forks": 0
+    },
+    {
+      "author": "FasterXML",
+      "name": "jackson-module-scala",
+      "href": "https://github.com/FasterXML/jackson-module-scala",
+      "description": "Add-on module for Jackson (http://wiki.fasterxml.com/JacksonHome) to support Scala-specific datatypes",
+      "language": "Scala",
+      "stars": 384,
+      "forks": 0
+    },
+    {
+      "author": "scalameta",
+      "name": "scalafmt",
+      "href": "https://github.com/scalameta/scalafmt",
+      "description": "Code formatter for Scala",
+      "language": "Scala",
+      "stars": 774,
+      "forks": 0
+    },
+    {
+      "author": "pauljamescleary",
+      "name": "scala-pet-store",
+      "href": "https://github.com/pauljamescleary/scala-pet-store",
+      "description": "An implementation of the java pet store using FP techniques in scala",
+      "language": "Scala",
+      "stars": 541,
+      "forks": 0
+    },
+    {
+      "author": "Ldpe2G",
+      "name": "DeepLearningForFun",
+      "href": "https://github.com/Ldpe2G/DeepLearningForFun",
+      "description": "Implementation of some interesting ideas of deeplearning with MXNet",
+      "language": "Scala",
+      "stars": 234,
+      "forks": 0
+    }
+  ]
+}
