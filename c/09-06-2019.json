@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "kuravih",
+      "name": "gllock",
+      "href": "https://github.com/kuravih/gllock",
+      "description": "not so simple opengl based X display locker utility",
+      "language": "C",
+      "stars": 90,
+      "forks": 0
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 76068,
+      "forks": 0
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-libev",
+      "href": "https://github.com/shadowsocks/shadowsocks-libev",
+      "description": "libev port of shadowsocks",
+      "language": "C",
+      "stars": 11137,
+      "forks": 0
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 27780,
+      "forks": 0
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 13159,
+      "forks": 0
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 13641,
+      "forks": 0
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 38750,
+      "forks": 0
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 15580,
+      "forks": 0
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 3107,
+      "forks": 0
+    },
+    {
+      "author": "NVIDIA",
+      "name": "Q2RTX",
+      "href": "https://github.com/NVIDIA/Q2RTX",
+      "description": "NVIDIA’s implementation of RTX ray-tracing in Quake II",
+      "language": "C",
+      "stars": 282,
+      "forks": 0
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 36906,
+      "forks": 0
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 10829,
+      "forks": 0
+    },
+    {
+      "author": "microshow",
+      "name": "RxFFmpeg",
+      "href": "https://github.com/microshow/RxFFmpeg",
+      "description": "🔥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能（视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片等主流特色功能",
+      "language": "C",
+      "stars": 828,
+      "forks": 0
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 13536,
+      "forks": 0
+    },
+    {
+      "author": "The-Cracker-Technology",
+      "name": "ANDRAX-Mobile-Pentest",
+      "href": "https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest",
+      "description": "ANDRAX The first and unique Penetration Testing platform for Android smartphones",
+      "language": "C",
+      "stars": 294,
+      "forks": 0
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "href": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C",
+      "stars": 3394,
+      "forks": 0
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 6045,
+      "forks": 0
+    },
+    {
+      "author": "kovidgoyal",
+      "name": "kitty",
+      "href": "https://github.com/kovidgoyal/kitty",
+      "description": "A cross-platform, fast, feature full, GPU based terminal emulator",
+      "language": "C",
+      "stars": 6843,
+      "forks": 0
+    },
+    {
+      "author": "jedisct1",
+      "name": "libsodium",
+      "href": "https://github.com/jedisct1/libsodium",
+      "description": "A modern, portable, easy to use crypto library",
+      "language": "C",
+      "stars": 6964,
+      "forks": 0
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 14124,
+      "forks": 0
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "href": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": 7967,
+      "forks": 0
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 6115,
+      "forks": 0
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "href": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 4024,
+      "forks": 0
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C",
+      "href": "https://github.com/TheAlgorithms/C",
+      "description": "All Algorithms implemented in C",
+      "language": "C",
+      "stars": 2053,
+      "forks": 0
+    },
+    {
+      "author": "AlexeyAB",
+      "name": "darknet",
+      "href": "https://github.com/AlexeyAB/darknet",
+      "description": "Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used)",
+      "language": "C",
+      "stars": 4180,
+      "forks": 0
+    }
+  ]
+}
