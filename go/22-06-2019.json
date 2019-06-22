@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "vlang",
+      "name": "v",
+      "href": "https://github.com/vlang/v",
+      "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++.",
+      "language": "Go",
+      "stars": 3804,
+      "forks": 0,
+      "starsToday": 249
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 8578,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "cloudflare",
+      "name": "circl",
+      "href": "https://github.com/cloudflare/circl",
+      "description": "Cloudflare Interoperable Reusable Cryptographic Library",
+      "language": "Go",
+      "stars": 140,
+      "forks": 0,
+      "starsToday": 58
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd2",
+      "href": "https://github.com/linkerd/linkerd2",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.",
+      "language": "Go",
+      "stars": 4111,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 18223,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 53808,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "xtaci",
+      "name": "kcptun",
+      "href": "https://github.com/xtaci/kcptun",
+      "description": "A Stable & Secure Tunnel Based On KCP with N:M Multiplexing",
+      "language": "Go",
+      "stars": 10469,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "jung-kurt",
+      "name": "gofpdf",
+      "href": "https://github.com/jung-kurt/gofpdf",
+      "description": "A PDF document generator with high level support for text, drawing and images",
+      "language": "Go",
+      "stars": 2972,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "google",
+      "name": "ko",
+      "href": "https://github.com/google/ko",
+      "description": "Build and deploy Go applications on Kubernetes",
+      "language": "Go",
+      "stars": 648,
+      "forks": 0,
+      "starsToday": 28
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 3666,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "koding",
+      "name": "koding",
+      "href": "https://github.com/koding/koding",
+      "description": "The Simplest Way to Manage Your Entire Dev Infrastructure!",
+      "language": "Go",
+      "stars": 1256,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 12454,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 15007,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "weaveworks",
+      "name": "flux",
+      "href": "https://github.com/weaveworks/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 2244,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 24706,
+      "forks": 0,
+      "starsToday": 16
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 17399,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "kardianos",
+      "name": "service",
+      "href": "https://github.com/kardianos/service",
+      "description": "Run go programs as a service on major platforms.",
+      "language": "Go",
+      "stars": 1846,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "filecoin-project",
+      "name": "go-filecoin",
+      "href": "https://github.com/filecoin-project/go-filecoin",
+      "description": "Filecoin Full Node Implementation in Go",
+      "language": "Go",
+      "stars": 997,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "stars": 8287,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 1966,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2181,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubeadm",
+      "href": "https://github.com/kubernetes/kubeadm",
+      "description": "Aggregator for issues filed against kubeadm",
+      "language": "Go",
+      "stars": 1300,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "fission",
+      "name": "fission",
+      "href": "https://github.com/fission/fission",
+      "description": "Fast Serverless Functions for Kubernetes",
+      "language": "Go",
+      "stars": 4425,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "bitnami-labs",
+      "name": "sealed-secrets",
+      "href": "https://github.com/bitnami-labs/sealed-secrets",
+      "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+      "language": "Go",
+      "stars": 1104,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "ginuerzh",
+      "name": "gost",
+      "href": "https://github.com/ginuerzh/gost",
+      "description": "GO Simple Tunnel - a simple tunnel written in golang",
+      "language": "Go",
+      "stars": 3053,
+      "forks": 0,
+      "starsToday": 3
+    }
+  ]
+}
