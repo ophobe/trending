@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 13041,
+      "forks": 0,
+      "starsToday": 27
+    },
+    {
+      "author": "improbable-eng",
+      "name": "thanos",
+      "href": "https://github.com/improbable-eng/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities.",
+      "language": "Go",
+      "stars": 3767,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 12425,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2210,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "gomodule",
+      "name": "redigo",
+      "href": "https://github.com/gomodule/redigo",
+      "description": "Go client for Redis",
+      "language": "Go",
+      "stars": 6100,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 2555,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 4909,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "micro",
+      "name": "go-plugins",
+      "href": "https://github.com/micro/go-plugins",
+      "description": "Community maintained plugins",
+      "language": "Go",
+      "stars": 740,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 4438,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 2512,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9056,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 6072,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "halfrost",
+      "name": "LeetCode-Go",
+      "href": "https://github.com/halfrost/LeetCode-Go",
+      "description": "✅ Solutions to LeetCode by Go, 100% test coverage.",
+      "language": "Go",
+      "stars": 297,
+      "forks": 0,
+      "starsToday": 33
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 8702,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 1618,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 17524,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 14096,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice development framework",
+      "language": "Go",
+      "stars": 7744,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": 5283,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 4842,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 1271,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "fabiolb",
+      "name": "fabio",
+      "href": "https://github.com/fabiolb/fabio",
+      "description": "Consul Load-Balancing made simple",
+      "language": "Go",
+      "stars": 5685,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 8250,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1480,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1297,
+      "forks": 0,
+      "starsToday": 4
+    }
+  ]
+}
