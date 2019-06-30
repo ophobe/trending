@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 4306,
+      "forks": 0,
+      "starsToday": 30
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 9289,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 23700,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 28659,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 45405,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "goinaction",
+      "name": "code",
+      "href": "https://github.com/goinaction/code",
+      "description": "Source Code for Go In Action examples",
+      "language": "Go",
+      "stars": 2172,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "halfrost",
+      "name": "LeetCode-Go",
+      "href": "https://github.com/halfrost/LeetCode-Go",
+      "description": "✅ Solutions to LeetCode by Go, 100% test coverage.",
+      "language": "Go",
+      "stars": 323,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 36227,
+      "forks": 0,
+      "starsToday": 23
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2231,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "smartcontractkit",
+      "name": "chainlink",
+      "href": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": 504,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "google",
+      "name": "ko",
+      "href": "https://github.com/google/ko",
+      "description": "Build and deploy Go applications on Kubernetes",
+      "language": "Go",
+      "stars": 842,
+      "forks": 0,
+      "starsToday": 56
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "href": "https://github.com/rivo/tview",
+      "description": "Rich interactive widgets for terminal-based UIs written in Go",
+      "language": "Go",
+      "stars": 3091,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "feixiao",
+      "name": "Distributed-Systems",
+      "href": "https://github.com/feixiao/Distributed-Systems",
+      "description": "MIT课程《Distributed Systems 》学习和翻译",
+      "language": "Go",
+      "stars": 1447,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 2892,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "lxn",
+      "name": "walk",
+      "href": "https://github.com/lxn/walk",
+      "description": "A Windows GUI toolkit for the Go Programming Language",
+      "language": "Go",
+      "stars": 3617,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd2",
+      "href": "https://github.com/linkerd/linkerd2",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.",
+      "language": "Go",
+      "stars": 4146,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 1610,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 6076,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "OJ",
+      "name": "gobuster",
+      "href": "https://github.com/OJ/gobuster",
+      "description": "Directory/File, DNS and VHost busting tool written in Go",
+      "language": "Go",
+      "stars": 2006,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software",
+      "language": "Go",
+      "stars": 9302,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 19448,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "vzex",
+      "name": "dog-tunnel",
+      "href": "https://github.com/vzex/dog-tunnel",
+      "description": "p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp)",
+      "language": "Go",
+      "stars": 1591,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "Jeffail",
+      "name": "tunny",
+      "href": "https://github.com/Jeffail/tunny",
+      "description": "A goroutine pool for Go",
+      "language": "Go",
+      "stars": 1276,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 3829,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "PuerkitoBio",
+      "name": "goquery",
+      "href": "https://github.com/PuerkitoBio/goquery",
+      "description": "A little like that j-thing, only in Go.",
+      "language": "Go",
+      "stars": 7403,
+      "forks": 0,
+      "starsToday": 6
+    }
+  ]
+}
