@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "volcano-sh",
+      "name": "volcano",
+      "href": "https://github.com/volcano-sh/volcano",
+      "description": "A Kubernetes Native Batch System",
+      "language": "Go",
+      "stars": 199,
+      "forks": 0,
+      "starsToday": 23
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 54860,
+      "forks": 0,
+      "starsToday": 80
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 22566,
+      "forks": 0,
+      "starsToday": 37
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 3155,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 8999,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9073,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 2755,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 7810,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 3310,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "jroimartin",
+      "name": "gocui",
+      "href": "https://github.com/jroimartin/gocui",
+      "description": "Minimalist Go package aimed at creating Console User Interfaces.",
+      "language": "Go",
+      "stars": 4789,
+      "forks": 0,
+      "starsToday": 97
+    },
+    {
+      "author": "pkg",
+      "name": "errors",
+      "href": "https://github.com/pkg/errors",
+      "description": "Simple error handling primitives",
+      "language": "Go",
+      "stars": 4702,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "thoas",
+      "name": "go-funk",
+      "href": "https://github.com/thoas/go-funk",
+      "description": "A modern Go utility library which provides helpers (map, find, contains, filter, ...)",
+      "language": "Go",
+      "stars": 1064,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 5725,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 8677,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "distributed-containers-inc",
+      "name": "sanic",
+      "href": "https://github.com/distributed-containers-inc/sanic",
+      "description": "Build lots of Docker images at once, then deploy them with Kubernetes",
+      "language": "Go",
+      "stars": 141,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 4873,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "antonmedv",
+      "name": "expr",
+      "href": "https://github.com/antonmedv/expr",
+      "description": "Evaluate expression in Go",
+      "language": "Go",
+      "stars": 618,
+      "forks": 0,
+      "starsToday": 28
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 14643,
+      "forks": 0,
+      "starsToday": 28
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 12599,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4279,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 3220,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "peterq",
+      "name": "pan-light",
+      "href": "https://github.com/peterq/pan-light",
+      "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面",
+      "language": "Go",
+      "stars": 168,
+      "forks": 0,
+      "starsToday": 35
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 11464,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "heptio",
+      "name": "velero",
+      "href": "https://github.com/heptio/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": 2747,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2236,
+      "forks": 0,
+      "starsToday": 3
+    }
+  ]
+}
