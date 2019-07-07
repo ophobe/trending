@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "wuyouzhuguli",
+      "name": "SpringAll",
+      "href": "https://github.com/wuyouzhuguli/SpringAll",
+      "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码",
+      "language": "Java",
+      "stars": 5464,
+      "forks": 0,
+      "starsToday": 123
+    },
+    {
+      "author": "CarGuo",
+      "name": "GSYVideoPlayer",
+      "href": "https://github.com/CarGuo/GSYVideoPlayer",
+      "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。",
+      "language": "Java",
+      "stars": 10763,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "techGay",
+      "name": "v9porn",
+      "href": "https://github.com/techGay/v9porn",
+      "description": "9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频",
+      "language": "Java",
+      "stars": 2807,
+      "forks": 0,
+      "starsToday": 75
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-java",
+      "href": "https://github.com/testcontainers/testcontainers-java",
+      "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+      "language": "Java",
+      "stars": 2558,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall-learning",
+      "href": "https://github.com/macrozheng/mall-learning",
+      "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。",
+      "language": "Java",
+      "stars": 623,
+      "forks": 0,
+      "starsToday": 44
+    },
+    {
+      "author": "cabaletta",
+      "name": "baritone",
+      "href": "https://github.com/cabaletta/baritone",
+      "description": "google maps for block game",
+      "language": "Java",
+      "stars": 236,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "apache",
+      "name": "shiro",
+      "href": "https://github.com/apache/shiro",
+      "description": "Mirror of Apache Shiro",
+      "language": "Java",
+      "stars": 2489,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "saysky",
+      "name": "ForestBlog",
+      "href": "https://github.com/saysky/ForestBlog",
+      "description": "一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统",
+      "language": "Java",
+      "stars": 976,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "Foreveriss",
+      "name": "SpringBoot",
+      "href": "https://github.com/Foreveriss/SpringBoot",
+      "description": "springboot用法和与各种框架、组件等结合使用，包括springboot的注解分析、路径分析、取得内置对象、项目打包、配置环境属性、读取资源文件、Bean配置、模板渲染、基于yml的多profile配置、基于properties的多profile、添加数据验证、配置错误页、全局异常处理、配置Tomcat运行、配置https访问路径、信息显示、内置对象、显示对象信息、文件上传、使用文件服务器、拦截器、配置druid数据库连接池、整合MyBatis框架、事务控制、Druid监控、整合ActiveMQ、整合RabbitMQ、整合kafka、邮件发送、定时调度、Actuator监控、整合Redis数据库、整合Restfui框架、整合Shiro",
+      "language": "Java",
+      "stars": 455,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "apache",
+      "name": "dubbo",
+      "href": "https://github.com/apache/dubbo",
+      "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+      "language": "Java",
+      "stars": 27653,
+      "forks": 0,
+      "starsToday": 16
+    },
+    {
+      "author": "18601949127",
+      "name": "DiDiCallCar",
+      "href": "https://github.com/18601949127/DiDiCallCar",
+      "description": "这是我自己做的一个类似滴滴打车的Android出行项目，主要针对滴滴等出行平台一直饱受质疑的“人车不符”问题，以及当前越发火热的或计划和出海战略，给出行项目增加了下面几个功能： 1. RFID识别验证功能：在司机证件或者车内识别硬件嵌入RFID识别芯片，乘客使用手机读取到芯片信息，并且通过网络发送到出行平台数据库进行验证（我用JNI加了一个C语言的MD5加密算法对识别到的信息进行了加密）。如果不是合规的“人”或“车”，则不能完成订单并向平台或监管单位汇报当前位置。（为了方便读者测试，可以使用手机读取任何一个加密或非加密RFID芯片，比如银行卡、公交卡等，我在代码中的验证前阶段把芯片信息都换成我自己的司机信息，确保读者测试时可以收到服务器的回复） 2. 海外版功能：点击切换当前语言。 3…",
+      "language": "Java",
+      "stars": 361,
+      "forks": 0,
+      "starsToday": 23
+    },
+    {
+      "author": "FIRST-Tech-Challenge",
+      "name": "SkyStone",
+      "href": "https://github.com/FIRST-Tech-Challenge/SkyStone",
+      "description": null,
+      "language": "Java",
+      "stars": 9,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "sanshengshui",
+      "name": "netty-learning-example",
+      "href": "https://github.com/sanshengshui/netty-learning-example",
+      "description": "🥚 Netty实践学习案例，见微知著！带着你的心，跟着教程。我相信你行欧。",
+      "language": "Java",
+      "stars": 634,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "xtuhcy",
+      "name": "gecco",
+      "href": "https://github.com/xtuhcy/gecco",
+      "description": "Easy to use lightweight web crawler（易用的轻量化网络爬虫）",
+      "language": "Java",
+      "stars": 1610,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "micronaut-projects",
+      "name": "micronaut-core",
+      "href": "https://github.com/micronaut-projects/micronaut-core",
+      "description": "Micronaut Application Framework",
+      "language": "Java",
+      "stars": 2487,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "liuyubobobo",
+      "name": "Play-with-Algorithms",
+      "href": "https://github.com/liuyubobobo/Play-with-Algorithms",
+      "description": "Codes of my MOOC Course <Play with Algorithms>, Both in C++ and Java language. Updated contents and practices are also included. 我在慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。",
+      "language": "Java",
+      "stars": 2169,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "ixrjog",
+      "name": "opsCloud",
+      "href": "https://github.com/ixrjog/opsCloud",
+      "description": "运维管理平台(阿里云)，自动同步阿里云配置信息，给研发使用的跳板机，批量运维，Zabbix管理等功能",
+      "language": "Java",
+      "stars": 338,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "Netflix",
+      "name": "zuul",
+      "href": "https://github.com/Netflix/zuul",
+      "description": "Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.",
+      "language": "Java",
+      "stars": 7742,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "osmandapp",
+      "name": "Osmand",
+      "href": "https://github.com/osmandapp/Osmand",
+      "description": "OsmAnd",
+      "language": "Java",
+      "stars": 1925,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "williamfiset",
+      "name": "Algorithms",
+      "href": "https://github.com/williamfiset/Algorithms",
+      "description": "A collection of algorithms",
+      "language": "Java",
+      "stars": 658,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "florent37",
+      "name": "ShapeOfView",
+      "href": "https://github.com/florent37/ShapeOfView",
+      "description": "Give a custom shape to any android view, Material Design 2 ready",
+      "language": "Java",
+      "stars": 1980,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "hansonwang99",
+      "name": "Spring-Boot-In-Action",
+      "href": "https://github.com/hansonwang99/Spring-Boot-In-Action",
+      "description": "Spring Boot 系列实战合集",
+      "language": "Java",
+      "stars": 1169,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "ikarus23",
+      "name": "MifareClassicTool",
+      "href": "https://github.com/ikarus23/MifareClassicTool",
+      "description": "An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.",
+      "language": "Java",
+      "stars": 1410,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "junit-team",
+      "name": "junit5-samples",
+      "href": "https://github.com/junit-team/junit5-samples",
+      "description": "Collection of sample applications using JUnit 5.",
+      "language": "Java",
+      "stars": 605,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "LWJGL",
+      "name": "lwjgl3",
+      "href": "https://github.com/LWJGL/lwjgl3",
+      "description": "LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR) applications.",
+      "language": "Java",
+      "stars": 2247,
+      "forks": 0,
+      "starsToday": 2
+    }
+  ]
+}
