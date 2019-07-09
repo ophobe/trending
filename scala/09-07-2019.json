@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 438,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 14871,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1076,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3",
+      "language": "Scala",
+      "stars": 857,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1568,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 7563,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "databricks",
+      "name": "Spark-The-Definitive-Guide",
+      "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+      "description": "Spark: The Definitive Guide's Code Repository",
+      "language": "Scala",
+      "stars": 830,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "databricks",
+      "name": "spark-redshift",
+      "href": "https://github.com/databricks/spark-redshift",
+      "description": "Redshift data source for Apache Spark",
+      "language": "Scala",
+      "stars": 485,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3876,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "datastax",
+      "name": "spark-cassandra-connector",
+      "href": "https://github.com/datastax/spark-cassandra-connector",
+      "description": "DataStax Spark Cassandra Connector",
+      "language": "Scala",
+      "stars": 1601,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "h2oai",
+      "name": "sparkling-water",
+      "href": "https://github.com/h2oai/sparkling-water",
+      "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+      "language": "Scala",
+      "stars": 775,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11224,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "crealytics",
+      "name": "spark-excel",
+      "href": "https://github.com/crealytics/spark-excel",
+      "description": "A Spark plugin for reading Excel files via Apache POI",
+      "language": "Scala",
+      "stars": 108,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 1517,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4823,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "twitter",
+      "name": "scalding",
+      "href": "https://github.com/twitter/scalding",
+      "description": "A Scala API for Cascading",
+      "language": "Scala",
+      "stars": 3148,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1260,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client",
+      "language": "Scala",
+      "stars": 1362,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 852,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "holdenk",
+      "name": "spark-testing-base",
+      "href": "https://github.com/holdenk/spark-testing-base",
+      "description": "Base classes to use when writing tests with Spark",
+      "language": "Scala",
+      "stars": 999,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "zio",
+      "name": "zio-actors",
+      "href": "https://github.com/zio/zio-actors",
+      "description": "A high-performance, purely-functional library for building, composing, and supervising typed actors based on ZIO",
+      "language": "Scala",
+      "stars": 89,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 933,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1122,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4303,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "Natural Language Understanding Library for Apache Spark.",
+      "language": "Scala",
+      "stars": 737,
+      "forks": 0,
+      "starsToday": 1
+    }
+  ]
+}
