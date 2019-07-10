@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1271,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 22561,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3317,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11233,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1124,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3",
+      "language": "Scala",
+      "stars": 857,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 439,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3879,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 5603,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1083,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7730,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "sangria-graphql",
+      "name": "sangria",
+      "href": "https://github.com/sangria-graphql/sangria",
+      "description": "Scala GraphQL implementation",
+      "language": "Scala",
+      "stars": 1558,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 14891,
+      "forks": 0,
+      "starsToday": 22
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7172,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "getquill",
+      "name": "quill",
+      "href": "https://github.com/getquill/quill",
+      "description": "Compile-time Language Integrated Queries for Scala",
+      "language": "Scala",
+      "stars": 1449,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1570,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 937,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 997,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4828,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 1520,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10106,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1717,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "edp963",
+      "name": "moonbox",
+      "href": "https://github.com/edp963/moonbox",
+      "description": "Moonbox is a DVtaaS (Data Virtualization as a Service) Platform",
+      "language": "Scala",
+      "stars": 188,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5442,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "stars": 782,
+      "forks": 0,
+      "starsToday": 4
+    }
+  ]
+}
