@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 12747,
+      "forks": 0,
+      "starsToday": 81
+    },
+    {
+      "author": "peterq",
+      "name": "pan-light",
+      "href": "https://github.com/peterq/pan-light",
+      "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面",
+      "language": "Go",
+      "stars": 2035,
+      "forks": 0,
+      "starsToday": 478
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 29022,
+      "forks": 0,
+      "starsToday": 79
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 4933,
+      "forks": 0,
+      "starsToday": 33
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 36550,
+      "forks": 0,
+      "starsToday": 43
+    },
+    {
+      "author": "Masterminds",
+      "name": "sprig",
+      "href": "https://github.com/Masterminds/sprig",
+      "description": "Useful template functions for Go templates.",
+      "language": "Go",
+      "stars": 1044,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 4053,
+      "forks": 0,
+      "starsToday": 33
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 6336,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4024,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 26785,
+      "forks": 0,
+      "starsToday": 30
+    },
+    {
+      "author": "qit-team",
+      "name": "snow",
+      "href": "https://github.com/qit-team/snow",
+      "description": "简洁易用的Go业务框架",
+      "language": "Go",
+      "stars": 142,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "a CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1478,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 4958,
+      "forks": 0,
+      "starsToday": 22
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 8821,
+      "forks": 0,
+      "starsToday": 38
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 14173,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 2342,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 3180,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,前置CDN,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。",
+      "language": "Go",
+      "stars": 5898,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 6620,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12457,
+      "forks": 0,
+      "starsToday": 36
+    },
+    {
+      "author": "sylabs",
+      "name": "singularity",
+      "href": "https://github.com/sylabs/singularity",
+      "description": "Singularity: Application containers for Linux",
+      "language": "Go",
+      "stars": 1223,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 6246,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "bitnami-labs",
+      "name": "sealed-secrets",
+      "href": "https://github.com/bitnami-labs/sealed-secrets",
+      "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+      "language": "Go",
+      "stars": 1155,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 23796,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 16598,
+      "forks": 0,
+      "starsToday": 11
+    }
+  ]
+}
