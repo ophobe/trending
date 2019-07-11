@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 12843,
+      "forks": 0,
+      "starsToday": 99
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 2364,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 5981,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "bitfield",
+      "name": "script",
+      "href": "https://github.com/bitfield/script",
+      "description": "Making it easy to write shell-like scripts in Go",
+      "language": "Go",
+      "stars": 782,
+      "forks": 0,
+      "starsToday": 30
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16486,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 25950,
+      "forks": 0,
+      "starsToday": 66
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 29061,
+      "forks": 0,
+      "starsToday": 43
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 26815,
+      "forks": 0,
+      "starsToday": 31
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 7932,
+      "forks": 0,
+      "starsToday": 22
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 3188,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 54077,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "peterq",
+      "name": "pan-light",
+      "href": "https://github.com/peterq/pan-light",
+      "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面",
+      "language": "Go",
+      "stars": 2417,
+      "forks": 0,
+      "starsToday": 384
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 8838,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1344,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 3870,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 9345,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 6356,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12462,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "kiali",
+      "name": "kiali",
+      "href": "https://github.com/kiali/kiali",
+      "description": "Kiali project, observability for the Istio service mesh",
+      "language": "Go",
+      "stars": 1346,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "cockroachdb",
+      "name": "errors",
+      "href": "https://github.com/cockroachdb/errors",
+      "description": "Go error library with error portability over the network",
+      "language": "Go",
+      "stars": 294,
+      "forks": 0,
+      "starsToday": 87
+    },
+    {
+      "author": "tealeg",
+      "name": "xlsx",
+      "href": "https://github.com/tealeg/xlsx",
+      "description": "Google Go (golang) library for reading and writing XLSX files. You should probably also checkout: https://github.com/360EntSecGroup-Skylar/excelize",
+      "language": "Go",
+      "stars": 3297,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1515,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 4942,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 16945,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "XiaoMi",
+      "name": "Gaea",
+      "href": "https://github.com/XiaoMi/Gaea",
+      "description": "Gaea is a mysql proxy, it's developed by xiaomi b2c-dev team.",
+      "language": "Go",
+      "stars": 1057,
+      "forks": 0,
+      "starsToday": 10
+    }
+  ]
+}
