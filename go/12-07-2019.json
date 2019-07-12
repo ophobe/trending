@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "weaveworks",
+      "name": "ignite",
+      "href": "https://github.com/weaveworks/ignite",
+      "description": "Ignite a Firecracker microVM",
+      "language": "Go",
+      "stars": 246,
+      "forks": 0,
+      "starsToday": 38
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6048,
+      "forks": 0,
+      "starsToday": 67
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 18554,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "openkruise",
+      "name": "kruise",
+      "href": "https://github.com/openkruise/kruise",
+      "description": "Automate application workloads management on Kubernetes",
+      "language": "Go",
+      "stars": 708,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 17751,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16537,
+      "forks": 0,
+      "starsToday": 54
+    },
+    {
+      "author": "roboll",
+      "name": "helmfile",
+      "href": "https://github.com/roboll/helmfile",
+      "description": "Deploy Kubernetes Helm Charts",
+      "language": "Go",
+      "stars": 1166,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6405,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "google",
+      "name": "go-cloud",
+      "href": "https://github.com/google/go-cloud",
+      "description": "The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.",
+      "language": "Go",
+      "stars": 6266,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice development framework",
+      "language": "Go",
+      "stars": 8032,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1361,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 29100,
+      "forks": 0,
+      "starsToday": 42
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 2655,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "CodisLabs",
+      "name": "codis",
+      "href": "https://github.com/CodisLabs/codis",
+      "description": "Proxy based Redis cluster solution supporting pipeline and scaling dynamically",
+      "language": "Go",
+      "stars": 9834,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd2",
+      "href": "https://github.com/linkerd/linkerd2",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.",
+      "language": "Go",
+      "stars": 4212,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 12889,
+      "forks": 0,
+      "starsToday": 48
+    },
+    {
+      "author": "go-ldap",
+      "name": "ldap",
+      "href": "https://github.com/go-ldap/ldap",
+      "description": "Basic LDAP v3 functionality for the GO programming language.",
+      "language": "Go",
+      "stars": 785,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 6371,
+      "forks": 0,
+      "starsToday": 16
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 1662,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 6518,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "API Aware Networking and Security using BPF and XDP",
+      "language": "Go",
+      "stars": 4135,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2353,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 4522,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "sylabs",
+      "name": "singularity",
+      "href": "https://github.com/sylabs/singularity",
+      "description": "Singularity: Application containers for Linux",
+      "language": "Go",
+      "stars": 1233,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 6273,
+      "forks": 0,
+      "starsToday": 15
+    }
+  ]
+}
