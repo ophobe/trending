@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 9518,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 9160,
+      "forks": 0,
+      "starsToday": 31
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 6574,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "golang",
+      "name": "mock",
+      "href": "https://github.com/golang/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": 2727,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "wtfutil",
+      "name": "wtf",
+      "href": "https://github.com/wtfutil/wtf",
+      "description": "The personal information dashboard for your terminal.",
+      "language": "Go",
+      "stars": 8497,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2302,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 13311,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2286,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 55398,
+      "forks": 0,
+      "starsToday": 71
+    },
+    {
+      "author": "google",
+      "name": "martian",
+      "href": "https://github.com/google/martian",
+      "description": "Martian is a library for building custom HTTP/S proxies",
+      "language": "Go",
+      "stars": 1068,
+      "forks": 0,
+      "starsToday": 34
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 4973,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 11993,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 8882,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "elazarl",
+      "name": "goproxy",
+      "href": "https://github.com/elazarl/goproxy",
+      "description": "An HTTP proxy library for Go",
+      "language": "Go",
+      "stars": 3183,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 14250,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 5827,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 3323,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "elastic",
+      "name": "cloud-on-k8s",
+      "href": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "language": "Go",
+      "stars": 338,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "micro",
+      "name": "micro",
+      "href": "https://github.com/micro/micro",
+      "description": "A microservice development runtime",
+      "language": "Go",
+      "stars": 6490,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; Android, web command line clients; chatbots",
+      "language": "Go",
+      "stars": 2083,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "volatiletech",
+      "name": "sqlboiler",
+      "href": "https://github.com/volatiletech/sqlboiler",
+      "description": "Generate a Go ORM tailored to your database schema.",
+      "language": "Go",
+      "stars": 2230,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6425,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 19746,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4344,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "node-problem-detector",
+      "href": "https://github.com/kubernetes/node-problem-detector",
+      "description": "This is a place for various problem detectors running on the Kubernetes nodes.",
+      "language": "Go",
+      "stars": 660,
+      "forks": 0,
+      "starsToday": 3
+    }
+  ]
+}
