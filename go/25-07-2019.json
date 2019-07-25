@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 4775,
+      "forks": 0,
+      "starsToday": 42
+    },
+    {
+      "author": "vlang",
+      "name": "v",
+      "href": "https://github.com/vlang/v",
+      "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s.",
+      "language": "Go",
+      "stars": 10187,
+      "forks": 0,
+      "starsToday": 91
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 29467,
+      "forks": 0,
+      "starsToday": 37
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 16932,
+      "forks": 0,
+      "starsToday": 23
+    },
+    {
+      "author": "openkruise",
+      "name": "kruise",
+      "href": "https://github.com/openkruise/kruise",
+      "description": "Automate application workloads management on Kubernetes",
+      "language": "Go",
+      "stars": 817,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8023,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6465,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 19879,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 13405,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9198,
+      "forks": 0,
+      "starsToday": 52
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1430,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "rakyll",
+      "name": "hey",
+      "href": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom",
+      "language": "Go",
+      "stars": 6221,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 3247,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 12058,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 3870,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "filecoin-project",
+      "name": "go-filecoin",
+      "href": "https://github.com/filecoin-project/go-filecoin",
+      "description": "Filecoin Full Node Implementation in Go",
+      "language": "Go",
+      "stars": 1084,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "stars": 8567,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "EasyDarwin",
+      "name": "EasyDarwin",
+      "href": "https://github.com/EasyDarwin/EasyDarwin",
+      "description": "open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基…",
+      "language": "Go",
+      "stars": 3087,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 8981,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 669,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 18758,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 12964,
+      "forks": 0,
+      "starsToday": 37
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16685,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 14993,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "terraformer",
+      "href": "https://github.com/GoogleCloudPlatform/terraformer",
+      "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+      "language": "Go",
+      "stars": 1505,
+      "forks": 0,
+      "starsToday": 13
+    }
+  ]
+}
