@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "liftbridge-io",
+      "name": "liftbridge",
+      "href": "https://github.com/liftbridge-io/liftbridge",
+      "description": "Lightweight, fault-tolerant message streams.",
+      "language": "Go",
+      "stars": 1086,
+      "forks": 0,
+      "starsToday": 58
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6303,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 18057,
+      "forks": 0,
+      "starsToday": 70
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 4964,
+      "forks": 0,
+      "starsToday": 96
+    },
+    {
+      "author": "segmentio",
+      "name": "kafka-go",
+      "href": "https://github.com/segmentio/kafka-go",
+      "description": "Kafka library in Go",
+      "language": "Go",
+      "stars": 1391,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2357,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1008,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "kubernetes",
+      "name": "test-infra",
+      "href": "https://github.com/kubernetes/test-infra",
+      "description": "Test infrastructure for the Kubernetes project.",
+      "language": "Go",
+      "stars": 1458,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 2210,
+      "forks": 0,
+      "starsToday": 31
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9032,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "containers",
+      "name": "buildah",
+      "href": "https://github.com/containers/buildah",
+      "description": "A tool that facilitates building OCI images",
+      "language": "Go",
+      "stars": 1944,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 6751,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5006,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "gogo",
+      "name": "protobuf",
+      "href": "https://github.com/gogo/protobuf",
+      "description": "Protocol Buffers for Go with Gadgets",
+      "language": "Go",
+      "stars": 2933,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 3483,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4434,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 6463,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 2957,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 13222,
+      "forks": 0,
+      "starsToday": 61
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1559,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 3253,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "jiujuan",
+      "name": "go-collection",
+      "href": "https://github.com/jiujuan/go-collection",
+      "description": "awesome awesome go",
+      "language": "Go",
+      "stars": 113,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "href": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": 1671,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 6736,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 15234,
+      "forks": 0,
+      "starsToday": 32
+    }
+  ]
+}
