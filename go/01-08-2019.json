@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 17272,
+      "forks": 0,
+      "starsToday": 40
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 6757,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16796,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4441,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 2397,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 6762,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 7617,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 13247,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 9292,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 18081,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "TykTechnologies",
+      "name": "tyk",
+      "href": "https://github.com/TykTechnologies/tyk",
+      "description": "Tyk Open Source API Gateway written in Go",
+      "language": "Go",
+      "stars": 4692,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 10269,
+      "forks": 0,
+      "starsToday": 108
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2404,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 4446,
+      "forks": 0,
+      "starsToday": 22
+    },
+    {
+      "author": "anthonynsimon",
+      "name": "bild",
+      "href": "https://github.com/anthonynsimon/bild",
+      "description": "A collection of parallel image processing algorithms in pure Go",
+      "language": "Go",
+      "stars": 2468,
+      "forks": 0,
+      "starsToday": 29
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 5026,
+      "forks": 0,
+      "starsToday": 68
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 14588,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 2964,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "mailgun",
+      "name": "gubernator",
+      "href": "https://github.com/mailgun/gubernator",
+      "description": "High Performance Rate Limiting MicroService and Library",
+      "language": "Go",
+      "stars": 185,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "firefoxchan",
+      "name": "local-ehentai",
+      "href": "https://github.com/firefoxchan/local-ehentai",
+      "description": "Local E-Hentai / ExHentai Gallery Searcher (with ~830k exhentai metadata)",
+      "language": "Go",
+      "stars": 43,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 4487,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "Arkweid",
+      "name": "lefthook",
+      "href": "https://github.com/Arkweid/lefthook",
+      "description": "Fast and powerful Git hooks manager for any type of projects.",
+      "language": "Go",
+      "stars": 405,
+      "forks": 0,
+      "starsToday": 78
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 19745,
+      "forks": 0,
+      "starsToday": 28
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5011,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 23967,
+      "forks": 0,
+      "starsToday": 7
+    }
+  ]
+}
