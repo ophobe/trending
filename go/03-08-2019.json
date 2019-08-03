@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 10671,
+      "forks": 0,
+      "starsToday": 62
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2414,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 17419,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 14621,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 2884,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16826,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "OWASP",
+      "name": "Go-SCP",
+      "href": "https://github.com/OWASP/Go-SCP",
+      "description": "Go programming language secure coding practices guide",
+      "language": "Go",
+      "stars": 2665,
+      "forks": 0,
+      "starsToday": 47
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 7412,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 23686,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 6780,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "href": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": 1774,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 3501,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 4488,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "lindb",
+      "name": "lindb",
+      "href": "https://github.com/lindb/lindb",
+      "description": "LinDB is a scalable, distributed, high performance, high availability Time Series Database.",
+      "language": "Go",
+      "stars": 707,
+      "forks": 0,
+      "starsToday": 18
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 9504,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 4426,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 1919,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 2610,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities.",
+      "language": "Go",
+      "stars": 4024,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 9500,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 2973,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 26083,
+      "forks": 0,
+      "starsToday": 29
+    },
+    {
+      "author": "micro",
+      "name": "go-plugins",
+      "href": "https://github.com/micro/go-plugins",
+      "description": "Community maintained plugins",
+      "language": "Go",
+      "stars": 797,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "BurntSushi",
+      "name": "toml",
+      "href": "https://github.com/BurntSushi/toml",
+      "description": "TOML parser for Golang with reflection.",
+      "language": "Go",
+      "stars": 2772,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4455,
+      "forks": 0,
+      "starsToday": 2
+    }
+  ]
+}
