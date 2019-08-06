@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 2799,
+      "forks": 0,
+      "starsToday": 530
+    },
+    {
+      "author": "tealeg",
+      "name": "xlsx",
+      "href": "https://github.com/tealeg/xlsx",
+      "description": "Google Go (golang) library for reading and writing XLSX files. You should probably also checkout: https://github.com/360EntSecGroup-Skylar/excelize",
+      "language": "Go",
+      "stars": 3389,
+      "forks": 0,
+      "starsToday": 23
+    },
+    {
+      "author": "muesli",
+      "name": "gitomatic",
+      "href": "https://github.com/muesli/gitomatic",
+      "description": "A tool to monitor git repositories and automatically pull & push changes",
+      "language": "Go",
+      "stars": 559,
+      "forks": 0,
+      "starsToday": 183
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice development framework",
+      "language": "Go",
+      "stars": 8439,
+      "forks": 0,
+      "starsToday": 36
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 2626,
+      "forks": 0,
+      "starsToday": 16
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 25537,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 2906,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 5975,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5021,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "OWASP",
+      "name": "Go-SCP",
+      "href": "https://github.com/OWASP/Go-SCP",
+      "description": "Go programming language secure coding practices guide",
+      "language": "Go",
+      "stars": 2964,
+      "forks": 0,
+      "starsToday": 84
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 1951,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "uber-go",
+      "name": "ratelimit",
+      "href": "https://github.com/uber-go/ratelimit",
+      "description": "A Golang blocking leaky-bucket rate limit implementation",
+      "language": "Go",
+      "stars": 1010,
+      "forks": 0,
+      "starsToday": 32
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 2436,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 2996,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 9309,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 14658,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "graph-gophers",
+      "name": "graphql-go",
+      "href": "https://github.com/graph-gophers/graphql-go",
+      "description": "GraphQL server with a focus on ease of use",
+      "language": "Go",
+      "stars": 2776,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "openkruise",
+      "name": "kruise",
+      "href": "https://github.com/openkruise/kruise",
+      "description": "Automate application workloads management on Kubernetes",
+      "language": "Go",
+      "stars": 873,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric",
+      "language": "Go",
+      "stars": 8617,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3100,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 5591,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "btcsuite",
+      "name": "btcd",
+      "href": "https://github.com/btcsuite/btcd",
+      "description": "An alternative full node bitcoin implementation written in Go (golang)",
+      "language": "Go",
+      "stars": 3504,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "pusher",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/pusher/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "language": "Go",
+      "stars": 785,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 6802,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "go-gomail",
+      "name": "gomail",
+      "href": "https://github.com/go-gomail/gomail",
+      "description": "The best way to send emails in Go.",
+      "language": "Go",
+      "stars": 2354,
+      "forks": 0,
+      "starsToday": 5
+    }
+  ]
+}
