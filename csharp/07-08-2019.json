@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "samples",
+      "href": "https://github.com/dotnet/samples",
+      "description": "Sample code and snippets used in the .NET documentation",
+      "language": "C#",
+      "stars": 556,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "ml-agents",
+      "href": "https://github.com/Unity-Technologies/ml-agents",
+      "description": "Unity Machine Learning Agents Toolkit",
+      "language": "C#",
+      "stars": 6459,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "Azure",
+      "name": "azure-powershell",
+      "href": "https://github.com/Azure/azure-powershell",
+      "description": "Microsoft Azure PowerShell",
+      "language": "C#",
+      "stars": 1555,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "migueldeicaza",
+      "name": "gui.cs",
+      "href": "https://github.com/migueldeicaza/gui.cs",
+      "description": "Console-based user interface toolkit for .NET applications.",
+      "language": "C#",
+      "stars": 2545,
+      "forks": 0,
+      "starsToday": 33
+    },
+    {
+      "author": "xamarin",
+      "name": "Xamarin.Forms",
+      "href": "https://github.com/xamarin/Xamarin.Forms",
+      "description": "Xamarin.Forms Official Home",
+      "language": "C#",
+      "stars": 3559,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "BleuBleu",
+      "name": "FamiStudio",
+      "href": "https://github.com/BleuBleu/FamiStudio",
+      "description": "FamiStudio NES Music Editor",
+      "language": "C#",
+      "stars": 209,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "dotnetcore",
+      "name": "CAP",
+      "href": "https://github.com/dotnetcore/CAP",
+      "description": "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern",
+      "language": "C#",
+      "stars": 2935,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "IdentityServer",
+      "name": "IdentityServer4",
+      "href": "https://github.com/IdentityServer/IdentityServer4",
+      "description": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
+      "language": "C#",
+      "stars": 4868,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "microsoft",
+      "name": "MixedRealityToolkit-Unity",
+      "href": "https://github.com/microsoft/MixedRealityToolkit-Unity",
+      "description": "MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity.",
+      "language": "C#",
+      "stars": 2865,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "Perfare",
+      "name": "Il2CppDumper",
+      "href": "https://github.com/Perfare/Il2CppDumper",
+      "description": "Get types, methods, fields, etc. from Unity Il2Cpp binary file",
+      "language": "C#",
+      "stars": 875,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "ppy",
+      "name": "osu",
+      "href": "https://github.com/ppy/osu",
+      "description": "rhythm is just a *click* away!",
+      "language": "C#",
+      "stars": 3327,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "PrismLibrary",
+      "name": "Prism",
+      "href": "https://github.com/PrismLibrary/Prism",
+      "description": "Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.",
+      "language": "C#",
+      "stars": 3124,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "HangfireIO",
+      "name": "Hangfire",
+      "href": "https://github.com/HangfireIO/Hangfire",
+      "description": "An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required",
+      "language": "C#",
+      "stars": 4944,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "dotnet",
+      "name": "csharplang",
+      "href": "https://github.com/dotnet/csharplang",
+      "description": "The official repo for the design of the C# programming language",
+      "language": "C#",
+      "stars": 4618,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "dotnet",
+      "name": "cli",
+      "href": "https://github.com/dotnet/cli",
+      "description": "The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...).",
+      "language": "C#",
+      "stars": 3332,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "dotnet",
+      "name": "corefx",
+      "href": "https://github.com/dotnet/corefx",
+      "description": "CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.",
+      "language": "C#",
+      "stars": 17131,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "href": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
+      "language": "C#",
+      "stars": 6291,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "MaterialDesignInXAML",
+      "name": "MaterialDesignInXamlToolkit",
+      "href": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+      "description": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+      "language": "C#",
+      "stars": 6970,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "Cysharp",
+      "name": "MagicOnion",
+      "href": "https://github.com/Cysharp/MagicOnion",
+      "description": "Unified Realtime/API Engine for .NET Core and Unity.",
+      "language": "C#",
+      "stars": 1170,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "PKISharp",
+      "name": "win-acme",
+      "href": "https://github.com/PKISharp/win-acme",
+      "description": "win-acme - A Simple ACME Client for Windows (for use with Let's Encrypt)",
+      "language": "C#",
+      "stars": 3043,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "commandlineparser",
+      "name": "commandline",
+      "href": "https://github.com/commandlineparser/commandline",
+      "description": "The best C# command line parser that brings standardized *nix getopt style, for .NET. Includes F# support",
+      "language": "C#",
+      "stars": 1415,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "microsoft",
+      "name": "msbuild",
+      "href": "https://github.com/microsoft/msbuild",
+      "description": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
+      "language": "C#",
+      "stars": 3994,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "microsoft",
+      "name": "aspnet-api-versioning",
+      "href": "https://github.com/microsoft/aspnet-api-versioning",
+      "description": "Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.",
+      "language": "C#",
+      "stars": 1357,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "ADeltaX",
+      "name": "AudioFlyout",
+      "href": "https://github.com/ADeltaX/AudioFlyout",
+      "description": "Replace the Volume/SMTC UI with a custom one. Only for Windows 10 17763+",
+      "language": "C#",
+      "stars": 48,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "ThreeMammals",
+      "name": "Ocelot",
+      "href": "https://github.com/ThreeMammals/Ocelot",
+      "description": ".NET core API Gateway",
+      "language": "C#",
+      "stars": 3959,
+      "forks": 0,
+      "starsToday": 8
+    }
+  ]
+}
