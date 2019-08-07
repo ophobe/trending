@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 1937,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 5359,
+      "forks": 0,
+      "starsToday": 152
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 2687,
+      "forks": 0,
+      "starsToday": 61
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 13512,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 24007,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 4620,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "tealeg",
+      "name": "xlsx",
+      "href": "https://github.com/tealeg/xlsx",
+      "description": "Google Go (golang) library for reading and writing XLSX files. You should probably also checkout: https://github.com/360EntSecGroup-Skylar/excelize",
+      "language": "Go",
+      "stars": 3416,
+      "forks": 0,
+      "starsToday": 27
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A microservice development framework",
+      "language": "Go",
+      "stars": 8527,
+      "forks": 0,
+      "starsToday": 91
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5042,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "hcl",
+      "href": "https://github.com/hashicorp/hcl",
+      "description": "HCL is the HashiCorp configuration language.",
+      "language": "Go",
+      "stars": 2432,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5023,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 3112,
+      "forks": 0,
+      "starsToday": 315
+    },
+    {
+      "author": "hybridgroup",
+      "name": "gocv",
+      "href": "https://github.com/hybridgroup/gocv",
+      "description": "Go package for computer vision using OpenCV 4 and beyond.",
+      "language": "Go",
+      "stars": 2451,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 1955,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 56298,
+      "forks": 0,
+      "starsToday": 62
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 27229,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4504,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 9672,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 8412,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 6508,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "muesli",
+      "name": "gitomatic",
+      "href": "https://github.com/muesli/gitomatic",
+      "description": "A tool to monitor git repositories and automatically pull & push changes",
+      "language": "Go",
+      "stars": 658,
+      "forks": 0,
+      "starsToday": 100
+    },
+    {
+      "author": "kubernetes-incubator",
+      "name": "external-dns",
+      "href": "https://github.com/kubernetes-incubator/external-dns",
+      "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+      "language": "Go",
+      "stars": 2143,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9099,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "gocql",
+      "name": "gocql",
+      "href": "https://github.com/gocql/gocql",
+      "description": "Package gocql implements a fast and robust Cassandra client for the Go programming language.",
+      "language": "Go",
+      "stars": 1624,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "tendermint",
+      "name": "tendermint",
+      "href": "https://github.com/tendermint/tendermint",
+      "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+      "language": "Go",
+      "stars": 3135,
+      "forks": 0,
+      "starsToday": 4
+    }
+  ]
+}
