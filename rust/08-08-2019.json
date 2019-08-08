@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 15744,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 1404,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "xiph",
+      "name": "rav1e",
+      "href": "https://github.com/xiph/rav1e",
+      "description": "The fastest and safest AV1 encoder.",
+      "language": "Rust",
+      "stars": 1404,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1356,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 38233,
+      "forks": 0,
+      "starsToday": 34
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 14600,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "dreamer",
+      "name": "luxtorpeda",
+      "href": "https://github.com/dreamer/luxtorpeda",
+      "description": "Compatibility tool to run games on Steam using native Linux engines",
+      "language": "Rust",
+      "stars": 54,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "Data-oriented Rust UI design toolkit.",
+      "language": "Rust",
+      "stars": 481,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 96,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.",
+      "language": "Rust",
+      "stars": 5509,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 329,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 3045,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "fn(Request) -> Future<Response>",
+      "language": "Rust",
+      "stars": 715,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "habitat-sh",
+      "name": "habitat",
+      "href": "https://github.com/habitat-sh/habitat",
+      "description": "Modern applications with built-in automation",
+      "language": "Rust",
+      "stars": 1990,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 5377,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 2312,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 4191,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "agersant",
+      "name": "polaris",
+      "href": "https://github.com/agersant/polaris",
+      "description": "Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.",
+      "language": "Rust",
+      "stars": 283,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 5746,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "href": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": 844,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 1178,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 1980,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 8864,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 2171,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 1543,
+      "forks": 0,
+      "starsToday": 7
+    }
+  ]
+}
