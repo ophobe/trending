@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "vmware",
+      "name": "octant",
+      "href": "https://github.com/vmware/octant",
+      "description": "A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.",
+      "language": "Go",
+      "stars": 805,
+      "forks": 0,
+      "starsToday": 144
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 5969,
+      "forks": 0,
+      "starsToday": 372
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 18974,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "timeromantic",
+      "name": "TopList",
+      "href": "https://github.com/timeromantic/TopList",
+      "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html",
+      "language": "Go",
+      "stars": 790,
+      "forks": 0,
+      "starsToday": 394
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 9689,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "bilibili",
+      "name": "kratos",
+      "href": "https://github.com/bilibili/kratos",
+      "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+      "language": "Go",
+      "stars": 6105,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9125,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 1987,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 4582,
+      "forks": 0,
+      "starsToday": 52
+    },
+    {
+      "author": "tendermint",
+      "name": "tendermint",
+      "href": "https://github.com/tendermint/tendermint",
+      "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+      "language": "Go",
+      "stars": 3155,
+      "forks": 0,
+      "starsToday": 14
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 4641,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 13531,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 15165,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7159,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 3503,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "cruise-automation",
+      "name": "fwanalyzer",
+      "href": "https://github.com/cruise-automation/fwanalyzer",
+      "description": "a tool to analyze filesystem images",
+      "language": "Go",
+      "stars": 122,
+      "forks": 0,
+      "starsToday": 32
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities.",
+      "language": "Go",
+      "stars": 4056,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 11424,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 10393,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16900,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5036,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 2811,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "securego",
+      "name": "gosec",
+      "href": "https://github.com/securego/gosec",
+      "description": "Golang security checker",
+      "language": "Go",
+      "stars": 2613,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 13366,
+      "forks": 0,
+      "starsToday": 23
+    },
+    {
+      "author": "pkg",
+      "name": "errors",
+      "href": "https://github.com/pkg/errors",
+      "description": "Simple error handling primitives",
+      "language": "Go",
+      "stars": 4905,
+      "forks": 0,
+      "starsToday": 3
+    }
+  ]
+}
