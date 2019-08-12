@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "anacrolix",
+      "name": "torrent",
+      "href": "https://github.com/anacrolix/torrent",
+      "description": "Full-featured BitTorrent-client package and utilities",
+      "language": "Go",
+      "stars": 2859,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "timeromantic",
+      "name": "TopList",
+      "href": "https://github.com/timeromantic/TopList",
+      "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://www.printf520.com/hot.html",
+      "language": "Go",
+      "stars": 972,
+      "forks": 0,
+      "starsToday": 42
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 6285,
+      "forks": 0,
+      "starsToday": 94
+    },
+    {
+      "author": "erroneousboat",
+      "name": "slack-term",
+      "href": "https://github.com/erroneousboat/slack-term",
+      "description": "Slack client for your terminal",
+      "language": "Go",
+      "stars": 4658,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 16170,
+      "forks": 0,
+      "starsToday": 30
+    },
+    {
+      "author": "vlang",
+      "name": "v",
+      "href": "https://github.com/vlang/v",
+      "description": "Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. https://vlang.io",
+      "language": "Go",
+      "stars": 10642,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "alecthomas",
+      "name": "kingpin",
+      "href": "https://github.com/alecthomas/kingpin",
+      "description": "A Go (golang) command line and flag parser",
+      "language": "Go",
+      "stars": 2544,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "beego",
+      "name": "samples",
+      "href": "https://github.com/beego/samples",
+      "description": "An open source project for beego sample applications.",
+      "language": "Go",
+      "stars": 672,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "miekg",
+      "name": "dns",
+      "href": "https://github.com/miekg/dns",
+      "description": "DNS library in Go",
+      "language": "Go",
+      "stars": 3817,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 30136,
+      "forks": 0,
+      "starsToday": 31
+    },
+    {
+      "author": "hajimehoshi",
+      "name": "ebiten",
+      "href": "https://github.com/hajimehoshi/ebiten",
+      "description": "A dead simple 2D game library in Go",
+      "language": "Go",
+      "stars": 1858,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 8840,
+      "forks": 0,
+      "starsToday": 21
+    },
+    {
+      "author": "prometheus",
+      "name": "prom2json",
+      "href": "https://github.com/prometheus/prom2json",
+      "description": "A tool to scrape a Prometheus client and dump the result as JSON.",
+      "language": "Go",
+      "stars": 123,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "fortio",
+      "name": "fortio",
+      "href": "https://github.com/fortio/fortio",
+      "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+      "language": "Go",
+      "stars": 883,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "copilot",
+      "href": "https://github.com/cloudfoundry/copilot",
+      "description": "Supplies data from Cloud Controller and Diego for consumption by Istio Pilot",
+      "language": "Go",
+      "stars": 1,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "fortio",
+      "name": "vendor-fortio",
+      "href": "https://github.com/fortio/vendor-fortio",
+      "description": "Vendored dependencies for the fortio repo",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "collectd",
+      "name": "go-collectd",
+      "href": "https://github.com/collectd/go-collectd",
+      "description": "Utilities for using collectd together with Golang.",
+      "language": "Go",
+      "stars": 88,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "multiplay",
+      "name": "go-ts3",
+      "href": "https://github.com/multiplay/go-ts3",
+      "description": "A golang TeamSpeak 3 ServerQuery client",
+      "language": "Go",
+      "stars": 17,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "influxdata",
+      "name": "wlog",
+      "href": "https://github.com/influxdata/wlog",
+      "description": "Simple log level based Go logger.",
+      "language": "Go",
+      "stars": 5,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "gobwas",
+      "name": "glob",
+      "href": "https://github.com/gobwas/glob",
+      "description": "Go glob",
+      "language": "Go",
+      "stars": 468,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "istio",
+      "name": "glog",
+      "href": "https://github.com/istio/glog",
+      "description": "A replacement for the glog package that directs logging to zap.",
+      "language": "Go",
+      "stars": 19,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "howeyc",
+      "name": "fsnotify",
+      "href": "https://github.com/howeyc/fsnotify",
+      "description": "File system notification for Go",
+      "language": "Go",
+      "stars": 1860,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "cf-acceptance-tests",
+      "href": "https://github.com/cloudfoundry/cf-acceptance-tests",
+      "description": "CF Acceptance tests",
+      "language": "Go",
+      "stars": 48,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "vjeantet",
+      "name": "grok",
+      "href": "https://github.com/vjeantet/grok",
+      "description": "simple library to use/parse grok patterns with go (100%)",
+      "language": "Go",
+      "stars": 123,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "amir",
+      "name": "raidman",
+      "href": "https://github.com/amir/raidman",
+      "description": "Go Riemann client",
+      "language": "Go",
+      "stars": 66,
+      "forks": 0,
+      "starsToday": 0
+    }
+  ]
+}
