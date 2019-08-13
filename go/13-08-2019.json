@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7179,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "alecthomas",
+      "name": "kingpin",
+      "href": "https://github.com/alecthomas/kingpin",
+      "description": "A Go (golang) command line and flag parser",
+      "language": "Go",
+      "stars": 2555,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 4656,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul-template",
+      "href": "https://github.com/hashicorp/consul-template",
+      "description": "Template rendering, notifier, and supervisor for @hashicorp Consul and Vault data.",
+      "language": "Go",
+      "stars": 3612,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 16927,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 9579,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "mugli",
+      "name": "go-kill-mysql-query",
+      "href": "https://github.com/mugli/go-kill-mysql-query",
+      "description": "Interactively shows long running queries in MySQL server and provides option to kill them one by one",
+      "language": "Go",
+      "stars": 39,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "golang-samples",
+      "href": "https://github.com/GoogleCloudPlatform/golang-samples",
+      "description": "Sample apps and code written for Google Cloud in the Go programming language.",
+      "language": "Go",
+      "stars": 1562,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "anacrolix",
+      "name": "torrent",
+      "href": "https://github.com/anacrolix/torrent",
+      "description": "Full-featured BitTorrent-client package and utilities",
+      "language": "Go",
+      "stars": 2870,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5115,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 56584,
+      "forks": 0,
+      "starsToday": 55
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 7683,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "Azure",
+      "name": "aks-engine",
+      "href": "https://github.com/Azure/aks-engine",
+      "description": "AKS Engine: Units of Kubernetes on Azure!",
+      "language": "Go",
+      "stars": 458,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "klauspost",
+      "name": "compress",
+      "href": "https://github.com/klauspost/compress",
+      "description": "Optimized compression packages",
+      "language": "Go",
+      "stars": 1131,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2459,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4170,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 1445,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 2599,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 2935,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 2830,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 62023,
+      "forks": 0,
+      "starsToday": 57
+    },
+    {
+      "author": "coreos",
+      "name": "clair",
+      "href": "https://github.com/coreos/clair",
+      "description": "Vulnerability Static Analysis for Containers",
+      "language": "Go",
+      "stars": 5558,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 54517,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "nsqio",
+      "name": "nsq",
+      "href": "https://github.com/nsqio/nsq",
+      "description": "A realtime distributed messaging platform",
+      "language": "Go",
+      "stars": 15958,
+      "forks": 0,
+      "starsToday": 36
+    },
+    {
+      "author": "jung-kurt",
+      "name": "gofpdf",
+      "href": "https://github.com/jung-kurt/gofpdf",
+      "description": "A PDF document generator with high level support for text, drawing and images",
+      "language": "Go",
+      "stars": 3087,
+      "forks": 0,
+      "starsToday": 2
+    }
+  ]
+}
