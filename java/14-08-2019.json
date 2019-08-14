@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "xkcoding",
+      "name": "spring-boot-demo",
+      "href": "https://github.com/xkcoding/spring-boot-demo",
+      "description": "spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类…",
+      "language": "Java",
+      "stars": 1593,
+      "forks": 0,
+      "starsToday": 190
+    },
+    {
+      "author": "ctripcorp",
+      "name": "C-OCR",
+      "href": "https://github.com/ctripcorp/C-OCR",
+      "description": "C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。",
+      "language": "Java",
+      "stars": 972,
+      "forks": 0,
+      "starsToday": 170
+    },
+    {
+      "author": "frank-lam",
+      "name": "fullstack-tutorial",
+      "href": "https://github.com/frank-lam/fullstack-tutorial",
+      "description": "🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试",
+      "language": "Java",
+      "stars": 5079,
+      "forks": 0,
+      "starsToday": 47
+    },
+    {
+      "author": "2227324689",
+      "name": "gpmall",
+      "href": "https://github.com/2227324689/gpmall",
+      "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka",
+      "language": "Java",
+      "stars": 803,
+      "forks": 0,
+      "starsToday": 47
+    },
+    {
+      "author": "hollischuang",
+      "name": "toBeTopJavaer",
+      "href": "https://github.com/hollischuang/toBeTopJavaer",
+      "description": "To Be Top Javaer - Java工程师成神之路",
+      "language": "Java",
+      "stars": 7000,
+      "forks": 0,
+      "starsToday": 172
+    },
+    {
+      "author": "ZXZxin",
+      "name": "ZXBlog",
+      "href": "https://github.com/ZXZxin/ZXBlog",
+      "description": "记录各种学习笔记(算法、Java、数据库、并发......)",
+      "language": "Java",
+      "stars": 3145,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch",
+      "href": "https://github.com/elastic/elasticsearch",
+      "description": "Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 43341,
+      "forks": 0,
+      "starsToday": 24
+    },
+    {
+      "author": "warofants",
+      "name": "wwa",
+      "href": "https://github.com/warofants/wwa",
+      "description": "World War of Ants",
+      "language": "Java",
+      "stars": 145,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "qiurunze123",
+      "name": "miaosha",
+      "href": "https://github.com/qiurunze123/miaosha",
+      "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+      "language": "Java",
+      "stars": 10219,
+      "forks": 0,
+      "starsToday": 151
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall",
+      "href": "https://github.com/macrozheng/mall",
+      "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+      "language": "Java",
+      "stars": 19728,
+      "forks": 0,
+      "starsToday": 67
+    },
+    {
+      "author": "apache",
+      "name": "lucene-solr",
+      "href": "https://github.com/apache/lucene-solr",
+      "description": "Mirror of Apache Lucene + Solr",
+      "language": "Java",
+      "stars": 2824,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "apache",
+      "name": "pulsar",
+      "href": "https://github.com/apache/pulsar",
+      "description": "Apache Pulsar - distributed pub-sub messaging system",
+      "language": "Java",
+      "stars": 3959,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "gyf-dev",
+      "name": "ImmersionBar",
+      "href": "https://github.com/gyf-dev/ImmersionBar",
+      "description": "android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62",
+      "language": "Java",
+      "stars": 6728,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "bazelbuild",
+      "name": "bazel",
+      "href": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "stars": 12610,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "SeleniumHQ",
+      "name": "selenium",
+      "href": "https://github.com/SeleniumHQ/selenium",
+      "description": "A browser automation framework and ecosystem.",
+      "language": "Java",
+      "stars": 15283,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "scwang90",
+      "name": "SmartRefreshLayout",
+      "href": "https://github.com/scwang90/SmartRefreshLayout",
+      "description": "🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+      "language": "Java",
+      "stars": 18379,
+      "forks": 0,
+      "starsToday": 10
+    },
+    {
+      "author": "wasabeef",
+      "name": "recyclerview-animators",
+      "href": "https://github.com/wasabeef/recyclerview-animators",
+      "description": "An Android Animation library which easily add itemanimator to RecyclerView items.",
+      "language": "Java",
+      "stars": 9419,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-java",
+      "href": "https://github.com/grpc/grpc-java",
+      "description": "The Java gRPC implementation. HTTP/2 based RPC",
+      "language": "Java",
+      "stars": 6484,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "zhoutaoo",
+      "name": "SpringCloud",
+      "href": "https://github.com/zhoutaoo/SpringCloud",
+      "description": "基于SpringCloud2.0的微服务开发脚手架，整合了spring-security-oauth2、apollo、eureka、feign、hystrix、springcloud-gateway、springcloud-bus等。治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中",
+      "language": "Java",
+      "stars": 1020,
+      "forks": 0,
+      "starsToday": 25
+    },
+    {
+      "author": "justauth",
+      "name": "JustAuth",
+      "href": "https://github.com/justauth/JustAuth",
+      "description": "💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。 Login, so easy!",
+      "language": "Java",
+      "stars": 1246,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "forezp",
+      "name": "SpringCloudLearning",
+      "href": "https://github.com/forezp/SpringCloudLearning",
+      "description": "《史上最简单的Spring Cloud教程源码》",
+      "language": "Java",
+      "stars": 9689,
+      "forks": 0,
+      "starsToday": 19
+    },
+    {
+      "author": "alibaba",
+      "name": "p3c",
+      "href": "https://github.com/alibaba/p3c",
+      "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+      "language": "Java",
+      "stars": 17527,
+      "forks": 0,
+      "starsToday": 28
+    },
+    {
+      "author": "zo0r",
+      "name": "react-native-push-notification",
+      "href": "https://github.com/zo0r/react-native-push-notification",
+      "description": "React Native Local and Remote Notifications",
+      "language": "Java",
+      "stars": 4164,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "alibaba",
+      "name": "DataX",
+      "href": "https://github.com/alibaba/DataX",
+      "description": null,
+      "language": "Java",
+      "stars": 3404,
+      "forks": 0,
+      "starsToday": 22
+    },
+    {
+      "author": "spring-cloud",
+      "name": "spring-cloud-gateway",
+      "href": "https://github.com/spring-cloud/spring-cloud-gateway",
+      "description": "A Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.",
+      "language": "Java",
+      "stars": 1776,
+      "forks": 0,
+      "starsToday": 1
+    }
+  ]
+}
