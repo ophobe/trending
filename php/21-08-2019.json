@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "api-platform",
+      "name": "core",
+      "href": "https://github.com/api-platform/core",
+      "description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes",
+      "language": "PHP",
+      "stars": 1228,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "squizlabs",
+      "name": "PHP_CodeSniffer",
+      "href": "https://github.com/squizlabs/PHP_CodeSniffer",
+      "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+      "language": "PHP",
+      "stars": 6741,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "swoft-cloud",
+      "name": "swoft",
+      "href": "https://github.com/swoft-cloud/swoft",
+      "description": "🚀 PHP Microservice Full Coroutine Framework",
+      "language": "PHP",
+      "stars": 3598,
+      "forks": 0,
+      "starsToday": 11
+    },
+    {
+      "author": "hyperf-cloud",
+      "name": "hyperf",
+      "href": "https://github.com/hyperf-cloud/hyperf",
+      "description": "🚀 A coroutine framework that focuses on hyperspeed and flexibility, specifically used for build microservices or middlewares.",
+      "language": "PHP",
+      "stars": 1038,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "href": "https://github.com/laravel/framework",
+      "description": null,
+      "language": "PHP",
+      "stars": 18448,
+      "forks": 0,
+      "starsToday": 17
+    },
+    {
+      "author": "jupeter",
+      "name": "clean-code-php",
+      "href": "https://github.com/jupeter/clean-code-php",
+      "description": "🛁 Clean Code concepts adapted for PHP",
+      "language": "PHP",
+      "stars": 6833,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "gongfuxiang",
+      "name": "shopxo",
+      "href": "https://github.com/gongfuxiang/shopxo",
+      "description": "ShopXO商城系统、国内领先企业级B2C免费开源电商系统，包含PC、h5、微信小程序、支付宝小程序、百度小程序，遵循Apache2开源协议发布、基于ThinkPHP5.1框架研发",
+      "language": "PHP",
+      "stars": 494,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "laravel",
+      "name": "laravel",
+      "href": "https://github.com/laravel/laravel",
+      "description": "A PHP framework for web artisans",
+      "language": "PHP",
+      "stars": 54319,
+      "forks": 0,
+      "starsToday": 41
+    },
+    {
+      "author": "lcobucci",
+      "name": "jwt",
+      "href": "https://github.com/lcobucci/jwt",
+      "description": "A simple library to work with JSON Web Token and JSON Web Signature",
+      "language": "PHP",
+      "stars": 4574,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "caouecs",
+      "name": "Laravel-lang",
+      "href": "https://github.com/caouecs/Laravel-lang",
+      "description": "List of 73 languages for Laravel 5",
+      "language": "PHP",
+      "stars": 4008,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-dompdf",
+      "href": "https://github.com/barryvdh/laravel-dompdf",
+      "description": "A DOMPDF Wrapper for Laravel",
+      "language": "PHP",
+      "stars": 3275,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "href": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": 6768,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "laravel",
+      "name": "cashier",
+      "href": "https://github.com/laravel/cashier",
+      "description": null,
+      "language": "PHP",
+      "stars": 1640,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "AzuraCast",
+      "name": "AzuraCast",
+      "href": "https://github.com/AzuraCast/AzuraCast",
+      "description": "A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",
+      "language": "PHP",
+      "stars": 613,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "zendframework",
+      "name": "zend-diactoros",
+      "href": "https://github.com/zendframework/zend-diactoros",
+      "description": "PSR-7 HTTP Message implementation",
+      "language": "PHP",
+      "stars": 1458,
+      "forks": 0,
+      "starsToday": 0
+    },
+    {
+      "author": "wmhello",
+      "name": "laravel_template_with_vue",
+      "href": "https://github.com/wmhello/laravel_template_with_vue",
+      "description": "laravel5.5和vue.js结合的前后端分离项目模板。作为程序的起点，可以直接以此为基础来进行业务扩展。模板内容包括基础的用户管理和权限管理、日志管理、集成第三方登录，整合laravel-echo-server 实现了websocket 做到了消息的实时推送，并在此基础上，实现了聊天室和客服功能。权限管理包括后端Token认证和前端vue.js的动态权限，解决了前后端完整分离的情况下，vue.js的认证与权限相关的痛点，已在本人的多个项目中集成使用。",
+      "language": "PHP",
+      "stars": 507,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "href": "https://github.com/magento/magento2",
+      "description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…",
+      "language": "PHP",
+      "stars": 7752,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 21559,
+      "forks": 0,
+      "starsToday": 9
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-debugbar",
+      "href": "https://github.com/barryvdh/laravel-debugbar",
+      "description": "Laravel Debugbar (Integrates PHP Debug Bar)",
+      "language": "PHP",
+      "stars": 9822,
+      "forks": 0,
+      "starsToday": 15
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "href": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": 19677,
+      "forks": 0,
+      "starsToday": 29
+    },
+    {
+      "author": "doctrine",
+      "name": "collections",
+      "href": "https://github.com/doctrine/collections",
+      "description": "Collections Abstraction Library",
+      "language": "PHP",
+      "stars": 3732,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "octobercms",
+      "name": "october",
+      "href": "https://github.com/octobercms/october",
+      "description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.",
+      "language": "PHP",
+      "stars": 8914,
+      "forks": 0,
+      "starsToday": 1
+    },
+    {
+      "author": "wususu",
+      "name": "effective-resourses",
+      "href": "https://github.com/wususu/effective-resourses",
+      "description": "📖学习资源整合",
+      "language": "PHP",
+      "stars": 548,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "guzzle",
+      "name": "psr7",
+      "href": "https://github.com/guzzle/psr7",
+      "description": "PSR-7 HTTP message library",
+      "language": "PHP",
+      "stars": 5244,
+      "forks": 0,
+      "starsToday": 8
+    },
+    {
+      "author": "cretueusebiu",
+      "name": "laravel-vue-spa",
+      "href": "https://github.com/cretueusebiu/laravel-vue-spa",
+      "description": "A Laravel-Vue SPA starter project template.",
+      "language": "PHP",
+      "stars": 1547,
+      "forks": 0,
+      "starsToday": 3
+    }
+  ]
+}
