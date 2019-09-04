@@ -1,0 +1,229 @@
+{
+  "repositories": [
+    {
+      "author": "elunez /\n\n\n\n      eladmin",
+      "href": "https://github.com/elunez/\n\n\n\neladmin",
+      "description": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 134
+    },
+    {
+      "author": "Snailclimb /\n\n\n\n      JavaGuide",
+      "href": "https://github.com/Snailclimb/\n\n\n\nJavaGuide",
+      "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 260
+    },
+    {
+      "author": "alibaba /\n\n\n\n      easyexcel",
+      "href": "https://github.com/alibaba/\n\n\n\neasyexcel",
+      "description": "快速、简单避免OOM的java处理Excel工具",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 74
+    },
+    {
+      "author": "hope-for /\n\n\n\n      hope-boot",
+      "href": "https://github.com/hope-for/\n\n\n\nhope-boot",
+      "description": "🌱🚀一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 48
+    },
+    {
+      "author": "zhangdaiscott /\n\n\n\n      jeecg-boot",
+      "href": "https://github.com/zhangdaiscott/\n\n\n\njeecg-boot",
+      "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 64
+    },
+    {
+      "author": "apache /\n\n\n\n      skywalking",
+      "href": "https://github.com/apache/\n\n\n\nskywalking",
+      "description": "APM, Application Performance Monitoring System",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "alibaba /\n\n\n\n      canal",
+      "href": "https://github.com/alibaba/\n\n\n\ncanal",
+      "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 38
+    },
+    {
+      "author": "zhisheng17 /\n\n\n\n      flink-learning",
+      "href": "https://github.com/zhisheng17/\n\n\n\nflink-learning",
+      "description": "flink learning blog. http://www.54tianzhisheng.cn",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 26
+    },
+    {
+      "author": "apache /\n\n\n\n      hive",
+      "href": "https://github.com/apache/\n\n\n\nhive",
+      "description": "Apache Hive",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 2
+    },
+    {
+      "author": "forezp /\n\n\n\n      SpringCloudLearning",
+      "href": "https://github.com/forezp/\n\n\n\nSpringCloudLearning",
+      "description": "《史上最简单的Spring Cloud教程源码》",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 40
+    },
+    {
+      "author": "CheckChe0803 /\n\n\n\n      flink-recommandSystem-demo",
+      "href": "https://github.com/CheckChe0803/\n\n\n\nflink-recommandSystem-demo",
+      "description": "🚁🚀基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 34
+    },
+    {
+      "author": "ffay /\n\n\n\n      lanproxy",
+      "href": "https://github.com/ffay/\n\n\n\nlanproxy",
+      "description": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "codecentric /\n\n\n\n      spring-boot-admin",
+      "href": "https://github.com/codecentric/\n\n\n\nspring-boot-admin",
+      "description": "Admin UI for administration of spring boot applications",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "eclipse /\n\n\n\n      jetty.project",
+      "href": "https://github.com/eclipse/\n\n\n\njetty.project",
+      "description": "Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 5
+    },
+    {
+      "author": "zaproxy /\n\n\n\n      zaproxy",
+      "href": "https://github.com/zaproxy/\n\n\n\nzaproxy",
+      "description": "The OWASP ZAP core project",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 7
+    },
+    {
+      "author": "SeleniumHQ /\n\n\n\n      selenium",
+      "href": "https://github.com/SeleniumHQ/\n\n\n\nselenium",
+      "description": "A browser automation framework and ecosystem.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 13
+    },
+    {
+      "author": "netty /\n\n\n\n      netty",
+      "href": "https://github.com/netty/\n\n\n\nnetty",
+      "description": "Netty project - an event-driven asynchronous network application framework",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 22
+    },
+    {
+      "author": "micrometer-metrics /\n\n\n\n      micrometer",
+      "href": "https://github.com/micrometer-metrics/\n\n\n\nmicrometer",
+      "description": "An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 4
+    },
+    {
+      "author": "xuxueli /\n\n\n\n      xxl-job",
+      "href": "https://github.com/xuxueli/\n\n\n\nxxl-job",
+      "description": "A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 39
+    },
+    {
+      "author": "ZXZxin /\n\n\n\n      ZXBlog",
+      "href": "https://github.com/ZXZxin/\n\n\n\nZXBlog",
+      "description": "记录各种学习笔记(算法、Java、数据库、并发......)",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 27
+    },
+    {
+      "author": "json-path /\n\n\n\n      JsonPath",
+      "href": "https://github.com/json-path/\n\n\n\nJsonPath",
+      "description": "Java JsonPath implementation",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 6
+    },
+    {
+      "author": "keycloak /\n\n\n\n      keycloak",
+      "href": "https://github.com/keycloak/\n\n\n\nkeycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 12
+    },
+    {
+      "author": "alibaba /\n\n\n\n      Sentinel",
+      "href": "https://github.com/alibaba/\n\n\n\nSentinel",
+      "description": "A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 20
+    },
+    {
+      "author": "JessYanCoding /\n\n\n\n      MVPArms",
+      "href": "https://github.com/JessYanCoding/\n\n\n\nMVPArms",
+      "description": "⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架).",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 3
+    },
+    {
+      "author": "bsideup /\n\n\n\n      jabel",
+      "href": "https://github.com/bsideup/\n\n\n\njabel",
+      "description": "Jabel - unlock Javac 12+ syntax when targeting Java 8",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "starsToday": 13
+    }
+  ]
+}
