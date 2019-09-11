@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rustup.rs",
+      "href": "https://github.com/rust-lang/rustup.rs",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 2791,
+      "forks": 424,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "href": "https://github.com/denoland/deno",
+      "description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio",
+      "language": "Rust",
+      "stars": 38139,
+      "forks": 1749,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 16165,
+      "forks": 660,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 12283,
+      "forks": 1747,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 39045,
+      "forks": 6064,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 298,
+      "forks": 7,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 5844,
+      "forks": 488,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 267,
+      "forks": 28,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2077,
+      "forks": 174,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6026,
+      "forks": 689,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "fn(Request) -> Future<Response>",
+      "language": "Rust",
+      "stars": 744,
+      "forks": 56,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5310,
+      "forks": 378,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 12243,
+      "forks": 812,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 794,
+      "forks": 59,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 2344,
+      "forks": 71,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 9099,
+      "forks": 584,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1449,
+      "forks": 380,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A low-overhead Vulkan-like GPU API for Rust.",
+      "language": "Rust",
+      "stars": 3345,
+      "forks": 388,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "nannou-org",
+      "name": "nannou",
+      "href": "https://github.com/nannou-org/nannou",
+      "description": "A Creative Coding Framework for Rust.",
+      "language": "Rust",
+      "stars": 1369,
+      "forks": 63,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1365,
+      "forks": 145,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 2470,
+      "forks": 284,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rusoto",
+      "name": "rusoto",
+      "href": "https://github.com/rusoto/rusoto",
+      "description": "AWS SDK for Rust",
+      "language": "Rust",
+      "stars": 1143,
+      "forks": 198,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 5948,
+      "forks": 875,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "intel",
+      "name": "cloud-hypervisor",
+      "href": "https://github.com/intel/cloud-hypervisor",
+      "description": null,
+      "language": "Rust",
+      "stars": 295,
+      "forks": 25,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "nebulet",
+      "name": "nebulet",
+      "href": "https://github.com/nebulet/nebulet",
+      "description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+      "language": "Rust",
+      "stars": 2031,
+      "forks": 51,
+      "starsInPeriod": 2
+    }
+  ]
+}
