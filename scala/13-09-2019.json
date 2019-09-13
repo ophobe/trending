@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 23367,
+      "forks": 20017,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1481,
+      "forks": 270,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 12091,
+      "forks": 2791,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "salesforce",
+      "name": "TransmogrifAI",
+      "href": "https://github.com/salesforce/TransmogrifAI",
+      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+      "language": "Scala",
+      "stars": 1662,
+      "forks": 285,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4380,
+      "forks": 939,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1638,
+      "forks": 296,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 378,
+      "forks": 246,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 3559,
+      "forks": 535,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Qihoo360",
+      "name": "XSQL",
+      "href": "https://github.com/Qihoo360/XSQL",
+      "description": "Unified SQL Analytics Engine Based on SparkSQL",
+      "language": "Scala",
+      "stars": 59,
+      "forks": 17,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "getquill",
+      "name": "quill",
+      "href": "https://github.com/getquill/quill",
+      "description": "Compile-time Language Integrated Queries for Scala",
+      "language": "Scala",
+      "stars": 1511,
+      "forks": 230,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 4482,
+      "forks": 2525,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 941,
+      "forks": 215,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1470,
+      "forks": 381,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5659,
+      "forks": 304,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4242,
+      "forks": 817,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7276,
+      "forks": 1285,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "softwaremill",
+      "name": "elasticmq",
+      "href": "https://github.com/softwaremill/elasticmq",
+      "description": "Message queueing system with an actor-based Scala and Amazon SQS-compatible interfaces. Runs stand-alone or embedded.",
+      "language": "Scala",
+      "stars": 1177,
+      "forks": 127,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4898,
+      "forks": 1032,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "sifive",
+      "name": "freedom",
+      "href": "https://github.com/sifive/freedom",
+      "description": "Source files for SiFive's Freedom platforms",
+      "language": "Scala",
+      "stars": 677,
+      "forks": 170,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "InterestingLab",
+      "name": "waterdrop",
+      "href": "https://github.com/InterestingLab/waterdrop",
+      "description": "生产环境的海量数据计算产品，文档地址：",
+      "language": "Scala",
+      "stars": 587,
+      "forks": 188,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "slick",
+      "name": "slick",
+      "href": "https://github.com/slick/slick",
+      "description": "Scala Language Integrated Connection Kit",
+      "language": "Scala",
+      "stars": 2277,
+      "forks": 547,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 469,
+      "forks": 155,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gravier",
+      "name": "ignite-data-service",
+      "href": "https://github.com/gravier/ignite-data-service",
+      "description": "repo for workshop of ignite data service",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "stars": 882,
+      "forks": 109,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11322,
+      "forks": 3780,
+      "starsInPeriod": 5
+    }
+  ]
+}
