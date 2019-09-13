@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "keybase",
+      "name": "client",
+      "href": "https://github.com/keybase/client",
+      "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+      "language": "Go",
+      "stars": 5726,
+      "forks": 673,
+      "starsInPeriod": 103
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3048,
+      "forks": 2731,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 2568,
+      "forks": 310,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15153,
+      "forks": 1722,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "href": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP and REST client library for Go",
+      "language": "Go",
+      "stars": 2104,
+      "forks": 191,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "uber",
+      "name": "cadence",
+      "href": "https://github.com/uber/cadence",
+      "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+      "language": "Go",
+      "stars": 2448,
+      "forks": 188,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 3695,
+      "forks": 522,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 10778,
+      "forks": 939,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 24246,
+      "forks": 8751,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 9764,
+      "forks": 2987,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 4159,
+      "forks": 739,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 13946,
+      "forks": 2071,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9420,
+      "forks": 1876,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 13841,
+      "forks": 1187,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "descheduler",
+      "href": "https://github.com/kubernetes-sigs/descheduler",
+      "description": "Descheduler for Kubernetes",
+      "language": "Go",
+      "stars": 675,
+      "forks": 135,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 9979,
+      "forks": 10076,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 17981,
+      "forks": 1715,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 2567,
+      "forks": 209,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 9117,
+      "forks": 2596,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 16004,
+      "forks": 1248,
+      "starsInPeriod": 77
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12371,
+      "forks": 1435,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6205,
+      "forks": 591,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "Kong",
+      "name": "kuma",
+      "href": "https://github.com/Kong/kuma",
+      "description": "🐻 The Universal Control Plane for Service Mesh",
+      "language": "Go",
+      "stars": 551,
+      "forks": 21,
+      "starsInPeriod": 92
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3320,
+      "forks": 349,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "href": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors",
+      "language": "Go",
+      "stars": 3689,
+      "forks": 786,
+      "starsInPeriod": 4
+    }
+  ]
+}
