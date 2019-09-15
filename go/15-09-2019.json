@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "uber",
+      "name": "cadence",
+      "href": "https://github.com/uber/cadence",
+      "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+      "language": "Go",
+      "stars": 2534,
+      "forks": 192,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 20285,
+      "forks": 4683,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 3495,
+      "forks": 483,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "lucas-clemente",
+      "name": "quic-go",
+      "href": "https://github.com/lucas-clemente/quic-go",
+      "description": "A QUIC implementation in pure go",
+      "language": "Go",
+      "stars": 3099,
+      "forks": 358,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "PuerkitoBio",
+      "name": "goquery",
+      "href": "https://github.com/PuerkitoBio/goquery",
+      "description": "A little like that j-thing, only in Go.",
+      "language": "Go",
+      "stars": 7764,
+      "forks": 646,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "smallstep",
+      "name": "cli",
+      "href": "https://github.com/smallstep/cli",
+      "description": "🧰 A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.",
+      "language": "Go",
+      "stars": 691,
+      "forks": 31,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "smallstep",
+      "name": "certificates",
+      "href": "https://github.com/smallstep/certificates",
+      "description": "🛡️ A private certificate authority and related tools for secure automated certificate management, so you can use TLS everywhere.",
+      "language": "Go",
+      "stars": 744,
+      "forks": 30,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek and an optional Filer with POSIX interface, supporting S3 API, Rack-Aware Erasure Coding for warm storage, FUSE mount, Hadoop compatible, WebDAV.",
+      "language": "Go",
+      "stars": 8436,
+      "forks": 1130,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 23632,
+      "forks": 1894,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 4201,
+      "forks": 187,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "michenriksen",
+      "name": "aquatone",
+      "href": "https://github.com/michenriksen/aquatone",
+      "description": "A Tool for Domain Flyovers",
+      "language": "Go",
+      "stars": 2752,
+      "forks": 495,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "keybase",
+      "name": "client",
+      "href": "https://github.com/keybase/client",
+      "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+      "language": "Go",
+      "stars": 5805,
+      "forks": 690,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "go-flutter-desktop",
+      "name": "go-flutter",
+      "href": "https://github.com/go-flutter-desktop/go-flutter",
+      "description": "Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.",
+      "language": "Go",
+      "stars": 3102,
+      "forks": 149,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 47827,
+      "forks": 6307,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "chaitin",
+      "name": "xray",
+      "href": "https://github.com/chaitin/xray",
+      "description": "xray 安全评估工具",
+      "language": "Go",
+      "stars": 1307,
+      "forks": 235,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 24253,
+      "forks": 8756,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "maxence-charriere",
+      "name": "app",
+      "href": "https://github.com/maxence-charriere/app",
+      "description": "A WebAssembly framework to build GUI with Go, HTML and CSS.",
+      "language": "Go",
+      "stars": 3021,
+      "forks": 128,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "arduino",
+      "name": "arduino-cli",
+      "href": "https://github.com/arduino/arduino-cli",
+      "description": "Arduino command line interface",
+      "language": "Go",
+      "stars": 1581,
+      "forks": 103,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "DominicBreuker",
+      "name": "pspy",
+      "href": "https://github.com/DominicBreuker/pspy",
+      "description": "Monitor linux processes without root permissions",
+      "language": "Go",
+      "stars": 791,
+      "forks": 109,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6219,
+      "forks": 591,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 13805,
+      "forks": 4457,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 14772,
+      "forks": 1548,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "flink-on-k8s-operator",
+      "href": "https://github.com/GoogleCloudPlatform/flink-on-k8s-operator",
+      "description": "Kubernetes operator for managing the lifecycle of Apache Flink applications.",
+      "language": "Go",
+      "stars": 60,
+      "forks": 4,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "shazow",
+      "name": "ssh-chat",
+      "href": "https://github.com/shazow/ssh-chat",
+      "description": "Chat over SSH.",
+      "language": "Go",
+      "stars": 3586,
+      "forks": 289,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rancher",
+      "name": "rio",
+      "href": "https://github.com/rancher/rio",
+      "description": "Kubernetes based MicroPaaS",
+      "language": "Go",
+      "stars": 1397,
+      "forks": 106,
+      "starsInPeriod": 7
+    }
+  ]
+}
