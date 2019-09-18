@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 4223,
+      "forks": 2333,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "href": "https://github.com/skywind3000/kcp",
+      "description": "KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": 6910,
+      "forks": 1437,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hfiref0x",
+      "name": "UACME",
+      "href": "https://github.com/hfiref0x/UACME",
+      "description": "Defeating Windows User Account Control",
+      "language": "C",
+      "stars": 2151,
+      "forks": 651,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "XorTroll",
+      "name": "Goldleaf",
+      "href": "https://github.com/XorTroll/Goldleaf",
+      "description": "🍂 Multipurpose homebrew tool for Nintendo Switch",
+      "language": "C",
+      "stars": 1145,
+      "forks": 149,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 12402,
+      "forks": 2955,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 80369,
+      "forks": 28044,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 14738,
+      "forks": 8985,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "Azure",
+      "name": "sonic-buildimage",
+      "href": "https://github.com/Azure/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": 171,
+      "forks": 355,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "confluentinc",
+      "name": "confluent-kafka-python",
+      "href": "https://github.com/confluentinc/confluent-kafka-python",
+      "description": "Confluent's Apache Kafka Python client",
+      "language": "C",
+      "stars": 1428,
+      "forks": 368,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "meetecho",
+      "name": "janus-gateway",
+      "href": "https://github.com/meetecho/janus-gateway",
+      "description": "Janus WebRTC Server",
+      "language": "C",
+      "stars": 2934,
+      "forks": 1106,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "axboe",
+      "name": "fio",
+      "href": "https://github.com/axboe/fio",
+      "description": "Flexible I/O Tester",
+      "language": "C",
+      "stars": 1858,
+      "forks": 594,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "href": "https://github.com/radareorg/radare2",
+      "description": "unix-like reverse engineering framework and commandline tools",
+      "language": "C",
+      "stars": 11020,
+      "forks": 1966,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "ShadowsocksR-Live",
+      "name": "shadowsocksr-native",
+      "href": "https://github.com/ShadowsocksR-Live/shadowsocksr-native",
+      "description": "从容翻过中共敏感日 ShadowsocksR (SSR) native implementation for all platforms powered by libuv, GFW terminator",
+      "language": "C",
+      "stars": 503,
+      "forks": 177,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 41092,
+      "forks": 3683,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "aws",
+      "name": "amazon-freertos",
+      "href": "https://github.com/aws/amazon-freertos",
+      "description": "IoT operating system for microcontrollers.",
+      "language": "C",
+      "stars": 1556,
+      "forks": 581,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software.",
+      "language": "C",
+      "stars": 4531,
+      "forks": 783,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "twitter",
+      "name": "twemproxy",
+      "href": "https://github.com/twitter/twemproxy",
+      "description": "A fast, light-weight proxy for memcached and redis",
+      "language": "C",
+      "stars": 9299,
+      "forks": 1684,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "openresty",
+      "name": "openresty",
+      "href": "https://github.com/openresty/openresty",
+      "description": "Turning Nginx into a Full-Fledged Scriptable Web Platform",
+      "language": "C",
+      "stars": 7472,
+      "forks": 1040,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "href": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": 8236,
+      "forks": 3157,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 16620,
+      "forks": 6017,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "ttrftech",
+      "name": "NanoVNA",
+      "href": "https://github.com/ttrftech/NanoVNA",
+      "description": "Very Tiny Palmtop Vector Network Analyzer",
+      "language": "C",
+      "stars": 142,
+      "forks": 48,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "href": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": 14762,
+      "forks": 3235,
+      "starsInPeriod": 57
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "href": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": 2394,
+      "forks": 635,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "shchmue",
+      "name": "Lockpick_RCM",
+      "href": "https://github.com/shchmue/Lockpick_RCM",
+      "description": "Nintendo Switch encryption key derivation bare metal RCM payload",
+      "language": "C",
+      "stars": 169,
+      "forks": 14,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "chyyuu",
+      "name": "ucore_os_lab",
+      "href": "https://github.com/chyyuu/ucore_os_lab",
+      "description": "os kernel labs for operating systems course in Tsinghua University.",
+      "language": "C",
+      "stars": 1892,
+      "forks": 1321,
+      "starsInPeriod": 3
+    }
+  ]
+}
