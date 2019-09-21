@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 15664,
+      "forks": 899,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1513,
+      "forks": 401,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "WeBankFinTech",
+      "name": "Linkis",
+      "href": "https://github.com/WeBankFinTech/Linkis",
+      "description": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, HBase...), exposes various interfaces(REST, WebSocket, Java ...), with multi-tenancy, high performance, and resource control.",
+      "language": "Scala",
+      "stars": 369,
+      "forks": 122,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4256,
+      "forks": 824,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 463,
+      "forks": 65,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4912,
+      "forks": 1030,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7285,
+      "forks": 1290,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10321,
+      "forks": 3098,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 3943,
+      "forks": 762,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "fthomas",
+      "name": "scala-steward",
+      "href": "https://github.com/fthomas/scala-steward",
+      "description": "🤖 A robot that helps you keeping your Scala projects up-to-date",
+      "language": "Scala",
+      "stars": 519,
+      "forks": 242,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 1647,
+      "forks": 490,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 1034,
+      "forks": 499,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "Azure",
+      "name": "mmlspark",
+      "href": "https://github.com/Azure/mmlspark",
+      "description": "Microsoft Machine Learning for Apache Spark",
+      "language": "Scala",
+      "stars": 1661,
+      "forks": 358,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 382,
+      "forks": 248,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "JohnSnowLabs",
+      "name": "spark-nlp",
+      "href": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "State of the Art Natural Language Processing",
+      "language": "Scala",
+      "stars": 830,
+      "forks": 186,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4389,
+      "forks": 940,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5679,
+      "forks": 305,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 903,
+      "forks": 227,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 7948,
+      "forks": 1938,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 12119,
+      "forks": 2795,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client",
+      "language": "Scala",
+      "stars": 1398,
+      "forks": 563,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1761,
+      "forks": 386,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "softwaremill",
+      "name": "diffx",
+      "href": "https://github.com/softwaremill/diffx",
+      "description": "Pretty diffs for scala case classes",
+      "language": "Scala",
+      "stars": 44,
+      "forks": 4,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "apache",
+      "name": "predictionio",
+      "href": "https://github.com/apache/predictionio",
+      "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+      "language": "Scala",
+      "stars": 12075,
+      "forks": 1976,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "wavesplatform",
+      "name": "Waves",
+      "href": "https://github.com/wavesplatform/Waves",
+      "description": "Waves Node application",
+      "language": "Scala",
+      "stars": 990,
+      "forks": 325,
+      "starsInPeriod": 3
+    }
+  ]
+}
