@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5236,
+      "forks": 946,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "panjf2000",
+      "name": "gnet",
+      "href": "https://github.com/panjf2000/gnet",
+      "description": "⚡️A high-performance, lightweight, nonblocking and event-loop networking library written in pure Go.🔥",
+      "language": "Go",
+      "stars": 576,
+      "forks": 33,
+      "starsInPeriod": 171
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 20888,
+      "forks": 4766,
+      "starsInPeriod": 118
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9475,
+      "forks": 1894,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 48004,
+      "forks": 6337,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place",
+      "language": "Go",
+      "stars": 3464,
+      "forks": 259,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3090,
+      "forks": 2763,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12429,
+      "forks": 1444,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 9921,
+      "forks": 1739,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 3162,
+      "forks": 337,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 9219,
+      "forks": 2620,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5335,
+      "forks": 1068,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 9752,
+      "forks": 852,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "txthinking",
+      "name": "brook",
+      "href": "https://github.com/txthinking/brook",
+      "description": "Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software",
+      "language": "Go",
+      "stars": 9854,
+      "forks": 1895,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 8341,
+      "forks": 1523,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4306,
+      "forks": 511,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 7213,
+      "forks": 499,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9370,
+      "forks": 2547,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kakao-recruit",
+      "name": "2019-blind-2nd-elevator",
+      "href": "https://github.com/kakao-recruit/2019-blind-2nd-elevator",
+      "description": "2019 카카오 블라인드 공채 2차 오프라인 Elevator 문제입니다.",
+      "language": "Go",
+      "stars": 89,
+      "forks": 33,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5154,
+      "forks": 1283,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 3362,
+      "forks": 592,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 63708,
+      "forks": 8917,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "rs",
+      "name": "zerolog",
+      "href": "https://github.com/rs/zerolog",
+      "description": "Zero Allocation JSON Logger",
+      "language": "Go",
+      "stars": 2364,
+      "forks": 160,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8504,
+      "forks": 754,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 11025,
+      "forks": 770,
+      "starsInPeriod": 43
+    }
+  ]
+}
