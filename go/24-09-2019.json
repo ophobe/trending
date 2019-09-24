@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dgraph-io",
+      "name": "ristretto",
+      "href": "https://github.com/dgraph-io/ristretto",
+      "description": "A high performance memory-bound Go cache",
+      "language": "Go",
+      "stars": 873,
+      "forks": 43,
+      "starsInPeriod": 163
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5352,
+      "forks": 1071,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 16018,
+      "forks": 1765,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 9857,
+      "forks": 854,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1676,
+      "forks": 458,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "elastic",
+      "name": "go-elasticsearch",
+      "href": "https://github.com/elastic/go-elasticsearch",
+      "description": "The official Go client for Elasticsearch",
+      "language": "Go",
+      "stars": 1710,
+      "forks": 129,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 21428,
+      "forks": 4862,
+      "starsInPeriod": 252
+    },
+    {
+      "author": "shirou",
+      "name": "gopsutil",
+      "href": "https://github.com/shirou/gopsutil",
+      "description": "psutil for golang",
+      "language": "Go",
+      "stars": 4087,
+      "forks": 751,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-ldap",
+      "name": "ldap",
+      "href": "https://github.com/go-ldap/ldap",
+      "description": "Basic LDAP v3 functionality for the GO programming language.",
+      "language": "Go",
+      "stars": 830,
+      "forks": 174,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "securego",
+      "name": "gosec",
+      "href": "https://github.com/securego/gosec",
+      "description": "Golang security checker",
+      "language": "Go",
+      "stars": 2723,
+      "forks": 193,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 17039,
+      "forks": 1927,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12702,
+      "forks": 1053,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "asaskevich",
+      "name": "govalidator",
+      "href": "https://github.com/asaskevich/govalidator",
+      "description": "[Go] Package of validators and sanitizers for strings, numerics, slices and structs",
+      "language": "Go",
+      "stars": 3701,
+      "forks": 373,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 3748,
+      "forks": 336,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9520,
+      "forks": 1899,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "href": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": 1731,
+      "forks": 326,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17314,
+      "forks": 2999,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "gomodule",
+      "name": "redigo",
+      "href": "https://github.com/gomodule/redigo",
+      "description": "Go client for Redis",
+      "language": "Go",
+      "stars": 6491,
+      "forks": 955,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "syndtr",
+      "name": "goleveldb",
+      "href": "https://github.com/syndtr/goleveldb",
+      "description": "LevelDB key/value database in Go.",
+      "language": "Go",
+      "stars": 3270,
+      "forks": 475,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 8353,
+      "forks": 1524,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 6915,
+      "forks": 907,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 2031,
+      "forks": 251,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 6931,
+      "forks": 897,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 1381,
+      "forks": 583,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4332,
+      "forks": 811,
+      "starsInPeriod": 6
+    }
+  ]
+}
