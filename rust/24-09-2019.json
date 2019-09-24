@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rustasync",
+      "name": "tide",
+      "href": "https://github.com/rustasync/tide",
+      "description": "Empowering everyone to build HTTP Services",
+      "language": "Rust",
+      "stars": 1179,
+      "forks": 105,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 712,
+      "forks": 80,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cli",
+      "href": "https://github.com/getsentry/sentry-cli",
+      "description": "A command line utility to work with Sentry.",
+      "language": "Rust",
+      "stars": 403,
+      "forks": 95,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "weld-project",
+      "name": "weld",
+      "href": "https://github.com/weld-project/weld",
+      "description": "High-performance runtime for data analytics applications",
+      "language": "Rust",
+      "stars": 1750,
+      "forks": 169,
+      "starsInPeriod": 114
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 631,
+      "forks": 187,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1487,
+      "forks": 396,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 110,
+      "forks": 46,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5620,
+      "forks": 1325,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 2896,
+      "forks": 96,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 2672,
+      "forks": 109,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "OneSignal",
+      "name": "L3-37",
+      "href": "https://github.com/OneSignal/L3-37",
+      "description": "Yet another Tokio connection pooler. May cause robot uprising.",
+      "language": "Rust",
+      "stars": 37,
+      "forks": 9,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower-grpc",
+      "href": "https://github.com/tower-rs/tower-grpc",
+      "description": "A gRPC client & server implementation.",
+      "language": "Rust",
+      "stars": 501,
+      "forks": 67,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower-http",
+      "href": "https://github.com/tower-rs/tower-http",
+      "description": "HTTP specific Tower utilities.",
+      "language": "Rust",
+      "stars": 28,
+      "forks": 13,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "fn(Request) -> Future<Response>",
+      "language": "Rust",
+      "stars": 753,
+      "forks": 58,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 350,
+      "forks": 421,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "carllerche",
+      "name": "tokio-connect",
+      "href": "https://github.com/carllerche/tokio-connect",
+      "description": "Connect an AsyncRead + AsyncWrite",
+      "language": "Rust",
+      "stars": 8,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "RustSec",
+      "name": "advisory-db",
+      "href": "https://github.com/RustSec/advisory-db",
+      "description": "Security advisory database for Rust crates published through crates.io",
+      "language": "",
+      "stars": 228,
+      "forks": 43,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "anp",
+      "name": "moxie",
+      "href": "https://github.com/anp/moxie",
+      "description": "lightweight platform-agnostic tools for declarative UI",
+      "language": "Rust",
+      "stars": 279,
+      "forks": 8,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower-h2",
+      "href": "https://github.com/tower-rs/tower-h2",
+      "description": "An HTTP/2.0 client and server `Service` implementation.",
+      "language": "Rust",
+      "stars": 78,
+      "forks": 17,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "10XGenomics",
+      "name": "bamtofastq",
+      "href": "https://github.com/10XGenomics/bamtofastq",
+      "description": "Convert 10x BAM files to the original FASTQs compatible with 10x pipelines",
+      "language": "Rust",
+      "stars": 9,
+      "forks": 1,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "xiph",
+      "name": "rav1e",
+      "href": "https://github.com/xiph/rav1e",
+      "description": "The fastest and safest AV1 encoder.",
+      "language": "Rust",
+      "stars": 1464,
+      "forks": 106,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-rust",
+      "href": "https://github.com/shadowsocks/shadowsocks-rust",
+      "description": "A Rust port of shadowsocks",
+      "language": "Rust",
+      "stars": 1229,
+      "forks": 312,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gyscos",
+      "name": "zstd-rs",
+      "href": "https://github.com/gyscos/zstd-rs",
+      "description": "A rust binding for the zstd compression library.",
+      "language": "Rust",
+      "stars": 82,
+      "forks": 12,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "Spotifyd",
+      "name": "spotifyd",
+      "href": "https://github.com/Spotifyd/spotifyd",
+      "description": "A spotify daemon",
+      "language": "Rust",
+      "stars": 2056,
+      "forks": 107,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2108,
+      "forks": 180,
+      "starsInPeriod": 2
+    }
+  ]
+}
