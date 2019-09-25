@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "eth0izzle",
+      "name": "shhgit",
+      "href": "https://github.com/eth0izzle/shhgit",
+      "description": "Find GitHub secrets in real time",
+      "language": "Go",
+      "stars": 461,
+      "forks": 42,
+      "starsInPeriod": 109
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 11746,
+      "forks": 408,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 26553,
+      "forks": 3853,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 2634,
+      "forks": 319,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 54999,
+      "forks": 15868,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 1619,
+      "forks": 401,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 9997,
+      "forks": 859,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 16099,
+      "forks": 1771,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5393,
+      "forks": 1073,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17323,
+      "forks": 3002,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 58175,
+      "forks": 20356,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 2373,
+      "forks": 1002,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 5034,
+      "forks": 2298,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "sql-machine-learning",
+      "name": "sqlflow",
+      "href": "https://github.com/sql-machine-learning/sqlflow",
+      "description": "Brings SQL and AI together.",
+      "language": "Go",
+      "stars": 3079,
+      "forks": 451,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 15602,
+      "forks": 1252,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "bilibili",
+      "name": "kratos",
+      "href": "https://github.com/bilibili/kratos",
+      "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+      "language": "Go",
+      "stars": 6624,
+      "forks": 1471,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 13981,
+      "forks": 4526,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "coreos",
+      "name": "clair",
+      "href": "https://github.com/coreos/clair",
+      "description": "Vulnerability Static Analysis for Containers",
+      "language": "Go",
+      "stars": 5718,
+      "forks": 747,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "href": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": 1742,
+      "forks": 326,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "banzaicloud",
+      "name": "bank-vaults",
+      "href": "https://github.com/banzaicloud/bank-vaults",
+      "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+      "language": "Go",
+      "stars": 652,
+      "forks": 125,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "dgraph-io",
+      "name": "ristretto",
+      "href": "https://github.com/dgraph-io/ristretto",
+      "description": "A high performance memory-bound Go cache",
+      "language": "Go",
+      "stars": 970,
+      "forks": 48,
+      "starsInPeriod": 128
+    },
+    {
+      "author": "aelsabbahy",
+      "name": "goss",
+      "href": "https://github.com/aelsabbahy/goss",
+      "description": "Quick and Easy server testing/validation",
+      "language": "Go",
+      "stars": 3378,
+      "forks": 281,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6752,
+      "forks": 3913,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "spark-on-k8s-operator",
+      "href": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+      "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.",
+      "language": "Go",
+      "stars": 721,
+      "forks": 258,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 17048,
+      "forks": 1930,
+      "starsInPeriod": 11
+    }
+  ]
+}
