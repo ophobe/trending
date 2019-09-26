@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "Allenxuxu",
+      "name": "gev",
+      "href": "https://github.com/Allenxuxu/gev",
+      "description": "gev is a lightweight, fast non-blocking TCP network library based on Reactor mode.",
+      "language": "Go",
+      "stars": 314,
+      "forks": 26,
+      "starsInPeriod": 109
+    },
+    {
+      "author": "eth0izzle",
+      "name": "shhgit",
+      "href": "https://github.com/eth0izzle/shhgit",
+      "description": "Ah shhgit! Find GitHub secrets in real time",
+      "language": "Go",
+      "stars": 671,
+      "forks": 54,
+      "starsInPeriod": 96
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1686,
+      "forks": 462,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 2056,
+      "forks": 251,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 2663,
+      "forks": 322,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5403,
+      "forks": 1072,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 16117,
+      "forks": 1776,
+      "starsInPeriod": 83
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9543,
+      "forks": 1903,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "zricethezav",
+      "name": "gitleaks",
+      "href": "https://github.com/zricethezav/gitleaks",
+      "description": "Audit git repos for secrets 🔑",
+      "language": "Go",
+      "stars": 5124,
+      "forks": 362,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15301,
+      "forks": 1740,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 11916,
+      "forks": 412,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "controller-runtime",
+      "href": "https://github.com/kubernetes-sigs/controller-runtime",
+      "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+      "language": "Go",
+      "stars": 349,
+      "forks": 195,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "michenriksen",
+      "name": "gitrob",
+      "href": "https://github.com/michenriksen/gitrob",
+      "description": "Reconnaissance tool for GitHub organizations",
+      "language": "Go",
+      "stars": 4013,
+      "forks": 551,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus",
+      "language": "Go",
+      "stars": 1189,
+      "forks": 69,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 3486,
+      "forks": 487,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "href": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": 1855,
+      "forks": 194,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 21716,
+      "forks": 4928,
+      "starsInPeriod": 139
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17332,
+      "forks": 3006,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 3132,
+      "forks": 244,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8538,
+      "forks": 755,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 9868,
+      "forks": 3034,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3379,
+      "forks": 362,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4341,
+      "forks": 813,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 2578,
+      "forks": 979,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 17483,
+      "forks": 4871,
+      "starsInPeriod": 16
+    }
+  ]
+}
