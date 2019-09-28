@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 31644,
+      "forks": 3637,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 14897,
+      "forks": 1565,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15324,
+      "forks": 1746,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12490,
+      "forks": 1455,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "lib",
+      "name": "pq",
+      "href": "https://github.com/lib/pq",
+      "description": "Pure Go Postgres driver for database/sql",
+      "language": "Go",
+      "stars": 5297,
+      "forks": 671,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1718,
+      "forks": 463,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 2703,
+      "forks": 324,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 15137,
+      "forks": 1383,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 4154,
+      "forks": 1138,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 58301,
+      "forks": 20397,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "rudderlabs",
+      "name": "rudder-server",
+      "href": "https://github.com/rudderlabs/rudder-server",
+      "description": "Privacy and Security focused Segment-alternative, in Golang and React",
+      "language": "Go",
+      "stars": 637,
+      "forks": 14,
+      "starsInPeriod": 497
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 17536,
+      "forks": 4879,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "ThreeDotsLabs",
+      "name": "watermill",
+      "href": "https://github.com/ThreeDotsLabs/watermill",
+      "description": "Building event-driven applications easy way in Go.",
+      "language": "Go",
+      "stars": 1033,
+      "forks": 48,
+      "starsInPeriod": 110
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4345,
+      "forks": 813,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "sql-machine-learning",
+      "name": "sqlflow",
+      "href": "https://github.com/sql-machine-learning/sqlflow",
+      "description": "Brings SQL and AI together.",
+      "language": "Go",
+      "stars": 3114,
+      "forks": 458,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "sample-controller",
+      "href": "https://github.com/kubernetes/sample-controller",
+      "description": "Repository for sample controller. Complements sample-apiserver",
+      "language": "Go",
+      "stars": 867,
+      "forks": 349,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 765,
+      "forks": 284,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "nginxinc",
+      "name": "kubernetes-ingress",
+      "href": "https://github.com/nginxinc/kubernetes-ingress",
+      "description": "NGINX and NGINX Plus Ingress Controllers for Kubernetes",
+      "language": "Go",
+      "stars": 1932,
+      "forks": 790,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 2908,
+      "forks": 327,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 3500,
+      "forks": 492,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55027,
+      "forks": 15879,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 17149,
+      "forks": 2572,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 9113,
+      "forks": 950,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6570,
+      "forks": 668,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 7810,
+      "forks": 597,
+      "starsInPeriod": 9
+    }
+  ]
+}
