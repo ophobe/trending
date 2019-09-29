@@ -1,0 +1,34 @@
+{
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "fsharp",
+      "href": "https://github.com/dotnet/fsharp",
+      "description": "The F# compiler, FSharp.Core library, and tools for F#",
+      "language": "F#",
+      "stars": 1960,
+      "forks": 480,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "fsprojects",
+      "name": "FSharp.Data.Adaptive",
+      "href": "https://github.com/fsprojects/FSharp.Data.Adaptive",
+      "description": "On-demand adaptive/incremental data for F#",
+      "language": "F#",
+      "stars": 45,
+      "forks": 1,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "aardvark-platform",
+      "name": "aardvark.docs",
+      "href": "https://github.com/aardvark-platform/aardvark.docs",
+      "description": "Simple examples combining multiple packages provided by the aardvark platform. Each platform repository comes with separate examples -- here we collect overarching examples using for example aardvark.rendering and aardvark.media.",
+      "language": "F#",
+      "stars": 73,
+      "forks": 4,
+      "starsInPeriod": 40
+    }
+  ]
+}
