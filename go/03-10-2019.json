@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12547,
+      "forks": 1460,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "hcl",
+      "href": "https://github.com/hashicorp/hcl",
+      "description": "HCL is the HashiCorp configuration language.",
+      "language": "Go",
+      "stars": 2539,
+      "forks": 246,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5181,
+      "forks": 1288,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1759,
+      "forks": 280,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "spark-on-k8s-operator",
+      "href": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+      "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.",
+      "language": "Go",
+      "stars": 735,
+      "forks": 259,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Privileged access management for elastic infrastructure.",
+      "language": "Go",
+      "stars": 7484,
+      "forks": 509,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "cri-o",
+      "name": "cri-o",
+      "href": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "language": "Go",
+      "stars": 2013,
+      "forks": 355,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7442,
+      "forks": 2824,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "runatlantis",
+      "name": "atlantis",
+      "href": "https://github.com/runatlantis/atlantis",
+      "description": "Terraform Pull Request Automation",
+      "language": "Go",
+      "stars": 2151,
+      "forks": 230,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 4210,
+      "forks": 685,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 3157,
+      "forks": 246,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-gorp",
+      "name": "gorp",
+      "href": "https://github.com/go-gorp/gorp",
+      "description": "Go Relational Persistence - an ORM-ish library for Go",
+      "language": "Go",
+      "stars": 3130,
+      "forks": 352,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8589,
+      "forks": 756,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10165,
+      "forks": 1073,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9585,
+      "forks": 1916,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 3545,
+      "forks": 951,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 16342,
+      "forks": 3430,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "tendermint",
+      "name": "tendermint",
+      "href": "https://github.com/tendermint/tendermint",
+      "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+      "language": "Go",
+      "stars": 3262,
+      "forks": 953,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9408,
+      "forks": 2562,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 7320,
+      "forks": 523,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 798,
+      "forks": 619,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1720,
+      "forks": 329,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 6974,
+      "forks": 899,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 6494,
+      "forks": 291,
+      "starsInPeriod": 99
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 3044,
+      "forks": 409,
+      "starsInPeriod": 4
+    }
+  ]
+}
