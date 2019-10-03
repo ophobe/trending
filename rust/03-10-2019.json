@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "mlang",
+      "name": "ronor",
+      "href": "https://github.com/mlang/ronor",
+      "description": "Sonos smart speaker controller API and command-line tools",
+      "language": "Rust",
+      "stars": 173,
+      "forks": 6,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 463,
+      "forks": 16,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 800,
+      "forks": 92,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "image-rs",
+      "name": "image",
+      "href": "https://github.com/image-rs/image",
+      "description": "Encoding and decoding images in Rust",
+      "language": "Rust",
+      "stars": 1206,
+      "forks": 244,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 5957,
+      "forks": 508,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 263,
+      "forks": 7,
+      "starsInPeriod": 139
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 3088,
+      "forks": 112,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 16374,
+      "forks": 683,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1409,
+      "forks": 101,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "habitat-sh",
+      "name": "habitat",
+      "href": "https://github.com/habitat-sh/habitat",
+      "description": "Modern applications with built-in automation",
+      "language": "Rust",
+      "stars": 2059,
+      "forks": 307,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "Data-oriented Rust UI design toolkit.",
+      "language": "Rust",
+      "stars": 653,
+      "forks": 41,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "alexcrichton",
+      "name": "mio-named-pipes",
+      "href": "https://github.com/alexcrichton/mio-named-pipes",
+      "description": "Windows named pipes bindings for mio",
+      "language": "Rust",
+      "stars": 10,
+      "forks": 4,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A low-overhead Vulkan-like GPU API for Rust.",
+      "language": "Rust",
+      "stars": 3384,
+      "forks": 394,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 16764,
+      "forks": 619,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rust-windowing",
+      "name": "winit",
+      "href": "https://github.com/rust-windowing/winit",
+      "description": "Window handling library in pure Rust",
+      "language": "Rust",
+      "stars": 846,
+      "forks": 254,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "fn(Request) -> Future<Response>",
+      "language": "Rust",
+      "stars": 763,
+      "forks": 58,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower-http",
+      "href": "https://github.com/tower-rs/tower-http",
+      "description": "HTTP specific Tower utilities.",
+      "language": "Rust",
+      "stars": 30,
+      "forks": 13,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower-grpc",
+      "href": "https://github.com/tower-rs/tower-grpc",
+      "description": "A gRPC client & server implementation.",
+      "language": "Rust",
+      "stars": 506,
+      "forks": 70,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 304,
+      "forks": 34,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 356,
+      "forks": 423,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "oasislabs",
+      "name": "oasis-parity",
+      "href": "https://github.com/oasislabs/oasis-parity",
+      "description": "Forked from https://github.com/paritytech/parity-ethereum",
+      "language": "Rust",
+      "stars": 2,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "NikVolf",
+      "name": "parity-tokio-ipc",
+      "href": "https://github.com/NikVolf/parity-tokio-ipc",
+      "description": "Parity tokio-ipc",
+      "language": "Rust",
+      "stars": 22,
+      "forks": 13,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "oasislabs",
+      "name": "wasmi",
+      "href": "https://github.com/oasislabs/wasmi",
+      "description": "Wasm interpreter in Rust https://paritytech.github.io/wasmi/. Forked from paritytech/wasmi",
+      "language": "Rust",
+      "stars": 1,
+      "forks": 0,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "amethyst",
+      "name": "space_shooter_rs",
+      "href": "https://github.com/amethyst/space_shooter_rs",
+      "description": "A space shooter game made with Amethyst and Rust.",
+      "language": "Rust",
+      "stars": 61,
+      "forks": 5,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "elastic-rs",
+      "name": "elastic",
+      "href": "https://github.com/elastic-rs/elastic",
+      "description": "An Elasticsearch REST API client for Rust",
+      "language": "Rust",
+      "stars": 188,
+      "forks": 33,
+      "starsInPeriod": 0
+    }
+  ]
+}
