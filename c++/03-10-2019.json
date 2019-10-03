@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "href": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 135355,
+      "forks": 77707,
+      "starsInPeriod": 110
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "href": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": 10003,
+      "forks": 1650,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "href": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
+      "language": "C++",
+      "stars": 1217,
+      "forks": 286,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "href": "https://github.com/google/googletest",
+      "description": "Googletest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 12988,
+      "forks": 5212,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "href": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": 24757,
+      "forks": 4804,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "href": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover source",
+      "language": "C++",
+      "stars": 4310,
+      "forks": 8320,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "Xilinx",
+      "name": "SDAccel_Examples",
+      "href": "https://github.com/Xilinx/SDAccel_Examples",
+      "description": "SDAccel Examples",
+      "language": "C++",
+      "stars": 270,
+      "forks": 168,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "mavlink",
+      "name": "mavros",
+      "href": "https://github.com/mavlink/mavros",
+      "description": "MAVLink to ROS gateway with proxy for Ground Control Station",
+      "language": "C++",
+      "stars": 324,
+      "forks": 573,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "NervanaSystems",
+      "name": "ngraph",
+      "href": "https://github.com/NervanaSystems/ngraph",
+      "description": "nGraph - open source C++ library, compiler and runtime for Deep Learning",
+      "language": "C++",
+      "stars": 1079,
+      "forks": 158,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "AGWA",
+      "name": "git-crypt",
+      "href": "https://github.com/AGWA/git-crypt",
+      "description": "Transparent file encryption in git",
+      "language": "C++",
+      "stars": 4127,
+      "forks": 270,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Juniper",
+      "name": "contrail-controller",
+      "href": "https://github.com/Juniper/contrail-controller",
+      "description": "Contrail Controller",
+      "language": "C++",
+      "stars": 418,
+      "forks": 379,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C-Plus-Plus",
+      "href": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "description": "All Algorithms implemented in C++",
+      "language": "C++",
+      "stars": 3051,
+      "forks": 1115,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "microsoft",
+      "name": "cpprestsdk",
+      "href": "https://github.com/microsoft/cpprestsdk",
+      "description": "The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.",
+      "language": "C++",
+      "stars": 4480,
+      "forks": 1112,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "google",
+      "name": "re2",
+      "href": "https://github.com/google/re2",
+      "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+      "language": "C++",
+      "stars": 4082,
+      "forks": 612,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "telegramdesktop",
+      "name": "tdesktop",
+      "href": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars": 10412,
+      "forks": 2461,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "ericniebler",
+      "name": "range-v3",
+      "href": "https://github.com/ericniebler/range-v3",
+      "description": "Range library for C++14/17/20, basis for C++20's std::ranges",
+      "language": "C++",
+      "stars": 2389,
+      "forks": 248,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "realsense-ros",
+      "href": "https://github.com/IntelRealSense/realsense-ros",
+      "description": "Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module",
+      "language": "C++",
+      "stars": 587,
+      "forks": 543,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "microsoft",
+      "name": "Azure-Kinect-Sensor-SDK",
+      "href": "https://github.com/microsoft/Azure-Kinect-Sensor-SDK",
+      "description": "A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.",
+      "language": "C++",
+      "stars": 385,
+      "forks": 129,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "HowardHinnant",
+      "name": "date",
+      "href": "https://github.com/HowardHinnant/date",
+      "description": "A date and time library based on the C++11/14/17 <chrono> header",
+      "language": "C++",
+      "stars": 1508,
+      "forks": 319,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "whoshuu",
+      "name": "cpr",
+      "href": "https://github.com/whoshuu/cpr",
+      "description": "C++ Requests: Curl for People, a spiritual port of Python Requests",
+      "language": "C++",
+      "stars": 2428,
+      "forks": 425,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ros-industrial",
+      "name": "ur_modern_driver",
+      "href": "https://github.com/ros-industrial/ur_modern_driver",
+      "description": "ROS driver for CB1, CB2 and CB3 controllers with UR3, UR5 or UR10 robots from Universal Robots",
+      "language": "C++",
+      "stars": 215,
+      "forks": 297,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "p4lang",
+      "name": "p4c",
+      "href": "https://github.com/p4lang/p4c",
+      "description": "P4_16 prototype compiler",
+      "language": "C++",
+      "stars": 202,
+      "forks": 148,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "dusty-nv",
+      "name": "jetson-inference",
+      "href": "https://github.com/dusty-nv/jetson-inference",
+      "description": "Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+      "language": "C++",
+      "stars": 2231,
+      "forks": 929,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "skypjack",
+      "name": "entt",
+      "href": "https://github.com/skypjack/entt",
+      "description": "Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more",
+      "language": "C++",
+      "stars": 2158,
+      "forks": 191,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "href": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Contract-Oriented Programming Language",
+      "language": "C++",
+      "stars": 7292,
+      "forks": 2010,
+      "starsInPeriod": 3
+    }
+  ]
+}
