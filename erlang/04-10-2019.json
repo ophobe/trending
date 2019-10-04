@@ -1,0 +1,214 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 303,
+      "forks": 133,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "uwiger",
+      "name": "setup",
+      "href": "https://github.com/uwiger/setup",
+      "description": "Generic setup utility for Erlang-based systems",
+      "language": "Erlang",
+      "stars": 56,
+      "forks": 45,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-erlang-client",
+      "href": "https://github.com/rabbitmq/rabbitmq-erlang-client",
+      "description": "Erlang client for RabbitMQ",
+      "language": "Erlang",
+      "stars": 169,
+      "forks": 122,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-prometheus",
+      "href": "https://github.com/rabbitmq/rabbitmq-prometheus",
+      "description": "An up-and-coming minimalistic Prometheus exporter for core (unaggregated) RabbitMQ metrics",
+      "language": "Erlang",
+      "stars": 7,
+      "forks": 4,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 197,
+      "forks": 73,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-ct-helpers",
+      "href": "https://github.com/rabbitmq/rabbitmq-ct-helpers",
+      "description": "Common Test helpers for RabbitMQ",
+      "language": "Erlang",
+      "stars": 6,
+      "forks": 16,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management-agent",
+      "href": "https://github.com/rabbitmq/rabbitmq-management-agent",
+      "description": "RabbitMQ Management Agent",
+      "language": "Erlang",
+      "stars": 15,
+      "forks": 13,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-federation",
+      "href": "https://github.com/rabbitmq/rabbitmq-federation",
+      "description": "RabbitMQ Federation plugin",
+      "language": "Erlang",
+      "stars": 36,
+      "forks": 19,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-amqp1.0",
+      "href": "https://github.com/rabbitmq/rabbitmq-amqp1.0",
+      "description": "AMQP 1.0 support for RabbitMQ",
+      "language": "Erlang",
+      "stars": 80,
+      "forks": 16,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6298,
+      "forks": 1980,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-common",
+      "href": "https://github.com/rabbitmq/rabbitmq-common",
+      "description": "Common library used by rabbitmq-server and rabbitmq-erlang-client",
+      "language": "Erlang",
+      "stars": 53,
+      "forks": 100,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "openx",
+      "name": "ox-thrift",
+      "href": "https://github.com/openx/ox-thrift",
+      "description": "Erlang Thrift encoder/decoder library optimized for efficiency",
+      "language": "Erlang",
+      "stars": 6,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5076,
+      "forks": 964,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-auth-backend-oauth2",
+      "href": "https://github.com/rabbitmq/rabbitmq-auth-backend-oauth2",
+      "description": "RabbitMQ authorization backend that uses OAuth 2.0 (JWT) tokens",
+      "language": "Erlang",
+      "stars": 21,
+      "forks": 8,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "okeuday",
+      "name": "trie",
+      "href": "https://github.com/okeuday/trie",
+      "description": "Erlang Trie Implementation",
+      "language": "Erlang",
+      "stars": 110,
+      "forks": 28,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lpgauth",
+      "name": "shackle",
+      "href": "https://github.com/lpgauth/shackle",
+      "description": "High-Performance Erlang Network Client Framework",
+      "language": "Erlang",
+      "stars": 147,
+      "forks": 30,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rbkmoney",
+      "name": "machinery",
+      "href": "https://github.com/rbkmoney/machinery",
+      "description": "Machinegun client/processor handler lib",
+      "language": "Erlang",
+      "stars": 1,
+      "forks": 1,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-amqp1.0-client",
+      "href": "https://github.com/rabbitmq/rabbitmq-amqp1.0-client",
+      "description": "Erlang AMQP 1.0 client",
+      "language": "Erlang",
+      "stars": 9,
+      "forks": 14,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlang-lager",
+      "name": "lager",
+      "href": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1003,
+      "forks": 443,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "openx",
+      "name": "rebar3_build_rpm",
+      "href": "https://github.com/openx/rebar3_build_rpm",
+      "description": "Rebar 3 template for building an RPM of a release.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "aeternity",
+      "name": "mnesia_rocksdb",
+      "href": "https://github.com/aeternity/mnesia_rocksdb",
+      "description": "A RocksDB backend plugin for mnesia, based on mnesia_eleveldb",
+      "language": "Erlang",
+      "stars": 60,
+      "forks": 11,
+      "starsInPeriod": 0
+    }
+  ]
+}
