@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "globocom",
+      "name": "huskyCI",
+      "href": "https://github.com/globocom/huskyCI",
+      "description": "Performing security tests inside your CI",
+      "language": "Go",
+      "stars": 103,
+      "forks": 24,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1727,
+      "forks": 331,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd2",
+      "href": "https://github.com/linkerd/linkerd2",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.",
+      "language": "Go",
+      "stars": 4617,
+      "forks": 422,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 17526,
+      "forks": 1825,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "href": "https://github.com/aquasecurity/trivy",
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+      "language": "Go",
+      "stars": 2268,
+      "forks": 160,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 12001,
+      "forks": 959,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 6524,
+      "forks": 292,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "golang",
+      "name": "mock",
+      "href": "https://github.com/golang/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": 3079,
+      "forks": 283,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8595,
+      "forks": 756,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pusher",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/pusher/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers. #Hacktoberfest",
+      "language": "Go",
+      "stars": 895,
+      "forks": 202,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2555,
+      "forks": 265,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "facebookincubator",
+      "name": "ent",
+      "href": "https://github.com/facebookincubator/ent",
+      "description": "An entity framework for Go",
+      "language": "Go",
+      "stars": 403,
+      "forks": 19,
+      "starsInPeriod": 142
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12581,
+      "forks": 1462,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "insight-chain",
+      "name": "inb-go",
+      "href": "https://github.com/insight-chain/inb-go",
+      "description": "Official Go implementation of the Insight Chain(INB)",
+      "language": "Go",
+      "stars": 217,
+      "forks": 28,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10166,
+      "forks": 1074,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "salesforce",
+      "name": "sloop",
+      "href": "https://github.com/salesforce/sloop",
+      "description": "Kubernetes History Visualization",
+      "language": "Go",
+      "stars": 250,
+      "forks": 14,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "eclipse",
+      "name": "paho.mqtt.golang",
+      "href": "https://github.com/eclipse/paho.mqtt.golang",
+      "description": null,
+      "language": "Go",
+      "stars": 951,
+      "forks": 260,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "go-gorp",
+      "name": "gorp",
+      "href": "https://github.com/go-gorp/gorp",
+      "description": "Go Relational Persistence - an ORM-ish library for Go",
+      "language": "Go",
+      "stars": 3133,
+      "forks": 352,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1135,
+      "forks": 1108,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "runatlantis",
+      "name": "atlantis",
+      "href": "https://github.com/runatlantis/atlantis",
+      "description": "Terraform Pull Request Automation",
+      "language": "Go",
+      "stars": 2159,
+      "forks": 230,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "fullstorydev",
+      "name": "grpcurl",
+      "href": "https://github.com/fullstorydev/grpcurl",
+      "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+      "language": "Go",
+      "stars": 2292,
+      "forks": 99,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5185,
+      "forks": 1289,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "lianxiangcloud",
+      "name": "linkchain",
+      "href": "https://github.com/lianxiangcloud/linkchain",
+      "description": "享云链-郑和版本",
+      "language": "Go",
+      "stars": 142,
+      "forks": 75,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "coreos",
+      "name": "etcd-operator",
+      "href": "https://github.com/coreos/etcd-operator",
+      "description": "etcd operator creates/configures/manages etcd clusters atop Kubernetes",
+      "language": "Go",
+      "stars": 1240,
+      "forks": 442,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "siddontang",
+      "name": "ledisdb",
+      "href": "https://github.com/siddontang/ledisdb",
+      "description": "a high performance NoSQL powered by Go",
+      "language": "Go",
+      "stars": 3120,
+      "forks": 365,
+      "starsInPeriod": 3
+    }
+  ]
+}
