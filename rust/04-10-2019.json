@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 2766,
+      "forks": 115,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 339,
+      "forks": 11,
+      "starsInPeriod": 120
+    },
+    {
+      "author": "cloudhead",
+      "name": "rx",
+      "href": "https://github.com/cloudhead/rx",
+      "description": "Modern pixel editor implemented in rust",
+      "language": "Rust",
+      "stars": 676,
+      "forks": 20,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 3266,
+      "forks": 394,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 9312,
+      "forks": 604,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "interledger-rs",
+      "name": "interledger-rs",
+      "href": "https://github.com/interledger-rs/interledger-rs",
+      "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
+      "language": "Rust",
+      "stars": 71,
+      "forks": 26,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 472,
+      "forks": 16,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "href": "https://github.com/denoland/deno",
+      "description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio",
+      "language": "Rust",
+      "stars": 38663,
+      "forks": 1784,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "fn(Request) -> Future<Response>",
+      "language": "Rust",
+      "stars": 763,
+      "forks": 58,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 307,
+      "forks": 34,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "hawkw",
+      "name": "sharded-slab",
+      "href": "https://github.com/hawkw/sharded-slab",
+      "description": "a lock-free concurrent slab (experimental)",
+      "language": "Rust",
+      "stars": 10,
+      "forks": 0,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 4395,
+      "forks": 1195,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-windowing",
+      "name": "winit",
+      "href": "https://github.com/rust-windowing/winit",
+      "description": "Window handling library in pure Rust",
+      "language": "Rust",
+      "stars": 849,
+      "forks": 256,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 12555,
+      "forks": 1820,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 126,
+      "forks": 47,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 3109,
+      "forks": 113,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "fishinabarrel",
+      "name": "linux-kernel-module-rust",
+      "href": "https://github.com/fishinabarrel/linux-kernel-module-rust",
+      "description": "Framework for writing Linux kernel modules in safe Rust",
+      "language": "Rust",
+      "stars": 489,
+      "forks": 32,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "lpil",
+      "name": "gleam",
+      "href": "https://github.com/lpil/gleam",
+      "description": "✨ A statically typed language for the Erlang VM",
+      "language": "Rust",
+      "stars": 952,
+      "forks": 45,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 3821,
+      "forks": 517,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6177,
+      "forks": 709,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "href": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of libp2p networking stack.",
+      "language": "Rust",
+      "stars": 907,
+      "forks": 175,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1440,
+      "forks": 159,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "Edu4rdSHL",
+      "name": "findomain",
+      "href": "https://github.com/Edu4rdSHL/findomain",
+      "description": "The fastest and cross-platform subdomain enumerator, don't waste your time.",
+      "language": "Rust",
+      "stars": 655,
+      "forks": 77,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 16390,
+      "forks": 686,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "RustSec",
+      "name": "cargo-audit",
+      "href": "https://github.com/RustSec/cargo-audit",
+      "description": "Audit Cargo.lock files for crates with security vulnerabilities",
+      "language": "Rust",
+      "stars": 382,
+      "forks": 15,
+      "starsInPeriod": 10
+    }
+  ]
+}
