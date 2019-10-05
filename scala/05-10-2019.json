@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3510,
+      "forks": 892,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1655,
+      "forks": 303,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4936,
+      "forks": 1035,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1582,
+      "forks": 416,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "databricks",
+      "name": "Spark-The-Definitive-Guide",
+      "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+      "description": "Spark: The Definitive Guide's Code Repository",
+      "language": "Scala",
+      "stars": 966,
+      "forks": 875,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7303,
+      "forks": 1296,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11350,
+      "forks": 3789,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10363,
+      "forks": 3106,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 1663,
+      "forks": 497,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4276,
+      "forks": 827,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 386,
+      "forks": 255,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4405,
+      "forks": 938,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hortonworks-spark",
+      "name": "shc",
+      "href": "https://github.com/hortonworks-spark/shc",
+      "description": "The Apache Spark - Apache HBase Connector is a library to support Spark accessing HBase table as external data source or sink.",
+      "language": "Scala",
+      "stars": 436,
+      "forks": 227,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 475,
+      "forks": 156,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 976,
+      "forks": 219,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 774,
+      "forks": 198,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "mycelium",
+      "name": "hsse-fp-2019-2",
+      "href": "https://github.com/mycelium/hsse-fp-2019-2",
+      "description": "Functional Programming in HSSE 2019-2",
+      "language": "Scala",
+      "stars": 13,
+      "forks": 29,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "alexarchambault",
+      "name": "data-class",
+      "href": "https://github.com/alexarchambault/data-class",
+      "description": "case-classes with better binary compatibility story",
+      "language": "Scala",
+      "stars": 36,
+      "forks": 0,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1540,
+      "forks": 291,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 4512,
+      "forks": 2537,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1211,
+      "forks": 507,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 23692,
+      "forks": 20176,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1775,
+      "forks": 391,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "scaling",
+      "name": "timexla",
+      "href": "https://github.com/scaling/timexla",
+      "description": "Temporal Expression Detection and Resolution",
+      "language": "Scala",
+      "stars": 2,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "Netflix",
+      "name": "atlas",
+      "href": "https://github.com/Netflix/atlas",
+      "description": "In-memory dimensional time series database.",
+      "language": "Scala",
+      "stars": 2488,
+      "forks": 212,
+      "starsInPeriod": 1
+    }
+  ]
+}
