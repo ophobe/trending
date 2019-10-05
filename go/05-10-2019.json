@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "facebookincubator",
+      "name": "ent",
+      "href": "https://github.com/facebookincubator/ent",
+      "description": "An entity framework for Go",
+      "language": "Go",
+      "stars": 509,
+      "forks": 19,
+      "starsInPeriod": 147
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 24182,
+      "forks": 1955,
+      "starsInPeriod": 182
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 26763,
+      "forks": 3899,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5301,
+      "forks": 958,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 11077,
+      "forks": 973,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 25054,
+      "forks": 2637,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "Masterminds",
+      "name": "sprig",
+      "href": "https://github.com/Masterminds/sprig",
+      "description": "Useful template functions for Go templates.",
+      "language": "Go",
+      "stars": 1257,
+      "forks": 158,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "julienschmidt",
+      "name": "httprouter",
+      "href": "https://github.com/julienschmidt/httprouter",
+      "description": "A high performance HTTP request router that scales well",
+      "language": "Go",
+      "stars": 10026,
+      "forks": 997,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9599,
+      "forks": 1920,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12591,
+      "forks": 1462,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 14081,
+      "forks": 1217,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 3164,
+      "forks": 247,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rancher",
+      "name": "rke",
+      "href": "https://github.com/rancher/rke",
+      "description": "Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere.",
+      "language": "Go",
+      "stars": 1506,
+      "forks": 283,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "test-infra",
+      "href": "https://github.com/kubernetes/test-infra",
+      "description": "Test infrastructure for the Kubernetes project.",
+      "language": "Go",
+      "stars": 1617,
+      "forks": 1082,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 3200,
+      "forks": 174,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5188,
+      "forks": 1289,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 3812,
+      "forks": 542,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 3870,
+      "forks": 562,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "jenkins-x",
+      "name": "jx",
+      "href": "https://github.com/jenkins-x/jx",
+      "description": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm",
+      "language": "Go",
+      "stars": 3087,
+      "forks": 555,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "drk1wi",
+      "name": "Modlishka",
+      "href": "https://github.com/drk1wi/Modlishka",
+      "description": "Modlishka. Reverse Proxy.",
+      "language": "Go",
+      "stars": 2379,
+      "forks": 468,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 27993,
+      "forks": 2365,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 2595,
+      "forks": 994,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "globocom",
+      "name": "huskyCI",
+      "href": "https://github.com/globocom/huskyCI",
+      "description": "Performing security tests inside your CI",
+      "language": "Go",
+      "stars": 129,
+      "forks": 27,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17394,
+      "forks": 3018,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "elastic",
+      "name": "go-elasticsearch",
+      "href": "https://github.com/elastic/go-elasticsearch",
+      "description": "The official Go client for Elasticsearch",
+      "language": "Go",
+      "stars": 1751,
+      "forks": 131,
+      "starsInPeriod": 14
+    }
+  ]
+}
