@@ -1,0 +1,104 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6306,
+      "forks": 1982,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "okeuday",
+      "name": "quickrand",
+      "href": "https://github.com/okeuday/quickrand",
+      "description": "Quick Erlang Random Number Generation",
+      "language": "Erlang",
+      "stars": 34,
+      "forks": 10,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-prometheus",
+      "href": "https://github.com/rabbitmq/rabbitmq-prometheus",
+      "description": "An up-and-coming minimalistic Prometheus exporter for core (unaggregated) RabbitMQ metrics",
+      "language": "Erlang",
+      "stars": 7,
+      "forks": 4,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-jms-topic-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-jms-topic-exchange",
+      "description": "Custom exchange that implements JMS topic selection for RabbitMQ",
+      "language": "Erlang",
+      "stars": 8,
+      "forks": 4,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "jcomellas",
+      "name": "getopt",
+      "href": "https://github.com/jcomellas/getopt",
+      "description": "Erlang module to parse command line arguments using the GNU getopt syntax",
+      "language": "Erlang",
+      "stars": 226,
+      "forks": 65,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-aws",
+      "href": "https://github.com/rabbitmq/rabbitmq-aws",
+      "description": "AWS client library used by RabbitMQ subprojects. Originally a fork of httpc-aws by Gavin Roy.",
+      "language": "Erlang",
+      "stars": 1,
+      "forks": 3,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlang",
+      "name": "rebar3",
+      "href": "https://github.com/erlang/rebar3",
+      "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+      "language": "Erlang",
+      "stars": 1070,
+      "forks": 326,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-stomp",
+      "href": "https://github.com/rabbitmq/rabbitmq-stomp",
+      "description": "RabbitMQ STOMP plugin",
+      "language": "Erlang",
+      "stars": 45,
+      "forks": 23,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-event-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-event-exchange",
+      "description": "Expose broker events as messages",
+      "language": "Erlang",
+      "stars": 64,
+      "forks": 15,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 303,
+      "forks": 133,
+      "starsInPeriod": 0
+    }
+  ]
+}
