@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "google",
+      "name": "googletest",
+      "href": "https://github.com/google/googletest",
+      "description": "Googletest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 13070,
+      "forks": 5238,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "href": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": 30258,
+      "forks": 5764,
+      "starsInPeriod": 58
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "href": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": 24921,
+      "forks": 4844,
+      "starsInPeriod": 100
+    },
+    {
+      "author": "alibaba",
+      "name": "oceanbase",
+      "href": "https://github.com/alibaba/oceanbase",
+      "description": "A distributed, shared-nothing relational database",
+      "language": "C++",
+      "stars": 2026,
+      "forks": 755,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "huihut",
+      "name": "interview",
+      "href": "https://github.com/huihut/interview",
+      "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。",
+      "language": "C++",
+      "stars": 7642,
+      "forks": 2450,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "intel",
+      "name": "tbb",
+      "href": "https://github.com/intel/tbb",
+      "description": "Official Threading Building Blocks (TBB) GitHub repository. For Commercial Intel® TBB distribution, please click here: https://software.intel.com/en-us/tbb",
+      "language": "C++",
+      "stars": 1516,
+      "forks": 325,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "raulmur",
+      "name": "ORB_SLAM2",
+      "href": "https://github.com/raulmur/ORB_SLAM2",
+      "description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+      "language": "C++",
+      "stars": 4323,
+      "forks": 2846,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "google",
+      "name": "XNNPACK",
+      "href": "https://github.com/google/XNNPACK",
+      "description": "High-efficiency floating-point neural network inference operators for mobile and Web",
+      "language": "C++",
+      "stars": 109,
+      "forks": 7,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "SerenityOS",
+      "name": "serenity",
+      "href": "https://github.com/SerenityOS/serenity",
+      "description": "Serenity Operating System",
+      "language": "C++",
+      "stars": 2850,
+      "forks": 177,
+      "starsInPeriod": 77
+    },
+    {
+      "author": "rapidsai",
+      "name": "cuml",
+      "href": "https://github.com/rapidsai/cuml",
+      "description": "cuML - RAPIDS Machine Learning Library",
+      "language": "C++",
+      "stars": 742,
+      "forks": 131,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "pytorch",
+      "name": "pytorch",
+      "href": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "C++",
+      "stars": 32160,
+      "forks": 7946,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "href": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 38764,
+      "forks": 28980,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "flutter",
+      "name": "engine",
+      "href": "https://github.com/flutter/engine",
+      "description": "The Flutter engine",
+      "language": "C++",
+      "stars": 3507,
+      "forks": 1786,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "horovod",
+      "name": "horovod",
+      "href": "https://github.com/horovod/horovod",
+      "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+      "language": "C++",
+      "stars": 7604,
+      "forks": 1171,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "href": "https://github.com/NVIDIA/TensorRT",
+      "description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.",
+      "language": "C++",
+      "stars": 1389,
+      "forks": 246,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "changkun",
+      "name": "modern-cpp-tutorial",
+      "href": "https://github.com/changkun/modern-cpp-tutorial",
+      "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
+      "language": "C++",
+      "stars": 4841,
+      "forks": 679,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "href": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+      "language": "C++",
+      "stars": 4595,
+      "forks": 1141,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "wjakob",
+      "name": "nanogui",
+      "href": "https://github.com/wjakob/nanogui",
+      "description": "Minimalistic GUI library for OpenGL",
+      "language": "C++",
+      "stars": 2996,
+      "forks": 475,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "google",
+      "name": "earthenterprise",
+      "href": "https://github.com/google/earthenterprise",
+      "description": "Google Earth Enterprise - Open Source",
+      "language": "C++",
+      "stars": 1983,
+      "forks": 722,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Bhupesh-V",
+      "name": "30-seconds-of-cpp",
+      "href": "https://github.com/Bhupesh-V/30-seconds-of-cpp",
+      "description": "30 Seconds of C++ (STL in C++). Read More about 30C++ here 👉",
+      "language": "C++",
+      "stars": 300,
+      "forks": 177,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Ewenwan",
+      "name": "MVision",
+      "href": "https://github.com/Ewenwan/MVision",
+      "description": "机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶",
+      "language": "C++",
+      "stars": 3148,
+      "forks": 1406,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "OpenRCT2",
+      "name": "OpenRCT2",
+      "href": "https://github.com/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+      "language": "C++",
+      "stars": 7395,
+      "forks": 823,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "href": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": 5978,
+      "forks": 804,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "facebookresearch",
+      "name": "habitat-sim",
+      "href": "https://github.com/facebookresearch/habitat-sim",
+      "description": "A flexible, high-performance 3D simulator for Embodied AI research.",
+      "language": "C++",
+      "stars": 512,
+      "forks": 82,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "href": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": 7757,
+      "forks": 1429,
+      "starsInPeriod": 16
+    }
+  ]
+}
