@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "Snailclimb",
+      "name": "JavaGuide",
+      "href": "https://github.com/Snailclimb/JavaGuide",
+      "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+      "language": "Java",
+      "stars": 57363,
+      "forks": 19209,
+      "starsInPeriod": 306
+    },
+    {
+      "author": "ctripcorp",
+      "name": "apollo",
+      "href": "https://github.com/ctripcorp/apollo",
+      "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。",
+      "language": "Java",
+      "stars": 17418,
+      "forks": 6199,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "alibaba",
+      "name": "easyexcel",
+      "href": "https://github.com/alibaba/easyexcel",
+      "description": "快速、简单避免OOM的java处理Excel工具",
+      "language": "Java",
+      "stars": 9820,
+      "forks": 2557,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "ityouknow",
+      "name": "spring-boot-examples",
+      "href": "https://github.com/ityouknow/spring-boot-examples",
+      "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。",
+      "language": "Java",
+      "stars": 18882,
+      "forks": 8514,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "netty",
+      "name": "netty",
+      "href": "https://github.com/netty/netty",
+      "description": "Netty project - an event-driven asynchronous network application framework",
+      "language": "Java",
+      "stars": 21007,
+      "forks": 9739,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall",
+      "href": "https://github.com/macrozheng/mall",
+      "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+      "language": "Java",
+      "stars": 22778,
+      "forks": 9123,
+      "starsInPeriod": 134
+    },
+    {
+      "author": "CyC2018",
+      "name": "CS-Notes",
+      "href": "https://github.com/CyC2018/CS-Notes",
+      "description": "📚 Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计",
+      "language": "Java",
+      "stars": 80011,
+      "forks": 25546,
+      "starsInPeriod": 147
+    },
+    {
+      "author": "hankcs",
+      "name": "HanLP",
+      "href": "https://github.com/hankcs/HanLP",
+      "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁",
+      "language": "Java",
+      "stars": 15111,
+      "forks": 4279,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "alibaba",
+      "name": "fastjson",
+      "href": "https://github.com/alibaba/fastjson",
+      "description": "🚄 A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )",
+      "language": "Java",
+      "stars": 19533,
+      "forks": 5272,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "apache",
+      "name": "incubator-dolphinscheduler",
+      "href": "https://github.com/apache/incubator-dolphinscheduler",
+      "description": "Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.",
+      "language": "Java",
+      "stars": 2460,
+      "forks": 764,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "apache",
+      "name": "dubbo",
+      "href": "https://github.com/apache/dubbo",
+      "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+      "language": "Java",
+      "stars": 29468,
+      "forks": 19335,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-boot",
+      "href": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot",
+      "language": "Java",
+      "stars": 42394,
+      "forks": 27141,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "xkcoding",
+      "name": "spring-boot-demo",
+      "href": "https://github.com/xkcoding/spring-boot-demo",
+      "description": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成demo，已经完成 52 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+      "language": "Java",
+      "stars": 6513,
+      "forks": 2126,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch",
+      "href": "https://github.com/elastic/elasticsearch",
+      "description": "Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 44696,
+      "forks": 15029,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "hollischuang",
+      "name": "toBeTopJavaer",
+      "href": "https://github.com/hollischuang/toBeTopJavaer",
+      "description": "To Be Top Javaer - Java工程师成神之路",
+      "language": "Java",
+      "stars": 8805,
+      "forks": 1993,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "brettwooldridge",
+      "name": "HikariCP",
+      "href": "https://github.com/brettwooldridge/HikariCP",
+      "description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+      "language": "Java",
+      "stars": 11241,
+      "forks": 1709,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "dianping",
+      "name": "cat",
+      "href": "https://github.com/dianping/cat",
+      "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+      "language": "Java",
+      "stars": 11589,
+      "forks": 3876,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "b3log",
+      "name": "solo",
+      "href": "https://github.com/b3log/solo",
+      "description": "🎸 一款小而美的博客系统，专为程序员设计。",
+      "language": "Java",
+      "stars": 11915,
+      "forks": 3178,
+      "starsInPeriod": 58
+    },
+    {
+      "author": "redisson",
+      "name": "redisson",
+      "href": "https://github.com/redisson/redisson",
+      "description": "Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC.",
+      "language": "Java",
+      "stars": 10812,
+      "forks": 2669,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "MisterBooo",
+      "name": "LeetCodeAnimation",
+      "href": "https://github.com/MisterBooo/LeetCodeAnimation",
+      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+      "language": "Java",
+      "stars": 42134,
+      "forks": 7272,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "zhangdaiscott",
+      "name": "jeecg-boot",
+      "href": "https://github.com/zhangdaiscott/jeecg-boot",
+      "description": "一款基于代码生成器的JAVA快速开发平台！采用最新技术，前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码，绝对是全栈开发福音！！ JeecgBoot的宗旨是提高UI能力的同时,降低前后分离的开发成本，JeecgBoot还独创在线开发模式，No代码概念，一系列在线智能开发：在线配置表单、在线配置报表、在线设计流程等等。",
+      "language": "Java",
+      "stars": 6370,
+      "forks": 2224,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "bazelbuild",
+      "name": "bazel",
+      "href": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "stars": 13078,
+      "forks": 2199,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall-learning",
+      "href": "https://github.com/macrozheng/mall-learning",
+      "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。",
+      "language": "Java",
+      "stars": 2783,
+      "forks": 1242,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "android",
+      "name": "views-widgets-samples",
+      "href": "https://github.com/android/views-widgets-samples",
+      "description": "Multiple samples showing the best practices in views-widgets on Android.",
+      "language": "Java",
+      "stars": 328,
+      "forks": 48,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "goldze",
+      "name": "MVVMHabit",
+      "href": "https://github.com/goldze/MVVMHabit",
+      "description": "👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。",
+      "language": "Java",
+      "stars": 4115,
+      "forks": 871,
+      "starsInPeriod": 8
+    }
+  ]
+}
