@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 4296,
+      "forks": 288,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "dtolnay",
+      "name": "thiserror",
+      "href": "https://github.com/dtolnay/thiserror",
+      "description": null,
+      "language": "Rust",
+      "stars": 183,
+      "forks": 4,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "dtolnay",
+      "name": "anyhow",
+      "href": "https://github.com/dtolnay/anyhow",
+      "description": "A better Box<dyn Error>",
+      "language": "Rust",
+      "stars": 221,
+      "forks": 4,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "valeriansaliou",
+      "name": "sonic",
+      "href": "https://github.com/valeriansaliou/sonic",
+      "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+      "language": "Rust",
+      "stars": 7473,
+      "forks": 214,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "The Universal WebAssembly Runtime",
+      "language": "Rust",
+      "stars": 4629,
+      "forks": 160,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 3238,
+      "forks": 323,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 3328,
+      "forks": 120,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "microsoft",
+      "name": "com-rs",
+      "href": "https://github.com/microsoft/com-rs",
+      "description": "A Rust Crate for Creating and Consuming COM APIs",
+      "language": "Rust",
+      "stars": 170,
+      "forks": 3,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "open-libra",
+      "name": "movemint",
+      "href": "https://github.com/open-libra/movemint",
+      "description": "Move VM on Tendermint (and more)",
+      "language": "Rust",
+      "stars": 152,
+      "forks": 5,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 39567,
+      "forks": 6148,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 247472,
+      "forks": 21253,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 995,
+      "forks": 81,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 2167,
+      "forks": 86,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rbspy",
+      "name": "rbspy",
+      "href": "https://github.com/rbspy/rbspy",
+      "description": "Sampling profiler for Ruby",
+      "language": "Rust",
+      "stars": 1904,
+      "forks": 61,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the MimbleWimble protocol.",
+      "language": "Rust",
+      "stars": 4417,
+      "forks": 867,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "href": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": 1278,
+      "forks": 26,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 18623,
+      "forks": 851,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6100,
+      "forks": 892,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1461,
+      "forks": 162,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang-nursery/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 2516,
+      "forks": 354,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5485,
+      "forks": 400,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "dalance",
+      "name": "amber",
+      "href": "https://github.com/dalance/amber",
+      "description": "A code search / replace tool",
+      "language": "Rust",
+      "stars": 140,
+      "forks": 5,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rustasync",
+      "name": "tide",
+      "href": "https://github.com/rustasync/tide",
+      "description": "Empowering everyone to build HTTP Services",
+      "language": "Rust",
+      "stars": 1208,
+      "forks": 109,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 359,
+      "forks": 430,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "nvzqz",
+      "name": "static-assertions-rs",
+      "href": "https://github.com/nvzqz/static-assertions-rs",
+      "description": "Rust compile-time assertions to ensure that invariants are met and your API remains stable",
+      "language": "Rust",
+      "stars": 232,
+      "forks": 3,
+      "starsInPeriod": 8
+    }
+  ]
+}
