@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 9258,
+      "forks": 965,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14134,
+      "forks": 2116,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 58744,
+      "forks": 20575,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "mattn",
+      "name": "docx2md",
+      "href": "https://github.com/mattn/docx2md",
+      "description": "Convert Microsoft Word Document to Markdown",
+      "language": "Go",
+      "stars": 229,
+      "forks": 6,
+      "starsInPeriod": 82
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 10196,
+      "forks": 874,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19044,
+      "forks": 5141,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 6135,
+      "forks": 1563,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 8424,
+      "forks": 1538,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 28354,
+      "forks": 5145,
+      "starsInPeriod": 83
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 8034,
+      "forks": 2735,
+      "starsInPeriod": 64
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55137,
+      "forks": 15915,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 5937,
+      "forks": 522,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1152,
+      "forks": 1119,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 4314,
+      "forks": 784,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "google",
+      "name": "schedviz",
+      "href": "https://github.com/google/schedviz",
+      "description": "A tool for gathering and visualizing kernel scheduling traces on Linux machines",
+      "language": "Go",
+      "stars": 104,
+      "forks": 4,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4375,
+      "forks": 820,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 17507,
+      "forks": 2480,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 10093,
+      "forks": 1772,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 17789,
+      "forks": 4923,
+      "starsInPeriod": 64
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 4710,
+      "forks": 854,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "href": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": 1206,
+      "forks": 363,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17434,
+      "forks": 3025,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1797,
+      "forks": 285,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "google",
+      "name": "battery-historian",
+      "href": "https://github.com/google/battery-historian",
+      "description": "Battery Historian is a tool to analyze battery consumers using Android \"bugreport\" files.",
+      "language": "Go",
+      "stars": 4305,
+      "forks": 794,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-delve",
+      "name": "delve",
+      "href": "https://github.com/go-delve/delve",
+      "description": "Delve is a debugger for the Go programming language.",
+      "language": "Go",
+      "stars": 12488,
+      "forks": 1135,
+      "starsInPeriod": 16
+    }
+  ]
+}
