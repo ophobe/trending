@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "facebookresearch",
+      "name": "detectron2",
+      "href": "https://github.com/facebookresearch/detectron2",
+      "description": "Detectron2 is FAIR's next-generation research platform for object detection and segmentation.",
+      "language": "Python",
+      "stars": 1997,
+      "forks": 188,
+      "starsInPeriod": 522
+    },
+    {
+      "author": "pytorch",
+      "name": "fairseq",
+      "href": "https://github.com/pytorch/fairseq",
+      "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+      "language": "Python",
+      "stars": 5724,
+      "forks": 1296,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "facebookresearch",
+      "name": "CrypTen",
+      "href": "https://github.com/facebookresearch/CrypTen",
+      "description": "A framework for Privacy Preserving Machine Learning",
+      "language": "Python",
+      "stars": 112,
+      "forks": 15,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "Linzaer",
+      "name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+      "href": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+      "description": "一款超轻量级通用人脸检测模型（模型文件大小仅1MB，320x240输入下计算量仅90MFlops）适用于边缘计算设备、移动端设备以及PC",
+      "language": "Python",
+      "stars": 371,
+      "forks": 67,
+      "starsInPeriod": 207
+    },
+    {
+      "author": "NVIDIA-AI-IOT",
+      "name": "torch2trt",
+      "href": "https://github.com/NVIDIA-AI-IOT/torch2trt",
+      "description": "An easy to use PyTorch to TensorRT converter",
+      "language": "Python",
+      "stars": 424,
+      "forks": 69,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "facebookresearch",
+      "name": "hydra",
+      "href": "https://github.com/facebookresearch/hydra",
+      "description": "Hydra is a framework for elegantly configuring complex applications",
+      "language": "Python",
+      "stars": 876,
+      "forks": 35,
+      "starsInPeriod": 217
+    },
+    {
+      "author": "pytorch",
+      "name": "captum",
+      "href": "https://github.com/pytorch/captum",
+      "description": "Model interpretability and understanding for PyTorch",
+      "language": "Python",
+      "stars": 269,
+      "forks": 15,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "matrix-org",
+      "name": "synapse",
+      "href": "https://github.com/matrix-org/synapse",
+      "description": "Synapse: Matrix reference homeserver",
+      "language": "Python",
+      "stars": 4727,
+      "forks": 782,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "ageitgey",
+      "name": "face_recognition",
+      "href": "https://github.com/ageitgey/face_recognition",
+      "description": "The world's simplest facial recognition api for Python and the command line",
+      "language": "Python",
+      "stars": 28803,
+      "forks": 7842,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "d2l-ai",
+      "name": "d2l-zh",
+      "href": "https://github.com/d2l-ai/d2l-zh",
+      "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。",
+      "language": "Python",
+      "stars": 13878,
+      "forks": 3503,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "sebst",
+      "name": "pythonic-news",
+      "href": "https://github.com/sebst/pythonic-news",
+      "description": "A Hacker News lookalike written in Python/Django, powering https://news.python.sc",
+      "language": "Python",
+      "stars": 111,
+      "forks": 14,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "qubvel",
+      "name": "segmentation_models.pytorch",
+      "href": "https://github.com/qubvel/segmentation_models.pytorch",
+      "description": "Segmentation models with pretrained backbones. PyTorch.",
+      "language": "Python",
+      "stars": 862,
+      "forks": 145,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "leisurelicht",
+      "name": "wtfpython-cn",
+      "href": "https://github.com/leisurelicht/wtfpython-cn",
+      "description": "wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译",
+      "language": "Python",
+      "stars": 8970,
+      "forks": 1691,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "facebookresearch",
+      "name": "Detectron",
+      "href": "https://github.com/facebookresearch/Detectron",
+      "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+      "language": "Python",
+      "stars": 22074,
+      "forks": 4837,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "ml-agents",
+      "href": "https://github.com/Unity-Technologies/ml-agents",
+      "description": "Unity Machine Learning Agents Toolkit",
+      "language": "Python",
+      "stars": 6931,
+      "forks": 1778,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "killgcd",
+      "name": "chromego",
+      "href": "https://github.com/killgcd/chromego",
+      "description": "ChromeGo 翻墙工具包",
+      "language": "Python",
+      "stars": 1078,
+      "forks": 450,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "oreilly-japan",
+      "name": "deep-learning-from-scratch",
+      "href": "https://github.com/oreilly-japan/deep-learning-from-scratch",
+      "description": "『ゼロから作る Deep Learning』のリポジトリ",
+      "language": "Python",
+      "stars": 1881,
+      "forks": 1630,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "shengqiangzhang",
+      "name": "examples-of-web-crawlers",
+      "href": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+      "description": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+      "language": "Python",
+      "stars": 4776,
+      "forks": 1493,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "3b1b",
+      "name": "manim",
+      "href": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 13926,
+      "forks": 1621,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "OpenMined",
+      "name": "PySyft",
+      "href": "https://github.com/OpenMined/PySyft",
+      "description": "A library for encrypted, privacy preserving deep learning",
+      "language": "Python",
+      "stars": 3942,
+      "forks": 887,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "jhao104",
+      "name": "proxy_pool",
+      "href": "https://github.com/jhao104/proxy_pool",
+      "description": "Python爬虫代理IP池(proxy pool)",
+      "language": "Python",
+      "stars": 7688,
+      "forks": 2300,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "liangliangyy",
+      "name": "DjangoBlog",
+      "href": "https://github.com/liangliangyy/DjangoBlog",
+      "description": "🍺基于Django的博客系统",
+      "language": "Python",
+      "stars": 2048,
+      "forks": 1002,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "scikit-learn",
+      "name": "scikit-learn",
+      "href": "https://github.com/scikit-learn/scikit-learn",
+      "description": "scikit-learn: machine learning in Python",
+      "language": "Python",
+      "stars": 37450,
+      "forks": 18425,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "paperswithcode",
+      "name": "sotabench-eval",
+      "href": "https://github.com/paperswithcode/sotabench-eval",
+      "description": "Easily evaluate machine learning models on public benchmarks",
+      "language": "Python",
+      "stars": 79,
+      "forks": 13,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "0xInfection",
+      "name": "Awesome-WAF",
+      "href": "https://github.com/0xInfection/Awesome-WAF",
+      "description": "🔥 Everything awesome about web-application firewalls (WAF).",
+      "language": "Python",
+      "stars": 2046,
+      "forks": 343,
+      "starsInPeriod": 26
+    }
+  ]
+}
