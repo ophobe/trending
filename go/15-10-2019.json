@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dunglas",
+      "name": "vulcain",
+      "href": "https://github.com/dunglas/vulcain",
+      "description": "Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs",
+      "language": "Go",
+      "stars": 964,
+      "forks": 23,
+      "starsInPeriod": 257
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 18001,
+      "forks": 4962,
+      "starsInPeriod": 152
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 32082,
+      "forks": 3703,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "filecoin-project",
+      "name": "go-filecoin",
+      "href": "https://github.com/filecoin-project/go-filecoin",
+      "description": "Filecoin Full Node Implementation in Go",
+      "language": "Go",
+      "stars": 1223,
+      "forks": 192,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "wtfutil",
+      "name": "wtf",
+      "href": "https://github.com/wtfutil/wtf",
+      "description": "The personal information dashboard for your terminal.",
+      "language": "Go",
+      "stars": 10584,
+      "forks": 559,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5209,
+      "forks": 1294,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Routing on its bests, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. https://bit.ly/再次感谢您的支持 | https://bit.ly/iriscandothat1",
+      "language": "Go",
+      "stars": 16387,
+      "forks": 1778,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "DNSCrypt",
+      "name": "dnscrypt-proxy",
+      "href": "https://github.com/DNSCrypt/dnscrypt-proxy",
+      "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
+      "language": "Go",
+      "stars": 4647,
+      "forks": 423,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 18466,
+      "forks": 1782,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 17523,
+      "forks": 2480,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+      "language": "Go",
+      "stars": 2333,
+      "forks": 478,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17459,
+      "forks": 3026,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6834,
+      "forks": 3937,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7044,
+      "forks": 922,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! SeaweedFS implements an object store with O(1) disk seek and an optional Filer with POSIX interface, supporting S3 API, Rack-Aware Erasure Coding for warm storage, FUSE mount, Hadoop compatible, WebDAV.",
+      "language": "Go",
+      "stars": 8609,
+      "forks": 1160,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 26974,
+      "forks": 3928,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "src-d",
+      "name": "go-git",
+      "href": "https://github.com/src-d/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": 4450,
+      "forks": 476,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "segmentio",
+      "name": "kafka-go",
+      "href": "https://github.com/segmentio/kafka-go",
+      "description": "Kafka library in Go",
+      "language": "Go",
+      "stars": 1691,
+      "forks": 191,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 12732,
+      "forks": 828,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 1412,
+      "forks": 604,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 25307,
+      "forks": 2659,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2630,
+      "forks": 1152,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 7111,
+      "forks": 580,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 28441,
+      "forks": 5159,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9672,
+      "forks": 1943,
+      "starsInPeriod": 12
+    }
+  ]
+}
