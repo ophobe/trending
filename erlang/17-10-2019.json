@@ -1,0 +1,64 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6355,
+      "forks": 1998,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 307,
+      "forks": 136,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5686,
+      "forks": 1025,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 7953,
+      "forks": 2163,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "antoniogarrote",
+      "name": "erlfaye",
+      "href": "https://github.com/antoniogarrote/erlfaye",
+      "description": "comet ++ websockets ++ erlang",
+      "language": "Erlang",
+      "stars": 11,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "openx",
+      "name": "ox-thrift",
+      "href": "https://github.com/openx/ox-thrift",
+      "description": "Erlang Thrift encoder/decoder library optimized for efficiency",
+      "language": "Erlang",
+      "stars": 6,
+      "forks": 2,
+      "starsInPeriod": 0
+    }
+  ]
+}
