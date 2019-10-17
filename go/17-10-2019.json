@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 16099,
+      "forks": 2543,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 9520,
+      "forks": 2705,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 18207,
+      "forks": 5002,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 7984,
+      "forks": 605,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "teknogeek",
+      "name": "ssrf-sheriff",
+      "href": "https://github.com/teknogeek/ssrf-sheriff",
+      "description": "A simple SSRF-testing sheriff written in Go",
+      "language": "Go",
+      "stars": 77,
+      "forks": 12,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1757,
+      "forks": 478,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 17547,
+      "forks": 2483,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 17177,
+      "forks": 1952,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 14313,
+      "forks": 4654,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6385,
+      "forks": 606,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "docker",
+      "name": "distribution",
+      "href": "https://github.com/docker/distribution",
+      "description": "The Docker toolset to pack, ship, store, and deliver content",
+      "language": "Go",
+      "stars": 4932,
+      "forks": 1618,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8676,
+      "forks": 766,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2609,
+      "forks": 268,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4397,
+      "forks": 824,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "href": "https://github.com/kubernetes/ingress-nginx",
+      "description": "NGINX Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 5876,
+      "forks": 2834,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes-incubator",
+      "name": "external-dns",
+      "href": "https://github.com/kubernetes-incubator/external-dns",
+      "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+      "language": "Go",
+      "stars": 2354,
+      "forks": 664,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Privileged access management for elastic infrastructure.",
+      "language": "Go",
+      "stars": 7547,
+      "forks": 518,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1163,
+      "forks": 1136,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "goproxy",
+      "name": "goproxy.cn",
+      "href": "https://github.com/goproxy/goproxy.cn",
+      "description": "The most trusted Go module proxy in China.",
+      "language": "Go",
+      "stars": 1766,
+      "forks": 89,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 1928,
+      "forks": 185,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "aws-alb-ingress-controller",
+      "href": "https://github.com/kubernetes-sigs/aws-alb-ingress-controller",
+      "description": "AWS ALB Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 1188,
+      "forks": 391,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17477,
+      "forks": 3030,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "href": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors",
+      "language": "Go",
+      "stars": 3788,
+      "forks": 815,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5524,
+      "forks": 1091,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 1426,
+      "forks": 607,
+      "starsInPeriod": 7
+    }
+  ]
+}
