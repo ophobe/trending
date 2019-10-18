@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 1768,
+      "forks": 62,
+      "starsInPeriod": 571
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1763,
+      "forks": 479,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7076,
+      "forks": 930,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 2958,
+      "forks": 343,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2659,
+      "forks": 306,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "danicat",
+      "name": "pacgo",
+      "href": "https://github.com/danicat/pacgo",
+      "description": "A Pac Man clone written in Go (with emojis!)",
+      "language": "Go",
+      "stars": 659,
+      "forks": 61,
+      "starsInPeriod": 78
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9747,
+      "forks": 1953,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 3852,
+      "forks": 347,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19136,
+      "forks": 5156,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17489,
+      "forks": 3035,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 14337,
+      "forks": 4662,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "gomods",
+      "name": "athens",
+      "href": "https://github.com/gomods/athens",
+      "description": "A Go module datastore and proxy",
+      "language": "Go",
+      "stars": 2828,
+      "forks": 303,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15530,
+      "forks": 1782,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "stars": 9230,
+      "forks": 967,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2610,
+      "forks": 269,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6665,
+      "forks": 675,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "inlets",
+      "name": "inlets",
+      "href": "https://github.com/inlets/inlets",
+      "description": "Expose your local endpoints to the Internet",
+      "language": "Go",
+      "stars": 4567,
+      "forks": 222,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 5151,
+      "forks": 2349,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4471,
+      "forks": 545,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4403,
+      "forks": 826,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul-template",
+      "href": "https://github.com/hashicorp/consul-template",
+      "description": "Template rendering, notifier, and supervisor for @hashicorp Consul and Vault data.",
+      "language": "Go",
+      "stars": 3678,
+      "forks": 532,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 4656,
+      "forks": 199,
+      "starsInPeriod": 78
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6395,
+      "forks": 606,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 10459,
+      "forks": 10780,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-lifecycle-manager",
+      "href": "https://github.com/operator-framework/operator-lifecycle-manager",
+      "description": "A management framework for extending Kubernetes with Operators",
+      "language": "Go",
+      "stars": 455,
+      "forks": 192,
+      "starsInPeriod": 3
+    }
+  ]
+}
