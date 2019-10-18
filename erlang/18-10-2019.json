@@ -1,0 +1,84 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6362,
+      "forks": 1999,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5689,
+      "forks": 1025,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 307,
+      "forks": 136,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "vernemq",
+      "name": "vernemq",
+      "href": "https://github.com/vernemq/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1902,
+      "forks": 202,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 202,
+      "forks": 75,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+      "language": "Erlang",
+      "stars": 4271,
+      "forks": 1272,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "deadtrickster",
+      "name": "rebar3_elvis_plugin",
+      "href": "https://github.com/deadtrickster/rebar3_elvis_plugin",
+      "description": "Run Elvis as rebar3 plugin",
+      "language": "Erlang",
+      "stars": 4,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "uwiger",
+      "name": "setup",
+      "href": "https://github.com/uwiger/setup",
+      "description": "Generic setup utility for Erlang-based systems",
+      "language": "Erlang",
+      "stars": 56,
+      "forks": 45,
+      "starsInPeriod": 0
+    }
+  ]
+}
