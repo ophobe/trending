@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 4668,
+      "forks": 2542,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 15089,
+      "forks": 9310,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "CloverHackyColor",
+      "name": "CloverBootloader",
+      "href": "https://github.com/CloverHackyColor/CloverBootloader",
+      "description": "Bootloader for macOS, Windows and Linux in UEFI and in legacy mode",
+      "language": "C",
+      "stars": 219,
+      "forks": 20,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 41827,
+      "forks": 3778,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Video player based on MPlayer/mplayer2",
+      "language": "C",
+      "stars": 10533,
+      "forks": 1435,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 81587,
+      "forks": 28526,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "href": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
+      "language": "C",
+      "stars": 2963,
+      "forks": 347,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "grant-h",
+      "name": "qu1ckr00t",
+      "href": "https://github.com/grant-h/qu1ckr00t",
+      "description": "A PoC application demonstrating the power of an Android kernel arbitrary R/W.",
+      "language": "C",
+      "stars": 131,
+      "forks": 41,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 39215,
+      "forks": 15260,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "href": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": 3416,
+      "forks": 162,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "koekeishiya",
+      "name": "yabai",
+      "href": "https://github.com/koekeishiya/yabai",
+      "description": "A tiling window manager for macOS based on binary space partitioning",
+      "language": "C",
+      "stars": 1486,
+      "forks": 68,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "href": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": 1531,
+      "forks": 367,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "href": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C",
+      "stars": 3913,
+      "forks": 2145,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "href": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for ESP32.",
+      "language": "C",
+      "stars": 3964,
+      "forks": 2326,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "greenplum-db",
+      "name": "gpdb",
+      "href": "https://github.com/greenplum-db/gpdb",
+      "description": "Greenplum Database",
+      "language": "C",
+      "stars": 3562,
+      "forks": 1026,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 16939,
+      "forks": 6094,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "zfsonlinux",
+      "name": "zfs",
+      "href": "https://github.com/zfsonlinux/zfs",
+      "description": "ZFS on Linux - the official OpenZFS implementation for Linux.",
+      "language": "C",
+      "stars": 4857,
+      "forks": 1024,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "contiki-ng",
+      "name": "contiki-ng",
+      "href": "https://github.com/contiki-ng/contiki-ng",
+      "description": "Contiki-NG: The OS for Next Generation IoT Devices",
+      "language": "C",
+      "stars": 351,
+      "forks": 262,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "spacehuhn",
+      "name": "esp8266_deauther",
+      "href": "https://github.com/spacehuhn/esp8266_deauther",
+      "description": "Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!",
+      "language": "C",
+      "stars": 5461,
+      "forks": 1342,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "meetecho",
+      "name": "janus-gateway",
+      "href": "https://github.com/meetecho/janus-gateway",
+      "description": "Janus WebRTC Server",
+      "language": "C",
+      "stars": 3003,
+      "forks": 1141,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "yugabyte",
+      "name": "yugabyte-db",
+      "href": "https://github.com/yugabyte/yugabyte-db",
+      "description": "The high-performance distributed SQL database for global, internet-scale apps.",
+      "language": "C",
+      "stars": 3059,
+      "forks": 265,
+      "starsInPeriod": 154
+    },
+    {
+      "author": "sneak",
+      "name": "hacks",
+      "href": "https://github.com/sneak/hacks",
+      "description": "various and sundry hacks",
+      "language": "C",
+      "stars": 73,
+      "forks": 4,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 2550,
+      "forks": 1543,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Tencent",
+      "name": "matrix",
+      "href": "https://github.com/Tencent/matrix",
+      "description": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+      "language": "C",
+      "stars": 6211,
+      "forks": 775,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "SimplySka",
+      "name": "libft-war-machine-v2019",
+      "href": "https://github.com/SimplySka/libft-war-machine-v2019",
+      "description": null,
+      "language": "C",
+      "stars": 14,
+      "forks": 7,
+      "starsInPeriod": 2
+    }
+  ]
+}
