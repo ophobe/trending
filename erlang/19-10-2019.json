@@ -1,0 +1,94 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6366,
+      "forks": 1999,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 202,
+      "forks": 75,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5133,
+      "forks": 978,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "inaka",
+      "name": "zipper",
+      "href": "https://github.com/inaka/zipper",
+      "description": "Generic Zipper implementation in Erlang",
+      "language": "Erlang",
+      "stars": 24,
+      "forks": 5,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rbkmoney",
+      "name": "woody_erlang_user_identity",
+      "href": "https://github.com/rbkmoney/woody_erlang_user_identity",
+      "description": "Woody Erlang extension for user identity",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lpgauth",
+      "name": "shackle",
+      "href": "https://github.com/lpgauth/shackle",
+      "description": "High-Performance Erlang Network Client Framework",
+      "language": "Erlang",
+      "stars": 147,
+      "forks": 30,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5689,
+      "forks": 1025,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "2600hz",
+      "name": "kazoo",
+      "href": "https://github.com/2600hz/kazoo",
+      "description": "The core of an open-source, distributed, highly scalable platform designed to provide robust telecom services",
+      "language": "Erlang",
+      "stars": 720,
+      "forks": 374,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mochi",
+      "name": "mochiweb",
+      "href": "https://github.com/mochi/mochiweb",
+      "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+      "language": "Erlang",
+      "stars": 1726,
+      "forks": 457,
+      "starsInPeriod": 0
+    }
+  ]
+}
