@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 2152,
+      "forks": 84,
+      "starsInPeriod": 557
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9754,
+      "forks": 1955,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 14352,
+      "forks": 4666,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 10465,
+      "forks": 10786,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 3031,
+      "forks": 347,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5248,
+      "forks": 1301,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 64757,
+      "forks": 9104,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2663,
+      "forks": 308,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 6002,
+      "forks": 526,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19149,
+      "forks": 5158,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 4679,
+      "forks": 199,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "kudobuilder",
+      "name": "kudo",
+      "href": "https://github.com/kudobuilder/kudo",
+      "description": "Kubernetes Universal Declarative Operator (KUDO)",
+      "language": "Go",
+      "stars": 343,
+      "forks": 53,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1766,
+      "forks": 480,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "cortexproject",
+      "name": "cortex",
+      "href": "https://github.com/cortexproject/cortex",
+      "description": "A multitenant, horizontally scalable Prometheus as a Service",
+      "language": "Go",
+      "stars": 1940,
+      "forks": 238,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 3862,
+      "forks": 348,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "href": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": 1914,
+      "forks": 205,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 10013,
+      "forks": 961,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 16127,
+      "forks": 2543,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 3418,
+      "forks": 361,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "patrickmn",
+      "name": "go-cache",
+      "href": "https://github.com/patrickmn/go-cache",
+      "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+      "language": "Go",
+      "stars": 3143,
+      "forks": 436,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "zricethezav",
+      "name": "gitleaks",
+      "href": "https://github.com/zricethezav/gitleaks",
+      "description": "Audit git repos for secrets 🔑",
+      "language": "Go",
+      "stars": 5181,
+      "forks": 372,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7082,
+      "forks": 930,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12707,
+      "forks": 1471,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "michenriksen",
+      "name": "gitrob",
+      "href": "https://github.com/michenriksen/gitrob",
+      "description": "Reconnaissance tool for GitHub organizations",
+      "language": "Go",
+      "stars": 4094,
+      "forks": 563,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1166,
+      "forks": 1146,
+      "starsInPeriod": 3
+    }
+  ]
+}
