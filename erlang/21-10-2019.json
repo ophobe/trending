@@ -1,0 +1,64 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6375,
+      "forks": 2006,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5143,
+      "forks": 978,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "lpgauth",
+      "name": "swirl",
+      "href": "https://github.com/lpgauth/swirl",
+      "description": "High-Performance Erlang Stream Processor",
+      "language": "Erlang",
+      "stars": 38,
+      "forks": 6,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "lpgauth",
+      "name": "fast_disk_log",
+      "href": "https://github.com/lpgauth/fast_disk_log",
+      "description": "Pool-based asynchronous Erlang disk logger",
+      "language": "Erlang",
+      "stars": 12,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-federation",
+      "href": "https://github.com/rabbitmq/rabbitmq-federation",
+      "description": "RabbitMQ Federation plugin",
+      "language": "Erlang",
+      "stars": 36,
+      "forks": 19,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 203,
+      "forks": 75,
+      "starsInPeriod": 1
+    }
+  ]
+}
