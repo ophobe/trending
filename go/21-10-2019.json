@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 2844,
+      "forks": 117,
+      "starsInPeriod": 494
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6733,
+      "forks": 683,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "OWASP",
+      "name": "Amass",
+      "href": "https://github.com/OWASP/Amass",
+      "description": "In-depth Attack Surface Mapping and Asset Discovery",
+      "language": "Go",
+      "stars": 2118,
+      "forks": 319,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 4179,
+      "forks": 1160,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "arduino",
+      "name": "arduino-cli",
+      "href": "https://github.com/arduino/arduino-cli",
+      "description": "Arduino command line interface",
+      "language": "Go",
+      "stars": 1694,
+      "forks": 123,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 17678,
+      "forks": 1853,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "inlets",
+      "name": "inlets",
+      "href": "https://github.com/inlets/inlets",
+      "description": "Expose your local endpoints to the Internet",
+      "language": "Go",
+      "stars": 4607,
+      "forks": 225,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "stefanoj3",
+      "name": "dirstalk",
+      "href": "https://github.com/stefanoj3/dirstalk",
+      "description": "Modern alternative to dirbuster/dirb",
+      "language": "Go",
+      "stars": 76,
+      "forks": 10,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 16561,
+      "forks": 1304,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 14266,
+      "forks": 1231,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Go 夜读 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 4993,
+      "forks": 478,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 14383,
+      "forks": 4681,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 20967,
+      "forks": 3102,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in Go",
+      "language": "Go",
+      "stars": 8807,
+      "forks": 1588,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "Jguer",
+      "name": "yay",
+      "href": "https://github.com/Jguer/yay",
+      "description": "Yet another Yogurt - An AUR Helper written in Go",
+      "language": "Go",
+      "stars": 3619,
+      "forks": 140,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 28253,
+      "forks": 2391,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "code-ready",
+      "name": "crc",
+      "href": "https://github.com/code-ready/crc",
+      "description": "CodeReady Containers is a tool that manages a local OpenShift 4.x cluster optimized for testing and development purposes",
+      "language": "Go",
+      "stars": 289,
+      "forks": 53,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "btcsuite",
+      "name": "btcd",
+      "href": "https://github.com/btcsuite/btcd",
+      "description": "An alternative full node bitcoin implementation written in Go (golang)",
+      "language": "Go",
+      "stars": 3593,
+      "forks": 1405,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "eko",
+      "name": "gocache",
+      "href": "https://github.com/eko/gocache",
+      "description": "☔️ A complete Go cache library that brings you multiple ways of managing your caches",
+      "language": "Go",
+      "stars": 184,
+      "forks": 9,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 9105,
+      "forks": 602,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 2191,
+      "forks": 199,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "pivotal",
+      "name": "kpack",
+      "href": "https://github.com/pivotal/kpack",
+      "description": "Kubernetes Native Container Build Service",
+      "language": "Go",
+      "stars": 157,
+      "forks": 18,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "bufbuild",
+      "name": "buf",
+      "href": "https://github.com/bufbuild/buf",
+      "description": "A new way of working with Protocol Buffers.",
+      "language": "Go",
+      "stars": 199,
+      "forks": 6,
+      "starsInPeriod": 101
+    },
+    {
+      "author": "koding",
+      "name": "koding",
+      "href": "https://github.com/koding/koding",
+      "description": "The Simplest Way to Manage Your Entire Dev Infrastructure!",
+      "language": "Go",
+      "stars": 1429,
+      "forks": 358,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 38852,
+      "forks": 4394,
+      "starsInPeriod": 36
+    }
+  ]
+}
