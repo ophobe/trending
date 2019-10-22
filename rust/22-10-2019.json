@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 2349,
+      "forks": 97,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6163,
+      "forks": 904,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 12888,
+      "forks": 1880,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2561,
+      "forks": 319,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-rust",
+      "href": "https://github.com/shadowsocks/shadowsocks-rust",
+      "description": "A Rust port of shadowsocks",
+      "language": "Rust",
+      "stars": 1289,
+      "forks": 323,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2166,
+      "forks": 187,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5668,
+      "forks": 1356,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 143,
+      "forks": 49,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "fastly",
+      "name": "lucet",
+      "href": "https://github.com/fastly/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2584,
+      "forks": 84,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot",
+      "href": "https://github.com/paritytech/polkadot",
+      "description": "Polkadot Node Implementation",
+      "language": "Rust",
+      "stars": 623,
+      "forks": 147,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1537,
+      "forks": 424,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 9004,
+      "forks": 338,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5550,
+      "forks": 407,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 15020,
+      "forks": 2264,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "38",
+      "name": "plotters",
+      "href": "https://github.com/38/plotters",
+      "description": "A rust drawing library focus on data plotting for both WASM and native applications 🦀 📈🚀",
+      "language": "Rust",
+      "stars": 491,
+      "forks": 31,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 2526,
+      "forks": 233,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1512,
+      "forks": 108,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "Edu4rdSHL",
+      "name": "findomain",
+      "href": "https://github.com/Edu4rdSHL/findomain",
+      "description": "The fastest and cross-platform subdomain enumerator, don't waste your time.",
+      "language": "Rust",
+      "stars": 713,
+      "forks": 86,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 4845,
+      "forks": 1013,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the Mimblewimble protocol.",
+      "language": "Rust",
+      "stars": 4426,
+      "forks": 875,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "chalk",
+      "href": "https://github.com/rust-lang/chalk",
+      "description": "A PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler",
+      "language": "Rust",
+      "stars": 599,
+      "forks": 59,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gamozolabs",
+      "name": "guifuzz",
+      "href": "https://github.com/gamozolabs/guifuzz",
+      "description": "A GUI fuzzing application set up to fuzz calc.exe right now",
+      "language": "Rust",
+      "stars": 25,
+      "forks": 5,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 5336,
+      "forks": 181,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rust-lang",
+      "name": "rls",
+      "href": "https://github.com/rust-lang/rls",
+      "description": "Repository for the Rust Language Server (aka RLS)",
+      "language": "Rust",
+      "stars": 2598,
+      "forks": 201,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1518,
+      "forks": 165,
+      "starsInPeriod": 10
+    }
+  ]
+}
