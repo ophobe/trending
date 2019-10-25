@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dotnet-architecture",
+      "name": "eShopOnContainers",
+      "href": "https://github.com/dotnet-architecture/eShopOnContainers",
+      "description": "Easy to get started sample reference microservice and container based application. Cross-platform on Linux and Windows Docker Containers, powered by .NET Core 2.2, Docker engine and optionally Azure, Kubernetes or Service Fabric. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code …",
+      "language": "C#",
+      "stars": 11590,
+      "forks": 4755,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "dotnet",
+      "name": "machinelearning",
+      "href": "https://github.com/dotnet/machinelearning",
+      "description": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+      "language": "C#",
+      "stars": 6516,
+      "forks": 1369,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "aspnet",
+      "name": "AspNetCore",
+      "href": "https://github.com/aspnet/AspNetCore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": 14291,
+      "forks": 3624,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "xamarin",
+      "name": "xamarin-forms-samples",
+      "href": "https://github.com/xamarin/xamarin-forms-samples",
+      "description": "Sample apps built using the Xamarin.Forms framework",
+      "language": "C#",
+      "stars": 3020,
+      "forks": 5071,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "href": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
+      "language": "C#",
+      "stars": 6644,
+      "forks": 686,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "abpframework",
+      "name": "abp",
+      "href": "https://github.com/abpframework/abp",
+      "description": "Open Source Web Application Framework for ASP.NET Core",
+      "language": "C#",
+      "stars": 2421,
+      "forks": 695,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "IdentityServer",
+      "name": "IdentityServer4",
+      "href": "https://github.com/IdentityServer/IdentityServer4",
+      "description": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
+      "language": "C#",
+      "stars": 5309,
+      "forks": 1702,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "Xabaril",
+      "name": "AspNetCore.Diagnostics.HealthChecks",
+      "href": "https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks",
+      "description": "Enterprise HealthChecks for ASP.NET Core Diagnostics Package",
+      "language": "C#",
+      "stars": 973,
+      "forks": 200,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch-net",
+      "href": "https://github.com/elastic/elasticsearch-net",
+      "description": "Elasticsearch.Net & NEST",
+      "language": "C#",
+      "stars": 2509,
+      "forks": 942,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "domaindrivendev",
+      "name": "Swashbuckle.AspNetCore",
+      "href": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore",
+      "description": "Swagger tools for documenting API's built on ASP.NET Core",
+      "language": "C#",
+      "stars": 2676,
+      "forks": 655,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "restsharp",
+      "name": "RestSharp",
+      "href": "https://github.com/restsharp/RestSharp",
+      "description": "Simple REST and HTTP API Client for .NET",
+      "language": "C#",
+      "stars": 6782,
+      "forks": 1950,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "UnityCsReference",
+      "href": "https://github.com/Unity-Technologies/UnityCsReference",
+      "description": "Unity C# reference source code",
+      "language": "C#",
+      "stars": 5936,
+      "forks": 1173,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "href": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "Microsoft Azure SDK for .NET",
+      "language": "C#",
+      "stars": 1496,
+      "forks": 1592,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "Azure",
+      "name": "iotedge",
+      "href": "https://github.com/Azure/iotedge",
+      "description": "The IoT Edge OSS project",
+      "language": "C#",
+      "stars": 887,
+      "forks": 182,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "dotnetcore",
+      "name": "WTM",
+      "href": "https://github.com/dotnetcore/WTM",
+      "description": "WTM框架是针对中小规模后台管理系统的开发利器。基于DotNetCore，实现0编码创建项目，0编码生成业务模块。框架严格遵循MVVM的开发模式，并深得MVVM的精髓。对于新手，可以快速上手搭建项目；对于高手，可以把那些繁琐重复的工作交给框架生成，专心攻克需求难点。框架经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。",
+      "language": "C#",
+      "stars": 1334,
+      "forks": 322,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "nopSolutions",
+      "name": "nopCommerce",
+      "href": "https://github.com/nopSolutions/nopCommerce",
+      "description": "Free open-source ecommerce shopping cart (ASP.NET Core)",
+      "language": "C#",
+      "stars": 4059,
+      "forks": 2423,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "OpenRA",
+      "name": "OpenRA",
+      "href": "https://github.com/OpenRA/OpenRA",
+      "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+      "language": "C#",
+      "stars": 6811,
+      "forks": 1845,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Elyx0",
+      "name": "react-native-document-picker",
+      "href": "https://github.com/Elyx0/react-native-document-picker",
+      "description": "Document Picker for React Native using Document Providers",
+      "language": "C#",
+      "stars": 425,
+      "forks": 244,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "microsoft",
+      "name": "msbuild",
+      "href": "https://github.com/microsoft/msbuild",
+      "description": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
+      "language": "C#",
+      "stars": 4049,
+      "forks": 961,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "EduardoPires",
+      "name": "EquinoxProject",
+      "href": "https://github.com/EduardoPires/EquinoxProject",
+      "description": "Full ASP.NET Core 2.2 application with DDD, CQRS and Event Sourcing",
+      "language": "C#",
+      "stars": 3052,
+      "forks": 934,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "itinance",
+      "name": "react-native-fs",
+      "href": "https://github.com/itinance/react-native-fs",
+      "description": "Native filesystem access for react-native",
+      "language": "C#",
+      "stars": 3254,
+      "forks": 633,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kblok",
+      "name": "puppeteer-sharp",
+      "href": "https://github.com/kblok/puppeteer-sharp",
+      "description": "Headless Chrome .NET API",
+      "language": "C#",
+      "stars": 912,
+      "forks": 147,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "dotnet",
+      "name": "try-convert",
+      "href": "https://github.com/dotnet/try-convert",
+      "description": "Sample tool showing how to build a global tool and also help you convert projects to .NET Core",
+      "language": "C#",
+      "stars": 136,
+      "forks": 10,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "PrismLibrary",
+      "name": "Prism",
+      "href": "https://github.com/PrismLibrary/Prism",
+      "description": "Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.",
+      "language": "C#",
+      "stars": 3259,
+      "forks": 1071,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "aspnet",
+      "name": "Extensions",
+      "href": "https://github.com/aspnet/Extensions",
+      "description": ".NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.",
+      "language": "C#",
+      "stars": 1180,
+      "forks": 386,
+      "starsInPeriod": 5
+    }
+  ]
+}
