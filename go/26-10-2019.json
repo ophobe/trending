@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 10336,
+      "forks": 891,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "neex",
+      "name": "phuip-fpizdam",
+      "href": "https://github.com/neex/phuip-fpizdam",
+      "description": "Exploit for CVE-2019-11043",
+      "language": "Go",
+      "stars": 634,
+      "forks": 100,
+      "starsInPeriod": 96
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14258,
+      "forks": 2135,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gogo",
+      "name": "protobuf",
+      "href": "https://github.com/gogo/protobuf",
+      "description": "Protocol Buffers for Go with Gadgets",
+      "language": "Go",
+      "stars": 3207,
+      "forks": 431,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Code search and navigation tool (self-hosted)",
+      "language": "Go",
+      "stars": 2749,
+      "forks": 238,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "GoAdminGroup",
+      "name": "go-admin",
+      "href": "https://github.com/GoAdminGroup/go-admin",
+      "description": "A dataviz framework help gopher to build a admin panel in ten minutes",
+      "language": "Go",
+      "stars": 1068,
+      "forks": 204,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2676,
+      "forks": 1165,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "Jguer",
+      "name": "yay",
+      "href": "https://github.com/Jguer/yay",
+      "description": "Yet another Yogurt - An AUR Helper written in Go",
+      "language": "Go",
+      "stars": 3747,
+      "forks": 145,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "chromedp",
+      "name": "chromedp",
+      "href": "https://github.com/chromedp/chromedp",
+      "description": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",
+      "language": "Go",
+      "stars": 3876,
+      "forks": 326,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "test-infra",
+      "href": "https://github.com/kubernetes/test-infra",
+      "description": "Test infrastructure for the Kubernetes project.",
+      "language": "Go",
+      "stars": 1662,
+      "forks": 1113,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →",
+      "language": "Go",
+      "stars": 4409,
+      "forks": 315,
+      "starsInPeriod": 432
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 59293,
+      "forks": 20793,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "travelaudience",
+      "name": "go-sx",
+      "href": "https://github.com/travelaudience/go-sx",
+      "description": "Simple SQL extensions for Go",
+      "language": "Go",
+      "stars": 114,
+      "forks": 3,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 6058,
+      "forks": 222,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 6265,
+      "forks": 1131,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 3808,
+      "forks": 304,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 27184,
+      "forks": 3981,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8729,
+      "forks": 775,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 1755,
+      "forks": 427,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-streaming-server",
+      "href": "https://github.com/nats-io/nats-streaming-server",
+      "description": "NATS Streaming System Server",
+      "language": "Go",
+      "stars": 1628,
+      "forks": 185,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "cookieY",
+      "name": "Yearning",
+      "href": "https://github.com/cookieY/Yearning",
+      "description": "受欢迎的 Mysql sql审核平台",
+      "language": "Go",
+      "stars": 2792,
+      "forks": 989,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 10103,
+      "forks": 967,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "pulumi",
+      "name": "pulumi",
+      "href": "https://github.com/pulumi/pulumi",
+      "description": "Modern Infrastructure as Code - Create, deploy, and manage infrastructure on any cloud using your favorite language.",
+      "language": "Go",
+      "stars": 3833,
+      "forks": 192,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 8102,
+      "forks": 2763,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "concourse",
+      "name": "concourse",
+      "href": "https://github.com/concourse/concourse",
+      "description": "Concourse is a container-based continuous thing-doer written in Go and Elm.",
+      "language": "Go",
+      "stars": 4400,
+      "forks": 542,
+      "starsInPeriod": 8
+    }
+  ]
+}
