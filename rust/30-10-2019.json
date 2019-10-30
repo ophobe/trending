@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1183,
+      "forks": 105,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "o2sh",
+      "name": "onefetch",
+      "href": "https://github.com/o2sh/onefetch",
+      "description": "Git repository summary on your terminal",
+      "language": "Rust",
+      "stars": 1247,
+      "forks": 71,
+      "starsInPeriod": 120
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 4067,
+      "forks": 151,
+      "starsInPeriod": 128
+    },
+    {
+      "author": "mozilla",
+      "name": "sccache",
+      "href": "https://github.com/mozilla/sccache",
+      "description": "sccache is ccache with cloud storage",
+      "language": "Rust",
+      "stars": 948,
+      "forks": 145,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-rust",
+      "href": "https://github.com/shadowsocks/shadowsocks-rust",
+      "description": "A Rust port of shadowsocks",
+      "language": "Rust",
+      "stars": 1315,
+      "forks": 328,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 4866,
+      "forks": 1023,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 1845,
+      "forks": 96,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Edu4rdSHL",
+      "name": "findomain",
+      "href": "https://github.com/Edu4rdSHL/findomain",
+      "description": "The fastest and cross-platform subdomain enumerator, don't waste your time.",
+      "language": "Rust",
+      "stars": 737,
+      "forks": 89,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 2903,
+      "forks": 128,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "tokio-rs",
+      "name": "mio",
+      "href": "https://github.com/tokio-rs/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 3277,
+      "forks": 394,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 39961,
+      "forks": 6193,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1558,
+      "forks": 431,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2581,
+      "forks": 326,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2179,
+      "forks": 191,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 4490,
+      "forks": 1214,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cloudflare",
+      "name": "boringtun",
+      "href": "https://github.com/cloudflare/boringtun",
+      "description": "Userspace WireGuard® Implementation in Rust",
+      "language": "Rust",
+      "stars": 2118,
+      "forks": 73,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1549,
+      "forks": 111,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "the champagne of beta embedded databases",
+      "language": "Rust",
+      "stars": 2303,
+      "forks": 103,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rusterlium",
+      "name": "rustler",
+      "href": "https://github.com/rusterlium/rustler",
+      "description": "Safe Rust bridge for creating Erlang NIF functions",
+      "language": "Rust",
+      "stars": 1854,
+      "forks": 86,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "chalk",
+      "href": "https://github.com/rust-lang/chalk",
+      "description": "A PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler",
+      "language": "Rust",
+      "stars": 632,
+      "forks": 60,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2923,
+      "forks": 360,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 3493,
+      "forks": 123,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 15079,
+      "forks": 2273,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot",
+      "href": "https://github.com/paritytech/polkadot",
+      "description": "Polkadot Node Implementation",
+      "language": "Rust",
+      "stars": 636,
+      "forks": 150,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6212,
+      "forks": 919,
+      "starsInPeriod": 7
+    }
+  ]
+}
