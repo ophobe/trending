@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rajasekarv",
+      "name": "native_spark",
+      "href": "https://github.com/rajasekarv/native_spark",
+      "description": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+      "language": "Rust",
+      "stars": 503,
+      "forks": 33,
+      "starsInPeriod": 115
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1239,
+      "forks": 109,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40021,
+      "forks": 6203,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 3504,
+      "forks": 126,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "Data-oriented Rust UI design toolkit.",
+      "language": "Rust",
+      "stars": 764,
+      "forks": 54,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Serve the web – HTTP server framework",
+      "language": "Rust",
+      "stars": 1267,
+      "forks": 113,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "valeriansaliou",
+      "name": "sonic",
+      "href": "https://github.com/valeriansaliou/sonic",
+      "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+      "language": "Rust",
+      "stars": 7630,
+      "forks": 215,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 1857,
+      "forks": 129,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6270,
+      "forks": 523,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "tokio-rs",
+      "name": "mio",
+      "href": "https://github.com/tokio-rs/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 3285,
+      "forks": 394,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1572,
+      "forks": 432,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 950,
+      "forks": 44,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2929,
+      "forks": 361,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 18966,
+      "forks": 871,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "shadowsocks",
+      "name": "shadowsocks-rust",
+      "href": "https://github.com/shadowsocks/shadowsocks-rust",
+      "description": "A Rust port of shadowsocks",
+      "language": "Rust",
+      "stars": 1325,
+      "forks": 330,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4603,
+      "forks": 435,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6226,
+      "forks": 920,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "dtolnay",
+      "name": "case-studies",
+      "href": "https://github.com/dtolnay/case-studies",
+      "description": "Analysis of various tricky Rust code",
+      "language": "Rust",
+      "stars": 616,
+      "forks": 11,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 404,
+      "forks": 44,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 4499,
+      "forks": 1215,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 3342,
+      "forks": 334,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "CraneStation",
+      "name": "cranelift",
+      "href": "https://github.com/CraneStation/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2186,
+      "forks": 192,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 16854,
+      "forks": 620,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A renderer-agnostic GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 963,
+      "forks": 23,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "weld-project",
+      "name": "weld",
+      "href": "https://github.com/weld-project/weld",
+      "description": "High-performance runtime for data analytics applications",
+      "language": "Rust",
+      "stars": 2002,
+      "forks": 180,
+      "starsInPeriod": 57
+    }
+  ]
+}
