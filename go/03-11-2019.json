@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 24875,
+      "forks": 971,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "href": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": null,
+      "language": "Go",
+      "stars": 259,
+      "forks": 64,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "src-d",
+      "name": "go-git",
+      "href": "https://github.com/src-d/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": 4541,
+      "forks": 487,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 8532,
+      "forks": 1553,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17593,
+      "forks": 3047,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk",
+      "language": "Go",
+      "stars": 46226,
+      "forks": 9971,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 16745,
+      "forks": 1324,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "jpillora",
+      "name": "cloud-torrent",
+      "href": "https://github.com/jpillora/cloud-torrent",
+      "description": "☁️ Cloud Torrent: a self-hosted remote torrent client",
+      "language": "Go",
+      "stars": 3916,
+      "forks": 1258,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 1447,
+      "forks": 622,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 49176,
+      "forks": 6488,
+      "starsInPeriod": 57
+    },
+    {
+      "author": "securego",
+      "name": "gosec",
+      "href": "https://github.com/securego/gosec",
+      "description": "Golang security checker",
+      "language": "Go",
+      "stars": 2799,
+      "forks": 200,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 39133,
+      "forks": 4430,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 28472,
+      "forks": 2422,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19357,
+      "forks": 5218,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "href": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service.",
+      "language": "Go",
+      "stars": 32130,
+      "forks": 3742,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "facebookincubator",
+      "name": "ent",
+      "href": "https://github.com/facebookincubator/ent",
+      "description": "An entity framework for Go",
+      "language": "Go",
+      "stars": 1660,
+      "forks": 74,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "jpillora",
+      "name": "chisel",
+      "href": "https://github.com/jpillora/chisel",
+      "description": "A fast TCP tunnel over HTTP",
+      "language": "Go",
+      "stars": 3315,
+      "forks": 383,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "xiaoming2028",
+      "name": "FreeNet",
+      "href": "https://github.com/xiaoming2028/FreeNet",
+      "description": "科学上网/梯子/自由上网/翻墙 SSR/V2Ray/Brook 最全搭建教程",
+      "language": "Go",
+      "stars": 943,
+      "forks": 168,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 9722,
+      "forks": 2769,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "adonovan",
+      "name": "gopl.io",
+      "href": "https://github.com/adonovan/gopl.io",
+      "description": "Example programs from \"The Go Programming Language\"",
+      "language": "Go",
+      "stars": 3620,
+      "forks": 1421,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 4810,
+      "forks": 207,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "go-gorp",
+      "name": "gorp",
+      "href": "https://github.com/go-gorp/gorp",
+      "description": "Go Relational Persistence - an ORM-ish library for Go",
+      "language": "Go",
+      "stars": 3185,
+      "forks": 357,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "cosmos",
+      "name": "sdk-tutorials",
+      "href": "https://github.com/cosmos/sdk-tutorials",
+      "description": "A tutorial for building modules for the Cosmos SDK",
+      "language": "Go",
+      "stars": 153,
+      "forks": 160,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 29106,
+      "forks": 5310,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "ktr0731",
+      "name": "evans",
+      "href": "https://github.com/ktr0731/evans",
+      "description": "Evans: more expressive universal gRPC client",
+      "language": "Go",
+      "stars": 941,
+      "forks": 47,
+      "starsInPeriod": 5
+    }
+  ]
+}
