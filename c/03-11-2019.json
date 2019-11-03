@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 4939,
+      "forks": 2663,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "thestr4ng3r",
+      "name": "chiaki",
+      "href": "https://github.com/thestr4ng3r/chiaki",
+      "description": "Free and Open Source PS4 Remote Play Client",
+      "language": "C",
+      "stars": 822,
+      "forks": 50,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line video player",
+      "language": "C",
+      "stars": 10652,
+      "forks": 1452,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "littlevgl",
+      "name": "lvgl",
+      "href": "https://github.com/littlevgl/lvgl",
+      "description": "Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
+      "language": "C",
+      "stars": 2602,
+      "forks": 580,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "href": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": 3715,
+      "forks": 942,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "href": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
+      "language": "C",
+      "stars": 3063,
+      "forks": 361,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 82186,
+      "forks": 28789,
+      "starsInPeriod": 74
+    },
+    {
+      "author": "hantuzun",
+      "name": "hr-code",
+      "href": "https://github.com/hantuzun/hr-code",
+      "description": "Human Response Code: Designed to be recognized by humans and OCR. Encodes all valid URL characters to images.",
+      "language": "C",
+      "stars": 142,
+      "forks": 3,
+      "starsInPeriod": 136
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": 5303,
+      "forks": 10174,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "akheron",
+      "name": "jansson",
+      "href": "https://github.com/akheron/jansson",
+      "description": "C library for encoding, decoding and manipulating JSON data",
+      "language": "C",
+      "stars": 2063,
+      "forks": 599,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "sumatrapdfreader",
+      "name": "sumatrapdf",
+      "href": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
+      "language": "C",
+      "stars": 4185,
+      "forks": 944,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "href": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 4458,
+      "forks": 742,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 6798,
+      "forks": 1192,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "zfsonlinux",
+      "name": "zfs",
+      "href": "https://github.com/zfsonlinux/zfs",
+      "description": "ZFS on Linux - the official OpenZFS implementation for Linux.",
+      "language": "C",
+      "stars": 4899,
+      "forks": 1030,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "pygame",
+      "name": "pygame",
+      "href": "https://github.com/pygame/pygame",
+      "description": "pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+      "language": "C",
+      "stars": 1517,
+      "forks": 492,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "href": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": 5586,
+      "forks": 1717,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 9420,
+      "forks": 2882,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "RIOT-OS",
+      "name": "RIOT",
+      "href": "https://github.com/RIOT-OS/RIOT",
+      "description": "RIOT - The friendly OS for IoT",
+      "language": "C",
+      "stars": 2939,
+      "forks": 1434,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 2598,
+      "forks": 1563,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "href": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": 1459,
+      "forks": 373,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 15150,
+      "forks": 3146,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "Ralim",
+      "name": "ts100",
+      "href": "https://github.com/Ralim/ts100",
+      "description": "The Feature Packed Alternate Open Source firmware for the TS100 iron by miniware.",
+      "language": "C",
+      "stars": 1570,
+      "forks": 213,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The missing terminal file manager for X",
+      "language": "C",
+      "stars": 6519,
+      "forks": 229,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "href": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": 5629,
+      "forks": 1844,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 4758,
+      "forks": 2873,
+      "starsInPeriod": 6
+    }
+  ]
+}
