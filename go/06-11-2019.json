@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17677,
+      "forks": 3060,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 5238,
+      "forks": 500,
+      "starsInPeriod": 94
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 9755,
+      "forks": 1018,
+      "starsInPeriod": 88
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14342,
+      "forks": 2148,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19413,
+      "forks": 5227,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "GuoZhaoran",
+      "name": "spikeSystem",
+      "href": "https://github.com/GuoZhaoran/spikeSystem",
+      "description": null,
+      "language": "Go",
+      "stars": 541,
+      "forks": 208,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5390,
+      "forks": 969,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15755,
+      "forks": 1816,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "href": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform file system notifications for Go.",
+      "language": "Go",
+      "stars": 3870,
+      "forks": 457,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 9906,
+      "forks": 2001,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 621,
+      "forks": 73,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4455,
+      "forks": 837,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7233,
+      "forks": 949,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4584,
+      "forks": 568,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 21208,
+      "forks": 3168,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 4964,
+      "forks": 539,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3266,
+      "forks": 2984,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "julienschmidt",
+      "name": "httprouter",
+      "href": "https://github.com/julienschmidt/httprouter",
+      "description": "A high performance HTTP request router that scales well",
+      "language": "Go",
+      "stars": 10247,
+      "forks": 1017,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 3181,
+      "forks": 418,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "src-d",
+      "name": "go-git",
+      "href": "https://github.com/src-d/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": 4598,
+      "forks": 494,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 3102,
+      "forks": 355,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 4844,
+      "forks": 866,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "concourse",
+      "name": "concourse",
+      "href": "https://github.com/concourse/concourse",
+      "description": "Concourse is a container-based continuous thing-doer written in Go and Elm.",
+      "language": "Go",
+      "stars": 4448,
+      "forks": 546,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "IBM-Cloud",
+      "name": "terraform-provider-ibm",
+      "href": "https://github.com/IBM-Cloud/terraform-provider-ibm",
+      "description": "Terraform IBM provider https://ibm-cloud.github.io/tf-ibm-docs/v0.18.0/",
+      "language": "Go",
+      "stars": 111,
+      "forks": 123,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 14489,
+      "forks": 1257,
+      "starsInPeriod": 45
+    }
+  ]
+}
