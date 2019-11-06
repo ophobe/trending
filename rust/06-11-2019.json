@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 9902,
+      "forks": 624,
+      "starsInPeriod": 150
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 859,
+      "forks": 60,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13186,
+      "forks": 1940,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 2003,
+      "forks": 297,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6290,
+      "forks": 921,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 4585,
+      "forks": 171,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "BurntSushi",
+      "name": "xsv",
+      "href": "https://github.com/BurntSushi/xsv",
+      "description": "A fast CSV command line toolkit written in Rust.",
+      "language": "Rust",
+      "stars": 4938,
+      "forks": 161,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 2956,
+      "forks": 129,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 2639,
+      "forks": 238,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "clifinger",
+      "name": "canduma",
+      "href": "https://github.com/clifinger/canduma",
+      "description": "A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT",
+      "language": "Rust",
+      "stars": 139,
+      "forks": 5,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 15112,
+      "forks": 2274,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A renderer-agnostic GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 990,
+      "forks": 26,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40187,
+      "forks": 6216,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "ggez",
+      "name": "ggez",
+      "href": "https://github.com/ggez/ggez",
+      "description": "Rust library to create a Good Game Easily",
+      "language": "Rust",
+      "stars": 1844,
+      "forks": 229,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "href": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": 560,
+      "forks": 24,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2945,
+      "forks": 364,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "linebender",
+      "name": "runebender",
+      "href": "https://github.com/linebender/runebender",
+      "description": "A font editor written in Rust.",
+      "language": "Rust",
+      "stars": 133,
+      "forks": 7,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "passcod",
+      "name": "cargo-watch",
+      "href": "https://github.com/passcod/cargo-watch",
+      "description": "🔭🚢 Watches over your Cargo project's source.",
+      "language": "Rust",
+      "stars": 816,
+      "forks": 45,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1670,
+      "forks": 177,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6379,
+      "forks": 734,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 3394,
+      "forks": 430,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "href": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": 1977,
+      "forks": 119,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1584,
+      "forks": 435,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 880,
+      "forks": 112,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 2009,
+      "forks": 137,
+      "starsInPeriod": 9
+    }
+  ]
+}
