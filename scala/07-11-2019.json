@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "polynote",
+      "name": "polynote",
+      "href": "https://github.com/polynote/polynote",
+      "description": "A better notebook for Scala (and more)",
+      "language": "Scala",
+      "stars": 2687,
+      "forks": 187,
+      "starsInPeriod": 237
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24143,
+      "forks": 20475,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10443,
+      "forks": 3126,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3621,
+      "forks": 908,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 8159,
+      "forks": 1981,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 1692,
+      "forks": 509,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "functional-streams-for-scala",
+      "name": "fs2",
+      "href": "https://github.com/functional-streams-for-scala/fs2",
+      "description": "Compositional, streaming I/O library for Scala",
+      "language": "Scala",
+      "stars": 1547,
+      "forks": 393,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4353,
+      "forks": 841,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 1806,
+      "forks": 391,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11401,
+      "forks": 3806,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "softwaremill",
+      "name": "sttp",
+      "href": "https://github.com/softwaremill/sttp",
+      "description": "The Scala HTTP client you always wanted!",
+      "language": "Scala",
+      "stars": 814,
+      "forks": 116,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "scala-js",
+      "name": "scala-js",
+      "href": "https://github.com/scala-js/scala-js",
+      "description": "Scala.js, the Scala to JavaScript compiler",
+      "language": "Scala",
+      "stars": 3755,
+      "forks": 331,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1684,
+      "forks": 307,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1057,
+      "forks": 226,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7371,
+      "forks": 1307,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 488,
+      "forks": 165,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1844,
+      "forks": 359,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 2294,
+      "forks": 550,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "stars": 973,
+      "forks": 115,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1254,
+      "forks": 530,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 3681,
+      "forks": 253,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ashwinbhaskar",
+      "name": "scala-to-dotty",
+      "href": "https://github.com/ashwinbhaskar/scala-to-dotty",
+      "description": "Dotty way of writing Scala 2 code",
+      "language": "Scala",
+      "stars": 65,
+      "forks": 7,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "zio",
+      "name": "zio-http",
+      "href": "https://github.com/zio/zio-http",
+      "description": "ZIO-powered HTTP server and client.",
+      "language": "Scala",
+      "stars": 55,
+      "forks": 8,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ucb-bar",
+      "name": "riscv-torture",
+      "href": "https://github.com/ucb-bar/riscv-torture",
+      "description": "RISC-V Torture Test",
+      "language": "Scala",
+      "stars": 40,
+      "forks": 18,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "tpolecat",
+      "name": "doobie",
+      "href": "https://github.com/tpolecat/doobie",
+      "description": "Functional JDBC layer for Scala.",
+      "language": "Scala",
+      "stars": 1538,
+      "forks": 250,
+      "starsInPeriod": 2
+    }
+  ]
+}
