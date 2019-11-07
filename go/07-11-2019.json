@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "GuoZhaoran",
+      "name": "spikeSystem",
+      "href": "https://github.com/GuoZhaoran/spikeSystem",
+      "description": null,
+      "language": "Go",
+      "stars": 601,
+      "forks": 232,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4463,
+      "forks": 837,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17718,
+      "forks": 3070,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15771,
+      "forks": 1817,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 8868,
+      "forks": 1171,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 21239,
+      "forks": 3172,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "roboll",
+      "name": "helmfile",
+      "href": "https://github.com/roboll/helmfile",
+      "description": "Deploy Kubernetes Helm Charts",
+      "language": "Go",
+      "stars": 1488,
+      "forks": 187,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 3875,
+      "forks": 310,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 32692,
+      "forks": 3776,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 20301,
+      "forks": 3597,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "m3db",
+      "name": "m3",
+      "href": "https://github.com/m3db/m3",
+      "description": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",
+      "language": "Go",
+      "stars": 2308,
+      "forks": 205,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 12902,
+      "forks": 1493,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5615,
+      "forks": 1111,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 3999,
+      "forks": 164,
+      "starsInPeriod": 67
+    },
+    {
+      "author": "ginuerzh",
+      "name": "gost",
+      "href": "https://github.com/ginuerzh/gost",
+      "description": "GO Simple Tunnel - a simple tunnel written in golang",
+      "language": "Go",
+      "stars": 3949,
+      "forks": 771,
+      "starsInPeriod": 357
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 10732,
+      "forks": 11185,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "golang",
+      "name": "mock",
+      "href": "https://github.com/golang/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": 3220,
+      "forks": 296,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 4855,
+      "forks": 868,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6487,
+      "forks": 616,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "aws-alb-ingress-controller",
+      "href": "https://github.com/kubernetes-sigs/aws-alb-ingress-controller",
+      "description": "AWS ALB Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 1214,
+      "forks": 397,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 14670,
+      "forks": 4711,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 24703,
+      "forks": 8924,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "href": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform file system notifications for Go.",
+      "language": "Go",
+      "stars": 3891,
+      "forks": 458,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 9841,
+      "forks": 1021,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10424,
+      "forks": 1081,
+      "starsInPeriod": 17
+    }
+  ]
+}
