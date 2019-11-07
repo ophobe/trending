@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 5676,
+      "forks": 193,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 877,
+      "forks": 63,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40230,
+      "forks": 6217,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2958,
+      "forks": 366,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 4596,
+      "forks": 171,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6302,
+      "forks": 923,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6383,
+      "forks": 736,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "fastly",
+      "name": "lucet",
+      "href": "https://github.com/fastly/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2628,
+      "forks": 85,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 153,
+      "forks": 56,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 2966,
+      "forks": 129,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2588,
+      "forks": 328,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "nervosnetwork",
+      "name": "ckb",
+      "href": "https://github.com/nervosnetwork/ckb",
+      "description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.",
+      "language": "Rust",
+      "stars": 590,
+      "forks": 103,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A renderer-agnostic GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 1004,
+      "forks": 26,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 247682,
+      "forks": 21195,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "http-rs",
+      "name": "surf",
+      "href": "https://github.com/http-rs/surf",
+      "description": "Surf the web – HTTP client framework",
+      "language": "Rust",
+      "stars": 500,
+      "forks": 27,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13197,
+      "forks": 1944,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "href": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": 566,
+      "forks": 24,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 2016,
+      "forks": 138,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 5418,
+      "forks": 773,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "mullvad",
+      "name": "mullvadvpn-app",
+      "href": "https://github.com/mullvad/mullvadvpn-app",
+      "description": "The Mullvad VPN client app for desktop and mobile",
+      "language": "Rust",
+      "stars": 516,
+      "forks": 39,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 9156,
+      "forks": 345,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "aclysma",
+      "name": "skulpin",
+      "href": "https://github.com/aclysma/skulpin",
+      "description": "Skia + Vulkan = Skulpin",
+      "language": "Rust",
+      "stars": 63,
+      "forks": 1,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 2614,
+      "forks": 296,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "withoutboats",
+      "name": "romio",
+      "href": "https://github.com/withoutboats/romio",
+      "description": "asynchronous networking primitives",
+      "language": "Rust",
+      "stars": 419,
+      "forks": 33,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cli",
+      "href": "https://github.com/getsentry/sentry-cli",
+      "description": "A command line utility to work with Sentry.",
+      "language": "Rust",
+      "stars": 423,
+      "forks": 98,
+      "starsInPeriod": 2
+    }
+  ]
+}
