@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 10948,
+      "forks": 1813,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "qemu",
+      "name": "qemu",
+      "href": "https://github.com/qemu/qemu",
+      "description": "Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.",
+      "language": "C",
+      "stars": 3014,
+      "forks": 2435,
+      "starsInPeriod": 84
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "href": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": 263,
+      "forks": 80,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 15286,
+      "forks": 9505,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 82420,
+      "forks": 28877,
+      "starsInPeriod": 103
+    },
+    {
+      "author": "edenhill",
+      "name": "librdkafka",
+      "href": "https://github.com/edenhill/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": 3675,
+      "forks": 1659,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 12211,
+      "forks": 3979,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software.",
+      "language": "C",
+      "stars": 4699,
+      "forks": 830,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "href": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": 3192,
+      "forks": 639,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "href": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": 961,
+      "forks": 508,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 15565,
+      "forks": 1052,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "greenplum-db",
+      "name": "gpdb",
+      "href": "https://github.com/greenplum-db/gpdb",
+      "description": "Greenplum Database",
+      "language": "C",
+      "stars": 3600,
+      "forks": 1035,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "intel",
+      "name": "haxm",
+      "href": "https://github.com/intel/haxm",
+      "description": "Intel® Hardware Accelerated Execution Manager (Intel® HAXM)",
+      "language": "C",
+      "stars": 1276,
+      "forks": 267,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 15608,
+      "forks": 908,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "aws",
+      "name": "amazon-freertos",
+      "href": "https://github.com/aws/amazon-freertos",
+      "description": "IoT operating system for microcontrollers.",
+      "language": "C",
+      "stars": 1661,
+      "forks": 637,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "TheWover",
+      "name": "donut",
+      "href": "https://github.com/TheWover/donut",
+      "description": "Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters",
+      "language": "C",
+      "stars": 553,
+      "forks": 101,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "href": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": 3573,
+      "forks": 1434,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 17183,
+      "forks": 6165,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "href": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": 3374,
+      "forks": 311,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "wg",
+      "name": "wrk",
+      "href": "https://github.com/wg/wrk",
+      "description": "Modern HTTP benchmarking tool",
+      "language": "C",
+      "stars": 22366,
+      "forks": 1845,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "href": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org websocket library",
+      "language": "C",
+      "stars": 2331,
+      "forks": 915,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Azure",
+      "name": "azure-iot-sdk-c",
+      "href": "https://github.com/Azure/azure-iot-sdk-c",
+      "description": "A C99 SDK for connecting devices to Microsoft Azure IoT services",
+      "language": "C",
+      "stars": 309,
+      "forks": 413,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "libjpeg-turbo",
+      "name": "libjpeg-turbo",
+      "href": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+      "description": "Main libjpeg-turbo repository",
+      "language": "C",
+      "stars": 1749,
+      "forks": 476,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 4787,
+      "forks": 2907,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "href": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": 3163,
+      "forks": 1809,
+      "starsInPeriod": 4
+    }
+  ]
+}
