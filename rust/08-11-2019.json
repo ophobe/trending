@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40275,
+      "forks": 6221,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 4896,
+      "forks": 1031,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "fastly",
+      "name": "lucet",
+      "href": "https://github.com/fastly/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2637,
+      "forks": 85,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2963,
+      "forks": 368,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5669,
+      "forks": 406,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 6225,
+      "forks": 633,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 3944,
+      "forks": 528,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1595,
+      "forks": 439,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 887,
+      "forks": 63,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 5425,
+      "forks": 773,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6309,
+      "forks": 924,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 1233,
+      "forks": 114,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 2022,
+      "forks": 138,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "href": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": 1987,
+      "forks": 120,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1590,
+      "forks": 116,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "clifinger",
+      "name": "canduma",
+      "href": "https://github.com/clifinger/canduma",
+      "description": "A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT",
+      "language": "Rust",
+      "stars": 199,
+      "forks": 13,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 9165,
+      "forks": 346,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6320,
+      "forks": 523,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 4613,
+      "forks": 172,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 16849,
+      "forks": 720,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 889,
+      "forks": 114,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 1875,
+      "forks": 97,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13215,
+      "forks": 1944,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cli",
+      "href": "https://github.com/getsentry/sentry-cli",
+      "description": "A command line utility to work with Sentry.",
+      "language": "Rust",
+      "stars": 429,
+      "forks": 99,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 414,
+      "forks": 44,
+      "starsInPeriod": 4
+    }
+  ]
+}
