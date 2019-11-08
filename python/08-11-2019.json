@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "gpt-2",
+      "href": "https://github.com/openai/gpt-2",
+      "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+      "language": "Python",
+      "stars": 9251,
+      "forks": 2111,
+      "starsInPeriod": 204
+    },
+    {
+      "author": "openai",
+      "name": "gpt-2-output-dataset",
+      "href": "https://github.com/openai/gpt-2-output-dataset",
+      "description": "Dataset of GPT-2 outputs for research in detection, biases, and more",
+      "language": "Python",
+      "stars": 560,
+      "forks": 135,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "iqiyi",
+      "name": "FASPell",
+      "href": "https://github.com/iqiyi/FASPell",
+      "description": "产学界最强（SOTA）的简繁中文拼写检查工具：FASPell Chinese Spell Checker (Chinese Spell Check / 中文拼写检错 / 中文拼写纠错 / 中文拼写检查)",
+      "language": "Python",
+      "stars": 347,
+      "forks": 52,
+      "starsInPeriod": 123
+    },
+    {
+      "author": "ansible",
+      "name": "ansible",
+      "href": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",
+      "language": "Python",
+      "stars": 40199,
+      "forks": 17345,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "OUCMachineLearning",
+      "name": "OUCML",
+      "href": "https://github.com/OUCMachineLearning/OUCML",
+      "description": null,
+      "language": "Python",
+      "stars": 2170,
+      "forks": 616,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "d2l-ai",
+      "name": "d2l-zh",
+      "href": "https://github.com/d2l-ai/d2l-zh",
+      "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。",
+      "language": "Python",
+      "stars": 14635,
+      "forks": 3698,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "rusty1s",
+      "name": "pytorch_geometric",
+      "href": "https://github.com/rusty1s/pytorch_geometric",
+      "description": "Geometric Deep Learning Extension Library for PyTorch",
+      "language": "Python",
+      "stars": 5694,
+      "forks": 886,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "Morizeyao",
+      "name": "GPT2-Chinese",
+      "href": "https://github.com/Morizeyao/GPT2-Chinese",
+      "description": "Chinese version of GPT2 training code, using BERT tokenizer.",
+      "language": "Python",
+      "stars": 1043,
+      "forks": 245,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "public-apis",
+      "name": "public-apis",
+      "href": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs for use in software and web development.",
+      "language": "Python",
+      "stars": 64692,
+      "forks": 7229,
+      "starsInPeriod": 134
+    },
+    {
+      "author": "open-mmlab",
+      "name": "mmfashion",
+      "href": "https://github.com/open-mmlab/mmfashion",
+      "description": "Open-source toolbox for visual fashion analysis based on PyTorch",
+      "language": "Python",
+      "stars": 142,
+      "forks": 22,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "locustio",
+      "name": "locust",
+      "href": "https://github.com/locustio/locust",
+      "description": "Scalable user load testing tool written in Python",
+      "language": "Python",
+      "stars": 11289,
+      "forks": 1628,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "aws-samples",
+      "name": "aws-cdk-examples",
+      "href": "https://github.com/aws-samples/aws-cdk-examples",
+      "description": "Example projects using the AWS CDK",
+      "language": "Python",
+      "stars": 467,
+      "forks": 184,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pandas-dev",
+      "name": "pandas",
+      "href": "https://github.com/pandas-dev/pandas",
+      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "language": "Python",
+      "stars": 22233,
+      "forks": 8849,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "keras-team",
+      "name": "keras",
+      "href": "https://github.com/keras-team/keras",
+      "description": "Deep Learning for humans",
+      "language": "Python",
+      "stars": 45260,
+      "forks": 17188,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "woj-ciech",
+      "name": "kamerka",
+      "href": "https://github.com/woj-ciech/kamerka",
+      "description": "Build interactive map of cameras from Shodan",
+      "language": "Python",
+      "stars": 1015,
+      "forks": 150,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "megvii-model",
+      "name": "DetNAS",
+      "href": "https://github.com/megvii-model/DetNAS",
+      "description": null,
+      "language": "Python",
+      "stars": 89,
+      "forks": 19,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "clovaai",
+      "name": "CRAFT-pytorch",
+      "href": "https://github.com/clovaai/CRAFT-pytorch",
+      "description": "Official implementation of Character Region Awareness for Text Detection (CRAFT)",
+      "language": "Python",
+      "stars": 682,
+      "forks": 215,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "minimaxir",
+      "name": "gpt-2-simple",
+      "href": "https://github.com/minimaxir/gpt-2-simple",
+      "description": "Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts",
+      "language": "Python",
+      "stars": 1054,
+      "forks": 187,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "huggingface",
+      "name": "transformers",
+      "href": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.",
+      "language": "Python",
+      "stars": 16677,
+      "forks": 3834,
+      "starsInPeriod": 78
+    },
+    {
+      "author": "wangshub",
+      "name": "Douyin-Bot",
+      "href": "https://github.com/wangshub/Douyin-Bot",
+      "description": "😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？",
+      "language": "Python",
+      "stars": 6113,
+      "forks": 1234,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "OpenNMT",
+      "name": "OpenNMT-py",
+      "href": "https://github.com/OpenNMT/OpenNMT-py",
+      "description": "Open Source Neural Machine Translation in PyTorch",
+      "language": "Python",
+      "stars": 3561,
+      "forks": 1378,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "qqwweee",
+      "name": "keras-yolo3",
+      "href": "https://github.com/qqwweee/keras-yolo3",
+      "description": "A Keras implementation of YOLOv3 (Tensorflow backend)",
+      "language": "Python",
+      "stars": 4668,
+      "forks": 2222,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "models",
+      "href": "https://github.com/PaddlePaddle/models",
+      "description": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）",
+      "language": "Python",
+      "stars": 3349,
+      "forks": 1592,
+      "starsInPeriod": 82
+    },
+    {
+      "author": "facebookresearch",
+      "name": "detectron2",
+      "href": "https://github.com/facebookresearch/detectron2",
+      "description": "Detectron2 is FAIR's next-generation research platform for object detection and segmentation.",
+      "language": "Python",
+      "stars": 5198,
+      "forks": 690,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "microsoft",
+      "name": "DialoGPT",
+      "href": "https://github.com/microsoft/DialoGPT",
+      "description": "Large-scale pretraining for dialogue",
+      "language": "Python",
+      "stars": 176,
+      "forks": 23,
+      "starsInPeriod": 63
+    }
+  ]
+}
