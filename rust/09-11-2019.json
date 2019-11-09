@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rajasekarv",
+      "name": "native_spark",
+      "href": "https://github.com/rajasekarv/native_spark",
+      "description": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+      "language": "Rust",
+      "stars": 751,
+      "forks": 55,
+      "starsInPeriod": 167
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 4307,
+      "forks": 162,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 2020,
+      "forks": 299,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6396,
+      "forks": 740,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1305,
+      "forks": 119,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "CraneStation",
+      "name": "wasmtime",
+      "href": "https://github.com/CraneStation/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1598,
+      "forks": 117,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40303,
+      "forks": 6221,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 6234,
+      "forks": 635,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "fastly",
+      "name": "lucet",
+      "href": "https://github.com/fastly/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2642,
+      "forks": 85,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5675,
+      "forks": 406,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 1236,
+      "forks": 114,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2595,
+      "forks": 330,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "clifinger",
+      "name": "canduma",
+      "href": "https://github.com/clifinger/canduma",
+      "description": "A Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT",
+      "language": "Rust",
+      "stars": 211,
+      "forks": 15,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 3686,
+      "forks": 222,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 4901,
+      "forks": 1031,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 3951,
+      "forks": 527,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6331,
+      "forks": 523,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 4491,
+      "forks": 311,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "maps4print",
+      "name": "azul",
+      "href": "https://github.com/maps4print/azul",
+      "description": "Desktop GUI Framework",
+      "language": "Rust",
+      "stars": 3345,
+      "forks": 140,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 5437,
+      "forks": 774,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 688,
+      "forks": 196,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "serde-rs",
+      "name": "json",
+      "href": "https://github.com/serde-rs/json",
+      "description": "Strongly typed JSON library for Rust",
+      "language": "Rust",
+      "stars": 1220,
+      "forks": 200,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2967,
+      "forks": 370,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4642,
+      "forks": 440,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 9180,
+      "forks": 346,
+      "starsInPeriod": 13
+    }
+  ]
+}
