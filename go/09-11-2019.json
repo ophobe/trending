@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 14703,
+      "forks": 4717,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 20345,
+      "forks": 3605,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 9644,
+      "forks": 1496,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 10755,
+      "forks": 11210,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7252,
+      "forks": 954,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "dominikh",
+      "name": "go-tools",
+      "href": "https://github.com/dominikh/go-tools",
+      "description": "Staticcheck – a collection of static analysis tools for working with Go code",
+      "language": "Go",
+      "stars": 2786,
+      "forks": 159,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 8914,
+      "forks": 1175,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "micro-in-cn",
+      "name": "tutorials",
+      "href": "https://github.com/micro-in-cn/tutorials",
+      "description": "Micro 中文示例、教程、资料，源码解读",
+      "language": "Go",
+      "stars": 794,
+      "forks": 129,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1807,
+      "forks": 489,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 21268,
+      "forks": 3181,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 32737,
+      "forks": 3785,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "roboll",
+      "name": "helmfile",
+      "href": "https://github.com/roboll/helmfile",
+      "description": "Deploy Kubernetes Helm Charts",
+      "language": "Go",
+      "stars": 1513,
+      "forks": 201,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "skaffold",
+      "href": "https://github.com/GoogleContainerTools/skaffold",
+      "description": "Easy and Repeatable Kubernetes Development",
+      "language": "Go",
+      "stars": 7949,
+      "forks": 705,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 10229,
+      "forks": 977,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "volatiletech",
+      "name": "sqlboiler",
+      "href": "https://github.com/volatiletech/sqlboiler",
+      "description": "Generate a Go ORM tailored to your database schema.",
+      "language": "Go",
+      "stars": 2468,
+      "forks": 249,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gobuffalo",
+      "name": "packr",
+      "href": "https://github.com/gobuffalo/packr",
+      "description": "The simple and easy way to embed static files into Go binaries.",
+      "language": "Go",
+      "stars": 2441,
+      "forks": 124,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "miekg",
+      "name": "dns",
+      "href": "https://github.com/miekg/dns",
+      "description": "DNS library in Go",
+      "language": "Go",
+      "stars": 4046,
+      "forks": 671,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 12586,
+      "forks": 439,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 3713,
+      "forks": 206,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "github",
+      "name": "gh-ost",
+      "href": "https://github.com/github/gh-ost",
+      "description": "GitHub's Online Schema Migrations for MySQL",
+      "language": "Go",
+      "stars": 7020,
+      "forks": 679,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 10142,
+      "forks": 3159,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5308,
+      "forks": 1320,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 1989,
+      "forks": 192,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "kaniko",
+      "href": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": 4722,
+      "forks": 412,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8836,
+      "forks": 784,
+      "starsInPeriod": 10
+    }
+  ]
+}
