@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "GoogleContainerTools",
+      "name": "skaffold",
+      "href": "https://github.com/GoogleContainerTools/skaffold",
+      "description": "Easy and Repeatable Kubernetes Development",
+      "language": "Go",
+      "stars": 8068,
+      "forks": 717,
+      "starsInPeriod": 147
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 21173,
+      "forks": 800,
+      "starsInPeriod": 120
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 6847,
+      "forks": 277,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 24870,
+      "forks": 2014,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 9813,
+      "forks": 1517,
+      "starsInPeriod": 205
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 8613,
+      "forks": 941,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "winterssy",
+      "name": "mxget",
+      "href": "https://github.com/winterssy/mxget",
+      "description": "优雅的一站式音乐搜索、下载试听服务，支持国内所有音乐平台",
+      "language": "Go",
+      "stars": 411,
+      "forks": 49,
+      "starsInPeriod": 103
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 28587,
+      "forks": 2425,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 8714,
+      "forks": 1400,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "filecoin-project",
+      "name": "lotus",
+      "href": "https://github.com/filecoin-project/lotus",
+      "description": "Implementation of the Filecoin protocol, written in Go",
+      "language": "Go",
+      "stars": 82,
+      "forks": 29,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 29474,
+      "forks": 5384,
+      "starsInPeriod": 125
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 24081,
+      "forks": 5431,
+      "starsInPeriod": 81
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 13644,
+      "forks": 456,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "OpenDiablo2",
+      "name": "OpenDiablo2",
+      "href": "https://github.com/OpenDiablo2/OpenDiablo2",
+      "description": "An open source re-implementation of Diablo 2",
+      "language": "Go",
+      "stars": 329,
+      "forks": 38,
+      "starsInPeriod": 74
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 16704,
+      "forks": 3618,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+      "language": "Go",
+      "stars": 7128,
+      "forks": 1437,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 17832,
+      "forks": 1877,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 2696,
+      "forks": 1023,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 11612,
+      "forks": 807,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "href": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser which can be used as a middleware or standalone app.",
+      "language": "Go",
+      "stars": 5987,
+      "forks": 778,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "natefinch",
+      "name": "lumberjack",
+      "href": "https://github.com/natefinch/lumberjack",
+      "description": "lumberjack is a log rolling package for Go",
+      "language": "Go",
+      "stars": 1591,
+      "forks": 214,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1917,
+      "forks": 316,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "nsf",
+      "name": "termbox-go",
+      "href": "https://github.com/nsf/termbox-go",
+      "description": "Pure Go termbox implementation",
+      "language": "Go",
+      "stars": 3564,
+      "forks": 301,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "go-ini",
+      "name": "ini",
+      "href": "https://github.com/go-ini/ini",
+      "description": "Package ini provides INI file read and write functionality in Go.",
+      "language": "Go",
+      "stars": 1721,
+      "forks": 231,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "OJ",
+      "name": "gobuster",
+      "href": "https://github.com/OJ/gobuster",
+      "description": "Directory/File, DNS and VHost busting tool written in Go",
+      "language": "Go",
+      "stars": 2418,
+      "forks": 424,
+      "starsInPeriod": 20
+    }
+  ]
+}
