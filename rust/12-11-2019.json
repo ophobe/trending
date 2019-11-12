@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1371,
+      "forks": 128,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6431,
+      "forks": 532,
+      "starsInPeriod": 75
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1638,
+      "forks": 121,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 2035,
+      "forks": 298,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 2051,
+      "forks": 139,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Serve the web – HTTP server framework",
+      "language": "Rust",
+      "stars": 1324,
+      "forks": 116,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "nervosnetwork",
+      "name": "ckb",
+      "href": "https://github.com/nervosnetwork/ckb",
+      "description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.",
+      "language": "Rust",
+      "stars": 596,
+      "forks": 103,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 4491,
+      "forks": 505,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 9224,
+      "forks": 348,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 8284,
+      "forks": 584,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 6274,
+      "forks": 644,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1609,
+      "forks": 450,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-ndarray",
+      "name": "ndarray",
+      "href": "https://github.com/rust-ndarray/ndarray",
+      "description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+      "language": "Rust",
+      "stars": 1034,
+      "forks": 114,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4659,
+      "forks": 441,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot",
+      "href": "https://github.com/paritytech/polkadot",
+      "description": "Polkadot Node Implementation",
+      "language": "Rust",
+      "stars": 652,
+      "forks": 153,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 422,
+      "forks": 44,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13266,
+      "forks": 1955,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 1891,
+      "forks": 134,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 3455,
+      "forks": 392,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-lang",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 2663,
+      "forks": 366,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 3414,
+      "forks": 433,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "href": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": 1059,
+      "forks": 142,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 156,
+      "forks": 58,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2612,
+      "forks": 333,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 12925,
+      "forks": 872,
+      "starsInPeriod": 23
+    }
+  ]
+}
