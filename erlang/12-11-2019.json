@@ -1,0 +1,64 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6464,
+      "forks": 2060,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 213,
+      "forks": 76,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 8024,
+      "forks": 2177,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5235,
+      "forks": 991,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 308,
+      "forks": 136,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "deadtrickster",
+      "name": "rebar3_elvis_plugin",
+      "href": "https://github.com/deadtrickster/rebar3_elvis_plugin",
+      "description": "Run Elvis as rebar3 plugin",
+      "language": "Erlang",
+      "stars": 4,
+      "forks": 0,
+      "starsInPeriod": 0
+    }
+  ]
+}
