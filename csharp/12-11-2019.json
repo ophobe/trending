@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "k8gege",
+      "name": "Ladon",
+      "href": "https://github.com/k8gege/Ladon",
+      "description": "Ladon一款用于大型网络渗透的多线程插件化综合扫描神器，含端口扫描、服务识别、网络资产、密码爆破、高危漏洞检测以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描。5.5版本内置39个功能模块,通过多种协议以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、数据库等信息，漏洞检测包含MS17010、Weblogic、ActiveMQ、Tomcat、Struts2等，密码爆破11种含数据库(Mysql、Oracle、MSSQL)、FTP、SSH(Linux主机)、VNC、Windows密码(IPC、WMI、SMB)、Weblogic后台、Rar压缩包密码等，Web指…",
+      "language": "C#",
+      "stars": 392,
+      "forks": 70,
+      "starsInPeriod": 108
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "DOTS-training-samples",
+      "href": "https://github.com/Unity-Technologies/DOTS-training-samples",
+      "description": "Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS.",
+      "language": "C#",
+      "stars": 275,
+      "forks": 64,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Azure-Samples",
+      "name": "cognitive-services-speech-sdk",
+      "href": "https://github.com/Azure-Samples/cognitive-services-speech-sdk",
+      "description": "Sample code for the Microsoft Cognitive Services Speech SDK",
+      "language": "C#",
+      "stars": 293,
+      "forks": 348,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "aelassas",
+      "name": "Wexflow",
+      "href": "https://github.com/aelassas/Wexflow",
+      "description": "A high-performance, extensible, modular and cross-platform workflow engine. Built for automation. Optimized for SaaS integration. Runs on Windows, Linux, macOS and the cloud.",
+      "language": "C#",
+      "stars": 1484,
+      "forks": 392,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "IdentityServer",
+      "name": "IdentityServer4",
+      "href": "https://github.com/IdentityServer/IdentityServer4",
+      "description": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
+      "language": "C#",
+      "stars": 5418,
+      "forks": 1752,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "aspnet",
+      "name": "AspNetCore.Docs",
+      "href": "https://github.com/aspnet/AspNetCore.Docs",
+      "description": "Documentation for ASP.NET Core",
+      "language": "C#",
+      "stars": 6197,
+      "forks": 15587,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "microsoft",
+      "name": "WinAppDriver",
+      "href": "https://github.com/microsoft/WinAppDriver",
+      "description": "Windows Application Driver",
+      "language": "C#",
+      "stars": 1409,
+      "forks": 571,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "EntityComponentSystemSamples",
+      "href": "https://github.com/Unity-Technologies/EntityComponentSystemSamples",
+      "description": null,
+      "language": "C#",
+      "stars": 2965,
+      "forks": 655,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+      "language": "C#",
+      "stars": 6321,
+      "forks": 1025,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "0xd4d",
+      "name": "dnSpy",
+      "href": "https://github.com/0xd4d/dnSpy",
+      "description": ".NET debugger and assembly editor",
+      "language": "C#",
+      "stars": 12217,
+      "forks": 1909,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "MaterialDesignInXAML",
+      "name": "MaterialDesignInXamlToolkit",
+      "href": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+      "description": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+      "language": "C#",
+      "stars": 7526,
+      "forks": 1816,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "Azure-Samples",
+      "name": "active-directory-aspnetcore-webapp-openidconnect-v2",
+      "href": "https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2",
+      "description": "An ASP.NET Core 2.x Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)",
+      "language": "C#",
+      "stars": 222,
+      "forks": 135,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "lambci",
+      "name": "docker-lambda",
+      "href": "https://github.com/lambci/docker-lambda",
+      "description": "Docker images and test runners that replicate the live AWS Lambda environment",
+      "language": "C#",
+      "stars": 4185,
+      "forks": 311,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "href": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
+      "language": "C#",
+      "stars": 6710,
+      "forks": 693,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "QuantConnect",
+      "name": "Lean",
+      "href": "https://github.com/QuantConnect/Lean",
+      "description": "Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)",
+      "language": "C#",
+      "stars": 2917,
+      "forks": 1483,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kgrzybek",
+      "name": "modular-monolith-with-ddd",
+      "href": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+      "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+      "language": "C#",
+      "stars": 1490,
+      "forks": 177,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dotnet",
+      "name": "iot",
+      "href": "https://github.com/dotnet/iot",
+      "description": "This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.",
+      "language": "C#",
+      "stars": 723,
+      "forks": 155,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-dotnet",
+      "href": "https://github.com/grpc/grpc-dotnet",
+      "description": "gRPC for .NET",
+      "language": "C#",
+      "stars": 1448,
+      "forks": 175,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Akaion",
+      "name": "Bleak",
+      "href": "https://github.com/Akaion/Bleak",
+      "description": "A Windows native DLL injection library that supports several methods of injection.",
+      "language": "C#",
+      "stars": 446,
+      "forks": 88,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "multiplayer",
+      "href": "https://github.com/Unity-Technologies/multiplayer",
+      "description": "Unity multiplayer packages and samples",
+      "language": "C#",
+      "stars": 732,
+      "forks": 113,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "yukihiko",
+      "name": "ThreeDPoseUnitySample",
+      "href": "https://github.com/yukihiko/ThreeDPoseUnitySample",
+      "description": "Unity sample of 3D pose estimation",
+      "language": "C#",
+      "stars": 103,
+      "forks": 25,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "chkr1011",
+      "name": "MQTTnet",
+      "href": "https://github.com/chkr1011/MQTTnet",
+      "description": "MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.",
+      "language": "C#",
+      "stars": 1138,
+      "forks": 337,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "Jimmey-Jiang",
+      "name": "Common.Utility",
+      "href": "https://github.com/Jimmey-Jiang/Common.Utility",
+      "description": "比较全面的c#帮助类，各种功能性代码。",
+      "language": "C#",
+      "stars": 3037,
+      "forks": 1301,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "simplcommerce",
+      "name": "SimplCommerce",
+      "href": "https://github.com/simplcommerce/SimplCommerce",
+      "description": "A simple, cross platform, modularized ecommerce system built on .NET Core",
+      "language": "C#",
+      "stars": 2380,
+      "forks": 859,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "b4rtik",
+      "name": "RedPeanut",
+      "href": "https://github.com/b4rtik/RedPeanut",
+      "description": "RedPeanut is a small RAT developed in .Net Core 2 and its agent in .Net 3.5 / 4.0.",
+      "language": "C#",
+      "stars": 115,
+      "forks": 21,
+      "starsInPeriod": 36
+    }
+  ]
+}
