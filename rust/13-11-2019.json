@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1713,
+      "forks": 130,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6473,
+      "forks": 534,
+      "starsInPeriod": 72
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1508,
+      "forks": 133,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "lucet",
+      "href": "https://github.com/bytecodealliance/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2711,
+      "forks": 89,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "cranelift",
+      "href": "https://github.com/bytecodealliance/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2235,
+      "forks": 196,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 6296,
+      "forks": 645,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust framework for building client web apps",
+      "language": "Rust",
+      "stars": 9238,
+      "forks": 348,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 1927,
+      "forks": 96,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 2984,
+      "forks": 134,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Serve the web – HTTP server framework",
+      "language": "Rust",
+      "stars": 1328,
+      "forks": 117,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime",
+      "language": "Rust",
+      "stars": 4885,
+      "forks": 174,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1048,
+      "forks": 52,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "rusterlium",
+      "name": "rustler",
+      "href": "https://github.com/rusterlium/rustler",
+      "description": "Safe Rust bridge for creating Erlang NIF functions",
+      "language": "Rust",
+      "stars": 1903,
+      "forks": 88,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1610,
+      "forks": 451,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 15140,
+      "forks": 2280,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "flosse",
+      "name": "rust-web-framework-comparison",
+      "href": "https://github.com/flosse/rust-web-framework-comparison",
+      "description": "A comparison of some web frameworks and libs written in Rust",
+      "language": "Rust",
+      "stars": 1572,
+      "forks": 70,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rust-windowing",
+      "name": "winit",
+      "href": "https://github.com/rust-windowing/winit",
+      "description": "Window handling library in pure Rust",
+      "language": "Rust",
+      "stars": 901,
+      "forks": 266,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 901,
+      "forks": 118,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "TomGillen",
+      "name": "legion",
+      "href": "https://github.com/TomGillen/legion",
+      "description": "High performance Rust ECS library",
+      "language": "Rust",
+      "stars": 186,
+      "forks": 16,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the Mimblewimble protocol.",
+      "language": "Rust",
+      "stars": 4471,
+      "forks": 885,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "meilisearch",
+      "name": "MeiliDB",
+      "href": "https://github.com/meilisearch/MeiliDB",
+      "description": "A full-text search database based on the fast LMDB key-value store",
+      "language": "Rust",
+      "stars": 275,
+      "forks": 15,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5697,
+      "forks": 1372,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "mdBook",
+      "href": "https://github.com/rust-lang/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": 2666,
+      "forks": 367,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "spacejam",
+      "name": "sled",
+      "href": "https://github.com/spacejam/sled",
+      "description": "the champagne of beta embedded databases",
+      "language": "Rust",
+      "stars": 2339,
+      "forks": 103,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustup",
+      "href": "https://github.com/rust-lang/rustup",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 3007,
+      "forks": 453,
+      "starsInPeriod": 9
+    }
+  ]
+}
