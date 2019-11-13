@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "k8gege",
+      "name": "Ladon",
+      "href": "https://github.com/k8gege/Ladon",
+      "description": "大型网络渗透扫描器&Cobalt Strike，包含信息收集/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、Weblogic、ActiveMQ、Tomcat等，密码口令爆破含(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB)等,可高度自定义插件支持.NET程序集、DLL(C#/Delphi/VC)、PowerShell等语言编写的插件,支持通过配置INI批量调用任意外部程序或命令,EXP生成器一键生成Web漏洞POC,可快速扩展扫描或利用能力。支持Cobalt Strike插件化直接内存加载Ladon扫描快速拓展内网横向移动",
+      "language": "C#",
+      "stars": 605,
+      "forks": 101,
+      "starsInPeriod": 106
+    },
+    {
+      "author": "aelassas",
+      "name": "Wexflow",
+      "href": "https://github.com/aelassas/Wexflow",
+      "description": "A high-performance, extensible, modular and cross-platform workflow engine. Built for automation. Optimized for SaaS integration. Runs on Windows, Linux, macOS and the cloud.",
+      "language": "C#",
+      "stars": 1493,
+      "forks": 393,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mbdavid",
+      "name": "LiteDB",
+      "href": "https://github.com/mbdavid/LiteDB",
+      "description": "LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org",
+      "language": "C#",
+      "stars": 4415,
+      "forks": 721,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "xamarin",
+      "name": "Xamarin.Forms",
+      "href": "https://github.com/xamarin/Xamarin.Forms",
+      "description": "Xamarin.Forms Official Home",
+      "language": "C#",
+      "stars": 3891,
+      "forks": 1563,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "borisdj",
+      "name": "EFCore.BulkExtensions",
+      "href": "https://github.com/borisdj/EFCore.BulkExtensions",
+      "description": "Entity Framework Core Bulk Batch Extensions for Insert Update Delete and Read (CRUD) operations on SQL Server and SQLite",
+      "language": "C#",
+      "stars": 947,
+      "forks": 154,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "href": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
+      "language": "C#",
+      "stars": 6720,
+      "forks": 694,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "Azure-Samples",
+      "name": "cognitive-services-speech-sdk",
+      "href": "https://github.com/Azure-Samples/cognitive-services-speech-sdk",
+      "description": "Sample code for the Microsoft Cognitive Services Speech SDK",
+      "language": "C#",
+      "stars": 295,
+      "forks": 352,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "arfoundation-samples",
+      "href": "https://github.com/Unity-Technologies/arfoundation-samples",
+      "description": "Example content for Unity projects based on AR Foundation",
+      "language": "C#",
+      "stars": 709,
+      "forks": 202,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "JanKallman",
+      "name": "EPPlus",
+      "href": "https://github.com/JanKallman/EPPlus",
+      "description": "Create advanced Excel spreadsheets using .NET",
+      "language": "C#",
+      "stars": 2750,
+      "forks": 604,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "href": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+      "language": "C#",
+      "stars": 6331,
+      "forks": 1030,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "Azure",
+      "name": "azure-powershell",
+      "href": "https://github.com/Azure/azure-powershell",
+      "description": "Microsoft Azure PowerShell",
+      "language": "C#",
+      "stars": 1668,
+      "forks": 1781,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "IdentityServer",
+      "name": "IdentityServer4",
+      "href": "https://github.com/IdentityServer/IdentityServer4",
+      "description": "OpenID Connect and OAuth 2.0 Framework for ASP.NET Core",
+      "language": "C#",
+      "stars": 5423,
+      "forks": 1760,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch-net",
+      "href": "https://github.com/elastic/elasticsearch-net",
+      "description": "Elasticsearch.Net & NEST",
+      "language": "C#",
+      "stars": 2535,
+      "forks": 945,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "KhronosGroup",
+      "name": "UnityGLTF",
+      "href": "https://github.com/KhronosGroup/UnityGLTF",
+      "description": "Runtime GLTF Loader for Unity3D",
+      "language": "C#",
+      "stars": 571,
+      "forks": 198,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "aspnetboilerplate",
+      "name": "aspnetboilerplate",
+      "href": "https://github.com/aspnetboilerplate/aspnetboilerplate",
+      "description": "ASP.NET Boilerplate - Web Application Framework",
+      "language": "C#",
+      "stars": 7611,
+      "forks": 2907,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "dotnet",
+      "name": "coreclr",
+      "href": "https://github.com/dotnet/coreclr",
+      "description": "CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.",
+      "language": "C#",
+      "stars": 12238,
+      "forks": 2901,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "aspnet",
+      "name": "EntityFrameworkCore",
+      "href": "https://github.com/aspnet/EntityFrameworkCore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": 8349,
+      "forks": 2157,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dotnet",
+      "name": "csharplang",
+      "href": "https://github.com/dotnet/csharplang",
+      "description": "The official repo for the design of the C# programming language",
+      "language": "C#",
+      "stars": 4925,
+      "forks": 548,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "domaindrivendev",
+      "name": "Swashbuckle.AspNetCore",
+      "href": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore",
+      "description": "Swagger tools for documenting API's built on ASP.NET Core",
+      "language": "C#",
+      "stars": 2728,
+      "forks": 666,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "skoruba",
+      "name": "IdentityServer4.Admin",
+      "href": "https://github.com/skoruba/IdentityServer4.Admin",
+      "description": "The administration for the IdentityServer4 and Asp.Net Core Identity",
+      "language": "C#",
+      "stars": 1252,
+      "forks": 381,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "sebastianstarke",
+      "name": "AI4Animation",
+      "href": "https://github.com/sebastianstarke/AI4Animation",
+      "description": "Bringing Characters to Life with Computer Brains in Unity",
+      "language": "C#",
+      "stars": 1783,
+      "forks": 264,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "RicoSuter",
+      "name": "NSwag",
+      "href": "https://github.com/RicoSuter/NSwag",
+      "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.",
+      "language": "C#",
+      "stars": 2976,
+      "forks": 599,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "Sonarr",
+      "name": "Sonarr",
+      "href": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": 4710,
+      "forks": 753,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "Akaion",
+      "name": "Bleak",
+      "href": "https://github.com/Akaion/Bleak",
+      "description": "A Windows native DLL injection library that supports several methods of injection.",
+      "language": "C#",
+      "stars": 457,
+      "forks": 91,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "duplicati",
+      "name": "duplicati",
+      "href": "https://github.com/duplicati/duplicati",
+      "description": "Store securely encrypted backups in the cloud!",
+      "language": "C#",
+      "stars": 4514,
+      "forks": 526,
+      "starsInPeriod": 9
+    }
+  ]
+}
