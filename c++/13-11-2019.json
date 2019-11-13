@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "yuzu-emu",
+      "name": "yuzu",
+      "href": "https://github.com/yuzu-emu/yuzu",
+      "description": "Nintendo Switch Emulator",
+      "language": "C++",
+      "stars": 8635,
+      "forks": 583,
+      "starsInPeriod": 57
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "href": "https://github.com/google/googletest",
+      "description": "Googletest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 13586,
+      "forks": 5412,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "href": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
+      "language": "C++",
+      "stars": 1359,
+      "forks": 315,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "href": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": 16358,
+      "forks": 2812,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "skypjack",
+      "name": "entt",
+      "href": "https://github.com/skypjack/entt",
+      "description": "Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more",
+      "language": "C++",
+      "stars": 2347,
+      "forks": 212,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "apple",
+      "name": "swift",
+      "href": "https://github.com/apple/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": 49753,
+      "forks": 8048,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "Errichto",
+      "name": "youtube",
+      "href": "https://github.com/Errichto/youtube",
+      "description": "codes for my streams and YT videos",
+      "language": "C++",
+      "stars": 223,
+      "forks": 50,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "pytorch",
+      "name": "pytorch",
+      "href": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "C++",
+      "stars": 33615,
+      "forks": 8350,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "BVLC",
+      "name": "caffe",
+      "href": "https://github.com/BVLC/caffe",
+      "description": "Caffe: a fast open framework for deep learning.",
+      "language": "C++",
+      "stars": 29409,
+      "forks": 17752,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "href": "https://github.com/NVIDIA/TensorRT",
+      "description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.",
+      "language": "C++",
+      "stars": 1559,
+      "forks": 291,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "href": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 137274,
+      "forks": 78488,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "tensorflow",
+      "name": "serving",
+      "href": "https://github.com/tensorflow/serving",
+      "description": "A flexible, high-performance serving system for machine learning models",
+      "language": "C++",
+      "stars": 3974,
+      "forks": 1593,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "ericniebler",
+      "name": "range-v3",
+      "href": "https://github.com/ericniebler/range-v3",
+      "description": "Range library for C++14/17/20, basis for C++20's std::ranges",
+      "language": "C++",
+      "stars": 2429,
+      "forks": 259,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "sass",
+      "name": "node-sass",
+      "href": "https://github.com/sass/node-sass",
+      "description": "🌈 Node.js bindings to libsass",
+      "language": "C++",
+      "stars": 6745,
+      "forks": 988,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "llvm",
+      "name": "llvm-project",
+      "href": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+      "language": "C++",
+      "stars": 2588,
+      "forks": 823,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "flutter",
+      "name": "engine",
+      "href": "https://github.com/flutter/engine",
+      "description": "The Flutter engine",
+      "language": "C++",
+      "stars": 3625,
+      "forks": 1913,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "href": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": 15347,
+      "forks": 3393,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "keepassxreboot",
+      "name": "keepassxc",
+      "href": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
+      "language": "C++",
+      "stars": 6540,
+      "forks": 522,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "valhalla",
+      "name": "valhalla",
+      "href": "https://github.com/valhalla/valhalla",
+      "description": "Open Source Routing Engine for OpenStreetMap",
+      "language": "C++",
+      "stars": 972,
+      "forks": 193,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 78523,
+      "forks": 10422,
+      "starsInPeriod": 67
+    },
+    {
+      "author": "monero-project",
+      "name": "monero",
+      "href": "https://github.com/monero-project/monero",
+      "description": "Monero: the secure, private, untraceable cryptocurrency",
+      "language": "C++",
+      "stars": 4098,
+      "forks": 2145,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "href": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": 3858,
+      "forks": 731,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "href": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": 8088,
+      "forks": 1475,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 23892,
+      "forks": 5721,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "href": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": 11448,
+      "forks": 1865,
+      "starsInPeriod": 19
+    }
+  ]
+}
