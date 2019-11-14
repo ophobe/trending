@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "bytecodealliance",
+      "name": "cranelift",
+      "href": "https://github.com/bytecodealliance/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2250,
+      "forks": 196,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 1792,
+      "forks": 135,
+      "starsInPeriod": 91
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1530,
+      "forks": 136,
+      "starsInPeriod": 111
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6494,
+      "forks": 539,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the Mimblewimble protocol.",
+      "language": "Rust",
+      "stars": 4480,
+      "forks": 886,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "lucet",
+      "href": "https://github.com/bytecodealliance/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2719,
+      "forks": 89,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 1946,
+      "forks": 97,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "rust-lang-nursery",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang-nursery/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 2978,
+      "forks": 373,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime",
+      "language": "Rust",
+      "stars": 4901,
+      "forks": 174,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 631,
+      "forks": 22,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6423,
+      "forks": 745,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "dtolnay",
+      "name": "anyhow",
+      "href": "https://github.com/dtolnay/anyhow",
+      "description": "Flexible concrete Error type built on std::error::Error",
+      "language": "Rust",
+      "stars": 378,
+      "forks": 8,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1703,
+      "forks": 181,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5701,
+      "forks": 1372,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-openssl",
+      "href": "https://github.com/sfackler/rust-openssl",
+      "description": "OpenSSL bindings for Rust",
+      "language": "Rust",
+      "stars": 548,
+      "forks": 360,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "bastion-rs",
+      "name": "bastion",
+      "href": "https://github.com/bastion-rs/bastion",
+      "description": "Highly-available Distributed Fault-tolerant Runtime",
+      "language": "Rust",
+      "stars": 399,
+      "forks": 17,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "cargo-wasi",
+      "href": "https://github.com/bytecodealliance/cargo-wasi",
+      "description": "A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target",
+      "language": "Rust",
+      "stars": 141,
+      "forks": 7,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 4663,
+      "forks": 176,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 2516,
+      "forks": 213,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 1292,
+      "forks": 308,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "nervosnetwork",
+      "name": "ckb",
+      "href": "https://github.com/nervosnetwork/ckb",
+      "description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.",
+      "language": "Rust",
+      "stars": 599,
+      "forks": 104,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "href": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of libp2p networking stack.",
+      "language": "Rust",
+      "stars": 959,
+      "forks": 181,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "habitat-sh",
+      "name": "habitat",
+      "href": "https://github.com/habitat-sh/habitat",
+      "description": "Modern applications with built-in automation",
+      "language": "Rust",
+      "stars": 2104,
+      "forks": 312,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 247775,
+      "forks": 21192,
+      "starsInPeriod": 89
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 159,
+      "forks": 58,
+      "starsInPeriod": 3
+    }
+  ]
+}
