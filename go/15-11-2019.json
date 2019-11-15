@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "OpenDiablo2",
+      "name": "OpenDiablo2",
+      "href": "https://github.com/OpenDiablo2/OpenDiablo2",
+      "description": "An open source re-implementation of Diablo 2",
+      "language": "Go",
+      "stars": 2261,
+      "forks": 160,
+      "starsInPeriod": 730
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 4072,
+      "forks": 366,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19546,
+      "forks": 5247,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 1846,
+      "forks": 450,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10004,
+      "forks": 2025,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-lifecycle-manager",
+      "href": "https://github.com/operator-framework/operator-lifecycle-manager",
+      "description": "A management framework for extending Kubernetes with Operators",
+      "language": "Go",
+      "stars": 495,
+      "forks": 212,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 60060,
+      "forks": 21118,
+      "starsInPeriod": 108
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55519,
+      "forks": 16001,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6536,
+      "forks": 623,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 16748,
+      "forks": 3633,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "gomodule",
+      "name": "redigo",
+      "href": "https://github.com/gomodule/redigo",
+      "description": "Go client for Redis",
+      "language": "Go",
+      "stars": 6686,
+      "forks": 983,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 19025,
+      "forks": 5196,
+      "starsInPeriod": 131
+    },
+    {
+      "author": "tealeg",
+      "name": "xlsx",
+      "href": "https://github.com/tealeg/xlsx",
+      "description": "Google Go (golang) library for reading and writing XLSX files.",
+      "language": "Go",
+      "stars": 3664,
+      "forks": 603,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 3668,
+      "forks": 404,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "liamg",
+      "name": "tfsec",
+      "href": "https://github.com/liamg/tfsec",
+      "description": "🔒🌍 Static analysis powered security scanner for your terraform code",
+      "language": "Go",
+      "stars": 648,
+      "forks": 25,
+      "starsInPeriod": 116
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14402,
+      "forks": 2169,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "uber",
+      "name": "cadence",
+      "href": "https://github.com/uber/cadence",
+      "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+      "language": "Go",
+      "stars": 3055,
+      "forks": 246,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 32885,
+      "forks": 3812,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 9677,
+      "forks": 671,
+      "starsInPeriod": 72
+    },
+    {
+      "author": "golang",
+      "name": "mock",
+      "href": "https://github.com/golang/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": 3266,
+      "forks": 299,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 7725,
+      "forks": 584,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6953,
+      "forks": 3993,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "coreos",
+      "name": "prometheus-operator",
+      "href": "https://github.com/coreos/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": 3590,
+      "forks": 1670,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8892,
+      "forks": 792,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 28190,
+      "forks": 5800,
+      "starsInPeriod": 45
+    }
+  ]
+}
