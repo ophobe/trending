@@ -1,0 +1,84 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6472,
+      "forks": 2070,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5735,
+      "forks": 1028,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5243,
+      "forks": 993,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "cmullaparthi",
+      "name": "ibrowse",
+      "href": "https://github.com/cmullaparthi/ibrowse",
+      "description": "Erlang HTTP client",
+      "language": "Erlang",
+      "stars": 507,
+      "forks": 183,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlsci",
+      "name": "iso8601",
+      "href": "https://github.com/erlsci/iso8601",
+      "description": "An ISO 8601 date formating and parsing library for Erlang",
+      "language": "Erlang",
+      "stars": 102,
+      "forks": 79,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "aeternity",
+      "name": "mnesia_rocksdb",
+      "href": "https://github.com/aeternity/mnesia_rocksdb",
+      "description": "A RocksDB backend plugin for mnesia, based on mnesia_eleveldb",
+      "language": "Erlang",
+      "stars": 61,
+      "forks": 11,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "for-GET",
+      "name": "jesse",
+      "href": "https://github.com/for-GET/jesse",
+      "description": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+      "language": "Erlang",
+      "stars": 81,
+      "forks": 43,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlcloud",
+      "name": "erlcloud",
+      "href": "https://github.com/erlcloud/erlcloud",
+      "description": "AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)",
+      "language": "Erlang",
+      "stars": 585,
+      "forks": 370,
+      "starsInPeriod": 0
+    }
+  ]
+}
