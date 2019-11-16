@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3636,
+      "forks": 914,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 537,
+      "forks": 81,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "stripe",
+      "name": "agate",
+      "href": "https://github.com/stripe/agate",
+      "description": "Scoring ONNX models on the JVM in scala",
+      "language": "Scala",
+      "stars": 28,
+      "forks": 1,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24250,
+      "forks": 20550,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "databricks",
+      "name": "Spark-The-Definitive-Guide",
+      "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+      "description": "Spark: The Definitive Guide's Code Repository",
+      "language": "Scala",
+      "stars": 1045,
+      "forks": 938,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1270,
+      "forks": 538,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "lightbend",
+      "name": "cloudflow",
+      "href": "https://github.com/lightbend/cloudflow",
+      "description": "Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.",
+      "language": "Scala",
+      "stars": 14,
+      "forks": 4,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1069,
+      "forks": 229,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1879,
+      "forks": 367,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1700,
+      "forks": 309,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "aditya-grover",
+      "name": "node2vec",
+      "href": "https://github.com/aditya-grover/node2vec",
+      "description": null,
+      "language": "Scala",
+      "stars": 1452,
+      "forks": 638,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 16116,
+      "forks": 916,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1744,
+      "forks": 456,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4461,
+      "forks": 947,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "salesforce",
+      "name": "TransmogrifAI",
+      "href": "https://github.com/salesforce/TransmogrifAI",
+      "description": "TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+      "language": "Scala",
+      "stars": 1722,
+      "forks": 308,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "WeBankFinTech",
+      "name": "Linkis",
+      "href": "https://github.com/WeBankFinTech/Linkis",
+      "description": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+      "language": "Scala",
+      "stars": 594,
+      "forks": 191,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "functional-streams-for-scala",
+      "name": "fs2",
+      "href": "https://github.com/functional-streams-for-scala/fs2",
+      "description": "Compositional, streaming I/O library for Scala",
+      "language": "Scala",
+      "stars": 1554,
+      "forks": 394,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 4574,
+      "forks": 2555,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "twitter-archive",
+      "name": "snowflake",
+      "href": "https://github.com/twitter-archive/snowflake",
+      "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+      "language": "Scala",
+      "stars": 5597,
+      "forks": 938,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "lw-lin",
+      "name": "CoolplaySpark",
+      "href": "https://github.com/lw-lin/CoolplaySpark",
+      "description": "酷玩 Spark: Spark 源代码解析、Spark 类库等",
+      "language": "Scala",
+      "stars": 2801,
+      "forks": 1229,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 815,
+      "forks": 203,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "softwaremill",
+      "name": "tapir",
+      "href": "https://github.com/softwaremill/tapir",
+      "description": "tapir, or Typed API descRiptions",
+      "language": "Scala",
+      "stars": 375,
+      "forks": 68,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4991,
+      "forks": 1044,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "tpolecat",
+      "name": "doobie",
+      "href": "https://github.com/tpolecat/doobie",
+      "description": "Functional JDBC layer for Scala.",
+      "language": "Scala",
+      "stars": 1555,
+      "forks": 254,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 496,
+      "forks": 169,
+      "starsInPeriod": 5
+    }
+  ]
+}
