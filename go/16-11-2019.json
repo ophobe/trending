@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "OpenDiablo2",
+      "name": "OpenDiablo2",
+      "href": "https://github.com/OpenDiablo2/OpenDiablo2",
+      "description": "An open source re-implementation of Diablo 2",
+      "language": "Go",
+      "stars": 2531,
+      "forks": 178,
+      "starsInPeriod": 1433
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 4138,
+      "forks": 367,
+      "starsInPeriod": 85
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19583,
+      "forks": 5252,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10015,
+      "forks": 2026,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 32894,
+      "forks": 3812,
+      "starsInPeriod": 56
+    },
+    {
+      "author": "coreos",
+      "name": "prometheus-operator",
+      "href": "https://github.com/coreos/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": 3596,
+      "forks": 1671,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "href": "https://github.com/rivo/tview",
+      "description": "Rich interactive widgets for terminal-based UIs written in Go",
+      "language": "Go",
+      "stars": 3608,
+      "forks": 215,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 1947,
+      "forks": 328,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 5073,
+      "forks": 840,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 3378,
+      "forks": 377,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "baidu",
+      "name": "bfe",
+      "href": "https://github.com/baidu/bfe",
+      "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
+      "language": "Go",
+      "stars": 855,
+      "forks": 160,
+      "starsInPeriod": 374
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 6544,
+      "forks": 624,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+      "language": "Go",
+      "stars": 7198,
+      "forks": 1456,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "docker",
+      "name": "docker-ce",
+      "href": "https://github.com/docker/docker-ce",
+      "description": "Docker CE",
+      "language": "Go",
+      "stars": 3602,
+      "forks": 940,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "tj",
+      "name": "triage",
+      "href": "https://github.com/tj/triage",
+      "description": "Interactive command-line GitHub issue & notification triaging tool.",
+      "language": "Go",
+      "stars": 204,
+      "forks": 4,
+      "starsInPeriod": 203
+    },
+    {
+      "author": "digitalocean",
+      "name": "firebolt",
+      "href": "https://github.com/digitalocean/firebolt",
+      "description": "Golang framework for streaming ETL, observability data pipeline, and event processing apps",
+      "language": "Go",
+      "stars": 130,
+      "forks": 8,
+      "starsInPeriod": 96
+    },
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "href": "https://github.com/aquasecurity/kube-bench",
+      "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+      "language": "Go",
+      "stars": 2135,
+      "forks": 329,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3319,
+      "forks": 3037,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "href": "https://github.com/aquasecurity/trivy",
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+      "language": "Go",
+      "stars": 2534,
+      "forks": 229,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 15850,
+      "forks": 1833,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1221,
+      "forks": 1200,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14409,
+      "forks": 2170,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5657,
+      "forks": 1116,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6959,
+      "forks": 3994,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 29699,
+      "forks": 5418,
+      "starsInPeriod": 113
+    }
+  ]
+}
