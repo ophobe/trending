@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rajasekarv",
+      "name": "native_spark",
+      "href": "https://github.com/rajasekarv/native_spark",
+      "description": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+      "language": "Rust",
+      "stars": 1097,
+      "forks": 92,
+      "starsInPeriod": 87
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6381,
+      "forks": 941,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 3428,
+      "forks": 440,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40584,
+      "forks": 6254,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 5801,
+      "forks": 204,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "href": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": 2644,
+      "forks": 299,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 19231,
+      "forks": 888,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "mozilla",
+      "name": "neqo",
+      "href": "https://github.com/mozilla/neqo",
+      "description": null,
+      "language": "Rust",
+      "stars": 639,
+      "forks": 23,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 4935,
+      "forks": 1037,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 16506,
+      "forks": 330,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13333,
+      "forks": 1973,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 1834,
+      "forks": 124,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 655,
+      "forks": 25,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rylev",
+      "name": "remem",
+      "href": "https://github.com/rylev/remem",
+      "description": "Utility for reusing memory",
+      "language": "Rust",
+      "stars": 25,
+      "forks": 2,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1622,
+      "forks": 455,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "makepad",
+      "name": "makepad",
+      "href": "https://github.com/makepad/makepad",
+      "description": "Makepad is a Rust IDE for VR that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",
+      "language": "Rust",
+      "stars": 589,
+      "forks": 21,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 7945,
+      "forks": 256,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2641,
+      "forks": 337,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 708,
+      "forks": 201,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tock",
+      "name": "tock",
+      "href": "https://github.com/tock/tock",
+      "description": "A secure embedded operating system for microcontrollers",
+      "language": "Rust",
+      "stars": 1507,
+      "forks": 201,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "href": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": 1396,
+      "forks": 27,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "mimblewimble",
+      "name": "grin",
+      "href": "https://github.com/mimblewimble/grin",
+      "description": "Minimal implementation of the Mimblewimble protocol.",
+      "language": "Rust",
+      "stars": 4497,
+      "forks": 892,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 953,
+      "forks": 72,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 165,
+      "forks": 59,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 381,
+      "forks": 440,
+      "starsInPeriod": 0
+    }
+  ]
+}
