@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "baidu",
+      "name": "bfe",
+      "href": "https://github.com/baidu/bfe",
+      "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
+      "language": "Go",
+      "stars": 1486,
+      "forks": 251,
+      "starsInPeriod": 287
+    },
+    {
+      "author": "GuoZhaoran",
+      "name": "spikeSystem",
+      "href": "https://github.com/GuoZhaoran/spikeSystem",
+      "description": null,
+      "language": "Go",
+      "stars": 1066,
+      "forks": 374,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "micro",
+      "name": "micro",
+      "href": "https://github.com/micro/micro",
+      "description": "A microservice runtime environment",
+      "language": "Go",
+      "stars": 7043,
+      "forks": 585,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "benjojo",
+      "name": "userspace-vga2usb",
+      "href": "https://github.com/benjojo/userspace-vga2usb",
+      "description": "A userspace driver implementation of the Epiphan VGA2USB LR",
+      "language": "Go",
+      "stars": 172,
+      "forks": 7,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1844,
+      "forks": 367,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 4354,
+      "forks": 190,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6970,
+      "forks": 3999,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 32976,
+      "forks": 3823,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 10194,
+      "forks": 3192,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 5053,
+      "forks": 912,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "href": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP and REST client library for Go",
+      "language": "Go",
+      "stars": 2281,
+      "forks": 201,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 20514,
+      "forks": 3647,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-lifecycle-manager",
+      "href": "https://github.com/operator-framework/operator-lifecycle-manager",
+      "description": "A management framework for extending Kubernetes with Operators",
+      "language": "Go",
+      "stars": 520,
+      "forks": 214,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4643,
+      "forks": 574,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17820,
+      "forks": 3078,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "google",
+      "name": "cadvisor",
+      "href": "https://github.com/google/cadvisor",
+      "description": "Analyzes resource usage and performance characteristics of running containers.",
+      "language": "Go",
+      "stars": 9890,
+      "forks": 1452,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 4067,
+      "forks": 603,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 22519,
+      "forks": 4560,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "golang",
+      "name": "groupcache",
+      "href": "https://github.com/golang/groupcache",
+      "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
+      "language": "Go",
+      "stars": 7972,
+      "forks": 945,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13010,
+      "forks": 1507,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "weaveworks",
+      "name": "flagger",
+      "href": "https://github.com/weaveworks/flagger",
+      "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+      "language": "Go",
+      "stars": 1252,
+      "forks": 132,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "appleboy",
+      "name": "gin-jwt",
+      "href": "https://github.com/appleboy/gin-jwt",
+      "description": "JWT Middleware for Gin framework",
+      "language": "Go",
+      "stars": 980,
+      "forks": 194,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1834,
+      "forks": 496,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 65984,
+      "forks": 9298,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 25899,
+      "forks": 2738,
+      "starsInPeriod": 19
+    }
+  ]
+}
