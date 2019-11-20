@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "lightbend",
+      "name": "cloudflow",
+      "href": "https://github.com/lightbend/cloudflow",
+      "description": "Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.",
+      "language": "Scala",
+      "stars": 50,
+      "forks": 11,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1077,
+      "forks": 229,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1771,
+      "forks": 458,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1275,
+      "forks": 538,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1708,
+      "forks": 310,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4465,
+      "forks": 950,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10478,
+      "forks": 3143,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "tpolecat",
+      "name": "doobie",
+      "href": "https://github.com/tpolecat/doobie",
+      "description": "Functional JDBC layer for Scala.",
+      "language": "Scala",
+      "stars": 1566,
+      "forks": 254,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "akka",
+      "name": "alpakka",
+      "href": "https://github.com/akka/alpakka",
+      "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+      "language": "Scala",
+      "stars": 1050,
+      "forks": 506,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24297,
+      "forks": 20569,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 4998,
+      "forks": 1045,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "sbt",
+      "name": "zinc",
+      "href": "https://github.com/sbt/zinc",
+      "description": "Scala incremental compiler library, originally part of sbt",
+      "language": "Scala",
+      "stars": 210,
+      "forks": 80,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5872,
+      "forks": 321,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "databricks",
+      "name": "Spark-The-Definitive-Guide",
+      "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+      "description": "Spark: The Definitive Guide's Code Repository",
+      "language": "Scala",
+      "stars": 1050,
+      "forks": 949,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "zio",
+      "name": "zio-intellij",
+      "href": "https://github.com/zio/zio-intellij",
+      "description": "A companion IntelliJ IDEA plugin for the ZIO library ecosystem.",
+      "language": "Scala",
+      "stars": 58,
+      "forks": 3,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11413,
+      "forks": 3815,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7383,
+      "forks": 1309,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1898,
+      "forks": 372,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4394,
+      "forks": 848,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 8234,
+      "forks": 2003,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "lw-lin",
+      "name": "CoolplaySpark",
+      "href": "https://github.com/lw-lin/CoolplaySpark",
+      "description": "酷玩 Spark: Spark 源代码解析、Spark 类库等",
+      "language": "Scala",
+      "stars": 2813,
+      "forks": 1232,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "djspiewak",
+      "name": "skolems",
+      "href": "https://github.com/djspiewak/skolems",
+      "description": "A microlibrary for Scala encodings of higher-rank quantifiers",
+      "language": "Scala",
+      "stars": 37,
+      "forks": 1,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "spark-bigquery-connector",
+      "href": "https://github.com/GoogleCloudPlatform/spark-bigquery-connector",
+      "description": "The connector uses the Spark SQL Data Source API to read data from Google BigQuery.",
+      "language": "Scala",
+      "stars": 47,
+      "forks": 27,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "seveniruby",
+      "name": "AppCrawler",
+      "href": "https://github.com/seveniruby/AppCrawler",
+      "description": "基于appium的app自动遍历工具",
+      "language": "Scala",
+      "stars": 639,
+      "forks": 291,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "adkozlov",
+      "name": "scala-2019",
+      "href": "https://github.com/adkozlov/scala-2019",
+      "description": "Scala course at HSE/ITMO, Fall'19.",
+      "language": "Scala",
+      "stars": 1,
+      "forks": 23,
+      "starsInPeriod": 1
+    }
+  ]
+}
