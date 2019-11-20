@@ -1,0 +1,104 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6482,
+      "forks": 2076,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5268,
+      "forks": 996,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5737,
+      "forks": 1031,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "sumup",
+      "name": "hj_rebar3_plugin",
+      "href": "https://github.com/sumup/hj_rebar3_plugin",
+      "description": null,
+      "language": "Erlang",
+      "stars": 1,
+      "forks": 1,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "sumup",
+      "name": "hello_jesse",
+      "href": "https://github.com/sumup/hello_jesse",
+      "description": "JSON Schema validations for Hello JSON-RPC framework",
+      "language": "Erlang",
+      "stars": 1,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "dmitryme",
+      "name": "erlang_localtime",
+      "href": "https://github.com/dmitryme/erlang_localtime",
+      "description": "Erlang library for conversion from one local time to another",
+      "language": "Erlang",
+      "stars": 48,
+      "forks": 41,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 215,
+      "forks": 76,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "wooga",
+      "name": "eredis",
+      "href": "https://github.com/wooga/eredis",
+      "description": "Erlang Redis client",
+      "language": "Erlang",
+      "stars": 586,
+      "forks": 232,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "SiftLogic",
+      "name": "erlcsv",
+      "href": "https://github.com/SiftLogic/erlcsv",
+      "description": "Erlang CSV Parser",
+      "language": "Erlang",
+      "stars": 3,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "ranch",
+      "href": "https://github.com/ninenines/ranch",
+      "description": "Socket acceptor pool for TCP protocols.",
+      "language": "Erlang",
+      "stars": 956,
+      "forks": 288,
+      "starsInPeriod": 0
+    }
+  ]
+}
