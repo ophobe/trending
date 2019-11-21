@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "href": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": 1497,
+      "forks": 63,
+      "starsInPeriod": 547
+    },
+    {
+      "author": "baidu",
+      "name": "bfe",
+      "href": "https://github.com/baidu/bfe",
+      "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
+      "language": "Go",
+      "stars": 2169,
+      "forks": 357,
+      "starsInPeriod": 435
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 7831,
+      "forks": 595,
+      "starsInPeriod": 56
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 24462,
+      "forks": 5526,
+      "starsInPeriod": 74
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17843,
+      "forks": 3084,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 15611,
+      "forks": 1442,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 5067,
+      "forks": 914,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7663,
+      "forks": 2940,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14442,
+      "forks": 2173,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33038,
+      "forks": 3827,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5347,
+      "forks": 1336,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "golang",
+      "name": "groupcache",
+      "href": "https://github.com/golang/groupcache",
+      "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
+      "language": "Go",
+      "stars": 8002,
+      "forks": 947,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 9994,
+      "forks": 688,
+      "starsInPeriod": 111
+    },
+    {
+      "author": "cilium",
+      "name": "hubble",
+      "href": "https://github.com/cilium/hubble",
+      "description": "Hubble - Network, Service & Security Observability for Kubernetes",
+      "language": "Go",
+      "stars": 163,
+      "forks": 8,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12868,
+      "forks": 1071,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4664,
+      "forks": 579,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 6979,
+      "forks": 4007,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "allegro",
+      "name": "bigcache",
+      "href": "https://github.com/allegro/bigcache",
+      "description": "Efficient cache for gigabytes of data written in Go.",
+      "language": "Go",
+      "stars": 2794,
+      "forks": 236,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "confluentinc",
+      "name": "confluent-kafka-go",
+      "href": "https://github.com/confluentinc/confluent-kafka-go",
+      "description": "Confluent's Apache Kafka Golang client",
+      "language": "Go",
+      "stars": 1731,
+      "forks": 298,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 10409,
+      "forks": 1061,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 7311,
+      "forks": 585,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3350,
+      "forks": 3062,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 24861,
+      "forks": 8979,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "google",
+      "name": "google-ctf",
+      "href": "https://github.com/google/google-ctf",
+      "description": "Google CTF",
+      "language": "Go",
+      "stars": 1385,
+      "forks": 195,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 6450,
+      "forks": 1691,
+      "starsInPeriod": 9
+    }
+  ]
+}
