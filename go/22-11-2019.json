@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 10165,
+      "forks": 693,
+      "starsInPeriod": 188
+    },
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "href": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": 1976,
+      "forks": 81,
+      "starsInPeriod": 484
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 10916,
+      "forks": 1714,
+      "starsInPeriod": 230
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 5545,
+      "forks": 530,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 10986,
+      "forks": 11533,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 7904,
+      "forks": 600,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5351,
+      "forks": 1337,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1236,
+      "forks": 1210,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "thecodingmachine",
+      "name": "gotenberg",
+      "href": "https://github.com/thecodingmachine/gotenberg",
+      "description": "A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF",
+      "language": "Go",
+      "stars": 1625,
+      "forks": 97,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "allegro",
+      "name": "bigcache",
+      "href": "https://github.com/allegro/bigcache",
+      "description": "Efficient cache for gigabytes of data written in Go.",
+      "language": "Go",
+      "stars": 2832,
+      "forks": 239,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 1905,
+      "forks": 461,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 11754,
+      "forks": 821,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15025,
+      "forks": 4769,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "michenriksen",
+      "name": "aquatone",
+      "href": "https://github.com/michenriksen/aquatone",
+      "description": "A Tool for Domain Flyovers",
+      "language": "Go",
+      "stars": 3024,
+      "forks": 547,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "mailhog",
+      "name": "MailHog",
+      "href": "https://github.com/mailhog/MailHog",
+      "description": "Web and API based SMTP testing",
+      "language": "Go",
+      "stars": 5590,
+      "forks": 385,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 3761,
+      "forks": 418,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4516,
+      "forks": 843,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 24556,
+      "forks": 5546,
+      "starsInPeriod": 74
+    },
+    {
+      "author": "erroneousboat",
+      "name": "slack-term",
+      "href": "https://github.com/erroneousboat/slack-term",
+      "description": "Slack client for your terminal",
+      "language": "Go",
+      "stars": 4917,
+      "forks": 165,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 8192,
+      "forks": 2816,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "cilium",
+      "name": "hubble",
+      "href": "https://github.com/cilium/hubble",
+      "description": "Hubble - Network, Service & Security Observability for Kubernetes",
+      "language": "Go",
+      "stars": 195,
+      "forks": 10,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 29979,
+      "forks": 5471,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "dgraph-io",
+      "name": "ristretto",
+      "href": "https://github.com/dgraph-io/ristretto",
+      "description": "A high performance memory-bound Go cache",
+      "language": "Go",
+      "stars": 1604,
+      "forks": 74,
+      "starsInPeriod": 56
+    },
+    {
+      "author": "gogo",
+      "name": "protobuf",
+      "href": "https://github.com/gogo/protobuf",
+      "description": "Protocol Buffers for Go with Gadgets",
+      "language": "Go",
+      "stars": 3281,
+      "forks": 441,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "sql-machine-learning",
+      "name": "sqlflow",
+      "href": "https://github.com/sql-machine-learning/sqlflow",
+      "description": "Brings SQL and AI together.",
+      "language": "Go",
+      "stars": 3379,
+      "forks": 519,
+      "starsInPeriod": 12
+    }
+  ]
+}
