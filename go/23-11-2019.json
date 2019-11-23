@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 10995,
+      "forks": 1728,
+      "starsInPeriod": 243
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 7920,
+      "forks": 600,
+      "starsInPeriod": 69
+    },
+    {
+      "author": "allegro",
+      "name": "bigcache",
+      "href": "https://github.com/allegro/bigcache",
+      "description": "Efficient cache for gigabytes of data written in Go.",
+      "language": "Go",
+      "stars": 2839,
+      "forks": 240,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "lib",
+      "name": "pq",
+      "href": "https://github.com/lib/pq",
+      "description": "Pure Go Postgres driver for database/sql",
+      "language": "Go",
+      "stars": 5453,
+      "forks": 692,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 1495,
+      "forks": 639,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "onsi",
+      "name": "ginkgo",
+      "href": "https://github.com/onsi/ginkgo",
+      "description": "BDD Testing Framework for Go",
+      "language": "Go",
+      "stars": 3446,
+      "forks": 342,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10550,
+      "forks": 1090,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "gatekeeper",
+      "href": "https://github.com/open-policy-agent/gatekeeper",
+      "description": "Gatekeeper - Policy Controller for Kubernetes",
+      "language": "Go",
+      "stars": 707,
+      "forks": 89,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33090,
+      "forks": 3832,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 7327,
+      "forks": 586,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hayorov",
+      "name": "helm-gcs",
+      "href": "https://github.com/hayorov/helm-gcs",
+      "description": "Manage Helm repositories on Google Cloud Storage 🔐 **privately**",
+      "language": "Go",
+      "stars": 105,
+      "forks": 20,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2721,
+      "forks": 285,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14458,
+      "forks": 2178,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "cli",
+      "href": "https://github.com/cloudfoundry/cli",
+      "description": "The official command line client for Cloud Foundry",
+      "language": "Go",
+      "stars": 1360,
+      "forks": 784,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "golang",
+      "name": "mock",
+      "href": "https://github.com/golang/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": 3295,
+      "forks": 302,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "sensu",
+      "name": "sensu-go",
+      "href": "https://github.com/sensu/sensu-go",
+      "description": "Open source monitoring tool for ephemeral infrastructure & distributed applications.",
+      "language": "Go",
+      "stars": 385,
+      "forks": 69,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "smartystreets",
+      "name": "goconvey",
+      "href": "https://github.com/smartystreets/goconvey",
+      "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.",
+      "language": "Go",
+      "stars": 5173,
+      "forks": 404,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 10284,
+      "forks": 698,
+      "starsInPeriod": 183
+    },
+    {
+      "author": "kubernetes",
+      "name": "test-infra",
+      "href": "https://github.com/kubernetes/test-infra",
+      "description": "Test infrastructure for the Kubernetes project.",
+      "language": "Go",
+      "stars": 1719,
+      "forks": 1164,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 3963,
+      "forks": 213,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "davecgh",
+      "name": "go-spew",
+      "href": "https://github.com/davecgh/go-spew",
+      "description": "Implements a deep pretty printer for Go data structures to aid in debugging",
+      "language": "Go",
+      "stars": 3502,
+      "forks": 218,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13055,
+      "forks": 1509,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 13109,
+      "forks": 845,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1841,
+      "forks": 497,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "patrickmn",
+      "name": "go-cache",
+      "href": "https://github.com/patrickmn/go-cache",
+      "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+      "language": "Go",
+      "stars": 3259,
+      "forks": 449,
+      "starsInPeriod": 5
+    }
+  ]
+}
