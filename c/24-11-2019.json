@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "href": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum",
+      "language": "C",
+      "stars": 6201,
+      "forks": 3081,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ShadowsocksR-Live",
+      "name": "shadowsocksr-native",
+      "href": "https://github.com/ShadowsocksR-Live/shadowsocksr-native",
+      "description": "从容翻越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator",
+      "language": "C",
+      "stars": 934,
+      "forks": 283,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 6246,
+      "forks": 8093,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "href": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": 15365,
+      "forks": 3171,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "nfc-tools",
+      "name": "mfoc",
+      "href": "https://github.com/nfc-tools/mfoc",
+      "description": "Mifare Classic Offline Cracker",
+      "language": "C",
+      "stars": 618,
+      "forks": 174,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 4878,
+      "forks": 2964,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "href": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": 5658,
+      "forks": 1753,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "href": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "C",
+      "stars": 803,
+      "forks": 300,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 21717,
+      "forks": 1951,
+      "starsInPeriod": 163
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": 5443,
+      "forks": 10412,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "qemu",
+      "name": "qemu",
+      "href": "https://github.com/qemu/qemu",
+      "description": "Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.",
+      "language": "C",
+      "stars": 3081,
+      "forks": 2470,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "magnumripper",
+      "name": "JohnTheRipper",
+      "href": "https://github.com/magnumripper/JohnTheRipper",
+      "description": "This is the official repo for John the Ripper, \"Jumbo\" version. The \"bleeding-jumbo\" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the \"core\" version of john this jumbo was based on (or newer) is found in the \"master\" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).",
+      "language": "C",
+      "stars": 3133,
+      "forks": 788,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 6747,
+      "forks": 518,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "href": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore front end",
+      "language": "C",
+      "stars": 705,
+      "forks": 94,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "vishnubob",
+      "name": "python-midi",
+      "href": "https://github.com/vishnubob/python-midi",
+      "description": "Python MIDI library",
+      "language": "C",
+      "stars": 1009,
+      "forks": 292,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "href": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": 3435,
+      "forks": 322,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "bigtreetech",
+      "name": "BIGTREETECH-TouchScreenFirmware",
+      "href": "https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware",
+      "description": "support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1",
+      "language": "C",
+      "stars": 72,
+      "forks": 97,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 5231,
+      "forks": 2779,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "merbanan",
+      "name": "rtl_433",
+      "href": "https://github.com/merbanan/rtl_433",
+      "description": "Program to decode traffic from Devices that are broadcasting on 433.9 MHz like temperature sensors",
+      "language": "C",
+      "stars": 1852,
+      "forks": 558,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "fwupd",
+      "name": "fwupd",
+      "href": "https://github.com/fwupd/fwupd",
+      "description": "A simple daemon to allow session software to update firmware",
+      "language": "C",
+      "stars": 774,
+      "forks": 109,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The missing terminal file manager for X.",
+      "language": "C",
+      "stars": 6605,
+      "forks": 237,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C",
+      "href": "https://github.com/TheAlgorithms/C",
+      "description": "All Algorithms implemented in C",
+      "language": "C",
+      "stars": 2859,
+      "forks": 1244,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "openenclave",
+      "name": "openenclave",
+      "href": "https://github.com/openenclave/openenclave",
+      "description": "SDK for developing enclaves",
+      "language": "C",
+      "stars": 313,
+      "forks": 110,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "QSCTech",
+      "name": "zju-icicles",
+      "href": "https://github.com/QSCTech/zju-icicles",
+      "description": "浙江大学课程攻略共享计划",
+      "language": "C",
+      "stars": 14658,
+      "forks": 4533,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "chyyuu",
+      "name": "ucore_os_lab",
+      "href": "https://github.com/chyyuu/ucore_os_lab",
+      "description": "os kernel labs for operating systems course in Tsinghua University.",
+      "language": "C",
+      "stars": 2036,
+      "forks": 1395,
+      "starsInPeriod": 6
+    }
+  ]
+}
