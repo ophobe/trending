@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 24656,
+      "forks": 5569,
+      "starsInPeriod": 131
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6918,
+      "forks": 699,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 13125,
+      "forks": 844,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "filecoin-project",
+      "name": "lotus",
+      "href": "https://github.com/filecoin-project/lotus",
+      "description": "Implementation of the Filecoin protocol, written in Go",
+      "language": "Go",
+      "stars": 101,
+      "forks": 39,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "href": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": 8772,
+      "forks": 604,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+      "language": "Go",
+      "stars": 2461,
+      "forks": 500,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "mehrdadrad",
+      "name": "radvpn",
+      "href": "https://github.com/mehrdadrad/radvpn",
+      "description": "Decentralized VPN",
+      "language": "Go",
+      "stars": 855,
+      "forks": 33,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 30027,
+      "forks": 5482,
+      "starsInPeriod": 83
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 4927,
+      "forks": 213,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "jonas747",
+      "name": "yagpdb",
+      "href": "https://github.com/jonas747/yagpdb",
+      "description": "Yet another general purpose discord bot",
+      "language": "Go",
+      "stars": 168,
+      "forks": 119,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "PuerkitoBio",
+      "name": "goquery",
+      "href": "https://github.com/PuerkitoBio/goquery",
+      "description": "A little like that j-thing, only in Go.",
+      "language": "Go",
+      "stars": 8021,
+      "forks": 661,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hybridgroup",
+      "name": "gobot",
+      "href": "https://github.com/hybridgroup/gobot",
+      "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+      "language": "Go",
+      "stars": 5980,
+      "forks": 740,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "href": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": 2676,
+      "forks": 111,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "allegro",
+      "name": "bigcache",
+      "href": "https://github.com/allegro/bigcache",
+      "description": "Efficient cache for gigabytes of data written in Go.",
+      "language": "Go",
+      "stars": 2882,
+      "forks": 242,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "bxcodec",
+      "name": "go-clean-arch",
+      "href": "https://github.com/bxcodec/go-clean-arch",
+      "description": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture",
+      "language": "Go",
+      "stars": 1848,
+      "forks": 324,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "lucas-clemente",
+      "name": "quic-go",
+      "href": "https://github.com/lucas-clemente/quic-go",
+      "description": "A QUIC implementation in pure go",
+      "language": "Go",
+      "stars": 3407,
+      "forks": 388,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gobwas",
+      "name": "glob",
+      "href": "https://github.com/gobwas/glob",
+      "description": "Go glob",
+      "language": "Go",
+      "stars": 502,
+      "forks": 24,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "prometheus",
+      "name": "prom2json",
+      "href": "https://github.com/prometheus/prom2json",
+      "description": "A tool to scrape a Prometheus client and dump the result as JSON.",
+      "language": "Go",
+      "stars": 139,
+      "forks": 43,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "amir",
+      "name": "raidman",
+      "href": "https://github.com/amir/raidman",
+      "description": "Go Riemann client",
+      "language": "Go",
+      "stars": 66,
+      "forks": 24,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "istio",
+      "name": "tools",
+      "href": "https://github.com/istio/tools",
+      "description": "Tools shared by several Istio repositories",
+      "language": "Go",
+      "stars": 85,
+      "forks": 91,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "bosh-bootloader",
+      "href": "https://github.com/cloudfoundry/bosh-bootloader",
+      "description": "Command line utility for standing up a BOSH director on an IAAS of your choice.",
+      "language": "Go",
+      "stars": 157,
+      "forks": 176,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "cf-deployment",
+      "href": "https://github.com/cloudfoundry/cf-deployment",
+      "description": "The canonical open source deployment manifest for Cloud Foundry",
+      "language": "Go",
+      "stars": 187,
+      "forks": 250,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "collectd",
+      "name": "go-collectd",
+      "href": "https://github.com/collectd/go-collectd",
+      "description": "Utilities for using collectd together with Golang.",
+      "language": "Go",
+      "stars": 90,
+      "forks": 28,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "gobuffalo",
+      "name": "here",
+      "href": "https://github.com/gobuffalo/here",
+      "description": null,
+      "language": "Go",
+      "stars": 3,
+      "forks": 0,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "cf-acceptance-tests",
+      "href": "https://github.com/cloudfoundry/cf-acceptance-tests",
+      "description": "CF Acceptance tests",
+      "language": "Go",
+      "stars": 51,
+      "forks": 139,
+      "starsInPeriod": 0
+    }
+  ]
+}
