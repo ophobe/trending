@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 11199,
+      "forks": 3121,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "espressif",
+      "name": "esp-adf",
+      "href": "https://github.com/espressif/esp-adf",
+      "description": "Espressif Audio Development Framework",
+      "language": "C",
+      "stars": 455,
+      "forks": 210,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": 5449,
+      "forks": 10425,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 6252,
+      "forks": 8100,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 5243,
+      "forks": 2784,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "href": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": 3786,
+      "forks": 957,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "href": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum",
+      "language": "C",
+      "stars": 6281,
+      "forks": 3086,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "numpy",
+      "name": "numpy",
+      "href": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "C",
+      "stars": 12325,
+      "forks": 4037,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "albfan",
+      "name": "miraclecast",
+      "href": "https://github.com/albfan/miraclecast",
+      "description": "Connect external monitors to your system via Wifi-Display specification also known as Miracast",
+      "language": "C",
+      "stars": 1516,
+      "forks": 216,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "KevinOConnor",
+      "name": "klipper",
+      "href": "https://github.com/KevinOConnor/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": 1673,
+      "forks": 833,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "domoticz",
+      "name": "domoticz",
+      "href": "https://github.com/domoticz/domoticz",
+      "description": "Open source Home Automation System",
+      "language": "C",
+      "stars": 2330,
+      "forks": 897,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ExistentialAudio",
+      "name": "BlackHole",
+      "href": "https://github.com/ExistentialAudio/BlackHole",
+      "description": "BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.",
+      "language": "C",
+      "stars": 849,
+      "forks": 42,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "Bodmer",
+      "name": "TFT_eSPI",
+      "href": "https://github.com/Bodmer/TFT_eSPI",
+      "description": "Arduino and PlatformIO IDE compatible TFT library for the ESP8266 and ESP32 that supports different driver chips",
+      "language": "C",
+      "stars": 617,
+      "forks": 179,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "mareksuscak",
+      "name": "cs50",
+      "href": "https://github.com/mareksuscak/cs50",
+      "description": "🎓 Harvard CS50 — 2018 solutions 👨‍🏫",
+      "language": "C",
+      "stars": 79,
+      "forks": 211,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "andreiw",
+      "name": "RaspberryPiPkg",
+      "href": "https://github.com/andreiw/RaspberryPiPkg",
+      "description": "64-bit Tiano Core UEFI for the Raspberry Pi 3 (with devices, Linux, NetBSD, FreeBSD and Windows on Arm!)",
+      "language": "C",
+      "stars": 726,
+      "forks": 137,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 3608,
+      "forks": 401,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "href": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": 5664,
+      "forks": 1755,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "chyyuu",
+      "name": "ucore_os_lab",
+      "href": "https://github.com/chyyuu/ucore_os_lab",
+      "description": "os kernel labs for operating systems course in Tsinghua University.",
+      "language": "C",
+      "stars": 2039,
+      "forks": 1395,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 10372,
+      "forks": 8390,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 9543,
+      "forks": 2946,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "bigtreetech",
+      "name": "BIGTREETECH-TouchScreenFirmware",
+      "href": "https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware",
+      "description": "support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1",
+      "language": "C",
+      "stars": 73,
+      "forks": 100,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "esnme",
+      "name": "ultrajson",
+      "href": "https://github.com/esnme/ultrajson",
+      "description": "Ultra fast JSON decoder and encoder written in C with Python bindings",
+      "language": "C",
+      "stars": 2551,
+      "forks": 252,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "Matchstic",
+      "name": "ReProvision",
+      "href": "https://github.com/Matchstic/ReProvision",
+      "description": "On-device signing utility for iOS",
+      "language": "C",
+      "stars": 301,
+      "forks": 81,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "gnea",
+      "name": "grbl",
+      "href": "https://github.com/gnea/grbl",
+      "description": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+      "language": "C",
+      "stars": 1756,
+      "forks": 742,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "libusb",
+      "name": "libusb",
+      "href": "https://github.com/libusb/libusb",
+      "description": "A cross-platform library to access USB devices",
+      "language": "C",
+      "stars": 2219,
+      "forks": 1042,
+      "starsInPeriod": 7
+    }
+  ]
+}
