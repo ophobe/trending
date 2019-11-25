@@ -1,0 +1,154 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6503,
+      "forks": 2086,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 8049,
+      "forks": 2181,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 215,
+      "forks": 76,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "seth",
+      "name": "ej",
+      "href": "https://github.com/seth/ej",
+      "description": "Helper module for working with Erlang terms representing JSON",
+      "language": "Erlang",
+      "stars": 176,
+      "forks": 45,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 312,
+      "forks": 138,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "uwiger",
+      "name": "parse_trans",
+      "href": "https://github.com/uwiger/parse_trans",
+      "description": "Parse transform utilities for Erlang",
+      "language": "Erlang",
+      "stars": 170,
+      "forks": 93,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "uwiger",
+      "name": "edown",
+      "href": "https://github.com/uwiger/edown",
+      "description": "EDoc extension for generating Github-flavored Markdown",
+      "language": "Erlang",
+      "stars": 33,
+      "forks": 72,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-shovel",
+      "href": "https://github.com/rabbitmq/rabbitmq-shovel",
+      "description": "RabbitMQ Shovel plugin",
+      "language": "Erlang",
+      "stars": 45,
+      "forks": 14,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-federation",
+      "href": "https://github.com/rabbitmq/rabbitmq-federation",
+      "description": "RabbitMQ Federation plugin",
+      "language": "Erlang",
+      "stars": 36,
+      "forks": 20,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-prometheus",
+      "href": "https://github.com/rabbitmq/rabbitmq-prometheus",
+      "description": "An up-and-coming minimalistic Prometheus exporter for core (unaggregated) RabbitMQ metrics",
+      "language": "Erlang",
+      "stars": 26,
+      "forks": 12,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "erlcloud",
+      "name": "erlcloud",
+      "href": "https://github.com/erlcloud/erlcloud",
+      "description": "AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)",
+      "language": "Erlang",
+      "stars": 589,
+      "forks": 369,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "rebar",
+      "name": "rebar",
+      "href": "https://github.com/rebar/rebar",
+      "description": "Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. We encourage you to move to https://github.com/erlang/rebar3.",
+      "language": "Erlang",
+      "stars": 949,
+      "forks": 303,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lpgauth",
+      "name": "swirl",
+      "href": "https://github.com/lpgauth/swirl",
+      "description": "High-Performance Erlang Stream Processor",
+      "language": "Erlang",
+      "stars": 39,
+      "forks": 6,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lpgauth",
+      "name": "fast_disk_log",
+      "href": "https://github.com/lpgauth/fast_disk_log",
+      "description": "Pool-based asynchronous Erlang disk logger",
+      "language": "Erlang",
+      "stars": 12,
+      "forks": 2,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "cowlib",
+      "href": "https://github.com/ninenines/cowlib",
+      "description": "Support library for manipulating Web protocols.",
+      "language": "Erlang",
+      "stars": 187,
+      "forks": 128,
+      "starsInPeriod": 1
+    }
+  ]
+}
