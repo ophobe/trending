@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rapidsai",
+      "name": "cuml",
+      "href": "https://github.com/rapidsai/cuml",
+      "description": "cuML - RAPIDS Machine Learning Library",
+      "language": "C++",
+      "stars": 903,
+      "forks": 151,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "href": "https://github.com/google/googletest",
+      "description": "Googletest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 13757,
+      "forks": 5458,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "onnx",
+      "name": "onnx-tensorrt",
+      "href": "https://github.com/onnx/onnx-tensorrt",
+      "description": "ONNX-TensorRT: TensorRT backend for ONNX",
+      "language": "C++",
+      "stars": 485,
+      "forks": 138,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "href": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models",
+      "language": "C++",
+      "stars": 1400,
+      "forks": 324,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "href": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 38677,
+      "forks": 10474,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "href": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": 15448,
+      "forks": 3429,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "trilinos",
+      "name": "Trilinos",
+      "href": "https://github.com/trilinos/Trilinos",
+      "description": "Primary repository for the Trilinos Project",
+      "language": "C++",
+      "stars": 466,
+      "forks": 285,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "PX4",
+      "name": "Firmware",
+      "href": "https://github.com/PX4/Firmware",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": 3079,
+      "forks": 8775,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "apache",
+      "name": "thrift",
+      "href": "https://github.com/apache/thrift",
+      "description": "Apache Thrift",
+      "language": "C++",
+      "stars": 6982,
+      "forks": 3144,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "href": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": 7264,
+      "forks": 1590,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "xmrig",
+      "name": "xmrig",
+      "href": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, CryptoNight and Argon2 CPU miner",
+      "language": "C++",
+      "stars": 2739,
+      "forks": 1217,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 78862,
+      "forks": 10468,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "href": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": 3882,
+      "forks": 741,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "intel-isl",
+      "name": "Open3D",
+      "href": "https://github.com/intel-isl/Open3D",
+      "description": "Open3D: A Modern Library for 3D Data Processing",
+      "language": "C++",
+      "stars": 2221,
+      "forks": 519,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "davisking",
+      "name": "dlib",
+      "href": "https://github.com/davisking/dlib",
+      "description": "A toolkit for making real world machine learning and data analysis applications in C++",
+      "language": "C++",
+      "stars": 8255,
+      "forks": 2456,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dolphin-emu",
+      "name": "dolphin",
+      "href": "https://github.com/dolphin-emu/dolphin",
+      "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+      "language": "C++",
+      "stars": 5773,
+      "forks": 1317,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "JoeyDeVries",
+      "name": "LearnOpenGL",
+      "href": "https://github.com/JoeyDeVries/LearnOpenGL",
+      "description": "Code repository of all OpenGL tutorials found at https://learnopengl.com",
+      "language": "C++",
+      "stars": 3589,
+      "forks": 1033,
+      "starsInPeriod": 91
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "href": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": 10432,
+      "forks": 1714,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "href": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": 6257,
+      "forks": 855,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "href": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": 7013,
+      "forks": 3486,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mapbox",
+      "name": "tippecanoe",
+      "href": "https://github.com/mapbox/tippecanoe",
+      "description": "Build vector tilesets from large collections of GeoJSON features.",
+      "language": "C++",
+      "stars": 1396,
+      "forks": 207,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "InsightSoftwareConsortium",
+      "name": "ITK",
+      "href": "https://github.com/InsightSoftwareConsortium/ITK",
+      "description": "Insight Toolkit (ITK) -- Official Repository",
+      "language": "C++",
+      "stars": 588,
+      "forks": 376,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "vesoft-inc",
+      "name": "nebula",
+      "href": "https://github.com/vesoft-inc/nebula",
+      "description": "A high performance distributed Graph Database",
+      "language": "C++",
+      "stars": 1388,
+      "forks": 213,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "AnkerLeng",
+      "name": "Cpp-0-1-Resource",
+      "href": "https://github.com/AnkerLeng/Cpp-0-1-Resource",
+      "description": "C++ 匠心之作 从0到1入门资料",
+      "language": "C++",
+      "stars": 403,
+      "forks": 164,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "EOSIO",
+      "name": "eos",
+      "href": "https://github.com/EOSIO/eos",
+      "description": "An open source smart contract platform",
+      "language": "C++",
+      "stars": 10727,
+      "forks": 3380,
+      "starsInPeriod": 4
+    }
+  ]
+}
