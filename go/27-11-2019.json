@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "lucas-clemente",
+      "name": "quic-go",
+      "href": "https://github.com/lucas-clemente/quic-go",
+      "description": "A QUIC implementation in pure go",
+      "language": "Go",
+      "stars": 3445,
+      "forks": 392,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12892,
+      "forks": 1073,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5752,
+      "forks": 1129,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 16009,
+      "forks": 1847,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10086,
+      "forks": 2042,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33256,
+      "forks": 3838,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5361,
+      "forks": 1342,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "spark-on-k8s-operator",
+      "href": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+      "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.",
+      "language": "Go",
+      "stars": 803,
+      "forks": 292,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 8979,
+      "forks": 795,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 3280,
+      "forks": 322,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 10483,
+      "forks": 1816,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →",
+      "language": "Go",
+      "stars": 6566,
+      "forks": 413,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "prometheus",
+      "name": "statsd_exporter",
+      "href": "https://github.com/prometheus/statsd_exporter",
+      "description": "StatsD to Prometheus metrics exporter",
+      "language": "Go",
+      "stars": 448,
+      "forks": 150,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 4501,
+      "forks": 718,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gardener",
+      "name": "gardener",
+      "href": "https://github.com/gardener/gardener",
+      "description": "Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, and Packet with minimal TCO.",
+      "language": "Go",
+      "stars": 1255,
+      "forks": 178,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mailru",
+      "name": "easyjson",
+      "href": "https://github.com/mailru/easyjson",
+      "description": "Fast JSON serializer for golang.",
+      "language": "Go",
+      "stars": 2295,
+      "forks": 252,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "href": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": 6648,
+      "forks": 456,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2746,
+      "forks": 288,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "go-gorp",
+      "name": "gorp",
+      "href": "https://github.com/go-gorp/gorp",
+      "description": "Go Relational Persistence - an ORM-ish library for Go",
+      "language": "Go",
+      "stars": 3236,
+      "forks": 356,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 10444,
+      "forks": 991,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7442,
+      "forks": 971,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "yudai",
+      "name": "gotty",
+      "href": "https://github.com/yudai/gotty",
+      "description": "Share your terminal as a web application",
+      "language": "Go",
+      "stars": 13244,
+      "forks": 933,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 4304,
+      "forks": 378,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55652,
+      "forks": 16067,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 3306,
+      "forks": 260,
+      "starsInPeriod": 7
+    }
+  ]
+}
