@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "href": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 38755,
+      "forks": 10486,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "href": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": 15473,
+      "forks": 3435,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "AnkerLeng",
+      "name": "Cpp-0-1-Resource",
+      "href": "https://github.com/AnkerLeng/Cpp-0-1-Resource",
+      "description": "C++ 匠心之作 从0到1入门资料",
+      "language": "C++",
+      "stars": 433,
+      "forks": 169,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "href": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": 7288,
+      "forks": 1592,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "href": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
+      "language": "C++",
+      "stars": 54821,
+      "forks": 5301,
+      "starsInPeriod": 93
+    },
+    {
+      "author": "tevador",
+      "name": "RandomX",
+      "href": "https://github.com/tevador/RandomX",
+      "description": "Proof of work algorithm based on random code execution",
+      "language": "C++",
+      "stars": 275,
+      "forks": 85,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ros-planning",
+      "name": "navigation2",
+      "href": "https://github.com/ros-planning/navigation2",
+      "description": "ROS2 Navigation",
+      "language": "C++",
+      "stars": 177,
+      "forks": 105,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "href": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": 6267,
+      "forks": 858,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "ucbrise",
+      "name": "clipper",
+      "href": "https://github.com/ucbrise/clipper",
+      "description": "A low-latency prediction-serving system",
+      "language": "C++",
+      "stars": 1104,
+      "forks": 242,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 78926,
+      "forks": 10481,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "HowardHinnant",
+      "name": "date",
+      "href": "https://github.com/HowardHinnant/date",
+      "description": "A date and time library based on the C++11/14/17 <chrono> header",
+      "language": "C++",
+      "stars": 1581,
+      "forks": 349,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "valhalla",
+      "name": "valhalla",
+      "href": "https://github.com/valhalla/valhalla",
+      "description": "Open Source Routing Engine for OpenStreetMap",
+      "language": "C++",
+      "stars": 987,
+      "forks": 196,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "href": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover source",
+      "language": "C++",
+      "stars": 4542,
+      "forks": 8539,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "href": "https://github.com/google/googletest",
+      "description": "Googletest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 13799,
+      "forks": 5468,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "onnx",
+      "name": "onnx-tensorrt",
+      "href": "https://github.com/onnx/onnx-tensorrt",
+      "description": "ONNX-TensorRT: TensorRT backend for ONNX",
+      "language": "C++",
+      "stars": 500,
+      "forks": 141,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "trilinos",
+      "name": "Trilinos",
+      "href": "https://github.com/trilinos/Trilinos",
+      "description": "Primary repository for the Trilinos Project",
+      "language": "C++",
+      "stars": 469,
+      "forks": 285,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ton-blockchain",
+      "name": "ton",
+      "href": "https://github.com/ton-blockchain/ton",
+      "description": null,
+      "language": "C++",
+      "stars": 991,
+      "forks": 160,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "href": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX",
+      "language": "C++",
+      "stars": 8568,
+      "forks": 2021,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "chriskohlhoff",
+      "name": "asio",
+      "href": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": 2023,
+      "forks": 614,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ros-planning",
+      "name": "navigation",
+      "href": "https://github.com/ros-planning/navigation",
+      "description": "ROS Navigation stack. Code for finding where the robot is and how it can get somewhere else.",
+      "language": "C++",
+      "stars": 814,
+      "forks": 1124,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "NervanaSystems",
+      "name": "ngraph",
+      "href": "https://github.com/NervanaSystems/ngraph",
+      "description": "nGraph - open source C++ library, compiler and runtime for Deep Learning",
+      "language": "C++",
+      "stars": 1129,
+      "forks": 167,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "href": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": 3887,
+      "forks": 743,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "microsoft",
+      "name": "LightGBM",
+      "href": "https://github.com/microsoft/LightGBM",
+      "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "language": "C++",
+      "stars": 10026,
+      "forks": 2675,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "href": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": 17729,
+      "forks": 2826,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "librealsense",
+      "href": "https://github.com/IntelRealSense/librealsense",
+      "description": "Intel® RealSense™ SDK",
+      "language": "C++",
+      "stars": 3410,
+      "forks": 2268,
+      "starsInPeriod": 6
+    }
+  ]
+}
