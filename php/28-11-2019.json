@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "href": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": 15353,
+      "forks": 1810,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "yiisoft",
+      "name": "yii",
+      "href": "https://github.com/yiisoft/yii",
+      "description": "Yii PHP Framework 1.1.x",
+      "language": "PHP",
+      "stars": 4867,
+      "forks": 2239,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "laravel",
+      "name": "tinker",
+      "href": "https://github.com/laravel/tinker",
+      "description": null,
+      "language": "PHP",
+      "stars": 5835,
+      "forks": 76,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "sonata-project",
+      "name": "SonataAdminBundle",
+      "href": "https://github.com/sonata-project/SonataAdminBundle",
+      "description": "AdminBundle - The missing Symfony Admin Generator",
+      "language": "PHP",
+      "stars": 1894,
+      "forks": 1216,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "phpspec",
+      "name": "prophecy",
+      "href": "https://github.com/phpspec/prophecy",
+      "description": "Highly opinionated mocking framework for PHP 5.3+",
+      "language": "PHP",
+      "stars": 7184,
+      "forks": 199,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "CMB2",
+      "name": "CMB2",
+      "href": "https://github.com/CMB2/CMB2",
+      "description": "CMB2 is a developer's toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind.",
+      "language": "PHP",
+      "stars": 2370,
+      "forks": 529,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "fzaninotto",
+      "name": "Faker",
+      "href": "https://github.com/fzaninotto/Faker",
+      "description": "Faker is a PHP library that generates fake data for you",
+      "language": "PHP",
+      "stars": 22571,
+      "forks": 2590,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "href": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": 7771,
+      "forks": 584,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "simplesamlphp",
+      "name": "simplesamlphp",
+      "href": "https://github.com/simplesamlphp/simplesamlphp",
+      "description": "SimpleSAMLphp is an award-winning application written in native PHP that deals with authentication.",
+      "language": "PHP",
+      "stars": 714,
+      "forks": 506,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "symfony",
+      "name": "maker-bundle",
+      "href": "https://github.com/symfony/maker-bundle",
+      "description": "Symfony Maker Bundle",
+      "language": "PHP",
+      "stars": 2146,
+      "forks": 181,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "href": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": 16372,
+      "forks": 1597,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "nelmio",
+      "name": "alice",
+      "href": "https://github.com/nelmio/alice",
+      "description": "Expressive fixtures generator",
+      "language": "PHP",
+      "stars": 2011,
+      "forks": 270,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "KnpLabs",
+      "name": "snappy",
+      "href": "https://github.com/KnpLabs/snappy",
+      "description": "PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage",
+      "language": "PHP",
+      "stars": 3411,
+      "forks": 385,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "nrk",
+      "name": "predis",
+      "href": "https://github.com/nrk/predis",
+      "description": "Flexible and feature-complete Redis client for PHP and HHVM",
+      "language": "PHP",
+      "stars": 6111,
+      "forks": 829,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "sendgrid",
+      "name": "sendgrid-php",
+      "href": "https://github.com/sendgrid/sendgrid-php",
+      "description": "The Official Twilio SendGrid Led, Community Driven PHP API Library",
+      "language": "PHP",
+      "stars": 1087,
+      "forks": 528,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "symfony",
+      "name": "http-foundation",
+      "href": "https://github.com/symfony/http-foundation",
+      "description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.",
+      "language": "PHP",
+      "stars": 6969,
+      "forks": 226,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "symfony",
+      "name": "framework-bundle",
+      "href": "https://github.com/symfony/framework-bundle",
+      "description": "The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.",
+      "language": "PHP",
+      "stars": 2209,
+      "forks": 76,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dompdf",
+      "name": "dompdf",
+      "href": "https://github.com/dompdf/dompdf",
+      "description": "HTML to PDF converter (PHP5)",
+      "language": "PHP",
+      "stars": 6472,
+      "forks": 1281,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "lexik",
+      "name": "LexikJWTAuthenticationBundle",
+      "href": "https://github.com/lexik/LexikJWTAuthenticationBundle",
+      "description": "JWT authentication for your Symfony REST API",
+      "language": "PHP",
+      "stars": 1588,
+      "forks": 358,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-dompdf",
+      "href": "https://github.com/barryvdh/laravel-dompdf",
+      "description": "A DOMPDF Wrapper for Laravel",
+      "language": "PHP",
+      "stars": 3516,
+      "forks": 545,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "squizlabs",
+      "name": "PHP_CodeSniffer",
+      "href": "https://github.com/squizlabs/PHP_CodeSniffer",
+      "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+      "language": "PHP",
+      "stars": 7099,
+      "forks": 1158,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tecnickcom",
+      "name": "TCPDF",
+      "href": "https://github.com/tecnickcom/TCPDF",
+      "description": "Official clone of PHP library to generate PDF documents and barcodes",
+      "language": "PHP",
+      "stars": 2230,
+      "forks": 844,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Atlantic18",
+      "name": "DoctrineExtensions",
+      "href": "https://github.com/Atlantic18/DoctrineExtensions",
+      "description": "Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable",
+      "language": "PHP",
+      "stars": 3053,
+      "forks": 1071,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "vlucas",
+      "name": "phpdotenv",
+      "href": "https://github.com/vlucas/phpdotenv",
+      "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+      "language": "PHP",
+      "stars": 9988,
+      "forks": 480,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "KnpLabs",
+      "name": "KnpSnappyBundle",
+      "href": "https://github.com/KnpLabs/KnpSnappyBundle",
+      "description": "Easily create PDF and images in Symfony by converting html using webkit",
+      "language": "PHP",
+      "stars": 904,
+      "forks": 114,
+      "starsInPeriod": 3
+    }
+  ]
+}
