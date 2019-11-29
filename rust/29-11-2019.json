@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 2425,
+      "forks": 47,
+      "starsInPeriod": 466
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6654,
+      "forks": 567,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 5881,
+      "forks": 209,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1677,
+      "forks": 466,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1670,
+      "forks": 145,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts.",
+      "language": "Rust",
+      "stars": 4709,
+      "forks": 180,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 3052,
+      "forks": 147,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 4384,
+      "forks": 77,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 8013,
+      "forks": 260,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "mthom",
+      "name": "scryer-prolog",
+      "href": "https://github.com/mthom/scryer-prolog",
+      "description": "A modern Prolog implementation written mostly in Rust.",
+      "language": "Rust",
+      "stars": 392,
+      "forks": 16,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 5528,
+      "forks": 782,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tokio-rs",
+      "name": "book",
+      "href": "https://github.com/tokio-rs/book",
+      "description": null,
+      "language": "Rust",
+      "stars": 27,
+      "forks": 1,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 3610,
+      "forks": 132,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 17111,
+      "forks": 734,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 16688,
+      "forks": 331,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "lucet",
+      "href": "https://github.com/bytecodealliance/lucet",
+      "description": "Lucet, the Sandboxing WebAssembly Compiler.",
+      "language": "Rust",
+      "stars": 2768,
+      "forks": 92,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1150,
+      "forks": 64,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1775,
+      "forks": 190,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 8410,
+      "forks": 588,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4711,
+      "forks": 448,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "vadimcn",
+      "name": "vscode-lldb",
+      "href": "https://github.com/vadimcn/vscode-lldb",
+      "description": "A native debugger extension for VSCode based on LLDB",
+      "language": "Rust",
+      "stars": 454,
+      "forks": 61,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten",
+      "language": "Rust",
+      "stars": 5025,
+      "forks": 182,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 170,
+      "forks": 65,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 4576,
+      "forks": 316,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "PolymathNetwork",
+      "name": "Polymesh",
+      "href": "https://github.com/PolymathNetwork/Polymesh",
+      "description": "Node for Polymesh Blockchain",
+      "language": "Rust",
+      "stars": 25,
+      "forks": 5,
+      "starsInPeriod": 5
+    }
+  ]
+}
