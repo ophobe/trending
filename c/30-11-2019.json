@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 25749,
+      "forks": 5850,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 5354,
+      "forks": 2964,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 83440,
+      "forks": 29198,
+      "starsInPeriod": 77
+    },
+    {
+      "author": "meetecho",
+      "name": "janus-gateway",
+      "href": "https://github.com/meetecho/janus-gateway",
+      "description": "Janus WebRTC Server",
+      "language": "C",
+      "stars": 3117,
+      "forks": 1175,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 4915,
+      "forks": 2989,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 9631,
+      "forks": 2966,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "href": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - Host and endpoint security",
+      "language": "C",
+      "stars": 1217,
+      "forks": 311,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 11342,
+      "forks": 1874,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 10396,
+      "forks": 8414,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "phpredis",
+      "name": "phpredis",
+      "href": "https://github.com/phpredis/phpredis",
+      "description": "A PHP extension for Redis",
+      "language": "C",
+      "stars": 7935,
+      "forks": 1932,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 42902,
+      "forks": 3885,
+      "starsInPeriod": 142
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 2724,
+      "forks": 1627,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "zserge",
+      "name": "jsmn",
+      "href": "https://github.com/zserge/jsmn",
+      "description": "Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket",
+      "language": "C",
+      "stars": 1798,
+      "forks": 499,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "mohuihui",
+      "name": "antispy",
+      "href": "https://github.com/mohuihui/antispy",
+      "description": "AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.",
+      "language": "C",
+      "stars": 496,
+      "forks": 225,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "Screetsec",
+      "name": "TheFatRat",
+      "href": "https://github.com/Screetsec/TheFatRat",
+      "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+      "language": "C",
+      "stars": 3311,
+      "forks": 1231,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "microsoft",
+      "name": "winfile",
+      "href": "https://github.com/microsoft/winfile",
+      "description": "Original Windows File Manager (winfile) with enhancements",
+      "language": "C",
+      "stars": 5558,
+      "forks": 627,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "href": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": 2171,
+      "forks": 1219,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "zsh-users",
+      "name": "zsh",
+      "href": "https://github.com/zsh-users/zsh",
+      "description": "Mirror of the Z shell source code repository.",
+      "language": "C",
+      "stars": 1608,
+      "forks": 217,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "NVIDIA",
+      "name": "Q2RTX",
+      "href": "https://github.com/NVIDIA/Q2RTX",
+      "description": "NVIDIA’s implementation of RTX ray-tracing in Quake II",
+      "language": "C",
+      "stars": 456,
+      "forks": 44,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "RIOT-OS",
+      "name": "RIOT",
+      "href": "https://github.com/RIOT-OS/RIOT",
+      "description": "RIOT - The friendly OS for IoT",
+      "language": "C",
+      "stars": 3009,
+      "forks": 1459,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "href": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": 8489,
+      "forks": 3226,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "libjpeg-turbo",
+      "name": "libjpeg-turbo",
+      "href": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+      "description": "Main libjpeg-turbo repository",
+      "language": "C",
+      "stars": 1791,
+      "forks": 488,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "commaai",
+      "name": "openpilot",
+      "href": "https://github.com/commaai/openpilot",
+      "description": "open source driving agent",
+      "language": "C",
+      "stars": 12829,
+      "forks": 3127,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 15557,
+      "forks": 9755,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "href": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+      "language": "C",
+      "stars": 6279,
+      "forks": 8127,
+      "starsInPeriod": 6
+    }
+  ]
+}
