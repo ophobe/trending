@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33443,
+      "forks": 3847,
+      "starsInPeriod": 89
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 6599,
+      "forks": 554,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 4333,
+      "forks": 379,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 4894,
+      "forks": 1020,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 26105,
+      "forks": 2777,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 21623,
+      "forks": 3246,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 16205,
+      "forks": 1858,
+      "starsInPeriod": 134
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12939,
+      "forks": 1075,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5795,
+      "forks": 1132,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4541,
+      "forks": 848,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →",
+      "language": "Go",
+      "stars": 6625,
+      "forks": 419,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "Lantern官方版本下载 蓝灯 翻墙 科学上网 外网 加速器 梯子 路由 lantern censorship-circumvention censorship gfw vpn accelerator",
+      "language": "Go",
+      "stars": 61,
+      "forks": 15,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "roboll",
+      "name": "helmfile",
+      "href": "https://github.com/roboll/helmfile",
+      "description": "Deploy Kubernetes Helm Charts",
+      "language": "Go",
+      "stars": 1596,
+      "forks": 213,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "filecoin-project",
+      "name": "lotus",
+      "href": "https://github.com/filecoin-project/lotus",
+      "description": "Implementation of the Filecoin protocol, written in Go",
+      "language": "Go",
+      "stars": 113,
+      "forks": 44,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "velero",
+      "href": "https://github.com/vmware-tanzu/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": 3361,
+      "forks": 507,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "tendermint",
+      "name": "tendermint",
+      "href": "https://github.com/tendermint/tendermint",
+      "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+      "language": "Go",
+      "stars": 3379,
+      "forks": 1006,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15161,
+      "forks": 4789,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "quay",
+      "name": "clair",
+      "href": "https://github.com/quay/clair",
+      "description": "Vulnerability Static Analysis for Containers",
+      "language": "Go",
+      "stars": 6019,
+      "forks": 775,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 9009,
+      "forks": 797,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "lucas-clemente",
+      "name": "quic-go",
+      "href": "https://github.com/lucas-clemente/quic-go",
+      "description": "A QUIC implementation in pure go",
+      "language": "Go",
+      "stars": 3532,
+      "forks": 399,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11111,
+      "forks": 11668,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 14795,
+      "forks": 1283,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "eclipse",
+      "name": "paho.mqtt.golang",
+      "href": "https://github.com/eclipse/paho.mqtt.golang",
+      "description": null,
+      "language": "Go",
+      "stars": 1022,
+      "forks": 274,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 2390,
+      "forks": 229,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "casbin",
+      "name": "casbin",
+      "href": "https://github.com/casbin/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
+      "language": "Go",
+      "stars": 5636,
+      "forks": 602,
+      "starsInPeriod": 8
+    }
+  ]
+}
