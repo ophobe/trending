@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 16228,
+      "forks": 1858,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 39784,
+      "forks": 4494,
+      "starsInPeriod": 64
+    },
+    {
+      "author": "yuin",
+      "name": "goldmark",
+      "href": "https://github.com/yuin/goldmark",
+      "description": "🏆 A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",
+      "language": "Go",
+      "stars": 407,
+      "forks": 23,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 49920,
+      "forks": 6579,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "linkedin",
+      "name": "Burrow",
+      "href": "https://github.com/linkedin/Burrow",
+      "description": "Kafka Consumer Lag Checking",
+      "language": "Go",
+      "stars": 2211,
+      "forks": 581,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15181,
+      "forks": 4790,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 6609,
+      "forks": 554,
+      "starsInPeriod": 67
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7718,
+      "forks": 2970,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 16859,
+      "forks": 3667,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 2397,
+      "forks": 229,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2790,
+      "forks": 320,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 66391,
+      "forks": 9378,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33474,
+      "forks": 3847,
+      "starsInPeriod": 148
+    },
+    {
+      "author": "eddycjy",
+      "name": "go-gin-example",
+      "href": "https://github.com/eddycjy/go-gin-example",
+      "description": "An example of gin",
+      "language": "Go",
+      "stars": 2014,
+      "forks": 482,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 26122,
+      "forks": 2778,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 10521,
+      "forks": 1816,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10141,
+      "forks": 2052,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19763,
+      "forks": 5279,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 7011,
+      "forks": 4024,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "sofastack",
+      "name": "sofa-mosn",
+      "href": "https://github.com/sofastack/sofa-mosn",
+      "description": "SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar.",
+      "language": "Go",
+      "stars": 1483,
+      "forks": 323,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "volatiletech",
+      "name": "sqlboiler",
+      "href": "https://github.com/volatiletech/sqlboiler",
+      "description": "Generate a Go ORM tailored to your database schema.",
+      "language": "Go",
+      "stars": 2515,
+      "forks": 250,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 2595,
+      "forks": 224,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 60625,
+      "forks": 21416,
+      "starsInPeriod": 75
+    },
+    {
+      "author": "uber-go",
+      "name": "fx",
+      "href": "https://github.com/uber-go/fx",
+      "description": "A dependency injection based application framework for Go.",
+      "language": "Go",
+      "stars": 1021,
+      "forks": 84,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 6468,
+      "forks": 1197,
+      "starsInPeriod": 9
+    }
+  ]
+}
