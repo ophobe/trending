@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 3415,
+      "forks": 628,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "alecthomas",
+      "name": "chroma",
+      "href": "https://github.com/alecthomas/chroma",
+      "description": "A general purpose syntax highlighter in pure Go",
+      "language": "Go",
+      "stars": 1974,
+      "forks": 129,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 25288,
+      "forks": 2076,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "yuin",
+      "name": "goldmark",
+      "href": "https://github.com/yuin/goldmark",
+      "description": "🏆 A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",
+      "language": "Go",
+      "stars": 443,
+      "forks": 25,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 39838,
+      "forks": 4498,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "dragonflyoss",
+      "name": "Dragonfly",
+      "href": "https://github.com/dragonflyoss/Dragonfly",
+      "description": "Dragonfly is an intelligent P2P based image and file distribution system.",
+      "language": "Go",
+      "stars": 4411,
+      "forks": 570,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "natefinch",
+      "name": "lumberjack",
+      "href": "https://github.com/natefinch/lumberjack",
+      "description": "lumberjack is a log rolling package for Go",
+      "language": "Go",
+      "stars": 1639,
+      "forks": 218,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 844,
+      "forks": 102,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 4784,
+      "forks": 644,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 2615,
+      "forks": 226,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 25539,
+      "forks": 997,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "okteto",
+      "name": "okteto",
+      "href": "https://github.com/okteto/okteto",
+      "description": "Build better applications by developing and testing your code directly in Kubernetes",
+      "language": "Go",
+      "stars": 593,
+      "forks": 49,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "google",
+      "name": "go-github",
+      "href": "https://github.com/google/go-github",
+      "description": "Go library for accessing the GitHub API",
+      "language": "Go",
+      "stars": 5283,
+      "forks": 1183,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "href": "https://github.com/photoprism/photoprism",
+      "description": "Personal Photo Management powered by Go and Google TensorFlow",
+      "language": "Go",
+      "stars": 4264,
+      "forks": 221,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 50001,
+      "forks": 6596,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "OWASP",
+      "name": "Amass",
+      "href": "https://github.com/OWASP/Amass",
+      "description": "In-depth Attack Surface Mapping and Asset Discovery",
+      "language": "Go",
+      "stars": 2350,
+      "forks": 383,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "micro-in-cn",
+      "name": "tutorials",
+      "href": "https://github.com/micro-in-cn/tutorials",
+      "description": "Micro 中文示例、教程、资料，源码解读",
+      "language": "Go",
+      "stars": 911,
+      "forks": 154,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 3050,
+      "forks": 445,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "LockGit",
+      "name": "gochat",
+      "href": "https://github.com/LockGit/gochat",
+      "description": "goim, online chat, im server write by golang !🚀",
+      "language": "Go",
+      "stars": 321,
+      "forks": 39,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17949,
+      "forks": 3096,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "adnanh",
+      "name": "webhook",
+      "href": "https://github.com/adnanh/webhook",
+      "description": "webhook is a lightweight incoming webhook server to run shell commands",
+      "language": "Go",
+      "stars": 4564,
+      "forks": 393,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 15517,
+      "forks": 1635,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "cilium",
+      "name": "hubble",
+      "href": "https://github.com/cilium/hubble",
+      "description": "Hubble - Network, Service & Security Observability for Kubernetes",
+      "language": "Go",
+      "stars": 374,
+      "forks": 21,
+      "starsInPeriod": 71
+    },
+    {
+      "author": "sofastack",
+      "name": "sofa-mosn",
+      "href": "https://github.com/sofastack/sofa-mosn",
+      "description": "SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar.",
+      "language": "Go",
+      "stars": 1507,
+      "forks": 326,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "keybase",
+      "name": "client",
+      "href": "https://github.com/keybase/client",
+      "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+      "language": "Go",
+      "stars": 6213,
+      "forks": 778,
+      "starsInPeriod": 7
+    }
+  ]
+}
