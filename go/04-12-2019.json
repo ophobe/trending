@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 15543,
+      "forks": 1636,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 878,
+      "forks": 676,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 5678,
+      "forks": 545,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1886,
+      "forks": 378,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 2625,
+      "forks": 226,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Privileged access management for elastic infrastructure.",
+      "language": "Go",
+      "stars": 7649,
+      "forks": 536,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14540,
+      "forks": 2191,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON parser for Go",
+      "language": "Go",
+      "stars": 5445,
+      "forks": 357,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 3492,
+      "forks": 630,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 5425,
+      "forks": 2484,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11168,
+      "forks": 11752,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10162,
+      "forks": 2058,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Azure",
+      "name": "aks-engine",
+      "href": "https://github.com/Azure/aks-engine",
+      "description": "AKS Engine: Units of Kubernetes on Azure!",
+      "language": "Go",
+      "stars": 555,
+      "forks": 288,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10643,
+      "forks": 1097,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 10134,
+      "forks": 2858,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "vektra",
+      "name": "mockery",
+      "href": "https://github.com/vektra/mockery",
+      "description": "A mock code autogenerator for golang",
+      "language": "Go",
+      "stars": 1372,
+      "forks": 146,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "href": "https://github.com/photoprism/photoprism",
+      "description": "Personal Photo Management powered by Go and Google TensorFlow",
+      "language": "Go",
+      "stars": 4273,
+      "forks": 222,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "dragonflyoss",
+      "name": "Dragonfly",
+      "href": "https://github.com/dragonflyoss/Dragonfly",
+      "description": "Dragonfly is an intelligent P2P based image and file distribution system.",
+      "language": "Go",
+      "stars": 4422,
+      "forks": 572,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "google",
+      "name": "uuid",
+      "href": "https://github.com/google/uuid",
+      "description": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.",
+      "language": "Go",
+      "stars": 1455,
+      "forks": 149,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 8122,
+      "forks": 622,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 17436,
+      "forks": 2009,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 854,
+      "forks": 102,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 3321,
+      "forks": 323,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "velero",
+      "href": "https://github.com/vmware-tanzu/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": 3381,
+      "forks": 512,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 864,
+      "forks": 313,
+      "starsInPeriod": 1
+    }
+  ]
+}
