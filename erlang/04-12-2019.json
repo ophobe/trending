@@ -1,0 +1,194 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6539,
+      "forks": 2104,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 8061,
+      "forks": 2186,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5758,
+      "forks": 1033,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5344,
+      "forks": 1009,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 313,
+      "forks": 139,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "eproxus",
+      "name": "meck",
+      "href": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "Erlang",
+      "stars": 653,
+      "forks": 206,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "cmullaparthi",
+      "name": "ibrowse",
+      "href": "https://github.com/cmullaparthi/ibrowse",
+      "description": "Erlang HTTP client",
+      "language": "Erlang",
+      "stars": 507,
+      "forks": 181,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "benoitc",
+      "name": "hackney",
+      "href": "https://github.com/benoitc/hackney",
+      "description": "simple HTTP client in Erlang",
+      "language": "Erlang",
+      "stars": 1000,
+      "forks": 333,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "cowlib",
+      "href": "https://github.com/ninenines/cowlib",
+      "description": "Support library for manipulating Web protocols.",
+      "language": "Erlang",
+      "stars": 186,
+      "forks": 127,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "devinus",
+      "name": "poolboy",
+      "href": "https://github.com/devinus/poolboy",
+      "description": "A hunky Erlang worker pool factory",
+      "language": "Erlang",
+      "stars": 1253,
+      "forks": 300,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "proper-testing",
+      "name": "proper",
+      "href": "https://github.com/proper-testing/proper",
+      "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+      "language": "Erlang",
+      "stars": 717,
+      "forks": 139,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "erlware",
+      "name": "erlcron",
+      "href": "https://github.com/erlware/erlcron",
+      "description": "Erlang cronish system",
+      "language": "Erlang",
+      "stars": 221,
+      "forks": 130,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "covertool",
+      "name": "covertool",
+      "href": "https://github.com/covertool/covertool",
+      "description": "Tool to convert Erlang cover data files into Cobertura XML reports",
+      "language": "Erlang",
+      "stars": 58,
+      "forks": 46,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "dmitryme",
+      "name": "erlang_localtime",
+      "href": "https://github.com/dmitryme/erlang_localtime",
+      "description": "Erlang library for conversion from one local time to another",
+      "language": "Erlang",
+      "stars": 48,
+      "forks": 41,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "benoitc",
+      "name": "mimerl",
+      "href": "https://github.com/benoitc/mimerl",
+      "description": "library to handle mimetypes",
+      "language": "Erlang",
+      "stars": 20,
+      "forks": 8,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "markusn",
+      "name": "coveralls-erl",
+      "href": "https://github.com/markusn/coveralls-erl",
+      "description": "Erlang module to convert and send cover data to coveralls.io (or similar). Available as a hex package on https://hex.pm/packages/coveralls.",
+      "language": "Erlang",
+      "stars": 36,
+      "forks": 20,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlang-lager",
+      "name": "lager",
+      "href": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1014,
+      "forks": 441,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rebar",
+      "name": "rebar",
+      "href": "https://github.com/rebar/rebar",
+      "description": "Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. We encourage you to move to https://github.com/erlang/rebar3.",
+      "language": "Erlang",
+      "stars": 949,
+      "forks": 302,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "talentdeficit",
+      "name": "jsx",
+      "href": "https://github.com/talentdeficit/jsx",
+      "description": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+      "language": "Erlang",
+      "stars": 625,
+      "forks": 201,
+      "starsInPeriod": 0
+    }
+  ]
+}
