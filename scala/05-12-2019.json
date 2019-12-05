@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11431,
+      "forks": 3825,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10513,
+      "forks": 3148,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1720,
+      "forks": 319,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 567,
+      "forks": 84,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1298,
+      "forks": 547,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "WeBankFinTech",
+      "name": "Linkis",
+      "href": "https://github.com/WeBankFinTech/Linkis",
+      "description": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+      "language": "Scala",
+      "stars": 653,
+      "forks": 213,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1104,
+      "forks": 238,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client",
+      "language": "Scala",
+      "stars": 1428,
+      "forks": 570,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 2311,
+      "forks": 552,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24466,
+      "forks": 20699,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 1710,
+      "forks": 515,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7406,
+      "forks": 1312,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gitbucket",
+      "name": "gitbucket",
+      "href": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "stars": 7866,
+      "forks": 1086,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 5024,
+      "forks": 1048,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4432,
+      "forks": 851,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 4611,
+      "forks": 2569,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 6093,
+      "forks": 900,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "apache",
+      "name": "incubator-livy",
+      "href": "https://github.com/apache/incubator-livy",
+      "description": "Mirror of Apache livy (Incubating)",
+      "language": "Scala",
+      "stars": 420,
+      "forks": 284,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "stars": 1016,
+      "forks": 120,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 16236,
+      "forks": 918,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "sbt",
+      "name": "sbt-native-packager",
+      "href": "https://github.com/sbt/sbt-native-packager",
+      "description": "sbt Native Packager",
+      "language": "Scala",
+      "stars": 1306,
+      "forks": 375,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1943,
+      "forks": 378,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ghostdogpr",
+      "name": "caliban",
+      "href": "https://github.com/ghostdogpr/caliban",
+      "description": "Functional GraphQL backend in Scala",
+      "language": "Scala",
+      "stars": 181,
+      "forks": 14,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3669,
+      "forks": 919,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 5916,
+      "forks": 326,
+      "starsInPeriod": 7
+    }
+  ]
+}
