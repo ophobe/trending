@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 10155,
+      "forks": 646,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1816,
+      "forks": 197,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 2028,
+      "forks": 145,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 1872,
+      "forks": 131,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "href": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": 2164,
+      "forks": 131,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1195,
+      "forks": 68,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5731,
+      "forks": 1392,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 2074,
+      "forks": 101,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast typescript / javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 6483,
+      "forks": 113,
+      "starsInPeriod": 102
+    },
+    {
+      "author": "Kampfkarren",
+      "name": "full-moon",
+      "href": "https://github.com/Kampfkarren/full-moon",
+      "description": "A lossless Lua 5.1 parser",
+      "language": "Rust",
+      "stars": 44,
+      "forks": 2,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "vi",
+      "name": "websocat",
+      "href": "https://github.com/vi/websocat",
+      "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+      "language": "Rust",
+      "stars": 1311,
+      "forks": 59,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "tikv",
+      "name": "raft-rs",
+      "href": "https://github.com/tikv/raft-rs",
+      "description": "Raft distributed consensus algorithm implemented in Rust.",
+      "language": "Rust",
+      "stars": 1029,
+      "forks": 130,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 19429,
+      "forks": 897,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 5561,
+      "forks": 794,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 2636,
+      "forks": 118,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 173,
+      "forks": 68,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 705,
+      "forks": 27,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 13184,
+      "forks": 881,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "mre",
+      "name": "awesome-static-analysis",
+      "href": "https://github.com/mre/awesome-static-analysis",
+      "description": "Static analysis tools for all programming languages",
+      "language": "Rust",
+      "stars": 6535,
+      "forks": 757,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "valeriansaliou",
+      "name": "sonic",
+      "href": "https://github.com/valeriansaliou/sonic",
+      "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+      "language": "Rust",
+      "stars": 7827,
+      "forks": 222,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "artichoke",
+      "name": "artichoke",
+      "href": "https://github.com/artichoke/artichoke",
+      "description": "💎 Artichoke is a Ruby made with Rust",
+      "language": "Rust",
+      "stars": 1305,
+      "forks": 46,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "racer-rust",
+      "name": "racer",
+      "href": "https://github.com/racer-rust/racer",
+      "description": "Rust Code Completion utility",
+      "language": "Rust",
+      "stars": 2997,
+      "forks": 267,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 1042,
+      "forks": 83,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2704,
+      "forks": 343,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "LaurentMazare",
+      "name": "tch-rs",
+      "href": "https://github.com/LaurentMazare/tch-rs",
+      "description": "Rust bindings for PyTorch",
+      "language": "Rust",
+      "stars": 389,
+      "forks": 35,
+      "starsInPeriod": 4
+    }
+  ]
+}
