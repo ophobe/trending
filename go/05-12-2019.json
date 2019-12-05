@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cilium",
+      "name": "hubble",
+      "href": "https://github.com/cilium/hubble",
+      "description": "Hubble - Network, Service & Security Observability for Kubernetes",
+      "language": "Go",
+      "stars": 471,
+      "forks": 25,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 891,
+      "forks": 316,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 888,
+      "forks": 679,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4765,
+      "forks": 592,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 7031,
+      "forks": 4038,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 2070,
+      "forks": 195,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11191,
+      "forks": 11771,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 13187,
+      "forks": 463,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "segmentio",
+      "name": "encoding",
+      "href": "https://github.com/segmentio/encoding",
+      "description": "Go package containing implementations of efficient encoding, decoding, and validation APIs.",
+      "language": "Go",
+      "stars": 336,
+      "forks": 3,
+      "starsInPeriod": 207
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3402,
+      "forks": 3116,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2823,
+      "forks": 1228,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "href": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": 2778,
+      "forks": 472,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5376,
+      "forks": 1348,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 15598,
+      "forks": 1641,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 3579,
+      "forks": 628,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 20738,
+      "forks": 3713,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 17974,
+      "forks": 3102,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9587,
+      "forks": 2623,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON parser for Go",
+      "language": "Go",
+      "stars": 5471,
+      "forks": 358,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "kubernetes",
+      "name": "kube-state-metrics",
+      "href": "https://github.com/kubernetes/kube-state-metrics",
+      "description": "Add-on agent to generate and expose cluster-level metrics.",
+      "language": "Go",
+      "stars": 1816,
+      "forks": 607,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2827,
+      "forks": 323,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1893,
+      "forks": 380,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55743,
+      "forks": 16094,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 2637,
+      "forks": 228,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "concourse",
+      "name": "concourse",
+      "href": "https://github.com/concourse/concourse",
+      "description": "Concourse is a container-based continuous thing-doer written in Go and Elm.",
+      "language": "Go",
+      "stars": 4526,
+      "forks": 557,
+      "starsInPeriod": 6
+    }
+  ]
+}
