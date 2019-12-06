@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 18002,
+      "forks": 3105,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 13256,
+      "forks": 1532,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 10581,
+      "forks": 1824,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13208,
+      "forks": 1525,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 5741,
+      "forks": 552,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": null,
+      "language": "Go",
+      "stars": 9301,
+      "forks": 5263,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "cilium",
+      "name": "hubble",
+      "href": "https://github.com/cilium/hubble",
+      "description": "Hubble - Network, Service & Security Observability for Kubernetes",
+      "language": "Go",
+      "stars": 527,
+      "forks": 29,
+      "starsInPeriod": 83
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 4297,
+      "forks": 662,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 2837,
+      "forks": 323,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 17919,
+      "forks": 2528,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 3587,
+      "forks": 629,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "href": "https://github.com/DataDog/datadog-agent",
+      "description": "Datadog Agent",
+      "language": "Go",
+      "stars": 658,
+      "forks": 355,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1896,
+      "forks": 381,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "code-ready",
+      "name": "crc",
+      "href": "https://github.com/code-ready/crc",
+      "description": "CodeReady Containers is a tool that manages a local OpenShift 4.x cluster optimized for testing and development purposes",
+      "language": "Go",
+      "stars": 349,
+      "forks": 60,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 8155,
+      "forks": 628,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19854,
+      "forks": 5293,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "spiral",
+      "name": "roadrunner",
+      "href": "https://github.com/spiral/roadrunner",
+      "description": "High-performance PHP application server, load-balancer and process manager written in Golang",
+      "language": "Go",
+      "stars": 3739,
+      "forks": 180,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55758,
+      "forks": 16103,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "gogo",
+      "name": "protobuf",
+      "href": "https://github.com/gogo/protobuf",
+      "description": "Protocol Buffers for Go with Gadgets",
+      "language": "Go",
+      "stars": 3332,
+      "forks": 443,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10666,
+      "forks": 1100,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 2081,
+      "forks": 195,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "google",
+      "name": "cadvisor",
+      "href": "https://github.com/google/cadvisor",
+      "description": "Analyzes resource usage and performance characteristics of running containers.",
+      "language": "Go",
+      "stars": 9983,
+      "forks": 1462,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 6971,
+      "forks": 702,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "containers",
+      "name": "buildah",
+      "href": "https://github.com/containers/buildah",
+      "description": "A tool that facilitates building OCI images",
+      "language": "Go",
+      "stars": 2487,
+      "forks": 272,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 1941,
+      "forks": 307,
+      "starsInPeriod": 22
+    }
+  ]
+}
