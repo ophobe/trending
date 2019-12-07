@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in Go",
+      "language": "Go",
+      "stars": 9019,
+      "forks": 1636,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "subfinder",
+      "href": "https://github.com/projectdiscovery/subfinder",
+      "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+      "language": "Go",
+      "stars": 1825,
+      "forks": 237,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 4264,
+      "forks": 1194,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10184,
+      "forks": 2061,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 18013,
+      "forks": 3105,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "schollz",
+      "name": "find3",
+      "href": "https://github.com/schollz/find3",
+      "description": "High-precision indoor positioning framework, version 3.",
+      "language": "Go",
+      "stars": 3653,
+      "forks": 235,
+      "starsInPeriod": 160
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 66643,
+      "forks": 9407,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "href": "https://github.com/DataDog/datadog-agent",
+      "description": "Datadog Agent",
+      "language": "Go",
+      "stars": 659,
+      "forks": 355,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15287,
+      "forks": 4809,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 5132,
+      "forks": 930,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3417,
+      "forks": 3124,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5384,
+      "forks": 1352,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 60885,
+      "forks": 21509,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 29006,
+      "forks": 2470,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 20774,
+      "forks": 3724,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON parser for Go",
+      "language": "Go",
+      "stars": 5502,
+      "forks": 359,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "shopspring",
+      "name": "decimal",
+      "href": "https://github.com/shopspring/decimal",
+      "description": "Arbitrary-precision fixed-point decimal numbers in go",
+      "language": "Go",
+      "stars": 1825,
+      "forks": 262,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2833,
+      "forks": 1230,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 3596,
+      "forks": 628,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 4600,
+      "forks": 201,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 28001,
+      "forks": 4139,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 8480,
+      "forks": 643,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 9060,
+      "forks": 802,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 55768,
+      "forks": 16106,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 19522,
+      "forks": 5331,
+      "starsInPeriod": 34
+    }
+  ]
+}
