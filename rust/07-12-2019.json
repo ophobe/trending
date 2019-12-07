@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 2055,
+      "forks": 147,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 174,
+      "forks": 72,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "makepad",
+      "name": "makepad",
+      "href": "https://github.com/makepad/makepad",
+      "description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl",
+      "language": "Rust",
+      "stars": 726,
+      "forks": 28,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6736,
+      "forks": 579,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 40989,
+      "forks": 6317,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "cranelift",
+      "href": "https://github.com/bytecodealliance/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2325,
+      "forks": 205,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 10190,
+      "forks": 648,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 2116,
+      "forks": 311,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 713,
+      "forks": 27,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1211,
+      "forks": 70,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 5567,
+      "forks": 794,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 1051,
+      "forks": 84,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "redox-os",
+      "name": "orbtk",
+      "href": "https://github.com/redox-os/orbtk",
+      "description": "The Rust UI-Toolkit.",
+      "language": "Rust",
+      "stars": 549,
+      "forks": 52,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1828,
+      "forks": 197,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4741,
+      "forks": 451,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6513,
+      "forks": 967,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5893,
+      "forks": 427,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust / Wasm framework for building client web apps",
+      "language": "Rust",
+      "stars": 9521,
+      "forks": 357,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5740,
+      "forks": 1395,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13426,
+      "forks": 1993,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 1281,
+      "forks": 118,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 19444,
+      "forks": 905,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "mullvad",
+      "name": "mullvadvpn-app",
+      "href": "https://github.com/mullvad/mullvadvpn-app",
+      "description": "The Mullvad VPN client app for desktop and mobile",
+      "language": "Rust",
+      "stars": 592,
+      "forks": 43,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rajasekarv",
+      "name": "native_spark",
+      "href": "https://github.com/rajasekarv/native_spark",
+      "description": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+      "language": "Rust",
+      "stars": 1292,
+      "forks": 107,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 4790,
+      "forks": 180,
+      "starsInPeriod": 7
+    }
+  ]
+}
