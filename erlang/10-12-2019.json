@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 315,
+      "forks": 139,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6583,
+      "forks": 2121,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-delayed-message-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-delayed-message-exchange",
+      "description": "Delayed Messaging for RabbitMQ",
+      "language": "Erlang",
+      "stars": 672,
+      "forks": 57,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 8073,
+      "forks": 2194,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 5372,
+      "forks": 1011,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-auth-backend-oauth2",
+      "href": "https://github.com/rabbitmq/rabbitmq-auth-backend-oauth2",
+      "description": "RabbitMQ authorization backend that uses OAuth 2.0 (JWT) tokens",
+      "language": "Erlang",
+      "stars": 23,
+      "forks": 10,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-common",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-common",
+      "description": "Common library for various peer discovery backends (3.7.0+ only)",
+      "language": "Erlang",
+      "stars": 3,
+      "forks": 6,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-consul",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-consul",
+      "description": "Consul-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 32,
+      "forks": 10,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-aws",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-aws",
+      "description": "AWS-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 17,
+      "forks": 7,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-etcd",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-etcd",
+      "description": "etcd-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 11,
+      "forks": 7,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-amqp1.0-common",
+      "href": "https://github.com/rabbitmq/rabbitmq-amqp1.0-common",
+      "description": "Modules shared by rabbitmq-amqp1.0 and rabbitmq-amqp1.0-client",
+      "language": "Erlang",
+      "stars": 1,
+      "forks": 10,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-aws",
+      "href": "https://github.com/rabbitmq/rabbitmq-aws",
+      "description": "AWS client library used by RabbitMQ subprojects. Originally a fork of httpc-aws by Gavin Roy.",
+      "language": "Erlang",
+      "stars": 2,
+      "forks": 3,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-amqp1.0-client",
+      "href": "https://github.com/rabbitmq/rabbitmq-amqp1.0-client",
+      "description": "Erlang AMQP 1.0 client",
+      "language": "Erlang",
+      "stars": 9,
+      "forks": 15,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-prometheus",
+      "href": "https://github.com/rabbitmq/rabbitmq-prometheus",
+      "description": "An up-and-coming minimalistic Prometheus exporter for core (unaggregated) RabbitMQ metrics",
+      "language": "Erlang",
+      "stars": 29,
+      "forks": 16,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-peer-discovery-k8s",
+      "href": "https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s",
+      "description": "Kubernetes-based peer discovery backend for RabbitMQ 3.7.0+",
+      "language": "Erlang",
+      "stars": 222,
+      "forks": 77,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-federation",
+      "href": "https://github.com/rabbitmq/rabbitmq-federation",
+      "description": "RabbitMQ Federation plugin",
+      "language": "Erlang",
+      "stars": 36,
+      "forks": 20,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-shovel",
+      "href": "https://github.com/rabbitmq/rabbitmq-shovel",
+      "description": "RabbitMQ Shovel plugin",
+      "language": "Erlang",
+      "stars": 46,
+      "forks": 14,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-top",
+      "href": "https://github.com/rabbitmq/rabbitmq-top",
+      "description": "Adds top-like information on the Erlang VM to the management plugin.",
+      "language": "Erlang",
+      "stars": 39,
+      "forks": 8,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-tracing",
+      "href": "https://github.com/rabbitmq/rabbitmq-tracing",
+      "description": "RabbitMQ Tracing",
+      "language": "Erlang",
+      "stars": 37,
+      "forks": 13,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-sharding",
+      "href": "https://github.com/rabbitmq/rabbitmq-sharding",
+      "description": "Sharded logical queues for RabbitMQ: a queue type which provides improved parallelism and thoughput at the cost of total ordering",
+      "language": "Erlang",
+      "stars": 225,
+      "forks": 27,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-event-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-event-exchange",
+      "description": "Expose broker events as messages",
+      "language": "Erlang",
+      "stars": 67,
+      "forks": 15,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-auth-backend-cache",
+      "href": "https://github.com/rabbitmq/rabbitmq-auth-backend-cache",
+      "description": "Authorisation result caching plugin (backend) for RabbitMQ",
+      "language": "Erlang",
+      "stars": 13,
+      "forks": 8,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-trust-store",
+      "href": "https://github.com/rabbitmq/rabbitmq-trust-store",
+      "description": "A trust store whitelists x509 certificates",
+      "language": "Erlang",
+      "stars": 6,
+      "forks": 10,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-web-dispatch",
+      "href": "https://github.com/rabbitmq/rabbitmq-web-dispatch",
+      "description": "Underpins all RabbitMQ plugins that provide an HTTP API",
+      "language": "Erlang",
+      "stars": 8,
+      "forks": 10,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-jms-topic-exchange",
+      "href": "https://github.com/rabbitmq/rabbitmq-jms-topic-exchange",
+      "description": "Custom exchange that implements JMS topic selection for RabbitMQ",
+      "language": "Erlang",
+      "stars": 10,
+      "forks": 4,
+      "starsInPeriod": 0
+    }
+  ]
+}
