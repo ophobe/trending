@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 17537,
+      "forks": 1379,
+      "starsInPeriod": 102
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1887,
+      "forks": 507,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5838,
+      "forks": 1138,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 7435,
+      "forks": 592,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "href": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": 1866,
+      "forks": 294,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 7059,
+      "forks": 291,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 7401,
+      "forks": 959,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "bxcodec",
+      "name": "go-clean-arch",
+      "href": "https://github.com/bxcodec/go-clean-arch",
+      "description": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture",
+      "language": "Go",
+      "stars": 1984,
+      "forks": 343,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "docker",
+      "name": "distribution",
+      "href": "https://github.com/docker/distribution",
+      "description": "The Docker toolset to pack, ship, store, and deliver content",
+      "language": "Go",
+      "stars": 5036,
+      "forks": 1653,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "hcl",
+      "href": "https://github.com/hashicorp/hcl",
+      "description": "HCL is the HashiCorp configuration language.",
+      "language": "Go",
+      "stars": 2674,
+      "forks": 260,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "href": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": 4275,
+      "forks": 1199,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pkg",
+      "name": "errors",
+      "href": "https://github.com/pkg/errors",
+      "description": "Simple error handling primitives",
+      "language": "Go",
+      "stars": 5335,
+      "forks": 379,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 7553,
+      "forks": 987,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10217,
+      "forks": 2066,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 2128,
+      "forks": 366,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "aelsabbahy",
+      "name": "goss",
+      "href": "https://github.com/aelsabbahy/goss",
+      "description": "Quick and Easy server testing/validation",
+      "language": "Go",
+      "stars": 3524,
+      "forks": 302,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "nginxinc",
+      "name": "kubernetes-ingress",
+      "href": "https://github.com/nginxinc/kubernetes-ingress",
+      "description": "NGINX and NGINX Plus Ingress Controllers for Kubernetes",
+      "language": "Go",
+      "stars": 2136,
+      "forks": 893,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "kaniko",
+      "href": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": 4929,
+      "forks": 434,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 28054,
+      "forks": 4144,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4573,
+      "forks": 852,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "adonovan",
+      "name": "gopl.io",
+      "href": "https://github.com/adonovan/gopl.io",
+      "description": "Example programs from \"The Go Programming Language\"",
+      "language": "Go",
+      "stars": 3758,
+      "forks": 1478,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 4236,
+      "forks": 627,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "href": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": 6728,
+      "forks": 459,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "banzaicloud",
+      "name": "bank-vaults",
+      "href": "https://github.com/banzaicloud/bank-vaults",
+      "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+      "language": "Go",
+      "stars": 759,
+      "forks": 156,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "miekg",
+      "name": "dns",
+      "href": "https://github.com/miekg/dns",
+      "description": "DNS library in Go",
+      "language": "Go",
+      "stars": 4159,
+      "forks": 685,
+      "starsInPeriod": 8
+    }
+  ]
+}
