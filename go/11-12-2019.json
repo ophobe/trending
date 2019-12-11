@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 17717,
+      "forks": 1389,
+      "starsInPeriod": 228
+    },
+    {
+      "author": "banzaicloud",
+      "name": "bank-vaults",
+      "href": "https://github.com/banzaicloud/bank-vaults",
+      "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+      "language": "Go",
+      "stars": 790,
+      "forks": 158,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-go",
+      "href": "https://github.com/stripe/stripe-go",
+      "description": "Go library for the Stripe API.",
+      "language": "Go",
+      "stars": 1038,
+      "forks": 276,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1900,
+      "forks": 511,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 13298,
+      "forks": 1540,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "kaniko",
+      "href": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": 4940,
+      "forks": 435,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10221,
+      "forks": 2069,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "docker-slim",
+      "name": "docker-slim",
+      "href": "https://github.com/docker-slim/docker-slim",
+      "description": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+      "language": "Go",
+      "stars": 5065,
+      "forks": 176,
+      "starsInPeriod": 1493
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12967,
+      "forks": 1077,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 5110,
+      "forks": 564,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2813,
+      "forks": 291,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5390,
+      "forks": 1356,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 28086,
+      "forks": 4152,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 7102,
+      "forks": 296,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 28631,
+      "forks": 5896,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9611,
+      "forks": 2632,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "enhancements",
+      "href": "https://github.com/kubernetes/enhancements",
+      "description": "Features tracking repo for Kubernetes releases",
+      "language": "Go",
+      "stars": 901,
+      "forks": 523,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "google",
+      "name": "cadvisor",
+      "href": "https://github.com/google/cadvisor",
+      "description": "Analyzes resource usage and performance characteristics of running containers.",
+      "language": "Go",
+      "stars": 10004,
+      "forks": 1466,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 2768,
+      "forks": 744,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 19213,
+      "forks": 1884,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "Masterminds",
+      "name": "squirrel",
+      "href": "https://github.com/Masterminds/squirrel",
+      "description": "Fluent SQL generation for golang",
+      "language": "Go",
+      "stars": 2580,
+      "forks": 218,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 2137,
+      "forks": 370,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4580,
+      "forks": 852,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 21809,
+      "forks": 3281,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 6736,
+      "forks": 558,
+      "starsInPeriod": 19
+    }
+  ]
+}
