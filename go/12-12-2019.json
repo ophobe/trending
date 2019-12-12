@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "docker-slim",
+      "name": "docker-slim",
+      "href": "https://github.com/docker-slim/docker-slim",
+      "description": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+      "language": "Go",
+      "stars": 5738,
+      "forks": 185,
+      "starsInPeriod": 1249
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 5103,
+      "forks": 897,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 19961,
+      "forks": 5314,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 17777,
+      "forks": 1393,
+      "starsInPeriod": 212
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 2780,
+      "forks": 747,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 7147,
+      "forks": 297,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "cri-o",
+      "name": "cri-o",
+      "href": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "language": "Go",
+      "stars": 2180,
+      "forks": 385,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 1521,
+      "forks": 655,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 3294,
+      "forks": 429,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 40096,
+      "forks": 4528,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14595,
+      "forks": 2202,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "fanux",
+      "name": "sealos",
+      "href": "https://github.com/fanux/sealos",
+      "description": "kubernetes高可用安装工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.3 v1.15.6 v1.14.9 v1.17.0!",
+      "language": "Go",
+      "stars": 1082,
+      "forks": 199,
+      "starsInPeriod": 97
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5390,
+      "forks": 1359,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10235,
+      "forks": 2072,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 61104,
+      "forks": 21595,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 21833,
+      "forks": 3283,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 17825,
+      "forks": 632,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3446,
+      "forks": 3152,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 11625,
+      "forks": 1037,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 1040,
+      "forks": 127,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "knative",
+      "name": "serving",
+      "href": "https://github.com/knative/serving",
+      "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+      "language": "Go",
+      "stars": 2532,
+      "forks": 511,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 21885,
+      "forks": 854,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 10614,
+      "forks": 998,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "banzaicloud",
+      "name": "bank-vaults",
+      "href": "https://github.com/banzaicloud/bank-vaults",
+      "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+      "language": "Go",
+      "stars": 809,
+      "forks": 158,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-go",
+      "href": "https://github.com/stripe/stripe-go",
+      "description": "Go library for the Stripe API.",
+      "language": "Go",
+      "stars": 1050,
+      "forks": 276,
+      "starsInPeriod": 11
+    }
+  ]
+}
