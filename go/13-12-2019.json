@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 26411,
+      "forks": 2827,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "docker-slim",
+      "name": "docker-slim",
+      "href": "https://github.com/docker-slim/docker-slim",
+      "description": "DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+      "language": "Go",
+      "stars": 6276,
+      "forks": 207,
+      "starsInPeriod": 694
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7795,
+      "forks": 3008,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 25437,
+      "forks": 2100,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "nlopes",
+      "name": "slack",
+      "href": "https://github.com/nlopes/slack",
+      "description": "Slack API in Go",
+      "language": "Go",
+      "stars": 2659,
+      "forks": 633,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 1061,
+      "forks": 127,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 5163,
+      "forks": 897,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "bilibili",
+      "name": "kratos",
+      "href": "https://github.com/bilibili/kratos",
+      "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+      "language": "Go",
+      "stars": 7504,
+      "forks": 1672,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 10348,
+      "forks": 3237,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2855,
+      "forks": 1239,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3452,
+      "forks": 3153,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "roboll",
+      "name": "helmfile",
+      "href": "https://github.com/roboll/helmfile",
+      "description": "Deploy Kubernetes Helm Charts",
+      "language": "Go",
+      "stars": 1675,
+      "forks": 252,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 40123,
+      "forks": 4532,
+      "starsInPeriod": 56
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 12970,
+      "forks": 1076,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 5153,
+      "forks": 941,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 2784,
+      "forks": 748,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 61151,
+      "forks": 21611,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11300,
+      "forks": 11918,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "ory",
+      "name": "hydra",
+      "href": "https://github.com/ory/hydra",
+      "description": "OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.",
+      "language": "Go",
+      "stars": 7627,
+      "forks": 686,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "href": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": 1308,
+      "forks": 396,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 21916,
+      "forks": 855,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "cosmos",
+      "name": "gaia",
+      "href": "https://github.com/cosmos/gaia",
+      "description": "Cosmos Hub",
+      "language": "Go",
+      "stars": 109,
+      "forks": 88,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 4584,
+      "forks": 725,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "go-ini",
+      "name": "ini",
+      "href": "https://github.com/go-ini/ini",
+      "description": "Package ini provides INI file read and write functionality in Go.",
+      "language": "Go",
+      "stars": 1800,
+      "forks": 237,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14601,
+      "forks": 2202,
+      "starsInPeriod": 10
+    }
+  ]
+}
