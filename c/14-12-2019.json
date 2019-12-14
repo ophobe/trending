@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "href": "https://github.com/nginx/nginx",
+      "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+      "language": "C",
+      "stars": 10527,
+      "forks": 4038,
+      "starsInPeriod": 152
+    },
+    {
+      "author": "jeremycw",
+      "name": "httpserver.h",
+      "href": "https://github.com/jeremycw/httpserver.h",
+      "description": "Single header library for writing non-blocking HTTP servers in C",
+      "language": "C",
+      "stars": 905,
+      "forks": 34,
+      "starsInPeriod": 641
+    },
+    {
+      "author": "open-sdr",
+      "name": "openwifi",
+      "href": "https://github.com/open-sdr/openwifi",
+      "description": "open-source Wi-Fi baseband chip/FPGA design",
+      "language": "C",
+      "stars": 200,
+      "forks": 21,
+      "starsInPeriod": 94
+    },
+    {
+      "author": "libgit2",
+      "name": "libgit2",
+      "href": "https://github.com/libgit2/libgit2",
+      "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+      "language": "C",
+      "stars": 7237,
+      "forks": 1853,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "href": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX",
+      "language": "C",
+      "stars": 1613,
+      "forks": 438,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 5003,
+      "forks": 3116,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 5752,
+      "forks": 4481,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "h2o",
+      "name": "h2o",
+      "href": "https://github.com/h2o/h2o",
+      "description": "H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server",
+      "language": "C",
+      "stars": 8842,
+      "forks": 664,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "videolan",
+      "name": "vlc",
+      "href": "https://github.com/videolan/vlc",
+      "description": "VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",
+      "language": "C",
+      "stars": 5537,
+      "forks": 2067,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "openresty",
+      "name": "lua-nginx-module",
+      "href": "https://github.com/openresty/lua-nginx-module",
+      "description": "Embed the Power of Lua into NGINX HTTP servers",
+      "language": "C",
+      "stars": 7985,
+      "forks": 1665,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "href": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org websocket library",
+      "language": "C",
+      "stars": 2375,
+      "forks": 940,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "href": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 2775,
+      "forks": 1654,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "littlevgl",
+      "name": "lvgl",
+      "href": "https://github.com/littlevgl/lvgl",
+      "description": "Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
+      "language": "C",
+      "stars": 2796,
+      "forks": 629,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software.",
+      "language": "C",
+      "stars": 4793,
+      "forks": 855,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "href": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C",
+      "stars": 4155,
+      "forks": 2378,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "href": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": 3611,
+      "forks": 174,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "google",
+      "name": "AFL",
+      "href": "https://github.com/google/AFL",
+      "description": "american fuzzy lop - a security-oriented fuzzer",
+      "language": "C",
+      "stars": 675,
+      "forks": 79,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 15860,
+      "forks": 924,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "texane",
+      "name": "stlink",
+      "href": "https://github.com/texane/stlink",
+      "description": "stm32 discovery line linux programmer",
+      "language": "C",
+      "stars": 2219,
+      "forks": 789,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "vlytvyne",
+      "name": "UkrLang",
+      "href": "https://github.com/vlytvyne/UkrLang",
+      "description": null,
+      "language": "C",
+      "stars": 22,
+      "forks": 0,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 22836,
+      "forks": 2089,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "awslabs",
+      "name": "amazon-kinesis-video-streams-webrtc-sdk-c",
+      "href": "https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c",
+      "description": "Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.",
+      "language": "C",
+      "stars": 33,
+      "forks": 7,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "apple",
+      "name": "darwin-xnu",
+      "href": "https://github.com/apple/darwin-xnu",
+      "description": "The Darwin Kernel (mirror)",
+      "language": "C",
+      "stars": 7538,
+      "forks": 1200,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "lfittl",
+      "name": "pg_query_go",
+      "href": "https://github.com/lfittl/pg_query_go",
+      "description": "Go library to parse and normalize SQL queries using the PostgreSQL query parser",
+      "language": "C",
+      "stars": 169,
+      "forks": 20,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "martinezjavier",
+      "name": "ldd3",
+      "href": "https://github.com/martinezjavier/ldd3",
+      "description": "Linux Device Drivers 3 examples updated to work in recent kernels",
+      "language": "C",
+      "stars": 853,
+      "forks": 502,
+      "starsInPeriod": 14
+    }
+  ]
+}
