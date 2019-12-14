@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 583,
+      "forks": 88,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1971,
+      "forks": 389,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "polynote",
+      "name": "polynote",
+      "href": "https://github.com/polynote/polynote",
+      "description": "A better notebook for Scala (and more)",
+      "language": "Scala",
+      "stars": 3347,
+      "forks": 258,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 16291,
+      "forks": 924,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1853,
+      "forks": 479,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24543,
+      "forks": 20765,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11441,
+      "forks": 3832,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 4026,
+      "forks": 775,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 2323,
+      "forks": 555,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 3694,
+      "forks": 565,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "stars": 1028,
+      "forks": 121,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1115,
+      "forks": 238,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4453,
+      "forks": 853,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3681,
+      "forks": 927,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10536,
+      "forks": 3155,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "lw-lin",
+      "name": "CoolplaySpark",
+      "href": "https://github.com/lw-lin/CoolplaySpark",
+      "description": "酷玩 Spark: Spark 源代码解析、Spark 类库等",
+      "language": "Scala",
+      "stars": 2865,
+      "forks": 1253,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "WeBankFinTech",
+      "name": "Linkis",
+      "href": "https://github.com/WeBankFinTech/Linkis",
+      "description": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+      "language": "Scala",
+      "stars": 690,
+      "forks": 231,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 8347,
+      "forks": 2034,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 1303,
+      "forks": 548,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1725,
+      "forks": 322,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4504,
+      "forks": 958,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 12338,
+      "forks": 2831,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ghostdogpr",
+      "name": "caliban",
+      "href": "https://github.com/ghostdogpr/caliban",
+      "description": "Functional GraphQL backend in Scala",
+      "language": "Scala",
+      "stars": 196,
+      "forks": 16,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "sifive",
+      "name": "sifive-blocks",
+      "href": "https://github.com/sifive/sifive-blocks",
+      "description": "Common RTL blocks used in SiFive's projects",
+      "language": "Scala",
+      "stars": 91,
+      "forks": 44,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lightbend",
+      "name": "cloudflow",
+      "href": "https://github.com/lightbend/cloudflow",
+      "description": "Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.",
+      "language": "Scala",
+      "stars": 119,
+      "forks": 27,
+      "starsInPeriod": 1
+    }
+  ]
+}
