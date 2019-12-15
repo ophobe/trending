@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6823,
+      "forks": 590,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 3144,
+      "forks": 152,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "A data-first Rust-native UI design toolkit.",
+      "language": "Rust",
+      "stars": 1110,
+      "forks": 75,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 5967,
+      "forks": 215,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1874,
+      "forks": 203,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1745,
+      "forks": 160,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1274,
+      "forks": 75,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 248440,
+      "forks": 21219,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "Geal",
+      "name": "nom",
+      "href": "https://github.com/Geal/nom",
+      "description": "Rust parser combinator framework",
+      "language": "Rust",
+      "stars": 3555,
+      "forks": 411,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 13285,
+      "forks": 890,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "href": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": 1920,
+      "forks": 133,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 2699,
+      "forks": 124,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 4682,
+      "forks": 1277,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 5963,
+      "forks": 435,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rajasekarv",
+      "name": "native_spark",
+      "href": "https://github.com/rajasekarv/native_spark",
+      "description": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+      "language": "Rust",
+      "stars": 1321,
+      "forks": 109,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "Spotifyd",
+      "name": "spotifyd",
+      "href": "https://github.com/Spotifyd/spotifyd",
+      "description": "A spotify daemon",
+      "language": "Rust",
+      "stars": 2759,
+      "forks": 133,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A low-overhead Vulkan-like GPU API for Rust.",
+      "language": "Rust",
+      "stars": 3560,
+      "forks": 408,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "federico-terzi",
+      "name": "espanso",
+      "href": "https://github.com/federico-terzi/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": 238,
+      "forks": 9,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4771,
+      "forks": 451,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 4615,
+      "forks": 516,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 17286,
+      "forks": 745,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "djc",
+      "name": "quinn",
+      "href": "https://github.com/djc/quinn",
+      "description": "Futures-based QUIC implementation in Rust",
+      "language": "Rust",
+      "stars": 1108,
+      "forks": 68,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "cloud-hypervisor",
+      "name": "cloud-hypervisor",
+      "href": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+      "description": "A rust-vmm based cloud hypervisor",
+      "language": "Rust",
+      "stars": 471,
+      "forks": 51,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 1309,
+      "forks": 125,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rcore-os",
+      "name": "rCore",
+      "href": "https://github.com/rcore-os/rCore",
+      "description": "Rust version of THU uCore OS. Linux compatible.",
+      "language": "Rust",
+      "stars": 647,
+      "forks": 108,
+      "starsInPeriod": 13
+    }
+  ]
+}
