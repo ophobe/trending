@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "href": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": 3397,
+      "forks": 164,
+      "starsInPeriod": 196
+    },
+    {
+      "author": "kyleconroy",
+      "name": "sqlc",
+      "href": "https://github.com/kyleconroy/sqlc",
+      "description": "Generate type safe Go from SQL",
+      "language": "Go",
+      "stars": 813,
+      "forks": 26,
+      "starsInPeriod": 221
+    },
+    {
+      "author": "sdslabs",
+      "name": "gasper",
+      "href": "https://github.com/sdslabs/gasper",
+      "description": "Your Cloud in a Binary",
+      "language": "Go",
+      "stars": 219,
+      "forks": 8,
+      "starsInPeriod": 162
+    },
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 6663,
+      "forks": 1340,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 18880,
+      "forks": 2870,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 25472,
+      "forks": 5763,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place",
+      "language": "Go",
+      "stars": 6876,
+      "forks": 442,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "banzaicloud",
+      "name": "bank-vaults",
+      "href": "https://github.com/banzaicloud/bank-vaults",
+      "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+      "language": "Go",
+      "stars": 833,
+      "forks": 170,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "panjf2000",
+      "name": "ants",
+      "href": "https://github.com/panjf2000/ants",
+      "description": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+      "language": "Go",
+      "stars": 2735,
+      "forks": 354,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 5284,
+      "forks": 872,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "dgraph-io",
+      "name": "badger",
+      "href": "https://github.com/dgraph-io/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": 7031,
+      "forks": 537,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 25483,
+      "forks": 2108,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 19649,
+      "forks": 5369,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "cayleygraph",
+      "name": "cayley",
+      "href": "https://github.com/cayleygraph/cayley",
+      "description": "An open-source graph database",
+      "language": "Go",
+      "stars": 13047,
+      "forks": 1181,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 7255,
+      "forks": 302,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "OpenDiablo2",
+      "name": "OpenDiablo2",
+      "href": "https://github.com/OpenDiablo2/OpenDiablo2",
+      "description": "An open source re-implementation of Diablo 2",
+      "language": "Go",
+      "stars": 4331,
+      "forks": 292,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "tj",
+      "name": "staticgen",
+      "href": "https://github.com/tj/staticgen",
+      "description": "Static website generator that lets you use HTTP servers and frameworks you already know",
+      "language": "Go",
+      "stars": 212,
+      "forks": 2,
+      "starsInPeriod": 130
+    },
+    {
+      "author": "gohornet",
+      "name": "hornet",
+      "href": "https://github.com/gohornet/hornet",
+      "description": "HORNET is a lightweight alternative to IOTA's fullnode software “IRI”",
+      "language": "Go",
+      "stars": 19,
+      "forks": 4,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "goreleaser",
+      "name": "goreleaser",
+      "href": "https://github.com/goreleaser/goreleaser",
+      "description": "Deliver Go binaries as fast and easily as possible",
+      "language": "Go",
+      "stars": 4912,
+      "forks": 339,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "disksing",
+      "name": "iter",
+      "href": "https://github.com/disksing/iter",
+      "description": "Go implementation of C++ STL iterators and algorithms.",
+      "language": "Go",
+      "stars": 81,
+      "forks": 4,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "iawia002",
+      "name": "annie",
+      "href": "https://github.com/iawia002/annie",
+      "description": "👾 Fast, simple and clean video downloader",
+      "language": "Go",
+      "stars": 8630,
+      "forks": 884,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "kardianos",
+      "name": "service",
+      "href": "https://github.com/kardianos/service",
+      "description": "Run go programs as a service on major platforms.",
+      "language": "Go",
+      "stars": 2127,
+      "forks": 343,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1285,
+      "forks": 1261,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "fortio",
+      "name": "fortio",
+      "href": "https://github.com/fortio/fortio",
+      "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+      "language": "Go",
+      "stars": 1065,
+      "forks": 88,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "crazy-max",
+      "name": "WindowsSpyBlocker",
+      "href": "https://github.com/crazy-max/WindowsSpyBlocker",
+      "description": "🛡 Block spying and tracking on Windows",
+      "language": "Go",
+      "stars": 1422,
+      "forks": 144,
+      "starsInPeriod": 5
+    }
+  ]
+}
