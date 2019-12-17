@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1294,
+      "forks": 1267,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "href": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": 3539,
+      "forks": 171,
+      "starsInPeriod": 165
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 18994,
+      "forks": 2884,
+      "starsInPeriod": 98
+    },
+    {
+      "author": "kardianos",
+      "name": "service",
+      "href": "https://github.com/kardianos/service",
+      "description": "Run go programs as a service on major platforms.",
+      "language": "Go",
+      "stars": 2138,
+      "forks": 344,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 6680,
+      "forks": 1345,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 18077,
+      "forks": 3121,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5406,
+      "forks": 1363,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 10994,
+      "forks": 934,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 9534,
+      "forks": 769,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 10319,
+      "forks": 2888,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 5874,
+      "forks": 566,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "panjf2000",
+      "name": "ants",
+      "href": "https://github.com/panjf2000/ants",
+      "description": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+      "language": "Go",
+      "stars": 2759,
+      "forks": 358,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4606,
+      "forks": 854,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33956,
+      "forks": 3900,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "kyleconroy",
+      "name": "sqlc",
+      "href": "https://github.com/kyleconroy/sqlc",
+      "description": "Generate type safe Go from SQL",
+      "language": "Go",
+      "stars": 897,
+      "forks": 27,
+      "starsInPeriod": 88
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 66998,
+      "forks": 9471,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 10799,
+      "forks": 1113,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3773,
+      "forks": 424,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 7069,
+      "forks": 4061,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 920,
+      "forks": 321,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13316,
+      "forks": 1535,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3465,
+      "forks": 3172,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "graph-gophers",
+      "name": "graphql-go",
+      "href": "https://github.com/graph-gophers/graphql-go",
+      "description": "GraphQL server with a focus on ease of use",
+      "language": "Go",
+      "stars": 3065,
+      "forks": 307,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "href": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": 1955,
+      "forks": 667,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14615,
+      "forks": 2202,
+      "starsInPeriod": 6
+    }
+  ]
+}
