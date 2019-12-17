@@ -1,0 +1,204 @@
+{
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24588,
+      "forks": 20787,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 1978,
+      "forks": 393,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 11449,
+      "forks": 3832,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "WeBankFinTech",
+      "name": "Linkis",
+      "href": "https://github.com/WeBankFinTech/Linkis",
+      "description": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+      "language": "Scala",
+      "stars": 700,
+      "forks": 236,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 6141,
+      "forks": 913,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 4630,
+      "forks": 2573,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 5038,
+      "forks": 1047,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10539,
+      "forks": 3157,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "databricks",
+      "name": "Spark-The-Definitive-Guide",
+      "href": "https://github.com/databricks/Spark-The-Definitive-Guide",
+      "description": "Spark: The Definitive Guide's Code Repository",
+      "language": "Scala",
+      "stars": 1079,
+      "forks": 994,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "akka",
+      "name": "akka-http",
+      "href": "https://github.com/akka/akka-http",
+      "description": "The Streaming-first HTTP server/module of Akka",
+      "language": "Scala",
+      "stars": 1001,
+      "forks": 494,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 3699,
+      "forks": 564,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 587,
+      "forks": 88,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 7426,
+      "forks": 1315,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1118,
+      "forks": 239,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "manatki",
+      "name": "volga",
+      "href": "https://github.com/manatki/volga",
+      "description": "Comprehensions for Arrows and Monoidal categories",
+      "language": "Scala",
+      "stars": 33,
+      "forks": 4,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "softwaremill",
+      "name": "elasticmq",
+      "href": "https://github.com/softwaremill/elasticmq",
+      "description": "In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.",
+      "language": "Scala",
+      "stars": 1229,
+      "forks": 130,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "vaslabs",
+      "name": "sbt-kubeyml",
+      "href": "https://github.com/vaslabs/sbt-kubeyml",
+      "description": "An sbt plugin to generate typesafe kubernetes deployment plans for scala projects",
+      "language": "Scala",
+      "stars": 19,
+      "forks": 2,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 1863,
+      "forks": 482,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 12343,
+      "forks": 2832,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "mycelium",
+      "name": "hsse-fp-2019-2",
+      "href": "https://github.com/mycelium/hsse-fp-2019-2",
+      "description": "Functional Programming in HSSE 2019-2",
+      "language": "Scala",
+      "stars": 20,
+      "forks": 63,
+      "starsInPeriod": 0
+    }
+  ]
+}
