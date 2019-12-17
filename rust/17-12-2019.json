@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 1790,
+      "forks": 161,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "KillingSpark",
+      "name": "rustysd",
+      "href": "https://github.com/KillingSpark/rustysd",
+      "description": "A service manager that is able to run \"traditional\" systemd services, written in rust",
+      "language": "Rust",
+      "stars": 246,
+      "forks": 3,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "jwilm",
+      "name": "alacritty",
+      "href": "https://github.com/jwilm/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 19598,
+      "forks": 911,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "LeonHartley",
+      "name": "Coerce-rs",
+      "href": "https://github.com/LeonHartley/Coerce-rs",
+      "description": "Coerce - an asynchronous (async/await) Actor runtime for Rust",
+      "language": "Rust",
+      "stars": 185,
+      "forks": 3,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 3157,
+      "forks": 153,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten",
+      "language": "Rust",
+      "stars": 5138,
+      "forks": 185,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 41250,
+      "forks": 6355,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 5996,
+      "forks": 215,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 1332,
+      "forks": 128,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts",
+      "language": "Rust",
+      "stars": 4998,
+      "forks": 192,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1892,
+      "forks": 203,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 541,
+      "forks": 16,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 2141,
+      "forks": 155,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4783,
+      "forks": 453,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "mozilla",
+      "name": "neqo",
+      "href": "https://github.com/mozilla/neqo",
+      "description": null,
+      "language": "Rust",
+      "stars": 722,
+      "forks": 26,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 4685,
+      "forks": 327,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "timvisee",
+      "name": "ffsend",
+      "href": "https://github.com/timvisee/ffsend",
+      "description": "📬 Easily and securely share files from the command line. A fully featured Firefox Send client.",
+      "language": "Rust",
+      "stars": 4301,
+      "forks": 102,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 1741,
+      "forks": 482,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Serve the web – HTTP server framework",
+      "language": "Rust",
+      "stars": 1448,
+      "forks": 123,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 248492,
+      "forks": 21220,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 774,
+      "forks": 212,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "A data-first Rust-native UI design toolkit.",
+      "language": "Rust",
+      "stars": 1126,
+      "forks": 76,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 2158,
+      "forks": 317,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "seed-rs",
+      "name": "seed",
+      "href": "https://github.com/seed-rs/seed",
+      "description": "A Rust framework for creating web apps",
+      "language": "Rust",
+      "stars": 749,
+      "forks": 46,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "mozilla",
+      "name": "application-services",
+      "href": "https://github.com/mozilla/application-services",
+      "description": "Firefox Application Services",
+      "language": "Rust",
+      "stars": 198,
+      "forks": 71,
+      "starsInPeriod": 0
+    }
+  ]
+}
