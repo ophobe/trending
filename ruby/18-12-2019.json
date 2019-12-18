@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "activeadmin",
+      "name": "activeadmin",
+      "href": "https://github.com/activeadmin/activeadmin",
+      "description": "The administration framework for Ruby on Rails applications.",
+      "language": "Ruby",
+      "stars": 8651,
+      "forks": 3086,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "href": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": 44712,
+      "forks": 18096,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "ruby-grape",
+      "name": "grape",
+      "href": "https://github.com/ruby-grape/grape",
+      "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+      "language": "Ruby",
+      "stars": 8994,
+      "forks": 1115,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "lostisland",
+      "name": "faraday",
+      "href": "https://github.com/lostisland/faraday",
+      "description": "Simple, but flexible HTTP client library, with support for multiple backends.",
+      "language": "Ruby",
+      "stars": 4621,
+      "forks": 763,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "mperham",
+      "name": "sidekiq",
+      "href": "https://github.com/mperham/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": 10011,
+      "forks": 1754,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "href": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": 29604,
+      "forks": 6642,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "href": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": 1896,
+      "forks": 369,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "resque",
+      "name": "resque",
+      "href": "https://github.com/resque/resque",
+      "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+      "language": "Ruby",
+      "stars": 8641,
+      "forks": 1578,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "bblimke",
+      "name": "webmock",
+      "href": "https://github.com/bblimke/webmock",
+      "description": "Library for stubbing and setting expectations on HTTP requests in Ruby.",
+      "language": "Ruby",
+      "stars": 3242,
+      "forks": 455,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "plataformatec",
+      "name": "devise",
+      "href": "https://github.com/plataformatec/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": 20410,
+      "forks": 4912,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "DatabaseCleaner",
+      "name": "database_cleaner",
+      "href": "https://github.com/DatabaseCleaner/database_cleaner",
+      "description": "Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.",
+      "language": "Ruby",
+      "stars": 2526,
+      "forks": 450,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "randym",
+      "name": "axlsx",
+      "href": "https://github.com/randym/axlsx",
+      "description": "xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your…",
+      "language": "Ruby",
+      "stars": 2493,
+      "forks": 698,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ankane",
+      "name": "strong_migrations",
+      "href": "https://github.com/ankane/strong_migrations",
+      "description": "Catch unsafe migrations in development",
+      "language": "Ruby",
+      "stars": 1770,
+      "forks": 75,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "fluent",
+      "name": "fluentd",
+      "href": "https://github.com/fluent/fluentd",
+      "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+      "language": "Ruby",
+      "stars": 8645,
+      "forks": 1016,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kilimchoi",
+      "name": "engineering-blogs",
+      "href": "https://github.com/kilimchoi/engineering-blogs",
+      "description": "A curated list of engineering blogs",
+      "language": "Ruby",
+      "stars": 16162,
+      "forks": 1899,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rmosolgo",
+      "name": "graphql-ruby",
+      "href": "https://github.com/rmosolgo/graphql-ruby",
+      "description": "Ruby implementation of GraphQL",
+      "language": "Ruby",
+      "stars": 4060,
+      "forks": 813,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "bundler",
+      "name": "bundler",
+      "href": "https://github.com/bundler/bundler",
+      "description": "Manage your Ruby application's gem dependencies",
+      "language": "Ruby",
+      "stars": 4744,
+      "forks": 2111,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "thoughtbot",
+      "name": "factory_bot",
+      "href": "https://github.com/thoughtbot/factory_bot",
+      "description": "A library for setting up Ruby objects as test data.",
+      "language": "Ruby",
+      "stars": 6688,
+      "forks": 1975,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "getsentry",
+      "name": "raven-ruby",
+      "href": "https://github.com/getsentry/raven-ruby",
+      "description": "Raven is a Ruby client for Sentry",
+      "language": "Ruby",
+      "stars": 622,
+      "forks": 301,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "href": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": 19126,
+      "forks": 9287,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "href": "https://github.com/spree/spree",
+      "description": "Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails",
+      "language": "Ruby",
+      "stars": 10057,
+      "forks": 4369,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "googleapis",
+      "name": "google-api-ruby-client",
+      "href": "https://github.com/googleapis/google-api-ruby-client",
+      "description": "REST client for Google APIs",
+      "language": "Ruby",
+      "stars": 2146,
+      "forks": 683,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "decidim",
+      "name": "decidim",
+      "href": "https://github.com/decidim/decidim",
+      "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+      "language": "Ruby",
+      "stars": 599,
+      "forks": 176,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "projectcalico",
+      "name": "calico",
+      "href": "https://github.com/projectcalico/calico",
+      "description": "Cloud native connectivity and network policy",
+      "language": "Ruby",
+      "stars": 1484,
+      "forks": 418,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "href": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": 20033,
+      "forks": 4518,
+      "starsInPeriod": 15
+    }
+  ]
+}
