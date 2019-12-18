@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 3355,
+      "forks": 481,
+      "starsInPeriod": 106
+    },
+    {
+      "author": "coreos",
+      "name": "prometheus-operator",
+      "href": "https://github.com/coreos/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": 3696,
+      "forks": 1722,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11349,
+      "forks": 12016,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 33986,
+      "forks": 3905,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 10335,
+      "forks": 2896,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 5177,
+      "forks": 944,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kardianos",
+      "name": "service",
+      "href": "https://github.com/kardianos/service",
+      "description": "Run go programs as a service on major platforms.",
+      "language": "Go",
+      "stars": 2160,
+      "forks": 346,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "streadway",
+      "name": "amqp",
+      "href": "https://github.com/streadway/amqp",
+      "description": "Go client for AMQP 0.9.1",
+      "language": "Go",
+      "stars": 2914,
+      "forks": 444,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 19026,
+      "forks": 2890,
+      "starsInPeriod": 116
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "href": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": 3678,
+      "forks": 345,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tealeg",
+      "name": "xlsx",
+      "href": "https://github.com/tealeg/xlsx",
+      "description": "Google Go (golang) library for reading and writing XLSX files.",
+      "language": "Go",
+      "stars": 3759,
+      "forks": 614,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "href": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": 3602,
+      "forks": 178,
+      "starsInPeriod": 90
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5410,
+      "forks": 1363,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 4454,
+      "forks": 389,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kataras",
+      "name": "iris",
+      "href": "https://github.com/kataras/iris",
+      "description": "感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bi…",
+      "language": "Go",
+      "stars": 17041,
+      "forks": 1882,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13332,
+      "forks": 1536,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 20046,
+      "forks": 5332,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 3881,
+      "forks": 1009,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 61327,
+      "forks": 21671,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 19318,
+      "forks": 1897,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 3356,
+      "forks": 264,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1306,
+      "forks": 1270,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "lib",
+      "name": "pq",
+      "href": "https://github.com/lib/pq",
+      "description": "Pure Go Postgres driver for database/sql",
+      "language": "Go",
+      "stars": 5518,
+      "forks": 696,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "defenxor",
+      "name": "dsiem",
+      "href": "https://github.com/defenxor/dsiem",
+      "description": "Security event correlation engine for ELK stack",
+      "language": "Go",
+      "stars": 104,
+      "forks": 23,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "runatlantis",
+      "name": "atlantis",
+      "href": "https://github.com/runatlantis/atlantis",
+      "description": "Terraform Pull Request Automation",
+      "language": "Go",
+      "stars": 2374,
+      "forks": 261,
+      "starsInPeriod": 8
+    }
+  ]
+}
