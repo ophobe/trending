@@ -1,0 +1,214 @@
+{
+  "repositories": [
+    {
+      "author": "typelevel",
+      "name": "cats",
+      "href": "https://github.com/typelevel/cats",
+      "description": "Lightweight, modular, and extensible library for functional programming.",
+      "language": "Scala",
+      "stars": 3689,
+      "forks": 930,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 24613,
+      "forks": 20809,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 8371,
+      "forks": 2041,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "scala",
+      "name": "scala",
+      "href": "https://github.com/scala/scala",
+      "description": "The Scala programming language",
+      "language": "Scala",
+      "stars": 12345,
+      "forks": 2836,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 10546,
+      "forks": 3159,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 5044,
+      "forks": 1049,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 1126,
+      "forks": 240,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "locationtech",
+      "name": "geomesa",
+      "href": "https://github.com/locationtech/geomesa",
+      "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+      "language": "Scala",
+      "stars": 820,
+      "forks": 299,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "lightbend",
+      "name": "cloudflow",
+      "href": "https://github.com/lightbend/cloudflow",
+      "description": "Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.",
+      "language": "Scala",
+      "stars": 124,
+      "forks": 28,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 3705,
+      "forks": 564,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "href": "https://github.com/prisma/prisma",
+      "description": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)",
+      "language": "Scala",
+      "stars": 16336,
+      "forks": 923,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "softwaremill",
+      "name": "elasticmq",
+      "href": "https://github.com/softwaremill/elasticmq",
+      "description": "In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.",
+      "language": "Scala",
+      "stars": 1236,
+      "forks": 130,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 4512,
+      "forks": 960,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 1735,
+      "forks": 324,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "combust",
+      "name": "mleap",
+      "href": "https://github.com/combust/mleap",
+      "description": "MLeap: Deploy Spark Pipelines to Production",
+      "language": "Scala",
+      "stars": 972,
+      "forks": 241,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "Netflix",
+      "name": "atlas",
+      "href": "https://github.com/Netflix/atlas",
+      "description": "In-memory dimensional time series database.",
+      "language": "Scala",
+      "stars": 2542,
+      "forks": 216,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "WeBankFinTech",
+      "name": "Linkis",
+      "href": "https://github.com/WeBankFinTech/Linkis",
+      "description": "Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.",
+      "language": "Scala",
+      "stars": 704,
+      "forks": 238,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "apache",
+      "name": "openwhisk",
+      "href": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "stars": 4463,
+      "forks": 853,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "scalacenter",
+      "name": "bloop",
+      "href": "https://github.com/scalacenter/bloop",
+      "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+      "language": "Scala",
+      "stars": 556,
+      "forks": 109,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 827,
+      "forks": 207,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "datastax",
+      "name": "spark-cassandra-connector",
+      "href": "https://github.com/datastax/spark-cassandra-connector",
+      "description": "DataStax Spark Cassandra Connector",
+      "language": "Scala",
+      "stars": 1661,
+      "forks": 802,
+      "starsInPeriod": 0
+    }
+  ]
+}
