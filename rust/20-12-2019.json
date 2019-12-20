@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 214,
+      "forks": 77,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 622,
+      "forks": 18,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 4113,
+      "forks": 540,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 10295,
+      "forks": 663,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten",
+      "language": "Rust",
+      "stars": 5173,
+      "forks": 187,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 6023,
+      "forks": 216,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6868,
+      "forks": 597,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 6661,
+      "forks": 705,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 4720,
+      "forks": 328,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1922,
+      "forks": 204,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "dhardy",
+      "name": "kas",
+      "href": "https://github.com/dhardy/kas",
+      "description": "Another GUI toolkit",
+      "language": "Rust",
+      "stars": 50,
+      "forks": 1,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 41310,
+      "forks": 6366,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "href": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": 3972,
+      "forks": 182,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 2147,
+      "forks": 103,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 1341,
+      "forks": 321,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4798,
+      "forks": 454,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 5769,
+      "forks": 1411,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance, Logs, Metrics, & Events Router",
+      "language": "Rust",
+      "stars": 3185,
+      "forks": 154,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 2169,
+      "forks": 156,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 5028,
+      "forks": 1051,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "mozilla",
+      "name": "application-services",
+      "href": "https://github.com/mozilla/application-services",
+      "description": "Firefox Application Services",
+      "language": "Rust",
+      "stars": 205,
+      "forks": 73,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "seed-rs",
+      "name": "seed",
+      "href": "https://github.com/seed-rs/seed",
+      "description": "A Rust framework for creating web apps",
+      "language": "Rust",
+      "stars": 769,
+      "forks": 46,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts",
+      "language": "Rust",
+      "stars": 5060,
+      "forks": 200,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 391,
+      "forks": 461,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "thebracket",
+      "name": "rltk_rs",
+      "href": "https://github.com/thebracket/rltk_rs",
+      "description": "The Roguelike Toolkit (RLTK), implemented for Rust.",
+      "language": "Rust",
+      "stars": 219,
+      "forks": 14,
+      "starsInPeriod": 4
+    }
+  ]
+}
