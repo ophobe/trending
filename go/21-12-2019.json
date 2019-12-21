@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 7510,
+      "forks": 601,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 8783,
+      "forks": 1580,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 1971,
+      "forks": 395,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 5184,
+      "forks": 576,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 17060,
+      "forks": 3744,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "FastFilter",
+      "name": "xorfilter",
+      "href": "https://github.com/FastFilter/xorfilter",
+      "description": "Go library implementing xor filters",
+      "language": "Go",
+      "stars": 228,
+      "forks": 11,
+      "starsInPeriod": 112
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 20088,
+      "forks": 5336,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 15831,
+      "forks": 1653,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "href": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+      "language": "Go",
+      "stars": 2568,
+      "forks": 718,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5443,
+      "forks": 1364,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 4209,
+      "forks": 350,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "aelsabbahy",
+      "name": "goss",
+      "href": "https://github.com/aelsabbahy/goss",
+      "description": "Quick and Easy server testing/validation",
+      "language": "Go",
+      "stars": 3562,
+      "forks": 310,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "nbedos",
+      "name": "citop",
+      "href": "https://github.com/nbedos/citop",
+      "description": "Monitor CI pipelines from the command line (compatible with GitLab, Azure DevOps, Travis CI, AppVeyor and CircleCI)",
+      "language": "Go",
+      "stars": 78,
+      "forks": 2,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 2126,
+      "forks": 197,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10304,
+      "forks": 2089,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "emirpasic",
+      "name": "gods",
+      "href": "https://github.com/emirpasic/gods",
+      "description": "GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …",
+      "language": "Go",
+      "stars": 7359,
+      "forks": 832,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 12692,
+      "forks": 1028,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15497,
+      "forks": 4848,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "gilbertchen",
+      "name": "duplicacy",
+      "href": "https://github.com/gilbertchen/duplicacy",
+      "description": "A new generation cloud backup tool",
+      "language": "Go",
+      "stars": 3003,
+      "forks": 213,
+      "starsInPeriod": 95
+    },
+    {
+      "author": "segmentio",
+      "name": "terraform-docs",
+      "href": "https://github.com/segmentio/terraform-docs",
+      "description": "Generate documentation from Terraform modules in various output formats",
+      "language": "Go",
+      "stars": 1125,
+      "forks": 147,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "href": "https://github.com/aquasecurity/trivy",
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+      "language": "Go",
+      "stars": 2806,
+      "forks": 248,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13365,
+      "forks": 1539,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "mailru",
+      "name": "easyjson",
+      "href": "https://github.com/mailru/easyjson",
+      "description": "Fast JSON serializer for golang.",
+      "language": "Go",
+      "stars": 2346,
+      "forks": 252,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 40318,
+      "forks": 4564,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3487,
+      "forks": 3188,
+      "starsInPeriod": 9
+    }
+  ]
+}
