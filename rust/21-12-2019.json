@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "mongodb",
+      "name": "mongo-rust-driver",
+      "href": "https://github.com/mongodb/mongo-rust-driver",
+      "description": "The official MongoDB Rust Driver (currently in alpha)",
+      "language": "Rust",
+      "stars": 53,
+      "forks": 6,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13553,
+      "forks": 2009,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4807,
+      "forks": 454,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 4116,
+      "forks": 541,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1315,
+      "forks": 82,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2760,
+      "forks": 354,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in.",
+      "language": "Rust",
+      "stars": 2815,
+      "forks": 256,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 41332,
+      "forks": 6367,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 219,
+      "forks": 78,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "seed-rs",
+      "name": "seed",
+      "href": "https://github.com/seed-rs/seed",
+      "description": "A Rust framework for creating web apps",
+      "language": "Rust",
+      "stars": 778,
+      "forks": 46,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 630,
+      "forks": 19,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 13347,
+      "forks": 895,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts",
+      "language": "Rust",
+      "stars": 5079,
+      "forks": 201,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Serve the web – HTTP server framework",
+      "language": "Rust",
+      "stars": 1466,
+      "forks": 128,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 10299,
+      "forks": 663,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "toshi-search",
+      "name": "Toshi",
+      "href": "https://github.com/toshi-search/Toshi",
+      "description": "A full-text search engine in rust",
+      "language": "Rust",
+      "stars": 2459,
+      "forks": 77,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 2150,
+      "forks": 103,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 780,
+      "forks": 29,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 1931,
+      "forks": 204,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 6616,
+      "forks": 978,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "r-darwish",
+      "name": "topgrade",
+      "href": "https://github.com/r-darwish/topgrade",
+      "description": "Upgrade everything",
+      "language": "Rust",
+      "stars": 776,
+      "forks": 55,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 6014,
+      "forks": 434,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "async fn(Request) -> Result<Response, Error>",
+      "language": "Rust",
+      "stars": 829,
+      "forks": 68,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustup",
+      "href": "https://github.com/rust-lang/rustup",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 3082,
+      "forks": 456,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust / Wasm framework for building client web apps",
+      "language": "Rust",
+      "stars": 9747,
+      "forks": 364,
+      "starsInPeriod": 23
+    }
+  ]
+}
