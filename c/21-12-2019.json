@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "HomeKitADK",
+      "href": "https://github.com/apple/HomeKitADK",
+      "description": null,
+      "language": "C",
+      "stars": 1125,
+      "forks": 64,
+      "starsInPeriod": 488
+    },
+    {
+      "author": "momotech",
+      "name": "MLN",
+      "href": "https://github.com/momotech/MLN",
+      "description": "高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua",
+      "language": "C",
+      "stars": 339,
+      "forks": 31,
+      "starsInPeriod": 112
+    },
+    {
+      "author": "riscv",
+      "name": "riscv-gnu-toolchain",
+      "href": "https://github.com/riscv/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": 465,
+      "forks": 254,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "href": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT operating system from China.",
+      "language": "C",
+      "stars": 3812,
+      "forks": 2433,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "href": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 4579,
+      "forks": 758,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "Tencent",
+      "name": "TencentOS-tiny",
+      "href": "https://github.com/Tencent/TencentOS-tiny",
+      "description": "腾讯物联网终端操作系统",
+      "language": "C",
+      "stars": 3592,
+      "forks": 840,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "zserge",
+      "name": "jsmn",
+      "href": "https://github.com/zserge/jsmn",
+      "description": "Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket",
+      "language": "C",
+      "stars": 1843,
+      "forks": 503,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "axboe",
+      "name": "fio",
+      "href": "https://github.com/axboe/fio",
+      "description": "Flexible I/O Tester",
+      "language": "C",
+      "stars": 1995,
+      "forks": 636,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 11303,
+      "forks": 1040,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "href": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": 8539,
+      "forks": 3243,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 40359,
+      "forks": 15781,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "videolan",
+      "name": "vlc",
+      "href": "https://github.com/videolan/vlc",
+      "description": "VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",
+      "language": "C",
+      "stars": 5565,
+      "forks": 2075,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ARMmbed",
+      "name": "mbed-os",
+      "href": "https://github.com/ARMmbed/mbed-os",
+      "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+      "language": "C",
+      "stars": 2945,
+      "forks": 2193,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "greenplum-db",
+      "name": "gpdb",
+      "href": "https://github.com/greenplum-db/gpdb",
+      "description": "Greenplum Database",
+      "language": "C",
+      "stars": 3705,
+      "forks": 1057,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "href": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": 11517,
+      "forks": 1909,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "RIOT-OS",
+      "name": "RIOT",
+      "href": "https://github.com/RIOT-OS/RIOT",
+      "description": "RIOT - The friendly OS for IoT",
+      "language": "C",
+      "stars": 3045,
+      "forks": 1482,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "winshining",
+      "name": "nginx-http-flv-module",
+      "href": "https://github.com/winshining/nginx-http-flv-module",
+      "description": "Media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache and VHOST (one IP for multi domain names) are supported now.",
+      "language": "C",
+      "stars": 944,
+      "forks": 213,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ARMmbed",
+      "name": "littlefs",
+      "href": "https://github.com/ARMmbed/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": 1637,
+      "forks": 251,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "href": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple Unit Testing for C",
+      "language": "C",
+      "stars": 1355,
+      "forks": 446,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "edenhill",
+      "name": "kafkacat",
+      "href": "https://github.com/edenhill/kafkacat",
+      "description": "Generic command line non-JVM Apache Kafka producer and consumer",
+      "language": "C",
+      "stars": 2168,
+      "forks": 214,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "yeokm1",
+      "name": "w31slack",
+      "href": "https://github.com/yeokm1/w31slack",
+      "description": "A proof-of-concept Slack client for Windows for Workgroups 3.11 with tests.",
+      "language": "C",
+      "stars": 153,
+      "forks": 3,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "href": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": 3629,
+      "forks": 176,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "allinurl",
+      "name": "goaccess",
+      "href": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "language": "C",
+      "stars": 10412,
+      "forks": 728,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "omnirom",
+      "name": "android_bootable_recovery",
+      "href": "https://github.com/omnirom/android_bootable_recovery",
+      "description": null,
+      "language": "C",
+      "stars": 1350,
+      "forks": 1031,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 5936,
+      "forks": 4820,
+      "starsInPeriod": 21
+    }
+  ]
+}
