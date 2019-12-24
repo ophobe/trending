@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "json-iterator",
+      "name": "go",
+      "href": "https://github.com/json-iterator/go",
+      "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+      "language": "Go",
+      "stars": 6876,
+      "forks": 566,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "allegro",
+      "name": "bigcache",
+      "href": "https://github.com/allegro/bigcache",
+      "description": "Efficient cache for gigabytes of data written in Go.",
+      "language": "Go",
+      "stars": 3360,
+      "forks": 266,
+      "starsInPeriod": 255
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 67259,
+      "forks": 9513,
+      "starsInPeriod": 57
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 10906,
+      "forks": 1130,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 4865,
+      "forks": 605,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 7039,
+      "forks": 706,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "chubaofs",
+      "name": "chubaofs",
+      "href": "https://github.com/chubaofs/chubaofs",
+      "description": "A distributed storage system for cloud native applications to separate storage from compute.",
+      "language": "Go",
+      "stars": 1104,
+      "forks": 121,
+      "starsInPeriod": 167
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 9016,
+      "forks": 1006,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "julienschmidt",
+      "name": "httprouter",
+      "href": "https://github.com/julienschmidt/httprouter",
+      "description": "A high performance HTTP request router that scales well",
+      "language": "Go",
+      "stars": 10537,
+      "forks": 1043,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 16566,
+      "forks": 1908,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 4858,
+      "forks": 223,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 3409,
+      "forks": 334,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 34161,
+      "forks": 3927,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "GoesToEleven",
+      "name": "GolangTraining",
+      "href": "https://github.com/GoesToEleven/GolangTraining",
+      "description": "Training for Golang (go language)",
+      "language": "Go",
+      "stars": 5240,
+      "forks": 2041,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "envoyproxy",
+      "name": "protoc-gen-validate",
+      "href": "https://github.com/envoyproxy/protoc-gen-validate",
+      "description": "protoc plugin to generate polyglot message validators",
+      "language": "Go",
+      "stars": 635,
+      "forks": 107,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3810,
+      "forks": 428,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 31236,
+      "forks": 5712,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "rs",
+      "name": "cors",
+      "href": "https://github.com/rs/cors",
+      "description": "Go net/http configurable handler to handle CORS requests",
+      "language": "Go",
+      "stars": 1335,
+      "forks": 116,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "graphql-go",
+      "name": "graphql",
+      "href": "https://github.com/graphql-go/graphql",
+      "description": "An implementation of GraphQL for Go / Golang",
+      "language": "Go",
+      "stars": 5793,
+      "forks": 506,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "xiaoming2028",
+      "name": "Free-PAC",
+      "href": "https://github.com/xiaoming2028/Free-PAC",
+      "description": "科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程",
+      "language": "Go",
+      "stars": 1599,
+      "forks": 259,
+      "starsInPeriod": 115
+    },
+    {
+      "author": "gomodule",
+      "name": "redigo",
+      "href": "https://github.com/gomodule/redigo",
+      "description": "Go client for Redis",
+      "language": "Go",
+      "stars": 6843,
+      "forks": 999,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 7874,
+      "forks": 3032,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14658,
+      "forks": 2203,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+      "language": "Go",
+      "stars": 7620,
+      "forks": 1550,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 10709,
+      "forks": 1008,
+      "starsInPeriod": 20
+    }
+  ]
+}
