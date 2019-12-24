@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 6846,
+      "forks": 719,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 3524,
+      "forks": 341,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 13616,
+      "forks": 2015,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 6059,
+      "forks": 217,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 2054,
+      "forks": 150,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1337,
+      "forks": 83,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "Rigellute",
+      "name": "spotify-tui",
+      "href": "https://github.com/Rigellute/spotify-tui",
+      "description": "Spotify for the terminal written in Rust 🚀",
+      "language": "Rust",
+      "stars": 3569,
+      "forks": 98,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "Spotifyd",
+      "name": "spotifyd",
+      "href": "https://github.com/Spotifyd/spotifyd",
+      "description": "A spotify daemon",
+      "language": "Rust",
+      "stars": 2825,
+      "forks": 137,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "async fn(Request) -> Result<Response, Error>",
+      "language": "Rust",
+      "stars": 833,
+      "forks": 68,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "jrjparks",
+      "name": "OpnFi-rs",
+      "href": "https://github.com/jrjparks/OpnFi-rs",
+      "description": "Open source rust library to interface with Ubiquiti's SDN",
+      "language": "Rust",
+      "stars": 15,
+      "forks": 1,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 391,
+      "forks": 463,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "flosse",
+      "name": "rust-web-framework-comparison",
+      "href": "https://github.com/flosse/rust-web-framework-comparison",
+      "description": "A comparison of some web frameworks and libs written in Rust",
+      "language": "Rust",
+      "stars": 1681,
+      "forks": 77,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "OnmyojiX",
+      "name": "yyx",
+      "href": "https://github.com/OnmyojiX/yyx",
+      "description": "Game data snapshot manager.",
+      "language": "Rust",
+      "stars": 170,
+      "forks": 32,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "andygrove",
+      "name": "rdbc",
+      "href": "https://github.com/andygrove/rdbc",
+      "description": "Rust DataBase Connectivity (RDBC) :: Common Rust API for database drivers",
+      "language": "Rust",
+      "stars": 73,
+      "forks": 5,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 4826,
+      "forks": 458,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 4637,
+      "forks": 517,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 4513,
+      "forks": 80,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "href": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": 2245,
+      "forks": 141,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 2409,
+      "forks": 162,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "cranelift",
+      "href": "https://github.com/bytecodealliance/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 2369,
+      "forks": 209,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "toshi-search",
+      "name": "Toshi",
+      "href": "https://github.com/toshi-search/Toshi",
+      "description": "A full-text search engine in rust",
+      "language": "Rust",
+      "stars": 2470,
+      "forks": 77,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 2773,
+      "forks": 354,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 3532,
+      "forks": 465,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 13386,
+      "forks": 895,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "rayon-rs",
+      "name": "rayon",
+      "href": "https://github.com/rayon-rs/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 3484,
+      "forks": 220,
+      "starsInPeriod": 4
+    }
+  ]
+}
