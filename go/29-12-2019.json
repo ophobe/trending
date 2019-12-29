@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "age",
+      "href": "https://github.com/FiloSottile/age",
+      "description": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.",
+      "language": "Go",
+      "stars": 1705,
+      "forks": 44,
+      "starsInPeriod": 1044
+    },
+    {
+      "author": "tomarrell",
+      "name": "lbadd",
+      "href": "https://github.com/tomarrell/lbadd",
+      "description": "LBADD: An experimental, distributed SQL database",
+      "language": "Go",
+      "stars": 269,
+      "forks": 16,
+      "starsInPeriod": 165
+    },
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 6784,
+      "forks": 1364,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "href": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": 22205,
+      "forks": 873,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 5976,
+      "forks": 581,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 5180,
+      "forks": 705,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 25826,
+      "forks": 5840,
+      "starsInPeriod": 86
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13451,
+      "forks": 1544,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "geph-official",
+      "name": "geph2",
+      "href": "https://github.com/geph-official/geph2",
+      "description": "Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.",
+      "language": "Go",
+      "stars": 250,
+      "forks": 32,
+      "starsInPeriod": 155
+    },
+    {
+      "author": "syndtr",
+      "name": "goleveldb",
+      "href": "https://github.com/syndtr/goleveldb",
+      "description": "LevelDB key/value database in Go.",
+      "language": "Go",
+      "stars": 3454,
+      "forks": 505,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 5119,
+      "forks": 223,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rqlite",
+      "name": "rqlite",
+      "href": "https://github.com/rqlite/rqlite",
+      "description": "The lightweight, distributed relational database built on SQLite.",
+      "language": "Go",
+      "stars": 5235,
+      "forks": 284,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10830,
+      "forks": 1116,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 12024,
+      "forks": 558,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14686,
+      "forks": 2210,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "perkeep",
+      "name": "perkeep",
+      "href": "https://github.com/perkeep/perkeep",
+      "description": "Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+      "language": "Go",
+      "stars": 4385,
+      "forks": 335,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "raft",
+      "href": "https://github.com/hashicorp/raft",
+      "description": "Golang implementation of the Raft consensus protocol",
+      "language": "Go",
+      "stars": 3116,
+      "forks": 409,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 25155,
+      "forks": 9111,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "zhiqiangxu",
+      "name": "qrpc",
+      "href": "https://github.com/zhiqiangxu/qrpc",
+      "description": "tiny but powerful rpc framework",
+      "language": "Go",
+      "stars": 252,
+      "forks": 43,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "go-testfixtures",
+      "name": "testfixtures",
+      "href": "https://github.com/go-testfixtures/testfixtures",
+      "description": "Ruby on Rails like test fixtures for Go. Write tests against a real database",
+      "language": "Go",
+      "stars": 406,
+      "forks": 32,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "MichaelMure",
+      "name": "go-term-markdown",
+      "href": "https://github.com/MichaelMure/go-term-markdown",
+      "description": "A markdown renderer package for the terminal",
+      "language": "Go",
+      "stars": 112,
+      "forks": 4,
+      "starsInPeriod": 101
+    },
+    {
+      "author": "adonovan",
+      "name": "gopl.io",
+      "href": "https://github.com/adonovan/gopl.io",
+      "description": "Example programs from \"The Go Programming Language\"",
+      "language": "Go",
+      "stars": 3814,
+      "forks": 1508,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "href": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": 2092,
+      "forks": 235,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 25670,
+      "forks": 2129,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "noborus",
+      "name": "trdsql",
+      "href": "https://github.com/noborus/trdsql",
+      "description": "CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.",
+      "language": "Go",
+      "stars": 431,
+      "forks": 21,
+      "starsInPeriod": 5
+    }
+  ]
+}
