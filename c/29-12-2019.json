@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 6135,
+      "forks": 5095,
+      "starsInPeriod": 91
+    },
+    {
+      "author": "Morgan-Stanley",
+      "name": "hobbes",
+      "href": "https://github.com/Morgan-Stanley/hobbes",
+      "description": "A language and an embedded JIT compiler",
+      "language": "C",
+      "stars": 867,
+      "forks": 78,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "href": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C",
+      "stars": 4205,
+      "forks": 2419,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "cx9208",
+      "name": "bbrplus",
+      "href": "https://github.com/cx9208/bbrplus",
+      "description": "编译了dog250大神的bbr修正版",
+      "language": "C",
+      "stars": 813,
+      "forks": 364,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "chiakge",
+      "name": "Linux-NetSpeed",
+      "href": "https://github.com/chiakge/Linux-NetSpeed",
+      "description": "将Linux现常用的网络加速集成在一起",
+      "language": "C",
+      "stars": 1081,
+      "forks": 1033,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "href": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": 26065,
+      "forks": 5886,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "href": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line video player",
+      "language": "C",
+      "stars": 11109,
+      "forks": 1513,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "href": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": 3860,
+      "forks": 973,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "href": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C",
+      "stars": 3795,
+      "forks": 422,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hanwckf",
+      "name": "rt-n56u",
+      "href": "https://github.com/hanwckf/rt-n56u",
+      "description": "Padavan",
+      "language": "C",
+      "stars": 786,
+      "forks": 330,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "elfmz",
+      "name": "far2l",
+      "href": "https://github.com/elfmz/far2l",
+      "description": "Linux port of FAR v2",
+      "language": "C",
+      "stars": 574,
+      "forks": 78,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "href": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum",
+      "language": "C",
+      "stars": 6367,
+      "forks": 3127,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "href": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": 2774,
+      "forks": 335,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "peterbjornx",
+      "name": "meloader",
+      "href": "https://github.com/peterbjornx/meloader",
+      "description": "Linux i386 tool to load and execute ME modules.",
+      "language": "C",
+      "stars": 86,
+      "forks": 8,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "nodemcu",
+      "name": "nodemcu-firmware",
+      "href": "https://github.com/nodemcu/nodemcu-firmware",
+      "description": "Lua based interactive firmware for ESP8266, ESP8285 and ESP32",
+      "language": "C",
+      "stars": 5790,
+      "forks": 2641,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "koekeishiya",
+      "name": "yabai",
+      "href": "https://github.com/koekeishiya/yabai",
+      "description": "A tiling window manager for macOS based on binary space partitioning",
+      "language": "C",
+      "stars": 2069,
+      "forks": 103,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": 5648,
+      "forks": 10824,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 6896,
+      "forks": 539,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "href": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": 11665,
+      "forks": 2070,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "Immediate-Mode-UI",
+      "name": "Nuklear",
+      "href": "https://github.com/Immediate-Mode-UI/Nuklear",
+      "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+      "language": "C",
+      "stars": 347,
+      "forks": 29,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 11326,
+      "forks": 1048,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "RfidResearchGroup",
+      "name": "proxmark3",
+      "href": "https://github.com/RfidResearchGroup/proxmark3",
+      "description": "RRG / Iceman repo - Proxmark3 / Proxmark / RFID / NFC",
+      "language": "C",
+      "stars": 368,
+      "forks": 145,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "transmission",
+      "name": "transmission",
+      "href": "https://github.com/transmission/transmission",
+      "description": "Official Transmission BitTorrent client repository",
+      "language": "C",
+      "stars": 3570,
+      "forks": 597,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C",
+      "href": "https://github.com/TheAlgorithms/C",
+      "description": "All Algorithms implemented in C",
+      "language": "C",
+      "stars": 3001,
+      "forks": 1288,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "libusb",
+      "name": "libusb",
+      "href": "https://github.com/libusb/libusb",
+      "description": "A cross-platform library to access USB devices",
+      "language": "C",
+      "stars": 2282,
+      "forks": 1060,
+      "starsInPeriod": 13
+    }
+  ]
+}
