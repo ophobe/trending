@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "age",
+      "href": "https://github.com/FiloSottile/age",
+      "description": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.",
+      "language": "Go",
+      "stars": 2340,
+      "forks": 56,
+      "starsInPeriod": 472
+    },
+    {
+      "author": "davecgh",
+      "name": "go-spew",
+      "href": "https://github.com/davecgh/go-spew",
+      "description": "Implements a deep pretty printer for Go data structures to aid in debugging",
+      "language": "Go",
+      "stars": 3595,
+      "forks": 228,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15596,
+      "forks": 4868,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 15227,
+      "forks": 1310,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 7101,
+      "forks": 4079,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 10447,
+      "forks": 3267,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 3854,
+      "forks": 538,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "adonovan",
+      "name": "gopl.io",
+      "href": "https://github.com/adonovan/gopl.io",
+      "description": "Example programs from \"The Go Programming Language\"",
+      "language": "Go",
+      "stars": 3835,
+      "forks": 1515,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hashicorp",
+      "name": "raft",
+      "href": "https://github.com/hashicorp/raft",
+      "description": "Golang implementation of the Raft consensus protocol",
+      "language": "Go",
+      "stars": 3138,
+      "forks": 411,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "chromedp",
+      "name": "chromedp",
+      "href": "https://github.com/chromedp/chromedp",
+      "description": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",
+      "language": "Go",
+      "stars": 4134,
+      "forks": 345,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "chubaofs",
+      "name": "chubaofs",
+      "href": "https://github.com/chubaofs/chubaofs",
+      "description": "A distributed storage system for cloud native applications to separate storage from compute.",
+      "language": "Go",
+      "stars": 1183,
+      "forks": 124,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "facebookincubator",
+      "name": "ent",
+      "href": "https://github.com/facebookincubator/ent",
+      "description": "An entity framework for Go",
+      "language": "Go",
+      "stars": 1980,
+      "forks": 93,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 67463,
+      "forks": 9550,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5458,
+      "forks": 1372,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Kong",
+      "name": "kubernetes-ingress-controller",
+      "href": "https://github.com/Kong/kubernetes-ingress-controller",
+      "description": "Kong for Kubernetes",
+      "language": "Go",
+      "stars": 782,
+      "forks": 206,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "aws",
+      "name": "amazon-vpc-cni-k8s",
+      "href": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "language": "Go",
+      "stars": 1019,
+      "forks": 291,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "envoyproxy",
+      "name": "protoc-gen-validate",
+      "href": "https://github.com/envoyproxy/protoc-gen-validate",
+      "description": "protoc plugin to generate polyglot message validators",
+      "language": "Go",
+      "stars": 646,
+      "forks": 107,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11470,
+      "forks": 12166,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3506,
+      "forks": 3215,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "uber-go",
+      "name": "dig",
+      "href": "https://github.com/uber-go/dig",
+      "description": "A reflection based dependency injection toolkit for Go.",
+      "language": "Go",
+      "stars": 1154,
+      "forks": 82,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14703,
+      "forks": 2212,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9658,
+      "forks": 2652,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "vmware",
+      "name": "govmomi",
+      "href": "https://github.com/vmware/govmomi",
+      "description": "Go library for the VMware vSphere API",
+      "language": "Go",
+      "stars": 1214,
+      "forks": 465,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2889,
+      "forks": 303,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 13476,
+      "forks": 1547,
+      "starsInPeriod": 18
+    }
+  ]
+}
