@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 9432,
+      "forks": 1043,
+      "starsInPeriod": 274
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3511,
+      "forks": 3217,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 18195,
+      "forks": 3136,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "cnbattle",
+      "name": "douyin",
+      "href": "https://github.com/cnbattle/douyin",
+      "description": "抖音推荐列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb nodejs anyproxy",
+      "language": "Go",
+      "stars": 368,
+      "forks": 84,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 5231,
+      "forks": 714,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "tophubs",
+      "name": "TopList",
+      "href": "https://github.com/tophubs/TopList",
+      "description": "今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish",
+      "language": "Go",
+      "stars": 3377,
+      "forks": 572,
+      "starsInPeriod": 82
+    },
+    {
+      "author": "facebookincubator",
+      "name": "ent",
+      "href": "https://github.com/facebookincubator/ent",
+      "description": "An entity framework for Go",
+      "language": "Go",
+      "stars": 1985,
+      "forks": 93,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3842,
+      "forks": 437,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "pingcap",
+      "name": "chaos-mesh",
+      "href": "https://github.com/pingcap/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes",
+      "language": "Go",
+      "stars": 279,
+      "forks": 14,
+      "starsInPeriod": 89
+    },
+    {
+      "author": "davecgh",
+      "name": "go-spew",
+      "href": "https://github.com/davecgh/go-spew",
+      "description": "Implements a deep pretty printer for Go data structures to aid in debugging",
+      "language": "Go",
+      "stars": 3624,
+      "forks": 230,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "qiangxue",
+      "name": "go-restful-api",
+      "href": "https://github.com/qiangxue/go-restful-api",
+      "description": "An idiomatic Go RESTful API starter kit (boilerplate) following SOLID principles and Clean Architecture",
+      "language": "Go",
+      "stars": 960,
+      "forks": 181,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 8342,
+      "forks": 659,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15600,
+      "forks": 4868,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2895,
+      "forks": 306,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "chubaofs",
+      "name": "chubaofs",
+      "href": "https://github.com/chubaofs/chubaofs",
+      "description": "A distributed storage system for cloud native applications to separate storage from compute.",
+      "language": "Go",
+      "stars": 1202,
+      "forks": 126,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "cnlh",
+      "name": "nps",
+      "href": "https://github.com/cnlh/nps",
+      "description": "一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。",
+      "language": "Go",
+      "stars": 9890,
+      "forks": 1616,
+      "starsInPeriod": 112
+    },
+    {
+      "author": "cookieY",
+      "name": "Yearning",
+      "href": "https://github.com/cookieY/Yearning",
+      "description": "A most popular sql audit platform for mysql",
+      "language": "Go",
+      "stars": 3038,
+      "forks": 1049,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rqlite",
+      "name": "rqlite",
+      "href": "https://github.com/rqlite/rqlite",
+      "description": "The lightweight, distributed relational database built on SQLite.",
+      "language": "Go",
+      "stars": 5259,
+      "forks": 287,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "adonovan",
+      "name": "gopl.io",
+      "href": "https://github.com/adonovan/gopl.io",
+      "description": "Example programs from \"The Go Programming Language\"",
+      "language": "Go",
+      "stars": 3838,
+      "forks": 1516,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 2683,
+      "forks": 1170,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9658,
+      "forks": 2652,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 4432,
+      "forks": 237,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "subfinder",
+      "href": "https://github.com/projectdiscovery/subfinder",
+      "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+      "language": "Go",
+      "stars": 2045,
+      "forks": 265,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 4164,
+      "forks": 605,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 2922,
+      "forks": 252,
+      "starsInPeriod": 7
+    }
+  ]
+}
