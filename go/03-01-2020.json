@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "pingcap",
+      "name": "chaos-mesh",
+      "href": "https://github.com/pingcap/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes",
+      "language": "Go",
+      "stars": 769,
+      "forks": 31,
+      "starsInPeriod": 286
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 915,
+      "forks": 700,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3860,
+      "forks": 439,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 4650,
+      "forks": 734,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 4147,
+      "forks": 466,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14723,
+      "forks": 2216,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "href": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": 2107,
+      "forks": 401,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "href": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": 3755,
+      "forks": 349,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5595,
+      "forks": 993,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 61930,
+      "forks": 21856,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 67565,
+      "forks": 9572,
+      "starsInPeriod": 74
+    },
+    {
+      "author": "pusher",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/pusher/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "language": "Go",
+      "stars": 1222,
+      "forks": 262,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 56016,
+      "forks": 16171,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 2914,
+      "forks": 307,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "href": "https://github.com/DataDog/datadog-agent",
+      "description": "Datadog Agent",
+      "language": "Go",
+      "stars": 678,
+      "forks": 362,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 4483,
+      "forks": 695,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "elastic",
+      "name": "go-elasticsearch",
+      "href": "https://github.com/elastic/go-elasticsearch",
+      "description": "The official Go client for Elasticsearch",
+      "language": "Go",
+      "stars": 2075,
+      "forks": 168,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 7087,
+      "forks": 713,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 2910,
+      "forks": 1264,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15633,
+      "forks": 4878,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11490,
+      "forks": 12217,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 6832,
+      "forks": 1795,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 3534,
+      "forks": 3230,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 2487,
+      "forks": 375,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 4468,
+      "forks": 239,
+      "starsInPeriod": 26
+    }
+  ]
+}
