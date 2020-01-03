@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 84847,
+      "forks": 29682,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "href": "https://github.com/netdata/netdata",
+      "description": "Real-time performance monitoring, done right! https://my-netdata.io/",
+      "language": "C",
+      "stars": 43869,
+      "forks": 3975,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "bcoles",
+      "name": "kasld",
+      "href": "https://github.com/bcoles/kasld",
+      "description": "[ KASLD ] Kernel Address Space Layout Derandomization - A collection of various techniques to bypass KASLR and retrieve the Linux kernel base virtual address on x86 / x86_64 architectures as an unprivileged user.",
+      "language": "C",
+      "stars": 67,
+      "forks": 9,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 40564,
+      "forks": 15882,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "edenhill",
+      "name": "librdkafka",
+      "href": "https://github.com/edenhill/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": 3842,
+      "forks": 1744,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pjreddie",
+      "name": "darknet",
+      "href": "https://github.com/pjreddie/darknet",
+      "description": "Convolutional Neural Networks",
+      "language": "C",
+      "stars": 15954,
+      "forks": 10149,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "stedolan",
+      "name": "jq",
+      "href": "https://github.com/stedolan/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": 15973,
+      "forks": 929,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 6915,
+      "forks": 540,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "zserge",
+      "name": "webview",
+      "href": "https://github.com/zserge/webview",
+      "description": "Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)",
+      "language": "C",
+      "stars": 5204,
+      "forks": 412,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "Xinyuan-LilyGO",
+      "name": "LilyGO-T-Wristband",
+      "href": "https://github.com/Xinyuan-LilyGO/LilyGO-T-Wristband",
+      "description": null,
+      "language": "C",
+      "stars": 35,
+      "forks": 8,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "stanfordnlp",
+      "name": "GloVe",
+      "href": "https://github.com/stanfordnlp/GloVe",
+      "description": "GloVe model for distributed word representation",
+      "language": "C",
+      "stars": 4352,
+      "forks": 1038,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "href": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": 16149,
+      "forks": 1102,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 30892,
+      "forks": 17908,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "href": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 12057,
+      "forks": 5295,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rofl0r",
+      "name": "proxychains-ng",
+      "href": "https://github.com/rofl0r/proxychains-ng",
+      "description": "proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.",
+      "language": "C",
+      "stars": 5709,
+      "forks": 719,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "upx",
+      "name": "upx",
+      "href": "https://github.com/upx/upx",
+      "description": "UPX - the Ultimate Packer for eXecutables",
+      "language": "C",
+      "stars": 4659,
+      "forks": 572,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "open-sdr",
+      "name": "openwifi",
+      "href": "https://github.com/open-sdr/openwifi",
+      "description": "open-source IEEE802.11/Wi-Fi baseband chip/FPGA design",
+      "language": "C",
+      "stars": 471,
+      "forks": 58,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software.",
+      "language": "C",
+      "stars": 4837,
+      "forks": 867,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "href": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": 390,
+      "forks": 145,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "mattn",
+      "name": "go-sqlite3",
+      "href": "https://github.com/mattn/go-sqlite3",
+      "description": "sqlite3 driver for go using database/sql",
+      "language": "C",
+      "stars": 3716,
+      "forks": 697,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "id-Software",
+      "name": "DOOM",
+      "href": "https://github.com/id-Software/DOOM",
+      "description": "DOOM Open Source Release",
+      "language": "C",
+      "stars": 4810,
+      "forks": 904,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "href": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": 2797,
+      "forks": 335,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 11350,
+      "forks": 1047,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "waveshare",
+      "name": "e-Paper",
+      "href": "https://github.com/waveshare/e-Paper",
+      "description": null,
+      "language": "C",
+      "stars": 170,
+      "forks": 93,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "openvenues",
+      "name": "libpostal",
+      "href": "https://github.com/openvenues/libpostal",
+      "description": "A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.",
+      "language": "C",
+      "stars": 2571,
+      "forks": 258,
+      "starsInPeriod": 1
+    }
+  ]
+}
