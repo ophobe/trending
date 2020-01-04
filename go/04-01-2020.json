@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "ahmetb",
+      "name": "kubectl-tree",
+      "href": "https://github.com/ahmetb/kubectl-tree",
+      "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)",
+      "language": "Go",
+      "stars": 538,
+      "forks": 10,
+      "starsInPeriod": 287
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 15653,
+      "forks": 4880,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5601,
+      "forks": 993,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 56024,
+      "forks": 16174,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 8372,
+      "forks": 663,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11497,
+      "forks": 12223,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "href": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": 1346,
+      "forks": 406,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "go-grpc-middleware",
+      "href": "https://github.com/grpc-ecosystem/go-grpc-middleware",
+      "description": "Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",
+      "language": "Go",
+      "stars": 2339,
+      "forks": 299,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 11231,
+      "forks": 1144,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 9268,
+      "forks": 815,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 2821,
+      "forks": 1060,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 3862,
+      "forks": 439,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 4475,
+      "forks": 239,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 7129,
+      "forks": 336,
+      "starsInPeriod": 130
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "spark-on-k8s-operator",
+      "href": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+      "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.",
+      "language": "Go",
+      "stars": 848,
+      "forks": 329,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 3633,
+      "forks": 669,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 4641,
+      "forks": 855,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "krew",
+      "href": "https://github.com/kubernetes-sigs/krew",
+      "description": "📦 Package manager for kubectl plugins",
+      "language": "Go",
+      "stars": 1850,
+      "forks": 121,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "pingcap",
+      "name": "chaos-mesh",
+      "href": "https://github.com/pingcap/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes",
+      "language": "Go",
+      "stars": 842,
+      "forks": 32,
+      "starsInPeriod": 346
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 17029,
+      "forks": 2675,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "controller-runtime",
+      "href": "https://github.com/kubernetes-sigs/controller-runtime",
+      "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+      "language": "Go",
+      "stars": 439,
+      "forks": 265,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 20207,
+      "forks": 5360,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "jpmorganchase",
+      "name": "quorum",
+      "href": "https://github.com/jpmorganchase/quorum",
+      "description": "A permissioned implementation of Ethereum supporting data privacy",
+      "language": "Go",
+      "stars": 3546,
+      "forks": 941,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 4653,
+      "forks": 735,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "elastic",
+      "name": "cloud-on-k8s",
+      "href": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "language": "Go",
+      "stars": 699,
+      "forks": 129,
+      "starsInPeriod": 4
+    }
+  ]
+}
