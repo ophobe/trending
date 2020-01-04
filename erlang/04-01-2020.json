@@ -1,0 +1,94 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6678,
+      "forks": 2177,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 5786,
+      "forks": 1034,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 8110,
+      "forks": 2209,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+      "language": "Erlang",
+      "stars": 4364,
+      "forks": 1298,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "epgsql",
+      "name": "epgsql",
+      "href": "https://github.com/epgsql/epgsql",
+      "description": "Erlang PostgreSQL client library.",
+      "language": "Erlang",
+      "stars": 300,
+      "forks": 119,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "kivra",
+      "name": "oauth2_client",
+      "href": "https://github.com/kivra/oauth2_client",
+      "description": "Erlang OAuth2 Client",
+      "language": "Erlang",
+      "stars": 59,
+      "forks": 35,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 318,
+      "forks": 140,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlcloud",
+      "name": "erlcloud",
+      "href": "https://github.com/erlcloud/erlcloud",
+      "description": "AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)",
+      "language": "Erlang",
+      "stars": 591,
+      "forks": 372,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "proper-testing",
+      "name": "proper",
+      "href": "https://github.com/proper-testing/proper",
+      "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+      "language": "Erlang",
+      "stars": 727,
+      "forks": 141,
+      "starsInPeriod": 0
+    }
+  ]
+}
