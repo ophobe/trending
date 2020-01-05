@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 2520,
+      "forks": 170,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 6972,
+      "forks": 602,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 3335,
+      "forks": 72,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 41596,
+      "forks": 6392,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 2003,
+      "forks": 211,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 4707,
+      "forks": 525,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rust-embedded",
+      "name": "rust-raspi3-OS-tutorials",
+      "href": "https://github.com/rust-embedded/rust-raspi3-OS-tutorials",
+      "description": "📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀",
+      "language": "Rust",
+      "stars": 1186,
+      "forks": 53,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 1382,
+      "forks": 86,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 3559,
+      "forks": 475,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "yaahc",
+      "name": "spandoc",
+      "href": "https://github.com/yaahc/spandoc",
+      "description": "Proc macro for using doc comments as context for errors/logs/profiling/whatever via `tracing`",
+      "language": "Rust",
+      "stars": 21,
+      "forks": 0,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "spacejam",
+      "name": "rio",
+      "href": "https://github.com/spacejam/rio",
+      "description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant",
+      "language": "Rust",
+      "stars": 36,
+      "forks": 0,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "flosse",
+      "name": "rust-web-framework-comparison",
+      "href": "https://github.com/flosse/rust-web-framework-comparison",
+      "description": "A comparison of some web frameworks and libs written in Rust",
+      "language": "Rust",
+      "stars": 1729,
+      "forks": 78,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "href": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": 1496,
+      "forks": 30,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 2612,
+      "forks": 224,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A High-Performance Monitoring & Observability Data Router",
+      "language": "Rust",
+      "stars": 3265,
+      "forks": 161,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "apache",
+      "name": "incubator-teaclave",
+      "href": "https://github.com/apache/incubator-teaclave",
+      "description": "Apache Teaclave (incubating) is an open source universal secure computing platform",
+      "language": "Rust",
+      "stars": 214,
+      "forks": 53,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 3558,
+      "forks": 350,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-windowing",
+      "name": "glutin",
+      "href": "https://github.com/rust-windowing/glutin",
+      "description": "A low-level library for OpenGL context creation, written in pure Rust.",
+      "language": "Rust",
+      "stars": 1222,
+      "forks": 301,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "href": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": 2279,
+      "forks": 143,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam",
+      "href": "https://github.com/crossbeam-rs/crossbeam",
+      "description": "Tools for concurrent programming in Rust",
+      "language": "Rust",
+      "stars": 2404,
+      "forks": 171,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A modern shell written in Rust",
+      "language": "Rust",
+      "stars": 6161,
+      "forks": 224,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "phaazon",
+      "name": "luminance-rs",
+      "href": "https://github.com/phaazon/luminance-rs",
+      "description": "Type-safe, type-level and stateless Rust graphics framework",
+      "language": "Rust",
+      "stars": 405,
+      "forks": 31,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 490,
+      "forks": 61,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust / Wasm framework for building client web apps",
+      "language": "Rust",
+      "stars": 9916,
+      "forks": 375,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "tower-rs",
+      "name": "tower",
+      "href": "https://github.com/tower-rs/tower",
+      "description": "async fn(Request) -> Result<Response, Error>",
+      "language": "Rust",
+      "stars": 857,
+      "forks": 69,
+      "starsInPeriod": 9
+    }
+  ]
+}
