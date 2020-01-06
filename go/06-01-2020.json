@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "ahmetb",
+      "name": "kubectl-tree",
+      "href": "https://github.com/ahmetb/kubectl-tree",
+      "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)",
+      "language": "Go",
+      "stars": 864,
+      "forks": 23,
+      "starsInPeriod": 486
+    },
+    {
+      "author": "hakluke",
+      "name": "hakrawler",
+      "href": "https://github.com/hakluke/hakrawler",
+      "description": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+      "language": "Go",
+      "stars": 623,
+      "forks": 60,
+      "starsInPeriod": 249
+    },
+    {
+      "author": "brendoncarroll",
+      "name": "webfs",
+      "href": "https://github.com/brendoncarroll/webfs",
+      "description": "A Filesystem Built On Top of the Web.",
+      "language": "Go",
+      "stars": 227,
+      "forks": 3,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 14068,
+      "forks": 478,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "motemen",
+      "name": "ghq",
+      "href": "https://github.com/motemen/ghq",
+      "description": "Remote repository management made easy",
+      "language": "Go",
+      "stars": 1593,
+      "forks": 118,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "Masterminds",
+      "name": "sprig",
+      "href": "https://github.com/Masterminds/sprig",
+      "description": "Useful template functions for Go templates.",
+      "language": "Go",
+      "stars": 1519,
+      "forks": 175,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "anacrolix",
+      "name": "torrent",
+      "href": "https://github.com/anacrolix/torrent",
+      "description": "Full-featured BitTorrent client package and utilities",
+      "language": "Go",
+      "stars": 3254,
+      "forks": 389,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "therecipe",
+      "name": "qt",
+      "href": "https://github.com/therecipe/qt",
+      "description": "Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly",
+      "language": "Go",
+      "stars": 6810,
+      "forks": 502,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 17178,
+      "forks": 3790,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "markbates",
+      "name": "goth",
+      "href": "https://github.com/markbates/goth",
+      "description": "Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.",
+      "language": "Go",
+      "stars": 2479,
+      "forks": 292,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "href": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": 6631,
+      "forks": 640,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 8858,
+      "forks": 1590,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 12127,
+      "forks": 559,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "perkeep",
+      "name": "perkeep",
+      "href": "https://github.com/perkeep/perkeep",
+      "description": "Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+      "language": "Go",
+      "stars": 4418,
+      "forks": 340,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 9743,
+      "forks": 800,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "v2ray",
+      "name": "domain-list-community",
+      "href": "https://github.com/v2ray/domain-list-community",
+      "description": "Community managed domain list",
+      "language": "Go",
+      "stars": 360,
+      "forks": 110,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "mholt",
+      "name": "archiver",
+      "href": "https://github.com/mholt/archiver",
+      "description": "Easily create & extract archives, and compress & decompress files of various formats",
+      "language": "Go",
+      "stars": 2669,
+      "forks": 237,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "reviewdog",
+      "name": "reviewdog",
+      "href": "https://github.com/reviewdog/reviewdog",
+      "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+      "language": "Go",
+      "stars": 1518,
+      "forks": 91,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 14741,
+      "forks": 2226,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "xteve-project",
+      "name": "xTeVe",
+      "href": "https://github.com/xteve-project/xTeVe",
+      "description": "M3U Proxy for Plex DVR and Emby Live TV",
+      "language": "Go",
+      "stars": 134,
+      "forks": 26,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 16719,
+      "forks": 1918,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "krew",
+      "href": "https://github.com/kubernetes-sigs/krew",
+      "description": "📦 Package manager for kubectl plugins",
+      "language": "Go",
+      "stars": 1902,
+      "forks": 124,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 9313,
+      "forks": 1212,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 18213,
+      "forks": 1423,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "DNSCrypt",
+      "name": "dnscrypt-proxy",
+      "href": "https://github.com/DNSCrypt/dnscrypt-proxy",
+      "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
+      "language": "Go",
+      "stars": 5246,
+      "forks": 478,
+      "starsInPeriod": 19
+    }
+  ]
+}
