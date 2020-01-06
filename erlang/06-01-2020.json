@@ -1,0 +1,44 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6693,
+      "forks": 2179,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "uwiger",
+      "name": "parse_trans",
+      "href": "https://github.com/uwiger/parse_trans",
+      "description": "Parse transform utilities for Erlang",
+      "language": "Erlang",
+      "stars": 172,
+      "forks": 93,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "benoitc",
+      "name": "unicode_util_compat",
+      "href": "https://github.com/benoitc/unicode_util_compat",
+      "description": "unicode_util compatibility library for Erlang < 20",
+      "language": "Erlang",
+      "stars": 6,
+      "forks": 7,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "seriyps",
+      "name": "mtproto_proxy",
+      "href": "https://github.com/seriyps/mtproto_proxy",
+      "description": "High performance Erlang MTProto proxy that powers https://t.me/socksy_bot",
+      "language": "Erlang",
+      "stars": 163,
+      "forks": 29,
+      "starsInPeriod": 1
+    }
+  ]
+}
