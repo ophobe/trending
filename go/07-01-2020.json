@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "bilibili",
+      "name": "kratos",
+      "href": "https://github.com/bilibili/kratos",
+      "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+      "language": "Go",
+      "stars": 7933,
+      "forks": 1768,
+      "starsInPeriod": 113
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 62085,
+      "forks": 21902,
+      "starsInPeriod": 76
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 5470,
+      "forks": 1377,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hakluke",
+      "name": "hakrawler",
+      "href": "https://github.com/hakluke/hakrawler",
+      "description": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+      "language": "Go",
+      "stars": 782,
+      "forks": 71,
+      "starsInPeriod": 288
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 34541,
+      "forks": 3979,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "Masterminds",
+      "name": "sprig",
+      "href": "https://github.com/Masterminds/sprig",
+      "description": "Useful template functions for Go templates.",
+      "language": "Go",
+      "stars": 1525,
+      "forks": 175,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 20230,
+      "forks": 5364,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "ahmetb",
+      "name": "kubectl-tree",
+      "href": "https://github.com/ahmetb/kubectl-tree",
+      "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!)",
+      "language": "Go",
+      "stars": 976,
+      "forks": 27,
+      "starsInPeriod": 169
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11527,
+      "forks": 12269,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 4670,
+      "forks": 739,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10421,
+      "forks": 2125,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5989,
+      "forks": 1154,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 12149,
+      "forks": 559,
+      "starsInPeriod": 57
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1335,
+      "forks": 1288,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "veggiedefender",
+      "name": "torrent-client",
+      "href": "https://github.com/veggiedefender/torrent-client",
+      "description": "Tiny BitTorrent client written in Go",
+      "language": "Go",
+      "stars": 366,
+      "forks": 17,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 10895,
+      "forks": 1116,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 10485,
+      "forks": 3280,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 9323,
+      "forks": 1213,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 5052,
+      "forks": 1056,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 1959,
+      "forks": 522,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 4372,
+      "forks": 662,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "href": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB - the open source, cloud-native SQL database.",
+      "language": "Go",
+      "stars": 17590,
+      "forks": 2045,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "twitchtv",
+      "name": "twirp",
+      "href": "https://github.com/twitchtv/twirp",
+      "description": "A simple RPC framework with protobuf service definitions",
+      "language": "Go",
+      "stars": 3750,
+      "forks": 172,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "tsenart",
+      "name": "vegeta",
+      "href": "https://github.com/tsenart/vegeta",
+      "description": "HTTP load testing tool and library. It's over 9000!",
+      "language": "Go",
+      "stars": 13599,
+      "forks": 873,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "href": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": 2955,
+      "forks": 131,
+      "starsInPeriod": 13
+    }
+  ]
+}
