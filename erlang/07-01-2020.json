@@ -1,0 +1,54 @@
+{
+  "repositories": [
+    {
+      "author": "vernemq",
+      "name": "vernemq",
+      "href": "https://github.com/vernemq/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 1980,
+      "forks": 218,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "processone",
+      "name": "ejabberd",
+      "href": "https://github.com/processone/ejabberd",
+      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+      "language": "Erlang",
+      "stars": 4365,
+      "forks": 1299,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6697,
+      "forks": 2181,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "clojerl",
+      "name": "clojerl",
+      "href": "https://github.com/clojerl/clojerl",
+      "description": "Clojure for the Erlang VM (unofficial)",
+      "language": "Erlang",
+      "stars": 1171,
+      "forks": 22,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "deadtrickster",
+      "name": "rebar3_elvis_plugin",
+      "href": "https://github.com/deadtrickster/rebar3_elvis_plugin",
+      "description": "Run Elvis as rebar3 plugin",
+      "language": "Erlang",
+      "stars": 5,
+      "forks": 0,
+      "starsInPeriod": 0
+    }
+  ]
+}
