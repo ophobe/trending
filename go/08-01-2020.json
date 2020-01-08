@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "bilibili",
+      "name": "kratos",
+      "href": "https://github.com/bilibili/kratos",
+      "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+      "language": "Go",
+      "stars": 8256,
+      "forks": 1815,
+      "starsInPeriod": 244
+    },
+    {
+      "author": "qcrao",
+      "name": "Go-Questions",
+      "href": "https://github.com/qcrao/Go-Questions",
+      "description": "从问题切入，串连 Go 语言相关的所有知识，融会贯通。",
+      "language": "Go",
+      "stars": 976,
+      "forks": 114,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 4207,
+      "forks": 613,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 9682,
+      "forks": 2654,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "segmentio",
+      "name": "kafka-go",
+      "href": "https://github.com/segmentio/kafka-go",
+      "description": "Kafka library in Go",
+      "language": "Go",
+      "stars": 1999,
+      "forks": 216,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "appleboy",
+      "name": "gin-jwt",
+      "href": "https://github.com/appleboy/gin-jwt",
+      "description": "JWT Middleware for Gin framework",
+      "language": "Go",
+      "stars": 1063,
+      "forks": 205,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 11547,
+      "forks": 12300,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "golang",
+      "name": "mock",
+      "href": "https://github.com/golang/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": 3500,
+      "forks": 314,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 4382,
+      "forks": 665,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "golang",
+      "name": "oauth2",
+      "href": "https://github.com/golang/oauth2",
+      "description": "Go OAuth2",
+      "language": "Go",
+      "stars": 2646,
+      "forks": 577,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 62134,
+      "forks": 21926,
+      "starsInPeriod": 79
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 17080,
+      "forks": 2685,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 26239,
+      "forks": 1042,
+      "starsInPeriod": 79
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 10430,
+      "forks": 2126,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 1337,
+      "forks": 1289,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 5993,
+      "forks": 1155,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 14123,
+      "forks": 480,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "smartystreets",
+      "name": "goconvey",
+      "href": "https://github.com/smartystreets/goconvey",
+      "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.",
+      "language": "Go",
+      "stars": 5281,
+      "forks": 410,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 5267,
+      "forks": 956,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 4510,
+      "forks": 700,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 2898,
+      "forks": 782,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 5618,
+      "forks": 999,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "weaveworks",
+      "name": "flagger",
+      "href": "https://github.com/weaveworks/flagger",
+      "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+      "language": "Go",
+      "stars": 1426,
+      "forks": 149,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 18107,
+      "forks": 2556,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "metrics-server",
+      "href": "https://github.com/kubernetes-sigs/metrics-server",
+      "description": "Cluster-wide aggregator of resource usage data.",
+      "language": "Go",
+      "stars": 1454,
+      "forks": 519,
+      "starsInPeriod": 4
+    }
+  ]
+}
