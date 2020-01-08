@@ -1,0 +1,94 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 6704,
+      "forks": 2182,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "apache",
+      "name": "couchdb",
+      "href": "https://github.com/apache/couchdb",
+      "description": "Apache CouchDB",
+      "language": "Erlang",
+      "stars": 4394,
+      "forks": 867,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "erlang",
+      "name": "otp",
+      "href": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "stars": 8115,
+      "forks": 2209,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "kivra",
+      "name": "oauth2",
+      "href": "https://github.com/kivra/oauth2",
+      "description": "Erlang Oauth2 implementation",
+      "language": "Erlang",
+      "stars": 210,
+      "forks": 69,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "kivra",
+      "name": "oauth2_client",
+      "href": "https://github.com/kivra/oauth2_client",
+      "description": "Erlang OAuth2 Client",
+      "language": "Erlang",
+      "stars": 59,
+      "forks": 35,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "choptastic",
+      "name": "qdate",
+      "href": "https://github.com/choptastic/qdate",
+      "description": "Erlang date, time, and timezone management: formatting, conversion, and date arithmetic",
+      "language": "Erlang",
+      "stars": 219,
+      "forks": 70,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lambdaclass",
+      "name": "throttle",
+      "href": "https://github.com/lambdaclass/throttle",
+      "description": "Erlang/OTP application to rate limit resource access",
+      "language": "Erlang",
+      "stars": 26,
+      "forks": 8,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-common",
+      "href": "https://github.com/rabbitmq/rabbitmq-common",
+      "description": "Common library used by rabbitmq-server and rabbitmq-erlang-client",
+      "language": "Erlang",
+      "stars": 56,
+      "forks": 102,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-prometheus",
+      "href": "https://github.com/rabbitmq/rabbitmq-prometheus",
+      "description": "An up-and-coming minimalistic Prometheus exporter for core (unaggregated) RabbitMQ metrics",
+      "language": "Erlang",
+      "stars": 37,
+      "forks": 21,
+      "starsInPeriod": 0
+    }
+  ]
+}
