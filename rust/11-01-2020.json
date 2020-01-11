@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "BLAKE3-team",
+      "name": "BLAKE3",
+      "href": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "The BLAKE3 cryptographic hash function",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 22,
+      "starsInPeriod": 284
+    },
+    {
+      "author": "Canop",
+      "name": "broot",
+      "href": "https://github.com/Canop/broot",
+      "description": "A new way to see and navigate directory trees",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 53,
+      "starsInPeriod": 348
+    },
+    {
+      "author": "paritytech",
+      "name": "substrate",
+      "href": "https://github.com/paritytech/substrate",
+      "description": "Substrate: The platform for blockchain innovators",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 504,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "elastic",
+      "name": "elasticsearch-rs",
+      "href": "https://github.com/elastic/elasticsearch-rs",
+      "description": "Elasticsearch Rust Client",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 7,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 347,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 87,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 765,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "href": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 936,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "href": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 17,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "cranelift",
+      "href": "https://github.com/bytecodealliance/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 216,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 89,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "dtolnay",
+      "name": "cxx",
+      "href": "https://github.com/dtolnay/cxx",
+      "description": "Safe interop between Rust and C++",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 9,
+      "starsInPeriod": 94
+    },
+    {
+      "author": "oam-dev",
+      "name": "rudr",
+      "href": "https://github.com/oam-dev/rudr",
+      "description": "A Kubernetes implementation of the Open Application Model specification",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 98,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 272,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rayon-rs",
+      "name": "rayon",
+      "href": "https://github.com/rayon-rs/rayon",
+      "description": "Rayon: A data parallelism library for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 221,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 601,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "Peltoche",
+      "name": "lsd",
+      "href": "https://github.com/Peltoche/lsd",
+      "description": "The next gen ls command",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 134,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 305,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "href": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 61,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "benfred",
+      "name": "py-spy",
+      "href": "https://github.com/benfred/py-spy",
+      "description": "Sampling profiler for Python programs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 189,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "Rigellute",
+      "name": "spotify-tui",
+      "href": "https://github.com/Rigellute/spotify-tui",
+      "description": "Spotify for the terminal written in Rust 🚀",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 106,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 171,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 530,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 134,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 354,
+      "starsInPeriod": 4
+    }
+  ]
+}
