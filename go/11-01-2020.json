@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rakyll",
+      "name": "govalidate",
+      "href": "https://github.com/rakyll/govalidate",
+      "description": "Validates your Go installation and dependencies.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 675,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1930,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 227,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Deploy machine learning models in production",
+      "language": "Go",
+      "stars": 0,
+      "forks": 139,
+      "starsInPeriod": 84
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 821,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3073,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 710,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1193,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1665,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "onsi",
+      "name": "ginkgo",
+      "href": "https://github.com/onsi/ginkgo",
+      "description": "BDD Testing Framework for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 344,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4900,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 0,
+      "forks": 526,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "href": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 306,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "zalando",
+      "name": "postgres-operator",
+      "href": "https://github.com/zalando/postgres-operator",
+      "description": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 171,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1270,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "kubernetes",
+      "name": "kube-state-metrics",
+      "href": "https://github.com/kubernetes/kube-state-metrics",
+      "description": "Add-on agent to generate and expose cluster-level metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 631,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cri-o",
+      "name": "cri-o",
+      "href": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "language": "Go",
+      "stars": 0,
+      "forks": 396,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1122,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "docker",
+      "name": "distribution",
+      "href": "https://github.com/docker/distribution",
+      "description": "The Docker toolset to pack, ship, store, and deliver content",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1672,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 441,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5369,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 956,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "href": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML processor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 122,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "itchyny",
+      "name": "mmv",
+      "href": "https://github.com/itchyny/mmv",
+      "description": "rename multiple files with editor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4,
+      "starsInPeriod": 20
+    }
+  ]
+}
