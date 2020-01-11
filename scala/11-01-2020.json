@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "twitter",
+      "name": "finagle",
+      "href": "https://github.com/twitter/finagle",
+      "description": "A fault tolerant, protocol-agnostic RPC system",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 1317,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 411,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 20937,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "japgolly",
+      "name": "scalajs-react",
+      "href": "https://github.com/japgolly/scalajs-react",
+      "description": "Facebook's React on Scala.JS",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 211,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 571,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "yahoo",
+      "name": "kafka-manager",
+      "href": "https://github.com/yahoo/kafka-manager",
+      "description": "A tool for managing Apache Kafka.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 2064,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 98,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rtyley",
+      "name": "bfg-repo-cleaner",
+      "href": "https://github.com/rtyley/bfg-repo-cleaner",
+      "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 326,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 494,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "http4s",
+      "name": "http4s",
+      "href": "https://github.com/http4s/http4s",
+      "description": "A minimal, idiomatic Scala interface for HTTP",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 525,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 249,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 1058,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "playframework",
+      "name": "playframework",
+      "href": "https://github.com/playframework/playframework",
+      "description": "Play Framework",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 3844,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "fpinscala",
+      "name": "fpinscala",
+      "href": "https://github.com/fpinscala/fpinscala",
+      "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 2596,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "lagom",
+      "name": "lagom",
+      "href": "https://github.com/lagom/lagom",
+      "description": "Reactive Microservices for the JVM",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 558,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 3172,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "broadinstitute",
+      "name": "cromwell",
+      "href": "https://github.com/broadinstitute/cromwell",
+      "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 175,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gatling",
+      "name": "gatling",
+      "href": "https://github.com/gatling/gatling",
+      "description": "Async Scala-Akka-Netty based Load Test Tool",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 964,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "fthomas",
+      "name": "scala-steward",
+      "href": "https://github.com/fthomas/scala-steward",
+      "description": "🤖 A bot that helps you keeping your Scala projects up-to-date",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 272,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "circe",
+      "name": "circe",
+      "href": "https://github.com/circe/circe",
+      "description": "Yet another JSON library for Scala",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 401,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "valskalla",
+      "name": "odin",
+      "href": "https://github.com/valskalla/odin",
+      "description": "Fast & Functional logger in Scala",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 4,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "sksamuel",
+      "name": "elastic4s",
+      "href": "https://github.com/sksamuel/elastic4s",
+      "description": "Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 579,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "typelevel",
+      "name": "cats-effect",
+      "href": "https://github.com/typelevel/cats-effect",
+      "description": "The IO monad for Scala",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 211,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "sbt",
+      "name": "sbt",
+      "href": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 778,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "softwaremill",
+      "name": "elasticmq",
+      "href": "https://github.com/softwaremill/elasticmq",
+      "description": "In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 130,
+      "starsInPeriod": 1
+    }
+  ]
+}
