@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 347,
+      "starsInPeriod": 111
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1070,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "Jguer",
+      "name": "yay",
+      "href": "https://github.com/Jguer/yay",
+      "description": "Yet another Yogurt - An AUR Helper written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 152,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2519,
+      "starsInPeriod": 44
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 227,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4617,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "jbirms",
+      "name": "ok-zoomer",
+      "href": "https://github.com/jbirms/ok-zoomer",
+      "description": "A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6,
+      "starsInPeriod": 89
+    },
+    {
+      "author": "iawia002",
+      "name": "annie",
+      "href": "https://github.com/iawia002/annie",
+      "description": "👾 Fast, simple and clean video downloader",
+      "language": "Go",
+      "stars": 0,
+      "forks": 934,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "Z-Bolt",
+      "name": "OctoScreen",
+      "href": "https://github.com/Z-Bolt/OctoScreen",
+      "description": "LCD touch interface for our Octoprint",
+      "language": "Go",
+      "stars": 0,
+      "forks": 22,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Deploy machine learning models in production",
+      "language": "Go",
+      "stars": 0,
+      "forks": 145,
+      "starsInPeriod": 122
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Universal code search and navigation tool (self-hosted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 279,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "perkeep",
+      "name": "perkeep",
+      "href": "https://github.com/perkeep/perkeep",
+      "description": "Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 342,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "pingcap",
+      "name": "chaos-mesh",
+      "href": "https://github.com/pingcap/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 47,
+      "starsInPeriod": 56
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3849,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "hashicorp",
+      "name": "raft",
+      "href": "https://github.com/hashicorp/raft",
+      "description": "Golang implementation of the Raft consensus protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 412,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9629,
+      "starsInPeriod": 99
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1435,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, cross-platform HTTP/2 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2139,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "charmbracelet",
+      "name": "glow",
+      "href": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "stars": 0,
+      "forks": 19,
+      "starsInPeriod": 76
+    },
+    {
+      "author": "grafana",
+      "name": "tanka",
+      "href": "https://github.com/grafana/tanka",
+      "description": "Flexible, reusable and concise configuration for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23,
+      "starsInPeriod": 57
+    },
+    {
+      "author": "houqp",
+      "name": "sqlvet",
+      "href": "https://github.com/houqp/sqlvet",
+      "description": "Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 148
+    },
+    {
+      "author": "v2ray",
+      "name": "domain-list-community",
+      "href": "https://github.com/v2ray/domain-list-community",
+      "description": "Community managed domain list",
+      "language": "Go",
+      "stars": 0,
+      "forks": 111,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "uber-go",
+      "name": "goleak",
+      "href": "https://github.com/uber-go/goleak",
+      "description": "Goroutine leak detector",
+      "language": "Go",
+      "stars": 0,
+      "forks": 31,
+      "starsInPeriod": 249
+    },
+    {
+      "author": "tjfoc",
+      "name": "gmsm",
+      "href": "https://github.com/tjfoc/gmsm",
+      "description": "GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 167,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "developer-learning",
+      "name": "night-reading-go",
+      "href": "https://github.com/developer-learning/night-reading-go",
+      "description": "Night-Reading-Go《Go 夜读》 > Share the related technical topics of Go every week through zoom online live broadcast, every day on the WeChat/Slack to communicate programming technology topics. 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 600,
+      "starsInPeriod": 22
+    }
+  ]
+}
