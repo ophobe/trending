@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16203,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1384,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1011,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "gogf",
+      "name": "gf",
+      "href": "https://github.com/gogf/gf",
+      "description": "GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…",
+      "language": "Go",
+      "stars": 0,
+      "forks": 352,
+      "starsInPeriod": 114
+    },
+    {
+      "author": "asaskevich",
+      "name": "govalidator",
+      "href": "https://github.com/asaskevich/govalidator",
+      "description": "[Go] Package of validators and sanitizers for strings, numerics, slices and structs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 395,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2561,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3289,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 434,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "coreos",
+      "name": "prometheus-operator",
+      "href": "https://github.com/coreos/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1764,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12487,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Deploy machine learning models in production",
+      "language": "Go",
+      "stars": 0,
+      "forks": 173,
+      "starsInPeriod": 132
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1309,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1165,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5530,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "elastic",
+      "name": "cloud-on-k8s",
+      "href": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 135,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 354,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2233,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 680,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1279,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6051,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "href": "https://github.com/kubernetes/ingress-nginx",
+      "description": "NGINX Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3159,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1980,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "davecgh",
+      "name": "go-spew",
+      "href": "https://github.com/davecgh/go-spew",
+      "description": "Implements a deep pretty printer for Go data structures to aid in debugging",
+      "language": "Go",
+      "stars": 0,
+      "forks": 233,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3304,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 650,
+      "starsInPeriod": 5
+    }
+  ]
+}
