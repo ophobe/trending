@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2043,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 142,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "href": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 21,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "href": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 31,
+      "starsInPeriod": 120
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 329,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 260,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "xacrimon",
+      "name": "dashmap",
+      "href": "https://github.com/xacrimon/dashmap",
+      "description": "Blazing fast concurrent HashMap for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 10,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 622,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast typescript / javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 124,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 180,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 35,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 994,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hyperledger",
+      "name": "indy-sdk",
+      "href": "https://github.com/hyperledger/indy-sdk",
+      "description": "Everything needed to build applications that interact with an Indy distributed identity ledger.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 470,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "href": "https://github.com/gfx-rs/wgpu",
+      "description": "Native WebGPU implementation based on gfx-hal",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 66,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 682,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 6404,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 176,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "cranelift",
+      "href": "https://github.com/bytecodealliance/cranelift",
+      "description": "Cranelift code generator",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 217,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 770,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 215,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "input-output-hk",
+      "name": "jormungandr",
+      "href": "https://github.com/input-output-hk/jormungandr",
+      "description": "aspiring blockchain node",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 90,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot",
+      "href": "https://github.com/paritytech/polkadot",
+      "description": "Polkadot Node Implementation",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 176,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 196,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "jonhoo",
+      "name": "stuck",
+      "href": "https://github.com/jonhoo/stuck",
+      "description": null,
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 912,
+      "starsInPeriod": 6
+    }
+  ]
+}
