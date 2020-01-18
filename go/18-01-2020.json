@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "nurdism",
+      "name": "neko",
+      "href": "https://github.com/nurdism/neko",
+      "description": "A self hosted virtual browser (rabb.it clone) that runs in docker.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 14,
+      "starsInPeriod": 92
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 559,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Deploy machine learning models in production",
+      "language": "Go",
+      "stars": 0,
+      "forks": 176,
+      "starsInPeriod": 90
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 404,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 628,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12488,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5955,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "pion",
+      "name": "webrtc",
+      "href": "https://github.com/pion/webrtc",
+      "description": "Pure Go implementation of the WebRTC API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 346,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 482,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 745,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 788,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6055,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 686,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "aQuaYi",
+      "name": "LeetCode-in-Go",
+      "href": "https://github.com/aQuaYi/LeetCode-in-Go",
+      "description": "Go Solution for LeetCode algorithms problems, 100% coverage.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 533,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "opencontainers",
+      "name": "runc",
+      "href": "https://github.com/opencontainers/runc",
+      "description": "CLI tool for spawning and running containers according to the OCI specification",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1220,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1585,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "docker",
+      "name": "cli",
+      "href": "https://github.com/docker/cli",
+      "description": "The Docker CLI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 948,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "astaxie",
+      "name": "beego",
+      "href": "https://github.com/astaxie/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4669,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "href": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": 0,
+      "forks": 660,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5383,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "julienschmidt",
+      "name": "httprouter",
+      "href": "https://github.com/julienschmidt/httprouter",
+      "description": "A high performance HTTP request router that scales well",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1051,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2656,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "golang-samples",
+      "href": "https://github.com/GoogleCloudPlatform/golang-samples",
+      "description": "Sample apps and code written for Google Cloud in the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 820,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "Jguer",
+      "name": "yay",
+      "href": "https://github.com/Jguer/yay",
+      "description": "Yet another Yogurt - An AUR Helper written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 154,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "opentracing",
+      "name": "opentracing-go",
+      "href": "https://github.com/opentracing/opentracing-go",
+      "description": "OpenTracing API for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 212,
+      "starsInPeriod": 3
+    }
+  ]
+}
