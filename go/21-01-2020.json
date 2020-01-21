@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4024,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1668,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5396,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 633,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9698,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 793,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "daptin",
+      "name": "daptin",
+      "href": "https://github.com/daptin/daptin",
+      "description": "Daptin - GraphQL/JSON-API Headless CMS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 32,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "googleforgames",
+      "name": "agones",
+      "href": "https://github.com/googleforgames/agones",
+      "description": "Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 301,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 705,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "alexellis",
+      "name": "k3sup",
+      "href": "https://github.com/alexellis/k3sup",
+      "description": "k3sup: from Zero to KUBECONFIG in < 1 min 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 83,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "uber",
+      "name": "prototool",
+      "href": "https://github.com/uber/prototool",
+      "description": "Your Swiss Army Knife for Protocol Buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 217,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cjbassi",
+      "name": "gotop",
+      "href": "https://github.com/cjbassi/gotop",
+      "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+      "language": "Go",
+      "stars": 0,
+      "forks": 246,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "aws",
+      "name": "amazon-vpc-cni-k8s",
+      "href": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 291,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2163,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4917,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "rebuy-de",
+      "name": "aws-nuke",
+      "href": "https://github.com/rebuy-de/aws-nuke",
+      "description": "Nuke a whole AWS account and delete all its resources.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 146,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2896,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "href": "https://github.com/DataDog/datadog-agent",
+      "description": "Datadog Agent",
+      "language": "Go",
+      "stars": 0,
+      "forks": 374,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "volatiletech",
+      "name": "sqlboiler",
+      "href": "https://github.com/volatiletech/sqlboiler",
+      "description": "Generate a Go ORM tailored to your database schema.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 255,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "zalando",
+      "name": "postgres-operator",
+      "href": "https://github.com/zalando/postgres-operator",
+      "description": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 176,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "tendermint",
+      "name": "tendermint",
+      "href": "https://github.com/tendermint/tendermint",
+      "description": "⟁ Tendermint Core (BFT Consensus) in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1055,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hacklcx",
+      "name": "HFish",
+      "href": "https://github.com/hacklcx/HFish",
+      "description": "Extend the enterprise security test open source honeypot system , Record hacker attacks. 扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段",
+      "language": "Go",
+      "stars": 0,
+      "forks": 242,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1286,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 692,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1572,
+      "starsInPeriod": 19
+    }
+  ]
+}
