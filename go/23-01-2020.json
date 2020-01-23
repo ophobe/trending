@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "projectdiscovery",
+      "name": "naabu",
+      "href": "https://github.com/projectdiscovery/naabu",
+      "description": "A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3900,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 698,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2590,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "gdrive-org",
+      "name": "gdrive",
+      "href": "https://github.com/gdrive-org/gdrive",
+      "description": "Google Drive CLI Client",
+      "language": "Go",
+      "stars": 0,
+      "forks": 756,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 728,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2714,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1213,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "pusher",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/pusher/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 277,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "ThreeDotsLabs",
+      "name": "watermill",
+      "href": "https://github.com/ThreeDotsLabs/watermill",
+      "description": "Building event-driven applications the easy way in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 84,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5406,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 0,
+      "forks": 258,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "42wim",
+      "name": "matterbridge",
+      "href": "https://github.com/42wim/matterbridge",
+      "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocket.chat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API (mattermost not required!)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 222,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "href": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 424,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd2",
+      "href": "https://github.com/linkerd/linkerd2",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 480,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "dunglas",
+      "name": "vulcain",
+      "href": "https://github.com/dunglas/vulcain",
+      "description": "Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 51,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "href": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML processor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 128,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "go-delve",
+      "name": "delve",
+      "href": "https://github.com/go-delve/delve",
+      "description": "Delve is a debugger for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1239,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "API-aware Networking and Security using eBPF and XDP",
+      "language": "Go",
+      "stars": 0,
+      "forks": 516,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "okteto",
+      "name": "okteto",
+      "href": "https://github.com/okteto/okteto",
+      "description": "Build better applications by developing and testing your code directly in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 57,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "krew",
+      "href": "https://github.com/kubernetes-sigs/krew",
+      "description": "📦 Find and install kubectl plugins",
+      "language": "Go",
+      "stars": 0,
+      "forks": 131,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1009,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "elastic",
+      "name": "cloud-on-k8s",
+      "href": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 138,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "linuxkit",
+      "name": "linuxkit",
+      "href": "https://github.com/linuxkit/linuxkit",
+      "description": "A toolkit for building secure, portable and lean operating systems for containers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 744,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 995,
+      "starsInPeriod": 9
+    }
+  ]
+}
