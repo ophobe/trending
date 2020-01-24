@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "mozilla",
+      "name": "sops",
+      "href": "https://github.com/mozilla/sops",
+      "description": "Simple and flexible tool for managing secrets",
+      "language": "Go",
+      "stars": 0,
+      "forks": 246,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3113,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 700,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "runatlantis",
+      "name": "atlantis",
+      "href": "https://github.com/runatlantis/atlantis",
+      "description": "Terraform Pull Request Automation",
+      "language": "Go",
+      "stars": 0,
+      "forks": 276,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 270,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "naabu",
+      "href": "https://github.com/projectdiscovery/naabu",
+      "description": "A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4926,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "octarinesec",
+      "name": "kube-scan",
+      "href": "https://github.com/octarinesec/kube-scan",
+      "description": "kube-scan: Octarine k8s cluster risk assessment tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7,
+      "starsInPeriod": 81
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "href": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": 0,
+      "forks": 251,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "skaffold",
+      "href": "https://github.com/GoogleContainerTools/skaffold",
+      "description": "Easy and Repeatable Kubernetes Development",
+      "language": "Go",
+      "stars": 0,
+      "forks": 827,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3324,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12602,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "href": "https://github.com/aquasecurity/trivy",
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 266,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "cortexproject",
+      "name": "cortex",
+      "href": "https://github.com/cortexproject/cortex",
+      "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 281,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1133,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "linuxkit",
+      "name": "linuxkit",
+      "href": "https://github.com/linuxkit/linuxkit",
+      "description": "A toolkit for building secure, portable and lean operating systems for containers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 744,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tektoncd",
+      "name": "pipeline",
+      "href": "https://github.com/tektoncd/pipeline",
+      "description": "A K8s-native Pipeline resource.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 637,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "gophish",
+      "name": "gophish",
+      "href": "https://github.com/gophish/gophish",
+      "description": "Open-Source Phishing Toolkit",
+      "language": "Go",
+      "stars": 0,
+      "forks": 745,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "t94j0",
+      "name": "satellite",
+      "href": "https://github.com/t94j0/satellite",
+      "description": "easy-to-use payload hosting",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "goadesign",
+      "name": "goa",
+      "href": "https://github.com/goadesign/goa",
+      "description": "Design-based APIs and microservices in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 420,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4108,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "href": "https://github.com/kubernetes/ingress-nginx",
+      "description": "NGINX Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3181,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 441,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hashicorp",
+      "name": "hcl",
+      "href": "https://github.com/hashicorp/hcl",
+      "description": "HCL is the HashiCorp configuration language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 269,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 415,
+      "starsInPeriod": 4
+    }
+  ]
+}
