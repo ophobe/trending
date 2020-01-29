@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 0,
+      "forks": 352,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "umputun",
+      "name": "remark",
+      "href": "https://github.com/umputun/remark",
+      "description": "comment engine",
+      "language": "Go",
+      "stars": 0,
+      "forks": 133,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1043,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "atredispartners",
+      "name": "flamingo",
+      "href": "https://github.com/atredispartners/flamingo",
+      "description": "Flamingo captures credentials sprayed across the network by various IT and security products.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15,
+      "starsInPeriod": 58
+    },
+    {
+      "author": "golang",
+      "name": "groupcache",
+      "href": "https://github.com/golang/groupcache",
+      "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 959,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "href": "https://github.com/aquasecurity/trivy",
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 268,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1880,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 741,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "openshift",
+      "name": "installer",
+      "href": "https://github.com/openshift/installer",
+      "description": "Install an OpenShift cluster",
+      "language": "Go",
+      "stars": 0,
+      "forks": 572,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "href": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 682,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "concourse",
+      "name": "concourse",
+      "href": "https://github.com/concourse/concourse",
+      "description": "Concourse is a container-based continuous thing-doer written in Go and Elm.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 576,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 629,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 446,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "pusher",
+      "name": "oauth2_proxy",
+      "href": "https://github.com/pusher/oauth2_proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 280,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1028,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2173,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12652,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1963,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1392,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 0,
+      "forks": 236,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2065,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "satori",
+      "name": "go.uuid",
+      "href": "https://github.com/satori/go.uuid",
+      "description": "UUID package for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 465,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 906,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "metrics-server",
+      "href": "https://github.com/kubernetes-sigs/metrics-server",
+      "description": "Cluster-wide aggregator of resource usage data.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 536,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "direnv",
+      "name": "direnv",
+      "href": "https://github.com/direnv/direnv",
+      "description": "unclutter your .profile",
+      "language": "Go",
+      "stars": 0,
+      "forks": 289,
+      "starsInPeriod": 9
+    }
+  ]
+}
