@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "href": "https://github.com/aquasecurity/trivy",
+      "description": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 269,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9741,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "href": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": 0,
+      "forks": 103,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "sylabs",
+      "name": "singularity",
+      "href": "https://github.com/sylabs/singularity",
+      "description": "Singularity: Application containers for Linux",
+      "language": "Go",
+      "stars": 0,
+      "forks": 329,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3364,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "google",
+      "name": "go-github",
+      "href": "https://github.com/google/go-github",
+      "description": "Go library for accessing the GitHub API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1218,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1593,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "metrics-server",
+      "href": "https://github.com/kubernetes-sigs/metrics-server",
+      "description": "Cluster-wide aggregator of resource usage data.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 538,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ColetteContreras",
+      "name": "v2ray-poseidon",
+      "href": "https://github.com/ColetteContreras/v2ray-poseidon",
+      "description": "A buildin V2ray plugin for SSRPanel, V2board and SSPanel-v3-Uim to sync users from database to v2ray, to log traffics/system info",
+      "language": "Go",
+      "stars": 0,
+      "forks": 136,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2987,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 709,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 22239,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "mickael-kerjean",
+      "name": "filestash",
+      "href": "https://github.com/mickael-kerjean/filestash",
+      "description": "🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
+      "language": "Go",
+      "stars": 0,
+      "forks": 133,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "atredispartners",
+      "name": "flamingo",
+      "href": "https://github.com/atredispartners/flamingo",
+      "description": "Flamingo captures credentials sprayed across the network by various IT and security products.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3166,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 831,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1234,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "deviceplane",
+      "name": "deviceplane",
+      "href": "https://github.com/deviceplane/deviceplane",
+      "description": "Open source device management for embedded systems and edge computing",
+      "language": "Go",
+      "stars": 0,
+      "forks": 61,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 0,
+      "forks": 331,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "weaveworks",
+      "name": "flagger",
+      "href": "https://github.com/weaveworks/flagger",
+      "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 158,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1077,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16226,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1344,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "href": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": 0,
+      "forks": 513,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2722,
+      "starsInPeriod": 13
+    }
+  ]
+}
