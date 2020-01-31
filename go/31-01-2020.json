@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12703,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 259,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 22252,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework https://go-micro.dev",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1180,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1597,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kiali",
+      "name": "kiali",
+      "href": "https://github.com/kiali/kiali",
+      "description": "Kiali project, observability for the Istio service mesh",
+      "language": "Go",
+      "stars": 0,
+      "forks": 223,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kata-containers",
+      "name": "runtime",
+      "href": "https://github.com/kata-containers/runtime",
+      "description": "Kata Containers runtime",
+      "language": "Go",
+      "stars": 0,
+      "forks": 306,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1967,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 632,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "esimov",
+      "name": "caire",
+      "href": "https://github.com/esimov/caire",
+      "description": "Content aware image resize library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 332,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "docker",
+      "name": "machine",
+      "href": "https://github.com/docker/machine",
+      "description": "Machine management for a container-centric world",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1655,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "the GitHub CLI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 8,
+      "starsInPeriod": 187
+    },
+    {
+      "author": "ozankasikci",
+      "name": "vim-man",
+      "href": "https://github.com/ozankasikci/vim-man",
+      "description": "A terminal based game that teaches you how to use Vim.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 8,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 798,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "golang-samples",
+      "href": "https://github.com/GoogleCloudPlatform/golang-samples",
+      "description": "Sample apps and code written for Google Cloud in the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 837,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "href": "https://github.com/aquasecurity/kube-bench",
+      "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+      "language": "Go",
+      "stars": 0,
+      "forks": 360,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5424,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "drone",
+      "name": "drone",
+      "href": "https://github.com/drone/drone",
+      "description": "Drone is a Container-Native, Continuous Delivery Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2003,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "alexellis",
+      "name": "k3sup",
+      "href": "https://github.com/alexellis/k3sup",
+      "description": "from Zero to KUBECONFIG in < 1 min 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 90,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "href": "https://github.com/sqshq/sampler",
+      "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 355,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "kaniko",
+      "href": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 481,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "href": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 685,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5461,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "appleboy",
+      "name": "gorush",
+      "href": "https://github.com/appleboy/gorush",
+      "description": "A push notification server written in Go (Golang).",
+      "language": "Go",
+      "stars": 0,
+      "forks": 458,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "href": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": 0,
+      "forks": 418,
+      "starsInPeriod": 5
+    }
+  ]
+}
