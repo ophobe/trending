@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 692,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "jaemk",
+      "name": "self_update",
+      "href": "https://github.com/jaemk/self_update",
+      "description": "Self updates for rust executables",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 15,
+      "starsInPeriod": 112
+    },
+    {
+      "author": "paritytech",
+      "name": "parity-ethereum",
+      "href": "https://github.com/paritytech/parity-ethereum",
+      "description": "The fast, light, and robust EVM and WASM client.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1428,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "href": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1327,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "ggez",
+      "name": "ggez",
+      "href": "https://github.com/ggez/ggez",
+      "description": "Rust library to create a Good Game Easily",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 257,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 226,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 554,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "xacrimon",
+      "name": "dashmap",
+      "href": "https://github.com/xacrimon/dashmap",
+      "description": "Blazing fast concurrent HashMap for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 12,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 304,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Serve the web – HTTP server framework",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 142,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 78,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "nix-rust",
+      "name": "nix",
+      "href": "https://github.com/nix-rust/nix",
+      "description": "Rust friendly bindings to *nix APIs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 318,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The cross-shell prompt for astronauts",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 248,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "tokio-rs",
+      "name": "mio",
+      "href": "https://github.com/tokio-rs/mio",
+      "description": "Metal IO library for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 415,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "oreboot",
+      "name": "oreboot",
+      "href": "https://github.com/oreboot/oreboot",
+      "description": "oreboot is a fork of coreboot, with C removed, written in Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 31,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "redox-os",
+      "name": "orbtk",
+      "href": "https://github.com/redox-os/orbtk",
+      "description": "The Rust UI-Toolkit.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 92,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "not-fl3",
+      "name": "miniquad",
+      "href": "https://github.com/not-fl3/miniquad",
+      "description": "OpenGL wrapper for the Rust language",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "tock",
+      "name": "tock",
+      "href": "https://github.com/tock/tock",
+      "description": "A secure embedded operating system for microcontrollers",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 226,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 183,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "gfx-rs",
+      "name": "gfx",
+      "href": "https://github.com/gfx-rs/gfx",
+      "description": "A low-overhead Vulkan-like GPU API for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 420,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 6448,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2307,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "federico-terzi",
+      "name": "espanso",
+      "href": "https://github.com/federico-terzi/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 15,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "Nukesor",
+      "name": "pueue",
+      "href": "https://github.com/Nukesor/pueue",
+      "description": "🌠 A daemon for managing long running shell commands.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 11,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "micro-http",
+      "href": "https://github.com/firecracker-microvm/micro-http",
+      "description": "A minimal HTTP implementation used by Firecracker",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2,
+      "starsInPeriod": 0
+    }
+  ]
+}
