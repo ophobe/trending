@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes. 5 less than k8s.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 799,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5463,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 22263,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "cri-o",
+      "name": "cri-o",
+      "href": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "language": "Go",
+      "stars": 0,
+      "forks": 399,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kiali",
+      "name": "kiali",
+      "href": "https://github.com/kiali/kiali",
+      "description": "Kiali project, observability for the Istio service mesh",
+      "language": "Go",
+      "stars": 0,
+      "forks": 223,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "the GitHub CLI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13,
+      "starsInPeriod": 98
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16234,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2179,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 0,
+      "forks": 689,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 761,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 0,
+      "forks": 502,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12706,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "ehang-io",
+      "name": "nps",
+      "href": "https://github.com/ehang-io/nps",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1710,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 259,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "pingcap",
+      "name": "chaos-mesh",
+      "href": "https://github.com/pingcap/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 68,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1182,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 362,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1599,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "golang",
+      "name": "tools",
+      "href": "https://github.com/golang/tools",
+      "description": "[mirror] Go Tools",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1255,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "banzaicloud",
+      "name": "bank-vaults",
+      "href": "https://github.com/banzaicloud/bank-vaults",
+      "description": "A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 178,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 709,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "fluxcd",
+      "name": "helm-operator",
+      "href": "https://github.com/fluxcd/helm-operator",
+      "description": "The Flux Helm Operator, for declarative Helming",
+      "language": "Go",
+      "stars": 0,
+      "forks": 59,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "micro",
+      "name": "micro",
+      "href": "https://github.com/micro/micro",
+      "description": "A microservice runtime environment",
+      "language": "Go",
+      "stars": 0,
+      "forks": 628,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "github",
+      "name": "hub",
+      "href": "https://github.com/github/hub",
+      "description": "A command-line tool that makes git easier to use with GitHub.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1967,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "pressly",
+      "name": "goose",
+      "href": "https://github.com/pressly/goose",
+      "description": "Goose database migration tool - fork of https://bitbucket.org/liamstask/goose",
+      "language": "Go",
+      "stars": 0,
+      "forks": 199,
+      "starsInPeriod": 3
+    }
+  ]
+}
