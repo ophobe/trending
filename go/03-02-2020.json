@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 247,
+      "starsInPeriod": 98
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "the GitHub CLI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 19,
+      "starsInPeriod": 216
+    },
+    {
+      "author": "go-delve",
+      "name": "delve",
+      "href": "https://github.com/go-delve/delve",
+      "description": "Delve is a debugger for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1248,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6096,
+      "starsInPeriod": 88
+    },
+    {
+      "author": "inlets",
+      "name": "inlets",
+      "href": "https://github.com/inlets/inlets",
+      "description": "Reverse proxy and service tunnel written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 294,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9763,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6049,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "docker",
+      "name": "libnetwork",
+      "href": "https://github.com/docker/libnetwork",
+      "description": "networking for containers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 787,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "href": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 316,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3167,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2261,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 411,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10204,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "hunterlong",
+      "name": "statping",
+      "href": "https://github.com/hunterlong/statping",
+      "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 151,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "google",
+      "name": "ko",
+      "href": "https://github.com/google/ko",
+      "description": "Build and deploy Go applications on Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 92,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "adonovan",
+      "name": "gopl.io",
+      "href": "https://github.com/adonovan/gopl.io",
+      "description": "Example programs from \"The Go Programming Language\"",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1541,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4324,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "naabu",
+      "href": "https://github.com/projectdiscovery/naabu",
+      "description": "A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+      "language": "Go",
+      "stars": 0,
+      "forks": 28,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1500,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 869,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "A Go microservices development framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1184,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "inancgumus",
+      "name": "learngo",
+      "href": "https://github.com/inancgumus/learngo",
+      "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 186,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "chromedp",
+      "name": "chromedp",
+      "href": "https://github.com/chromedp/chromedp",
+      "description": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 361,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "zserge",
+      "name": "lorca",
+      "href": "https://github.com/zserge/lorca",
+      "description": "Build cross-platform modern desktop apps in Go + HTML5",
+      "language": "Go",
+      "stars": 0,
+      "forks": 202,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Go",
+      "href": "https://github.com/TheAlgorithms/Go",
+      "description": "Algorithms Implemented in GoLang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 436,
+      "starsInPeriod": 6
+    }
+  ]
+}
