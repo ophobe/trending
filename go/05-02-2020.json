@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3380,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2018,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10213,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "golang",
+      "name": "dep",
+      "href": "https://github.com/golang/dep",
+      "description": "Go dependency management tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1086,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4952,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 430,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "href": "https://github.com/DataDog/datadog-agent",
+      "description": "Datadog Agent",
+      "language": "Go",
+      "stars": 0,
+      "forks": 382,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "goproxy",
+      "name": "goproxy.cn",
+      "href": "https://github.com/goproxy/goproxy.cn",
+      "description": "The most trusted Go module proxy in China.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 166,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1579,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5475,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 657,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "smallstep",
+      "name": "certificates",
+      "href": "https://github.com/smallstep/certificates",
+      "description": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 80,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "openfaas",
+      "name": "faas",
+      "href": "https://github.com/openfaas/faas",
+      "description": "OpenFaaS - Serverless Functions Made Simple",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1375,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "kyleconroy",
+      "name": "sqlc",
+      "href": "https://github.com/kyleconroy/sqlc",
+      "description": "Generate type safe Go from SQL",
+      "language": "Go",
+      "stars": 0,
+      "forks": 54,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 0,
+      "forks": 407,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 0,
+      "forks": 920,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4051,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "href": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1241,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "onsi",
+      "name": "ginkgo",
+      "href": "https://github.com/onsi/ginkgo",
+      "description": "BDD Testing Framework for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 352,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "href": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": 0,
+      "forks": 277,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "href": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1060,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6129,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1395,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1305,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4677,
+      "starsInPeriod": 33
+    }
+  ]
+}
