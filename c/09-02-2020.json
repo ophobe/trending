@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 0,
+      "forks": 6366,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 0,
+      "forks": 30144,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "cstack",
+      "name": "db_tutorial",
+      "href": "https://github.com/cstack/db_tutorial",
+      "description": "Writing a sqlite clone from scratch in C",
+      "language": "C",
+      "stars": 0,
+      "forks": 357,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "href": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": 0,
+      "forks": 3263,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd",
+      "href": "https://github.com/freebsd/freebsd",
+      "description": "FreeBSD src tree (read-only mirror)",
+      "language": "C",
+      "stars": 0,
+      "forks": 1854,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "href": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": 0,
+      "forks": 1938,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 0,
+      "forks": 3650,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C",
+      "href": "https://github.com/TheAlgorithms/C",
+      "description": "All Algorithms implemented in C",
+      "language": "C",
+      "stars": 0,
+      "forks": 1342,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "meetecho",
+      "name": "janus-gateway",
+      "href": "https://github.com/meetecho/janus-gateway",
+      "description": "Janus WebRTC Server",
+      "language": "C",
+      "stars": 0,
+      "forks": 1221,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "universal-ctags",
+      "name": "ctags",
+      "href": "https://github.com/universal-ctags/ctags",
+      "description": "A maintained ctags implementation",
+      "language": "C",
+      "stars": 0,
+      "forks": 357,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "href": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": 0,
+      "forks": 2041,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "remzi-arpacidusseau",
+      "name": "ostep-projects",
+      "href": "https://github.com/remzi-arpacidusseau/ostep-projects",
+      "description": "Projects for an undergraduate OS course",
+      "language": "C",
+      "stars": 0,
+      "forks": 226,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "AppImage",
+      "name": "AppImageKit",
+      "href": "https://github.com/AppImage/AppImageKit",
+      "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net",
+      "language": "C",
+      "stars": 0,
+      "forks": 343,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "href": "https://github.com/cesanta/mongoose",
+      "description": "Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.",
+      "language": "C",
+      "stars": 0,
+      "forks": 1780,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Tencent",
+      "name": "xLua",
+      "href": "https://github.com/Tencent/xLua",
+      "description": "xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+      "language": "C",
+      "stars": 0,
+      "forks": 1682,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 0,
+      "forks": 2399,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "videolan",
+      "name": "vlc",
+      "href": "https://github.com/videolan/vlc",
+      "description": "VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",
+      "language": "C",
+      "stars": 0,
+      "forks": 2136,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "href": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": 0,
+      "forks": 11405,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "alibaba",
+      "name": "AliOS-Things",
+      "href": "https://github.com/alibaba/AliOS-Things",
+      "description": "AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.0.0. Please go to https://aliosthings.iot.aliyun.com to get your minimal code.",
+      "language": "C",
+      "stars": 0,
+      "forks": 1309,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "href": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": 0,
+      "forks": 3149,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "shadowsocks",
+      "name": "simple-obfs",
+      "href": "https://github.com/shadowsocks/simple-obfs",
+      "description": "A simple obfuscating tool (Deprecated)",
+      "language": "C",
+      "stars": 0,
+      "forks": 499,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "offensive-security",
+      "name": "exploitdb",
+      "href": "https://github.com/offensive-security/exploitdb",
+      "description": "The official Exploit Database repository",
+      "language": "C",
+      "stars": 0,
+      "forks": 1400,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "postgres",
+      "name": "postgres",
+      "href": "https://github.com/postgres/postgres",
+      "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
+      "language": "C",
+      "stars": 0,
+      "forks": 2107,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "href": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": 0,
+      "forks": 354,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "jarun",
+      "name": "nnn",
+      "href": "https://github.com/jarun/nnn",
+      "description": "🐬 The missing terminal file manager for X.",
+      "language": "C",
+      "stars": 0,
+      "forks": 284,
+      "starsInPeriod": 7
+    }
+  ]
+}
