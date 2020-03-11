@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "geektutu",
+      "name": "7days-golang",
+      "href": "https://github.com/geektutu/7days-golang",
+      "description": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+      "language": "Go",
+      "stars": 0,
+      "forks": 257,
+      "starsInPeriod": 193
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 464,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 773,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1064,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1162,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 0,
+      "forks": 633,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1930,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1428,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "EasyDarwin",
+      "name": "EasyDarwin",
+      "href": "https://github.com/EasyDarwin/EasyDarwin",
+      "description": "open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基…",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1580,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9960,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "kaniko",
+      "href": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 517,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1065,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "cluster-api",
+      "href": "https://github.com/kubernetes-sigs/cluster-api",
+      "description": "Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle",
+      "language": "Go",
+      "stars": 0,
+      "forks": 386,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "smartystreets",
+      "name": "goconvey",
+      "href": "https://github.com/smartystreets/goconvey",
+      "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 414,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "weaveworks",
+      "name": "scope",
+      "href": "https://github.com/weaveworks/scope",
+      "description": "Monitoring, visualisation & management for Docker & Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 530,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "pion",
+      "name": "webrtc",
+      "href": "https://github.com/pion/webrtc",
+      "description": "Pure Go implementation of the WebRTC API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 380,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "aws-alb-ingress-controller",
+      "href": "https://github.com/kubernetes-sigs/aws-alb-ingress-controller",
+      "description": "AWS ALB Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 472,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1358,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "href": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": 0,
+      "forks": 550,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 468,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5037,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "elastic",
+      "name": "cloud-on-k8s",
+      "href": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 168,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3022,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 932,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3585,
+      "starsInPeriod": 8
+    }
+  ]
+}
