@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "bottlerocket-os",
+      "name": "bottlerocket",
+      "href": "https://github.com/bottlerocket-os/bottlerocket",
+      "description": "An operating system designed for hosting containers",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 62,
+      "starsInPeriod": 1092
+    },
+    {
+      "author": "ajeetdsouza",
+      "name": "zoxide",
+      "href": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A fast cd command that learns your habits",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 16,
+      "starsInPeriod": 97
+    },
+    {
+      "author": "denisidoro",
+      "name": "navi",
+      "href": "https://github.com/denisidoro/navi",
+      "description": "An interactive cheatsheet tool for the command-line",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 283,
+      "starsInPeriod": 250
+    },
+    {
+      "author": "eliassjogreen",
+      "name": "deno_webview",
+      "href": "https://github.com/eliassjogreen/deno_webview",
+      "description": "Deno bindings for webview, a tiny library for creating web-based desktop GUIs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 494,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 545,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "google",
+      "name": "OpenSK",
+      "href": "https://github.com/google/OpenSK",
+      "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 105,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "href": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 288,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "graphql-rust",
+      "name": "juniper",
+      "href": "https://github.com/graphql-rust/juniper",
+      "description": "GraphQL server library for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 196,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustup",
+      "href": "https://github.com/rust-lang/rustup",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 475,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 192,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2104,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 153,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "href": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 824,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 271,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "etsy",
+      "name": "Evokit",
+      "href": "https://github.com/etsy/Evokit",
+      "description": null,
+      "language": "Rust",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "svenstaro",
+      "name": "miniserve",
+      "href": "https://github.com/svenstaro/miniserve",
+      "description": "🌟 For when you really just want to serve some files over HTTP right now!",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 36,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "matthiaskrgr",
+      "name": "cargo-cache",
+      "href": "https://github.com/matthiaskrgr/cargo-cache",
+      "description": "manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 3,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 6555,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 86,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "bootandy",
+      "name": "dust",
+      "href": "https://github.com/bootandy/dust",
+      "description": "A more intuitive version of du in rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 24,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "ogham",
+      "name": "exa",
+      "href": "https://github.com/ogham/exa",
+      "description": "A modern version of ‘ls’.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 277,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "dalance",
+      "name": "procs",
+      "href": "https://github.com/dalance/procs",
+      "description": "A modern replacement for ps written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 11,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "xacrimon",
+      "name": "dashmap",
+      "href": "https://github.com/xacrimon/dashmap",
+      "description": "Blazing fast concurrent HashMap for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 17,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "imsnif",
+      "name": "bandwhich",
+      "href": "https://github.com/imsnif/bandwhich",
+      "description": "Terminal bandwidth utilization tool",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 129,
+      "starsInPeriod": 17
+    }
+  ]
+}
