@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1033,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5623,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3070,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4053,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "maxence-charriere",
+      "name": "go-app",
+      "href": "https://github.com/maxence-charriere/go-app",
+      "description": "A package to build progressive web apps with Go programming language and WebAssembly.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 154,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1429,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1653,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "chubaofs",
+      "name": "chubaofs",
+      "href": "https://github.com/chubaofs/chubaofs",
+      "description": "A distributed file system and object store for cloud native applications towards disaggregated compute and storage.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 170,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Universal code search and navigation tool (self-hosted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 322,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "dgraph-io",
+      "name": "dgraph",
+      "href": "https://github.com/dgraph-io/dgraph",
+      "description": "Fast, Distributed Graph DB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 899,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "patrickmn",
+      "name": "go-cache",
+      "href": "https://github.com/patrickmn/go-cache",
+      "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 479,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "href": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 671,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "panjf2000",
+      "name": "ants",
+      "href": "https://github.com/panjf2000/ants",
+      "description": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 395,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1459,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "mailru",
+      "name": "easyjson",
+      "href": "https://github.com/mailru/easyjson",
+      "description": "Fast JSON serializer for golang.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 257,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 658,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "href": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 84,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4200,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2722,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9343,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2025,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 298,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 774,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-lifecycle-manager",
+      "href": "https://github.com/operator-framework/operator-lifecycle-manager",
+      "description": "A management framework for extending Kubernetes with Operators",
+      "language": "Go",
+      "stars": 0,
+      "forks": 257,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 890,
+      "starsInPeriod": 4
+    }
+  ]
+}
