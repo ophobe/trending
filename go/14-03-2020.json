@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "micro-in-cn",
+      "name": "tutorials",
+      "href": "https://github.com/micro-in-cn/tutorials",
+      "description": "Micro 中文示例、教程、资料，源码解读",
+      "language": "Go",
+      "stars": 0,
+      "forks": 215,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1459,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6353,
+      "starsInPeriod": 58
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 890,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 416,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "chubaofs",
+      "name": "chubaofs",
+      "href": "https://github.com/chubaofs/chubaofs",
+      "description": "A distributed file system and object store for cloud native applications towards disaggregated compute and storage.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 170,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1100,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 299,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "arduino",
+      "name": "arduino-cli",
+      "href": "https://github.com/arduino/arduino-cli",
+      "description": "Arduino command line interface",
+      "language": "Go",
+      "stars": 0,
+      "forks": 161,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "patrickmn",
+      "name": "go-cache",
+      "href": "https://github.com/patrickmn/go-cache",
+      "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 478,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9979,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "mailru",
+      "name": "easyjson",
+      "href": "https://github.com/mailru/easyjson",
+      "description": "Fast JSON serializer for golang.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 257,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Container Runtime Sandbox",
+      "language": "Go",
+      "stars": 0,
+      "forks": 677,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 0,
+      "forks": 527,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "href": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 161,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "href": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 84,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 658,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "nginxinc",
+      "name": "kubernetes-ingress",
+      "href": "https://github.com/nginxinc/kubernetes-ingress",
+      "description": "NGINX and NGINX Plus Ingress Controllers for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1005,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system, to store and serve billions of files fast! SeaweedFS implements an object store with O(1) disk seek, transparent cloud integration, and an optional Filer with POSIX interface, supporting S3 API, encryption, Rack-Aware Erasure Coding for warm storage, FUSE mount, Hadoop compatible…",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1244,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1199,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1983,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "jasonlvhit",
+      "name": "gocron",
+      "href": "https://github.com/jasonlvhit/gocron",
+      "description": "A Golang Job Scheduling Package.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 258,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "href": "https://github.com/DataDog/datadog-agent",
+      "description": "Datadog Agent",
+      "language": "Go",
+      "stars": 0,
+      "forks": 405,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "href": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": 0,
+      "forks": 527,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "panjf2000",
+      "name": "ants",
+      "href": "https://github.com/panjf2000/ants",
+      "description": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 396,
+      "starsInPeriod": 21
+    }
+  ]
+}
