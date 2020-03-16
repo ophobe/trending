@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "operator-framework",
+      "name": "operator-lifecycle-manager",
+      "href": "https://github.com/operator-framework/operator-lifecycle-manager",
+      "description": "A management framework for extending Kubernetes with Operators",
+      "language": "Go",
+      "stars": 0,
+      "forks": 287,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "OJ",
+      "name": "gobuster",
+      "href": "https://github.com/OJ/gobuster",
+      "description": "Directory/File, DNS and VHost busting tool written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 491,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+      "language": "Go",
+      "stars": 0,
+      "forks": 581,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "href": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 0,
+      "forks": 532,
+      "starsInPeriod": 75
+    },
+    {
+      "author": "aceld",
+      "name": "zinx",
+      "href": "https://github.com/aceld/zinx",
+      "description": "基于Golang轻量级TCP并发服务器框架",
+      "language": "Go",
+      "stars": 0,
+      "forks": 343,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1174,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "similarweb",
+      "name": "statusbay",
+      "href": "https://github.com/similarweb/statusbay",
+      "description": "Kubernetes deployment visibility like a pro",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 970,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "pingcap",
+      "name": "chaos-mesh",
+      "href": "https://github.com/pingcap/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 90,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3213,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1549,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "urfave",
+      "name": "negroni",
+      "href": "https://github.com/urfave/negroni",
+      "description": "Idiomatic HTTP Middleware for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 533,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "href": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 681,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 606,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, multi-platform web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2218,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 858,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "monitoror",
+      "name": "monitoror",
+      "href": "https://github.com/monitoror/monitoror",
+      "description": "Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 52,
+      "starsInPeriod": 64
+    },
+    {
+      "author": "peterq",
+      "name": "pan-light",
+      "href": "https://github.com/peterq/pan-light",
+      "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2258,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4805,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "gwuhaolin",
+      "name": "lightsocks",
+      "href": "https://github.com/gwuhaolin/lightsocks",
+      "description": "⚡️一个轻巧的网络混淆代理🌏",
+      "language": "Go",
+      "stars": 0,
+      "forks": 739,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "dnote",
+      "name": "dnote",
+      "href": "https://github.com/dnote/dnote",
+      "description": "A simple command line notebook for programmers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 60,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "wenjianzhang",
+      "name": "go-admin",
+      "href": "https://github.com/wenjianzhang/go-admin",
+      "description": "基于Gin + Vue + Element UI的前后端分离权限管理系统",
+      "language": "Go",
+      "stars": 0,
+      "forks": 11,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "oragono",
+      "name": "oragono",
+      "href": "https://github.com/oragono/oragono",
+      "description": "A modern IRC server (daemon/ircd) written in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 54,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 0,
+      "forks": 351,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "reviewdog",
+      "name": "reviewdog",
+      "href": "https://github.com/reviewdog/reviewdog",
+      "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 97,
+      "starsInPeriod": 10
+    }
+  ]
+}
