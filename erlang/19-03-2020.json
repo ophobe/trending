@@ -1,0 +1,24 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-management",
+      "href": "https://github.com/rabbitmq/rabbitmq-management",
+      "description": "RabbitMQ Management UI and HTTP API",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 144,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-prometheus",
+      "href": "https://github.com/rabbitmq/rabbitmq-prometheus",
+      "description": "An up-and-coming minimalistic Prometheus exporter for core (unaggregated) RabbitMQ metrics",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 40,
+      "starsInPeriod": 2
+    }
+  ]
+}
