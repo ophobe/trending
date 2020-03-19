@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 976,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 196,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "A data-first Rust-native UI design toolkit.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 109,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-lang",
+      "name": "crates.io",
+      "href": "https://github.com/rust-lang/crates.io",
+      "description": "Source code for crates.io",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 355,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 633,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "href": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1021,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1009,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 318,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "openethereum",
+      "name": "openethereum",
+      "href": "https://github.com/openethereum/openethereum",
+      "description": "Fast and feature-rich multi-network Ethereum client.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1449,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 370,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "gluon-lang",
+      "name": "gluon",
+      "href": "https://github.com/gluon-lang/gluon",
+      "description": "A static, type inferred and embeddable language written in Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 107,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "bvaisvil",
+      "name": "zenith",
+      "href": "https://github.com/bvaisvil/zenith",
+      "description": "Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "kaist-cp",
+      "name": "kecc-public",
+      "href": "https://github.com/kaist-cp/kecc-public",
+      "description": "KECC: KAIST Educational C Compiler",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 10,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 578,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rust-qt",
+      "name": "ritual",
+      "href": "https://github.com/rust-qt/ritual",
+      "description": "Use C++ libraries from Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 28,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "href": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 756,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "ipfs-rust",
+      "name": "rust-ipfs",
+      "href": "https://github.com/ipfs-rust/rust-ipfs",
+      "description": "The Interplanetary File System (IPFS), implemented in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 23,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 123,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 350,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 21167,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "meilisearch",
+      "name": "MeiliSearch",
+      "href": "https://github.com/meilisearch/MeiliSearch",
+      "description": "Ultra relevant, instant, and typo-tolerant full-text search API",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 41,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "rust-lang",
+      "name": "futures-rs",
+      "href": "https://github.com/rust-lang/futures-rs",
+      "description": "Zero-cost asynchronous programming in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 407,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "pingcap",
+      "name": "talent-plan",
+      "href": "https://github.com/pingcap/talent-plan",
+      "description": "PingCAP training courses",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 554,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "cdisselkoen",
+      "name": "llvm-ir",
+      "href": "https://github.com/cdisselkoen/llvm-ir",
+      "description": "LLVM IR in natural Rust data structures",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 3,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "flamegraph-rs",
+      "name": "flamegraph",
+      "href": "https://github.com/flamegraph-rs/flamegraph",
+      "description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 32,
+      "starsInPeriod": 5
+    }
+  ]
+}
