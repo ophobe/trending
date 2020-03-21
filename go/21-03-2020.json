@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "href": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 703,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "raphaelreyna",
+      "name": "latte",
+      "href": "https://github.com/raphaelreyna/latte",
+      "description": "Generate PDFs using LaTeX templates and JSON",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5556,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13630,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "go-pg",
+      "name": "pg",
+      "href": "https://github.com/go-pg/pg",
+      "description": "Golang ORM with focus on PostgreSQL features and performance",
+      "language": "Go",
+      "stars": 0,
+      "forks": 280,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "erroneousboat",
+      "name": "slack-term",
+      "href": "https://github.com/erroneousboat/slack-term",
+      "description": "Slack client for your terminal",
+      "language": "Go",
+      "stars": 0,
+      "forks": 176,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2264,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "casbin",
+      "name": "casbin",
+      "href": "https://github.com/casbin/casbin",
+      "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 692,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "appleboy",
+      "name": "gorush",
+      "href": "https://github.com/appleboy/gorush",
+      "description": "A push notification server written in Go (Golang).",
+      "language": "Go",
+      "stars": 0,
+      "forks": 486,
+      "starsInPeriod": 48
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10011,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4073,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5677,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "weaveworks",
+      "name": "flagger",
+      "href": "https://github.com/weaveworks/flagger",
+      "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 184,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "sonobuoy",
+      "href": "https://github.com/vmware-tanzu/sonobuoy",
+      "description": "Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 226,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 988,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "mitchellh",
+      "name": "mapstructure",
+      "href": "https://github.com/mitchellh/mapstructure",
+      "description": "Go library for decoding generic map values into native Go structures.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 354,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2327,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2731,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3979,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3270,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 472,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3044,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1162,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "codeedu",
+      "name": "maratona-microsservico-simulador",
+      "href": "https://github.com/codeedu/maratona-microsservico-simulador",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 17,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gomodule",
+      "name": "redigo",
+      "href": "https://github.com/gomodule/redigo",
+      "description": "Go client for Redis",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1034,
+      "starsInPeriod": 12
+    }
+  ]
+}
