@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "didi",
+      "name": "nightingale",
+      "href": "https://github.com/didi/nightingale",
+      "description": "A Distributed and High-Performance Monitoring System",
+      "language": "Go",
+      "stars": 0,
+      "forks": 125,
+      "starsInPeriod": 198
+    },
+    {
+      "author": "piexlmax",
+      "name": "gin-vue-admin",
+      "href": "https://github.com/piexlmax/gin-vue-admin",
+      "description": "基于gin+gorm+vue搭建的快速后台管理系统模板，包含jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载等基础功能，更多功能正在开发中，欢迎iss，欢迎pr",
+      "language": "Go",
+      "stars": 0,
+      "forks": 136,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "fanux",
+      "name": "sealos",
+      "href": "https://github.com/fanux/sealos",
+      "description": "kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!",
+      "language": "Go",
+      "stars": 0,
+      "forks": 285,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "pion",
+      "name": "ion",
+      "href": "https://github.com/pion/ion",
+      "description": "Distributed RTC System by pure Go and Flutter",
+      "language": "Go",
+      "stars": 0,
+      "forks": 76,
+      "starsInPeriod": 420
+    },
+    {
+      "author": "fluxcd",
+      "name": "helm-operator",
+      "href": "https://github.com/fluxcd/helm-operator",
+      "description": "The Flux Helm operator, for declarative Helming",
+      "language": "Go",
+      "stars": 0,
+      "forks": 90,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "filecoin-project",
+      "name": "lotus",
+      "href": "https://github.com/filecoin-project/lotus",
+      "description": "Implementation of the Filecoin protocol, written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 121,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 852,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4215,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3647,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "senghoo",
+      "name": "golang-design-pattern",
+      "href": "https://github.com/senghoo/golang-design-pattern",
+      "description": "设计模式 Golang实现－《研磨设计模式》读书笔记",
+      "language": "Go",
+      "stars": 0,
+      "forks": 629,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 0,
+      "forks": 304,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3468,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2041,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 0,
+      "forks": 733,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4480,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1530,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "coreos",
+      "name": "prometheus-operator",
+      "href": "https://github.com/coreos/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1860,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rs",
+      "name": "zerolog",
+      "href": "https://github.com/rs/zerolog",
+      "description": "Zero Allocation JSON Logger",
+      "language": "Go",
+      "stars": 0,
+      "forks": 198,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 665,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3059,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "gopasspw",
+      "name": "gopass",
+      "href": "https://github.com/gopasspw/gopass",
+      "description": "The slightly more awesome standard unix password manager for teams",
+      "language": "Go",
+      "stars": 0,
+      "forks": 272,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "API-aware Networking and Security using eBPF and XDP",
+      "language": "Go",
+      "stars": 0,
+      "forks": 563,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes",
+      "name": "community",
+      "href": "https://github.com/kubernetes/community",
+      "description": "Kubernetes community content",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2752,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2272,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10047,
+      "starsInPeriod": 49
+    }
+  ]
+}
