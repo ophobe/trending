@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "micro",
+      "name": "go-micro",
+      "href": "https://github.com/micro/go-micro",
+      "description": "The Go Micro services development framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1273,
+      "starsInPeriod": 68
+    },
+    {
+      "author": "austingebauer",
+      "name": "go-leetcode",
+      "href": "https://github.com/austingebauer/go-leetcode",
+      "description": "A collection of 100+ popular LeetCode problems that I've solved in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 94,
+      "starsInPeriod": 102
+    },
+    {
+      "author": "meshplus",
+      "name": "bitxhub",
+      "href": "https://github.com/meshplus/bitxhub",
+      "description": "Interchain protocol IBTP reference implementation",
+      "language": "Go",
+      "stars": 0,
+      "forks": 8,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2055,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4223,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10070,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13830,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 926,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1501,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3076,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "href": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Service",
+      "language": "Go",
+      "stars": 0,
+      "forks": 92,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2625,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 688,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1137,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 865,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1407,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 432,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23008,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "micro",
+      "name": "go-plugins",
+      "href": "https://github.com/micro/go-plugins",
+      "description": "The community maintained plugins for Micro",
+      "language": "Go",
+      "stars": 0,
+      "forks": 334,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2345,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 0,
+      "forks": 275,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "href": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": 0,
+      "forks": 123,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 756,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5706,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 511,
+      "starsInPeriod": 2
+    }
+  ]
+}
