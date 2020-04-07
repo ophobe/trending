@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1602,
+      "starsInPeriod": 500
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1711,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "href": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 69,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "tj",
+      "name": "gobinaries",
+      "href": "https://github.com/tj/gobinaries",
+      "description": "Golang binaries compiled on-demand for your system",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2297,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 519,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 479,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "oneinfra",
+      "name": "oneinfra",
+      "href": "https://github.com/oneinfra/oneinfra",
+      "description": "Kubernetes as a Service",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "panjf2000",
+      "name": "gnet",
+      "href": "https://github.com/panjf2000/gnet",
+      "description": "🚀gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 213,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "href": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 29,
+      "starsInPeriod": 59
+    },
+    {
+      "author": "volatiletech",
+      "name": "sqlboiler",
+      "href": "https://github.com/volatiletech/sqlboiler",
+      "description": "Generate a Go ORM tailored to your database schema.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 275,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "mickael-kerjean",
+      "name": "filestash",
+      "href": "https://github.com/mickael-kerjean/filestash",
+      "description": "🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
+      "language": "Go",
+      "stars": 0,
+      "forks": 168,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 0,
+      "forks": 315,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23084,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "spark-on-k8s-operator",
+      "href": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator",
+      "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 393,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mozilla",
+      "name": "sops",
+      "href": "https://github.com/mozilla/sops",
+      "description": "Simple and flexible tool for managing secrets",
+      "language": "Go",
+      "stars": 0,
+      "forks": 274,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "aws-alb-ingress-controller",
+      "href": "https://github.com/kubernetes-sigs/aws-alb-ingress-controller",
+      "description": "AWS ALB Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 491,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 403,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "elazarl",
+      "name": "goproxy",
+      "href": "https://github.com/elazarl/goproxy",
+      "description": "An HTTP proxy library for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 723,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13939,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2743,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "yakuter",
+      "name": "gpass",
+      "href": "https://github.com/yakuter/gpass",
+      "description": "gpass is an open source password manager API written with Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "runatlantis",
+      "name": "atlantis",
+      "href": "https://github.com/runatlantis/atlantis",
+      "description": "Terraform Pull Request Automation",
+      "language": "Go",
+      "stars": 0,
+      "forks": 304,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 477,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 811,
+      "starsInPeriod": 8
+    }
+  ]
+}
