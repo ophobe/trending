@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 729,
+      "starsInPeriod": 222
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1628,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23100,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1609,
+      "starsInPeriod": 395
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 479,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 477,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 723,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "fanux",
+      "name": "sealos",
+      "href": "https://github.com/fanux/sealos",
+      "description": "kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!",
+      "language": "Go",
+      "stars": 0,
+      "forks": 307,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1082,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16398,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "href": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML processor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 146,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "snail007",
+      "name": "goproxy",
+      "href": "https://github.com/snail007/goproxy",
+      "description": "Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1719,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 949,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 777,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3494,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10122,
+      "starsInPeriod": 63
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2745,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2132,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3489,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "shomali11",
+      "name": "go-interview",
+      "href": "https://github.com/shomali11/go-interview",
+      "description": "Collection of Technical Interview Questions solved with Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 26,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 812,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "href": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": 0,
+      "forks": 444,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "href": "https://github.com/gorilla/websocket",
+      "description": "A fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1977,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1536,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "cri-o",
+      "name": "cri-o",
+      "href": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "language": "Go",
+      "stars": 0,
+      "forks": 430,
+      "starsInPeriod": 2
+    }
+  ]
+}
