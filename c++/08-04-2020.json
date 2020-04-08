@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "href": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": 0,
+      "forks": 957,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "href": "https://github.com/grpc/grpc",
+      "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 0,
+      "forks": 6349,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "ouyanghuiyu",
+      "name": "chineseocr_lite",
+      "href": "https://github.com/ouyanghuiyu/chineseocr_lite",
+      "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M",
+      "language": "C++",
+      "stars": 0,
+      "forks": 627,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "href": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": 0,
+      "forks": 1843,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "Tencent",
+      "name": "rapidjson",
+      "href": "https://github.com/Tencent/rapidjson",
+      "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "language": "C++",
+      "stars": 0,
+      "forks": 2488,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "librealsense",
+      "href": "https://github.com/IntelRealSense/librealsense",
+      "description": "Intel® RealSense™ SDK",
+      "language": "C++",
+      "stars": 0,
+      "forks": 2565,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "href": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": 0,
+      "forks": 2147,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "href": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 1158,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "href": "https://github.com/google/googletest",
+      "description": "Googletest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 0,
+      "forks": 5985,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "google",
+      "name": "mediapipe",
+      "href": "https://github.com/google/mediapipe",
+      "description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+      "language": "C++",
+      "stars": 0,
+      "forks": 1110,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "href": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 0,
+      "forks": 10972,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "href": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 0,
+      "forks": 34369,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "bhatiasiddharth",
+      "name": "MIDAS",
+      "href": "https://github.com/bhatiasiddharth/MIDAS",
+      "description": "MIDAS: Real-Time Streaming Anomaly Detection in Dynamic Graphs",
+      "language": "C++",
+      "stars": 0,
+      "forks": 24,
+      "starsInPeriod": 78
+    },
+    {
+      "author": "barry-ran",
+      "name": "QtScrcpy",
+      "href": "https://github.com/barry-ran/QtScrcpy",
+      "description": "Android real-time display control software",
+      "language": "C++",
+      "stars": 0,
+      "forks": 312,
+      "starsInPeriod": 92
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "href": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 0,
+      "forks": 970,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "href": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 3677,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "johnboiles",
+      "name": "obs-mac-virtualcam",
+      "href": "https://github.com/johnboiles/obs-mac-virtualcam",
+      "description": "Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like obs-virtualcam but for macOS.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "href": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Contract-Oriented Programming Language",
+      "language": "C++",
+      "stars": 0,
+      "forks": 2165,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "ossrs",
+      "name": "srs",
+      "href": "https://github.com/ossrs/srs",
+      "description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 2839,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "microsoft",
+      "name": "cpprestsdk",
+      "href": "https://github.com/microsoft/cpprestsdk",
+      "description": "The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 1229,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Qv2ray",
+      "name": "Qv2ray",
+      "href": "https://github.com/Qv2ray/Qv2ray",
+      "description": "🌟 V2ray Linux / Windows / macOS 跨平台 GUI 🔨 使用 C++17 / Qt5 ，支持订阅，扫描二维码，支持自定义路由编辑 🌟",
+      "language": "C++",
+      "stars": 0,
+      "forks": 215,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "turesnake",
+      "name": "tprPix",
+      "href": "https://github.com/turesnake/tprPix",
+      "description": "a Cross-Platform, 2D Survival Sandbox Game Project. Based on C++17/cmake/OpenGL/SQLite3.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 12,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "VowpalWabbit",
+      "name": "vowpal_wabbit",
+      "href": "https://github.com/VowpalWabbit/vowpal_wabbit",
+      "description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.",
+      "language": "C++",
+      "stars": 0,
+      "forks": 1647,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "vnpy",
+      "name": "vnpy",
+      "href": "https://github.com/vnpy/vnpy",
+      "description": "基于Python的开源量化交易平台开发框架",
+      "language": "C++",
+      "stars": 0,
+      "forks": 4995,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "href": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": 0,
+      "forks": 802,
+      "starsInPeriod": 8
+    }
+  ]
+}
