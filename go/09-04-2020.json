@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1631,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 739,
+      "starsInPeriod": 174
+    },
+    {
+      "author": "cri-o",
+      "name": "cri-o",
+      "href": "https://github.com/cri-o/cri-o",
+      "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+      "language": "Go",
+      "stars": 0,
+      "forks": 431,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 480,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "github",
+      "name": "gh-ost",
+      "href": "https://github.com/github/gh-ost",
+      "description": "GitHub's Online Schema Migrations for MySQL",
+      "language": "Go",
+      "stars": 0,
+      "forks": 745,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2060,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 673,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "shomali11",
+      "name": "go-interview",
+      "href": "https://github.com/shomali11/go-interview",
+      "description": "Collection of Technical Interview Questions solved with Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 30,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2364,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3245,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4147,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "href": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 725,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "google",
+      "name": "go-github",
+      "href": "https://github.com/google/go-github",
+      "description": "Go library for accessing the GitHub API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1256,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "fanux",
+      "name": "sealos",
+      "href": "https://github.com/fanux/sealos",
+      "description": "只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.8 v1.15.11 v1.17.4 v1.18.0!",
+      "language": "Go",
+      "stars": 0,
+      "forks": 308,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "aws",
+      "name": "amazon-vpc-cni-k8s",
+      "href": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 321,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 404,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "href": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors",
+      "language": "Go",
+      "stars": 0,
+      "forks": 930,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 201,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 777,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1042,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2068,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "virtual-kubelet",
+      "name": "virtual-kubelet",
+      "href": "https://github.com/virtual-kubelet/virtual-kubelet",
+      "description": "Virtual Kubelet is an open source Kubernetes kubelet implementation.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 392,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1083,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "DATA-DOG",
+      "name": "go-sqlmock",
+      "href": "https://github.com/DATA-DOG/go-sqlmock",
+      "description": "Sql mock driver for golang to test database interactions",
+      "language": "Go",
+      "stars": 0,
+      "forks": 215,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "onsi",
+      "name": "ginkgo",
+      "href": "https://github.com/onsi/ginkgo",
+      "description": "BDD Testing Framework for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 371,
+      "starsInPeriod": 3
+    }
+  ]
+}
