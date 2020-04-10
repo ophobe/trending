@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "href": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 0,
+      "forks": 31136,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "zxystd",
+      "name": "itlwm",
+      "href": "https://github.com/zxystd/itlwm",
+      "description": "IntelWifi",
+      "language": "C",
+      "stars": 0,
+      "forks": 52,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 0,
+      "forks": 8826,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software.",
+      "language": "C",
+      "stars": 0,
+      "forks": 940,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "href": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore front end",
+      "language": "C",
+      "stars": 0,
+      "forks": 311,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "href": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+      "language": "C",
+      "stars": 0,
+      "forks": 4074,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "greenplum-db",
+      "name": "gpdb",
+      "href": "https://github.com/greenplum-db/gpdb",
+      "description": "Greenplum Database",
+      "language": "C",
+      "stars": 0,
+      "forks": 1114,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 0,
+      "forks": 2779,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "href": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": 0,
+      "forks": 18678,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "FFmpeg",
+      "name": "FFmpeg",
+      "href": "https://github.com/FFmpeg/FFmpeg",
+      "description": "Mirror of git://source.ffmpeg.org/ffmpeg.git",
+      "language": "C",
+      "stars": 0,
+      "forks": 6705,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "aws",
+      "name": "amazon-freertos",
+      "href": "https://github.com/aws/amazon-freertos",
+      "description": "IoT operating system for microcontrollers.",
+      "language": "C",
+      "stars": 0,
+      "forks": 769,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "antirez",
+      "name": "redis",
+      "href": "https://github.com/antirez/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": 0,
+      "forks": 16457,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "href": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": 0,
+      "forks": 219,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ARMmbed",
+      "name": "mbed-os",
+      "href": "https://github.com/ARMmbed/mbed-os",
+      "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+      "language": "C",
+      "stars": 0,
+      "forks": 2307,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "href": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": 0,
+      "forks": 1651,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "offensive-security",
+      "name": "exploitdb",
+      "href": "https://github.com/offensive-security/exploitdb",
+      "description": "The official Exploit Database repository",
+      "language": "C",
+      "stars": 0,
+      "forks": 1458,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "mossmann",
+      "name": "hackrf",
+      "href": "https://github.com/mossmann/hackrf",
+      "description": "low cost software radio platform",
+      "language": "C",
+      "stars": 0,
+      "forks": 937,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "href": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": 0,
+      "forks": 1386,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "href": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT operating system from China.",
+      "language": "C",
+      "stars": 0,
+      "forks": 2670,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "Tencent",
+      "name": "TencentOS-tiny",
+      "href": "https://github.com/Tencent/TencentOS-tiny",
+      "description": "腾讯物联网终端操作系统",
+      "language": "C",
+      "stars": 0,
+      "forks": 997,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "json-c",
+      "name": "json-c",
+      "href": "https://github.com/json-c/json-c",
+      "description": "https://github.com/json-c/json-c is the official code repository for json-c. See the wiki for release tarballs for download. API docs at http://json-c.github.io/json-c/",
+      "language": "C",
+      "stars": 0,
+      "forks": 800,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "href": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": 0,
+      "forks": 2380,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "citusdata",
+      "name": "citus",
+      "href": "https://github.com/citusdata/citus",
+      "description": "Scalable PostgreSQL for multi-tenant and real-time analytics workloads",
+      "language": "C",
+      "stars": 0,
+      "forks": 325,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "href": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": 0,
+      "forks": 1093,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "thestr4ng3r",
+      "name": "chiaki",
+      "href": "https://github.com/thestr4ng3r/chiaki",
+      "description": "Free and Open Source PS4 Remote Play Client",
+      "language": "C",
+      "stars": 0,
+      "forks": 146,
+      "starsInPeriod": 8
+    }
+  ]
+}
