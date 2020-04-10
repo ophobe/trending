@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1637,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Cloud native model serving infrastructure",
+      "language": "Go",
+      "stars": 0,
+      "forks": 309,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10146,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1444,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3245,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4149,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "Images for OpenShift 3 and 4 - see openshift/okd for more",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4233,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "GoesToEleven",
+      "name": "GolangTraining",
+      "href": "https://github.com/GoesToEleven/GolangTraining",
+      "description": "Training for Golang (go language)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2212,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "href": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 750,
+      "starsInPeriod": 132
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16412,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "prometheus",
+      "name": "mysqld_exporter",
+      "href": "https://github.com/prometheus/mysqld_exporter",
+      "description": "Exporter for MySQL server metrics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 299,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9343,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Universal code search and navigation tool (self-hosted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 336,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1521,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 0,
+      "forks": 644,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1655,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 943,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2302,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "href": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 204,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4532,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2367,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "kubernetes",
+      "name": "test-infra",
+      "href": "https://github.com/kubernetes/test-infra",
+      "description": "Test infrastructure for the Kubernetes project.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1338,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 649,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1213,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "kubernetes",
+      "name": "enhancements",
+      "href": "https://github.com/kubernetes/enhancements",
+      "description": "Features tracking repo for Kubernetes releases",
+      "language": "Go",
+      "stars": 0,
+      "forks": 632,
+      "starsInPeriod": 3
+    }
+  ]
+}
