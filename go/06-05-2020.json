@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "evanw",
+      "name": "esbuild",
+      "href": "https://github.com/evanw/esbuild",
+      "description": "An extremely fast JavaScript bundler and minifier",
+      "language": "Go",
+      "stars": 0,
+      "forks": 110,
+      "starsInPeriod": 384
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, multi-platform web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2292,
+      "starsInPeriod": 347
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16486,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 351,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 872,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "iikira",
+      "name": "BaiduPCS-Go",
+      "href": "https://github.com/iikira/BaiduPCS-Go",
+      "description": "百度网盘客户端 - Go语言编写",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3863,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "go-kit",
+      "name": "kit",
+      "href": "https://github.com/go-kit/kit",
+      "description": "A standard library for microservices.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1763,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1459,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "href": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": 0,
+      "forks": 297,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 0,
+      "forks": 293,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 887,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "ory",
+      "name": "kratos",
+      "href": "https://github.com/ory/kratos",
+      "description": "Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 61,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "rancher",
+      "name": "k3s",
+      "href": "https://github.com/rancher/k3s",
+      "description": "Lightweight Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 924,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2206,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "href": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1283,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5093,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "href": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2650,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "containers",
+      "name": "buildah",
+      "href": "https://github.com/containers/buildah",
+      "description": "A tool that facilitates building OCI images",
+      "language": "Go",
+      "stars": 0,
+      "forks": 333,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2775,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 14424,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "esrrhs",
+      "name": "pingtunnel",
+      "href": "https://github.com/esrrhs/pingtunnel",
+      "description": "流量转发加速工具.a tool that advertises tcp/udp/socks5 traffic as icmp traffic for forwarding.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 106,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "minio",
+      "name": "mc",
+      "href": "https://github.com/minio/mc",
+      "description": "MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 248,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "Images for OpenShift 3 and 4 - see openshift/okd for more",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4261,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 942,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2158,
+      "starsInPeriod": 7
+    }
+  ]
+}
