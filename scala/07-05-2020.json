@@ -1,0 +1,194 @@
+{
+  "repositories": [
+    {
+      "author": "akka",
+      "name": "akka",
+      "href": "https://github.com/akka/akka",
+      "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 3231,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "apache",
+      "name": "spark",
+      "href": "https://github.com/apache/spark",
+      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 21646,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "ornicar",
+      "name": "lila",
+      "href": "https://github.com/ornicar/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 993,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "spotify",
+      "name": "scio",
+      "href": "https://github.com/spotify/scio",
+      "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 351,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "delta-io",
+      "name": "delta",
+      "href": "https://github.com/delta-io/delta",
+      "description": "An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 502,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "zio",
+      "name": "zio",
+      "href": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 590,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "yahoo",
+      "name": "CMAK",
+      "href": "https://github.com/yahoo/CMAK",
+      "description": "CMAK is a tool for managing Apache Kafka clusters",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 2140,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "snowplow",
+      "name": "snowplow",
+      "href": "https://github.com/snowplow/snowplow",
+      "description": "Cloud-native web, mobile and event analytics, running on AWS and GCP",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 1102,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "scala-native",
+      "name": "scala-native",
+      "href": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 259,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "freechipsproject",
+      "name": "chisel3",
+      "href": "https://github.com/freechipsproject/chisel3",
+      "description": "Chisel 3: A Modern Hardware Design Language",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 272,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "lampepfl",
+      "name": "dotty",
+      "href": "https://github.com/lampepfl/dotty",
+      "description": "Research compiler that will become Scala 3",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 603,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "adobe-fonts",
+      "name": "source-han-serif",
+      "href": "https://github.com/adobe-fonts/source-han-serif",
+      "description": "Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 517,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "chipsalliance",
+      "name": "rocket-chip",
+      "href": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 597,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "lightbend",
+      "name": "cloudflow",
+      "href": "https://github.com/lightbend/cloudflow",
+      "description": "Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 51,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "ucb-bar",
+      "name": "testchipip",
+      "href": "https://github.com/ucb-bar/testchipip",
+      "description": null,
+      "language": "Scala",
+      "stars": 0,
+      "forks": 22,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "scalameta",
+      "name": "metals",
+      "href": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 158,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "aditya-grover",
+      "name": "node2vec",
+      "href": "https://github.com/aditya-grover/node2vec",
+      "description": null,
+      "language": "Scala",
+      "stars": 0,
+      "forks": 707,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "awslabs",
+      "name": "deequ",
+      "href": "https://github.com/awslabs/deequ",
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 142,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "json4s",
+      "name": "json4s",
+      "href": "https://github.com/json4s/json4s",
+      "description": "A single AST to be used by other scala json libraries",
+      "language": "Scala",
+      "stars": 0,
+      "forks": 325,
+      "starsInPeriod": 0
+    }
+  ]
+}
