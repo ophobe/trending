@@ -1,0 +1,204 @@
+{
+  "repositories": [
+    {
+      "author": "rabbitmq",
+      "name": "rabbitmq-server",
+      "href": "https://github.com/rabbitmq/rabbitmq-server",
+      "description": "Open source multi-protocol messaging broker",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 2421,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "ninenines",
+      "name": "cowboy",
+      "href": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 1039,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "apache",
+      "name": "couchdb",
+      "href": "https://github.com/apache/couchdb",
+      "description": "Apache CouchDB",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 898,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "erlydtl",
+      "name": "erlydtl",
+      "href": "https://github.com/erlydtl/erlydtl",
+      "description": "Django templates for Erlang",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 185,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "vernemq",
+      "name": "vernemq",
+      "href": "https://github.com/vernemq/vernemq",
+      "description": "A distributed MQTT message broker based on Erlang/OTP",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 233,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "erlang-lager",
+      "name": "lager",
+      "href": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 439,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "eproxus",
+      "name": "meck",
+      "href": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 212,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "cowlib",
+      "href": "https://github.com/ninenines/cowlib",
+      "description": "Support library for manipulating Web protocols.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 137,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ferd",
+      "name": "recon",
+      "href": "https://github.com/ferd/recon",
+      "description": "Collection of functions and scripts to debug Erlang in production.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 216,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "gun",
+      "href": "https://github.com/ninenines/gun",
+      "description": "HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 173,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "emqx",
+      "name": "emqx",
+      "href": "https://github.com/emqx/emqx",
+      "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 1115,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "epgsql",
+      "name": "epgsql",
+      "href": "https://github.com/epgsql/epgsql",
+      "description": "Erlang PostgreSQL client library.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 122,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "goj",
+      "name": "base16",
+      "href": "https://github.com/goj/base16",
+      "description": "The last time I hexadecimify Erlang binaries...",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "markusn",
+      "name": "coveralls-erl",
+      "href": "https://github.com/markusn/coveralls-erl",
+      "description": "Erlang module to convert and send cover data to coveralls.io (or similar). Available as a hex package on https://hex.pm/packages/coveralls.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 22,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "erlcloud",
+      "name": "eini",
+      "href": "https://github.com/erlcloud/eini",
+      "description": "An Erlang INI parser",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 11,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "okeuday",
+      "name": "uuid",
+      "href": "https://github.com/okeuday/uuid",
+      "description": "Erlang Native UUID Generation",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 64,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "Phonebooth",
+      "name": "imetrics",
+      "href": "https://github.com/Phonebooth/imetrics",
+      "description": "Lightweight Erlang application for gathering metrics. Focus on easy instrumentation.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "for-GET",
+      "name": "jesse",
+      "href": "https://github.com/for-GET/jesse",
+      "description": "jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 44,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ninenines",
+      "name": "ranch",
+      "href": "https://github.com/ninenines/ranch",
+      "description": "Socket acceptor pool for TCP protocols.",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 294,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "deadtrickster",
+      "name": "rebar3_elvis_plugin",
+      "href": "https://github.com/deadtrickster/rebar3_elvis_plugin",
+      "description": "Run Elvis as rebar3 plugin",
+      "language": "Erlang",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 0
+    }
+  ]
+}
