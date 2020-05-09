@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 61,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "stjepang",
+      "name": "smol",
+      "href": "https://github.com/stjepang/smol",
+      "description": "A small and fast async runtime for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 40,
+      "starsInPeriod": 83
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2162,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "imazen",
+      "name": "imageflow",
+      "href": "https://github.com/imazen/imageflow",
+      "description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 99,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "996icu",
+      "name": "996.ICU",
+      "href": "https://github.com/996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 21119,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "http-rs",
+      "name": "tide",
+      "href": "https://github.com/http-rs/tide",
+      "description": "Fast and friendly HTTP server framework for async Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 190,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 199,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "tock",
+      "name": "tock",
+      "href": "https://github.com/tock/tock",
+      "description": "A secure embedded operating system for microcontrollers",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 287,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "denoland",
+      "name": "rusty_v8",
+      "href": "https://github.com/denoland/rusty_v8",
+      "description": "V8 javascript bindings for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 41,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A lightweight and ultra-fast tool for building observability pipelines",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 220,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1080,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "gyscos",
+      "name": "cursive",
+      "href": "https://github.com/gyscos/cursive",
+      "description": "A Text User Interface library for the Rust programming language",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 112,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 184,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "sigp",
+      "name": "lighthouse",
+      "href": "https://github.com/sigp/lighthouse",
+      "description": "Rust Ethereum 2.0 Client",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 121,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "jasonwilliams",
+      "name": "boa",
+      "href": "https://github.com/jasonwilliams/boa",
+      "description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 141,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "cloudflare",
+      "name": "wrangler",
+      "href": "https://github.com/cloudflare/wrangler",
+      "description": "🤠 wrangle your cloudflare workers",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 168,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "meilisearch",
+      "name": "MeiliSearch",
+      "href": "https://github.com/meilisearch/MeiliSearch",
+      "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 131,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 149,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "href": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 67,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "href": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A statically typed language for the Erlang VM",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 80,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "actix",
+      "name": "examples",
+      "href": "https://github.com/actix/examples",
+      "description": "Actix web examples",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 374,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "kas-gui",
+      "name": "kas",
+      "href": "https://github.com/kas-gui/kas",
+      "description": "Another GUI toolkit",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 4,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "mozilla",
+      "name": "neqo",
+      "href": "https://github.com/mozilla/neqo",
+      "description": null,
+      "language": "Rust",
+      "stars": 0,
+      "forks": 37,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "href": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 The Universal WebAssembly Runtime supporting WASI and Emscripten",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 217,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "seed-rs",
+      "name": "seed",
+      "href": "https://github.com/seed-rs/seed",
+      "description": "A Rust framework for creating web apps",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 69,
+      "starsInPeriod": 3
+    }
+  ]
+}
