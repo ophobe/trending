@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "xkcoding",
+      "name": "spring-boot-demo",
+      "href": "https://github.com/xkcoding/spring-boot-demo",
+      "description": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+      "language": "Java",
+      "stars": 0,
+      "forks": 4495,
+      "starsInPeriod": 144
+    },
+    {
+      "author": "xuxueli",
+      "name": "xxl-job",
+      "href": "https://github.com/xuxueli/xxl-job",
+      "description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+      "language": "Java",
+      "stars": 0,
+      "forks": 5869,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "alibaba",
+      "name": "nacos",
+      "href": "https://github.com/alibaba/nacos",
+      "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 3675,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall",
+      "href": "https://github.com/macrozheng/mall",
+      "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 14539,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "alibaba",
+      "name": "spring-cloud-alibaba",
+      "href": "https://github.com/alibaba/spring-cloud-alibaba",
+      "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 3896,
+      "starsInPeriod": 79
+    },
+    {
+      "author": "YunaiV",
+      "name": "SpringBoot-Labs",
+      "href": "https://github.com/YunaiV/SpringBoot-Labs",
+      "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+      "language": "Java",
+      "stars": 0,
+      "forks": 739,
+      "starsInPeriod": 82
+    },
+    {
+      "author": "MisterBooo",
+      "name": "LeetCodeAnimation",
+      "href": "https://github.com/MisterBooo/LeetCodeAnimation",
+      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+      "language": "Java",
+      "stars": 0,
+      "forks": 9848,
+      "starsInPeriod": 274
+    },
+    {
+      "author": "Snailclimb",
+      "name": "JavaGuide",
+      "href": "https://github.com/Snailclimb/JavaGuide",
+      "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 26865,
+      "starsInPeriod": 362
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "href": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "Java",
+      "stars": 0,
+      "forks": 5231,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "halo-dev",
+      "name": "halo",
+      "href": "https://github.com/halo-dev/halo",
+      "description": "✍ An excellent open source blog publishing application. | 一个优秀的开源博客发布应用。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 4909,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-java",
+      "href": "https://github.com/testcontainers/testcontainers-java",
+      "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 752,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "alibaba",
+      "name": "fastjson",
+      "href": "https://github.com/alibaba/fastjson",
+      "description": "A fast JSON parser/generator for Java.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 5720,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "justauth",
+      "name": "JustAuth",
+      "href": "https://github.com/justauth/JustAuth",
+      "description": "💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy!",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1374,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "doocs",
+      "name": "advanced-java",
+      "href": "https://github.com/doocs/advanced-java",
+      "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+      "language": "Java",
+      "stars": 0,
+      "forks": 12045,
+      "starsInPeriod": 111
+    },
+    {
+      "author": "Doikki",
+      "name": "DKVideoPlayer",
+      "href": "https://github.com/Doikki/DKVideoPlayer",
+      "description": "Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕",
+      "language": "Java",
+      "stars": 0,
+      "forks": 522,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "checkstyle",
+      "name": "checkstyle",
+      "href": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 7368,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall-learning",
+      "href": "https://github.com/macrozheng/mall-learning",
+      "description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 3075,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "linlinjava",
+      "name": "litemall",
+      "href": "https://github.com/linlinjava/litemall",
+      "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
+      "language": "Java",
+      "stars": 0,
+      "forks": 5077,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-android",
+      "href": "https://github.com/airbnb/lottie-android",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "language": "Java",
+      "stars": 0,
+      "forks": 4595,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "android",
+      "name": "security-samples",
+      "href": "https://github.com/android/security-samples",
+      "description": "Multiple samples showing the best practices in security APIs on Android.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 96,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "libgdx",
+      "name": "libgdx",
+      "href": "https://github.com/libgdx/libgdx",
+      "description": "Desktop/Android/HTML5/iOS Java game development framework",
+      "language": "Java",
+      "stars": 0,
+      "forks": 6030,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "ityouknow",
+      "name": "spring-boot-examples",
+      "href": "https://github.com/ityouknow/spring-boot-examples",
+      "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 9950,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "runelite",
+      "name": "runelite",
+      "href": "https://github.com/runelite/runelite",
+      "description": "Open source Old School RuneScape client",
+      "language": "Java",
+      "stars": 0,
+      "forks": 3798,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "caiyonglong",
+      "name": "MusicLake",
+      "href": "https://github.com/caiyonglong/MusicLake",
+      "description": "MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe",
+      "language": "Java",
+      "stars": 0,
+      "forks": 351,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "alibaba",
+      "name": "easyexcel",
+      "href": "https://github.com/alibaba/easyexcel",
+      "description": "快速、简单避免OOM的java处理Excel工具",
+      "language": "Java",
+      "stars": 0,
+      "forks": 3787,
+      "starsInPeriod": 115
+    }
+  ]
+}
