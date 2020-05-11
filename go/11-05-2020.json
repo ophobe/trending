@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "OWASP",
+      "name": "Amass",
+      "href": "https://github.com/OWASP/Amass",
+      "description": "In-depth Attack Surface Mapping and Asset Discovery",
+      "language": "Go",
+      "stars": 0,
+      "forks": 570,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "lucperkins",
+      "name": "rek",
+      "href": "https://github.com/lucperkins/rek",
+      "description": "An easy HTTP client for Go. Inspired by the immortal Requests.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1195,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "GoesToEleven",
+      "name": "golang-web-dev",
+      "href": "https://github.com/GoesToEleven/golang-web-dev",
+      "description": null,
+      "language": "Go",
+      "stars": 0,
+      "forks": 1072,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "pion",
+      "name": "turn",
+      "href": "https://github.com/pion/turn",
+      "description": "Pion TURN, an API for building TURN clients and servers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 95,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 670,
+      "starsInPeriod": 71
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1027,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "href": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 87,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1775,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "FiloSottile",
+      "name": "yubikey-agent",
+      "href": "https://github.com/FiloSottile/yubikey-agent",
+      "description": "yubikey-agent is a seamless ssh-agent for YubiKeys.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9,
+      "starsInPeriod": 151
+    },
+    {
+      "author": "ColetteContreras",
+      "name": "v2ray-poseidon",
+      "href": "https://github.com/ColetteContreras/v2ray-poseidon",
+      "description": "An Enhanced V2Ray(based on v2ray-core) for VNetPanel, SSRPanel, V2board and SSPanel-v3-Uim to sync users from database to v2ray, to log traffics/system info",
+      "language": "Go",
+      "stars": 0,
+      "forks": 380,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4092,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "gocolly",
+      "name": "colly",
+      "href": "https://github.com/gocolly/colly",
+      "description": "Elegant Scraper and Crawler Framework for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 911,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "codenotary",
+      "name": "immudb",
+      "href": "https://github.com/codenotary/immudb",
+      "description": "immudb is lightweight, high-speed immutable database for systems and applications",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 0,
+      "forks": 437,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "wenjianzhang",
+      "name": "go-admin",
+      "href": "https://github.com/wenjianzhang/go-admin",
+      "description": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RABC资源控制，表单构建等）",
+      "language": "Go",
+      "stars": 0,
+      "forks": 205,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "appleboy",
+      "name": "gorush",
+      "href": "https://github.com/appleboy/gorush",
+      "description": "A push notification server written in Go (Golang).",
+      "language": "Go",
+      "stars": 0,
+      "forks": 508,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "href": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 349,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7104,
+      "starsInPeriod": 32
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4370,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "tomnomnom",
+      "name": "assetfinder",
+      "href": "https://github.com/tomnomnom/assetfinder",
+      "description": "Find domains and subdomains related to a given domain",
+      "language": "Go",
+      "stars": 0,
+      "forks": 122,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "buger",
+      "name": "goreplay",
+      "href": "https://github.com/buger/goreplay",
+      "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1232,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+      "language": "Go",
+      "stars": 0,
+      "forks": 638,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "mxpv",
+      "name": "podsync",
+      "href": "https://github.com/mxpv/podsync",
+      "description": "Turn YouTube or Vimeo channels, users, or playlists into podcast feeds",
+      "language": "Go",
+      "stars": 0,
+      "forks": 58,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "keys-pub",
+      "name": "keys",
+      "href": "https://github.com/keys-pub/keys",
+      "description": "Key management is hard",
+      "language": "Go",
+      "stars": 0,
+      "forks": 12,
+      "starsInPeriod": 34
+    }
+  ]
+}
