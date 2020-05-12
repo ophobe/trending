@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1113,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "FiloSottile",
+      "name": "yubikey-agent",
+      "href": "https://github.com/FiloSottile/yubikey-agent",
+      "description": "yubikey-agent is a seamless ssh-agent for YubiKeys.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10,
+      "starsInPeriod": 116
+    },
+    {
+      "author": "360EntSecGroup-Skylar",
+      "name": "excelize",
+      "href": "https://github.com/360EntSecGroup-Skylar/excelize",
+      "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 672,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 293,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9437,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3287,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 817,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 876,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "slack-go",
+      "name": "slack",
+      "href": "https://github.com/slack-go/slack",
+      "description": "Slack API in Go - community-maintained fork created by the original author, @nlopes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 717,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "href": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP and REST client library for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 253,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3882,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "jinzhu",
+      "name": "gorm",
+      "href": "https://github.com/jinzhu/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2114,
+      "starsInPeriod": 35
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 0,
+      "forks": 464,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 311,
+      "starsInPeriod": 104
+    },
+    {
+      "author": "ipfs",
+      "name": "go-ipfs",
+      "href": "https://github.com/ipfs/go-ipfs",
+      "description": "IPFS implementation in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1775,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2363,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1040,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "dertuxmalwieder",
+      "name": "rssfs",
+      "href": "https://github.com/dertuxmalwieder/rssfs",
+      "description": "Git clone of the RSS file system.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "href": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": 0,
+      "forks": 440,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "lucperkins",
+      "name": "rek",
+      "href": "https://github.com/lucperkins/rek",
+      "description": "An easy HTTP client for Go. Inspired by the immortal Requests.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 14,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "uber",
+      "name": "cadence",
+      "href": "https://github.com/uber/cadence",
+      "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 324,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "uber",
+      "name": "prototool",
+      "href": "https://github.com/uber/prototool",
+      "description": "Your Swiss Army Knife for Protocol Buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 234,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1174,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 356,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5672,
+      "starsInPeriod": 19
+    }
+  ]
+}
