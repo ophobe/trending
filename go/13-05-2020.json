@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1591,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 503,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 361,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "buger",
+      "name": "goreplay",
+      "href": "https://github.com/buger/goreplay",
+      "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1236,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1123,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2660,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23562,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "href": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1113,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "tillson",
+      "name": "git-hound",
+      "href": "https://github.com/tillson/git-hound",
+      "description": "GitHound pinpoints exposed API keys on GitHub using pattern matching, commit history searching, and a unique result scoring system. A batch-catching, pattern-matching, patch-attacking secret snatcher.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 51,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 312,
+      "starsInPeriod": 129
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3551,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 819,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 394,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10367,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4378,
+      "starsInPeriod": 37
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 878,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "href": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 89,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "Shopify",
+      "name": "toxiproxy",
+      "href": "https://github.com/Shopify/toxiproxy",
+      "description": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+      "language": "Go",
+      "stars": 0,
+      "forks": 249,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1674,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 395,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "href": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Service",
+      "language": "Go",
+      "stars": 0,
+      "forks": 113,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1091,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5678,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "href": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1169,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "linkerd",
+      "name": "linkerd2",
+      "href": "https://github.com/linkerd/linkerd2",
+      "description": "A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 533,
+      "starsInPeriod": 4
+    }
+  ]
+}
