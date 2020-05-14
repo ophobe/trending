@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 321,
+      "starsInPeriod": 89
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3157,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "yolossn",
+      "name": "Prometheus-Basics",
+      "href": "https://github.com/yolossn/Prometheus-Basics",
+      "description": "A beginner friendly introduction to prometheus 🔥",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13,
+      "starsInPeriod": 140
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 822,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1594,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1092,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5106,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5679,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "href": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7202,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "skaffold",
+      "href": "https://github.com/GoogleContainerTools/skaffold",
+      "description": "Easy and Repeatable Kubernetes Development",
+      "language": "Go",
+      "stars": 0,
+      "forks": 927,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16504,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1663,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 885,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "href": "https://github.com/open-policy-agent/opa",
+      "description": "An open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 395,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "quay",
+      "name": "clair",
+      "href": "https://github.com/quay/clair",
+      "description": "Vulnerability Static Analysis for Containers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 834,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23582,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3157,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "nikitavoloboev",
+      "name": "knowledge",
+      "href": "https://github.com/nikitavoloboev/knowledge",
+      "description": "Everything I know",
+      "language": "Go",
+      "stars": 0,
+      "forks": 140,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "href": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 727,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2373,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3899,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1453,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2664,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "roboll",
+      "name": "helmfile",
+      "href": "https://github.com/roboll/helmfile",
+      "description": "Deploy Kubernetes Helm Charts",
+      "language": "Go",
+      "stars": 0,
+      "forks": 313,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9446,
+      "starsInPeriod": 7
+    }
+  ]
+}
