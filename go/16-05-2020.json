@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 831,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "google",
+      "name": "exposure-notifications-server",
+      "href": "https://github.com/google/exposure-notifications-server",
+      "description": "Exposure Notification Reference Server | Covid-19 Exposure Notifications",
+      "language": "Go",
+      "stars": 0,
+      "forks": 47,
+      "starsInPeriod": 283
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 335,
+      "starsInPeriod": 188
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1098,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide",
+      "language": "Go",
+      "stars": 0,
+      "forks": 699,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 14574,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1740,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 966,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5686,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 992,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "saljam",
+      "name": "webwormhole",
+      "href": "https://github.com/saljam/webwormhole",
+      "description": "Peer authenticated WebRTC.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 49,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "href": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2668,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "controller-runtime",
+      "href": "https://github.com/kubernetes-sigs/controller-runtime",
+      "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 338,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1416,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3160,
+      "starsInPeriod": 75
+    },
+    {
+      "author": "filecoin-project",
+      "name": "go-filecoin",
+      "href": "https://github.com/filecoin-project/go-filecoin",
+      "description": "Filecoin Full Node Implementation in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 272,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2430,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "keybase",
+      "name": "saltpack",
+      "href": "https://github.com/keybase/saltpack",
+      "description": "a modern crypto messaging format",
+      "language": "Go",
+      "stars": 0,
+      "forks": 44,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "ndelphit",
+      "name": "apkurlgrep",
+      "href": "https://github.com/ndelphit/apkurlgrep",
+      "description": "Extract endpoints from APK files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 22,
+      "starsInPeriod": 56
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2188,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "pulumi",
+      "name": "pulumi",
+      "href": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 293,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "yolossn",
+      "name": "Prometheus-Basics",
+      "href": "https://github.com/yolossn/Prometheus-Basics",
+      "description": "A beginner friendly introduction to prometheus 🔥",
+      "language": "Go",
+      "stars": 0,
+      "forks": 26,
+      "starsInPeriod": 111
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 885,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "micro",
+      "name": "micro",
+      "href": "https://github.com/micro/micro",
+      "description": "Micro is a distributed systems runtime for the Cloud",
+      "language": "Go",
+      "stars": 0,
+      "forks": 683,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1192,
+      "starsInPeriod": 11
+    }
+  ]
+}
