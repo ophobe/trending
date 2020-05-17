@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "href": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 317,
+      "starsInPeriod": 83
+    },
+    {
+      "author": "async-graphql",
+      "name": "async-graphql",
+      "href": "https://github.com/async-graphql/async-graphql",
+      "description": "The GraphQL server library implemented by rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 38,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "href": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 347,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1136,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "huggingface",
+      "name": "tokenizers",
+      "href": "https://github.com/huggingface/tokenizers",
+      "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 179,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "href": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1033,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 340,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "href": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 420,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "href": "https://github.com/bytecodealliance/wasmtime",
+      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 270,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "href": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, GPU-accelerated terminal emulator",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1118,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 608,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "href": "https://github.com/servo/servo",
+      "description": "The Servo Browser Engine",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2366,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1041,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 772,
+      "starsInPeriod": 43
+    },
+    {
+      "author": "dtolnay",
+      "name": "proc-macro-workshop",
+      "href": "https://github.com/dtolnay/proc-macro-workshop",
+      "description": "Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 134,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "href": "https://github.com/swc-project/swc",
+      "description": "Super-fast typescript / javascript compiler written in rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 149,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "href": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 6744,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "mun-lang",
+      "name": "mun",
+      "href": "https://github.com/mun-lang/mun",
+      "description": "Source code for the Mun language and runtime.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 20,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "href": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 848,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 265,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "fdehau",
+      "name": "tui-rs",
+      "href": "https://github.com/fdehau/tui-rs",
+      "description": "Build terminal user interfaces and dashboards using Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 141,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "Rigellute",
+      "name": "spotify-tui",
+      "href": "https://github.com/Rigellute/spotify-tui",
+      "description": "Spotify for the terminal written in Rust 🚀",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 175,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "xi-editor",
+      "name": "druid",
+      "href": "https://github.com/xi-editor/druid",
+      "description": "A data-first Rust-native UI design toolkit.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 138,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 183,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 428,
+      "starsInPeriod": 6
+    }
+  ]
+}
