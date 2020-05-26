@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "doctorn",
+      "name": "trait-eval",
+      "href": "https://github.com/doctorn/trait-eval",
+      "description": "We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 5,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "rustwasm",
+      "name": "wasm-bindgen",
+      "href": "https://github.com/rustwasm/wasm-bindgen",
+      "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 431,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "libra",
+      "name": "libra",
+      "href": "https://github.com/libra/libra",
+      "description": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2182,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot",
+      "href": "https://github.com/paritytech/polkadot",
+      "description": "Polkadot Node Implementation",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 223,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 614,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "zdcthomas",
+      "name": "dmux",
+      "href": "https://github.com/zdcthomas/dmux",
+      "description": "A tmux workspace manager",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "href": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 102,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 190,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "sfackler",
+      "name": "rust-postgres",
+      "href": "https://github.com/sfackler/rust-postgres",
+      "description": "Native PostgreSQL driver for the Rust programming language",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 188,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "sharkdp",
+      "name": "hyperfine",
+      "href": "https://github.com/sharkdp/hyperfine",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 97,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "href": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 63,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 160,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 198,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "xi-editor",
+      "name": "xi-editor",
+      "href": "https://github.com/xi-editor/xi-editor",
+      "description": "A modern editor with a backend written in Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 649,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "rust-analyzer",
+      "name": "rust-analyzer",
+      "href": "https://github.com/rust-analyzer/rust-analyzer",
+      "description": "An experimental Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 355,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustfmt",
+      "href": "https://github.com/rust-lang/rustfmt",
+      "description": "Format Rust code",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 493,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 532,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "djc",
+      "name": "askama",
+      "href": "https://github.com/djc/askama",
+      "description": "Type-safe, compiled Jinja-like templates for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 76,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 480,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "clap-rs",
+      "name": "clap",
+      "href": "https://github.com/clap-rs/clap",
+      "description": "A full featured, fast Command Line Argument Parser for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 417,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "pretzelhammer",
+      "name": "rust-blog",
+      "href": "https://github.com/pretzelhammer/rust-blog",
+      "description": "Educational blog posts for Rust beginners",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 37,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "href": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1144,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu-rs",
+      "href": "https://github.com/gfx-rs/wgpu-rs",
+      "description": "Rust bindings to wgpu native library",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 97,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "href": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 55,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 312,
+      "starsInPeriod": 4
+    }
+  ]
+}
