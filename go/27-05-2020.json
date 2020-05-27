@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "evanw",
+      "name": "esbuild",
+      "href": "https://github.com/evanw/esbuild",
+      "description": "An extremely fast JavaScript bundler and minifier",
+      "language": "Go",
+      "stars": 0,
+      "forks": 166,
+      "starsInPeriod": 208
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 361,
+      "starsInPeriod": 62
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4307,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "olivia-ai",
+      "name": "olivia",
+      "href": "https://github.com/olivia-ai/olivia",
+      "description": "💁‍♀️Your new best friend powered by an artificial neural network",
+      "language": "Go",
+      "stars": 0,
+      "forks": 204,
+      "starsInPeriod": 105
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1461,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "weaveworks",
+      "name": "eksctl",
+      "href": "https://github.com/weaveworks/eksctl",
+      "description": "The official CLI for Amazon EKS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 523,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+      "language": "Go",
+      "stars": 0,
+      "forks": 651,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "gophish",
+      "name": "gophish",
+      "href": "https://github.com/gophish/gophish",
+      "description": "Open-Source Phishing Toolkit",
+      "language": "Go",
+      "stars": 0,
+      "forks": 840,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "href": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3188,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5727,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1673,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1120,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16537,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 905,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "ardanlabs",
+      "name": "gotraining",
+      "href": "https://github.com/ardanlabs/gotraining",
+      "description": "Go Training Class Material :",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1503,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1754,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "github",
+      "name": "gh-ost",
+      "href": "https://github.com/github/gh-ost",
+      "description": "GitHub's Online Schema Migrations for MySQL",
+      "language": "Go",
+      "stars": 0,
+      "forks": 768,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "href": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1159,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1002,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "href": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1560,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger-client-go",
+      "href": "https://github.com/jaegertracing/jaeger-client-go",
+      "description": "Jaeger Bindings for Go OpenTracing API.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 206,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1255,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "href": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": 0,
+      "forks": 154,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "ory",
+      "name": "kratos",
+      "href": "https://github.com/ory/kratos",
+      "description": "Never build user login, user registration, 2fa, profile management ever again! Works on any operating system, cloud, with any programming language, user interface, and user experience! Written in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 82,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terratest",
+      "href": "https://github.com/gruntwork-io/terratest",
+      "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 521,
+      "starsInPeriod": 9
+    }
+  ]
+}
