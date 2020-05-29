@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cli",
+      "name": "cli",
+      "href": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": 0,
+      "forks": 374,
+      "starsInPeriod": 97
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 664,
+      "starsInPeriod": 200
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5742,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1248,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "href": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3324,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16541,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3582,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5128,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1475,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1429,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "free5gc",
+      "name": "free5gc",
+      "href": "https://github.com/free5gc/free5gc",
+      "description": "Open source 5G core network base on 3GPP R15",
+      "language": "Go",
+      "stars": 0,
+      "forks": 70,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1468,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "ahmetb",
+      "name": "kubectx",
+      "href": "https://github.com/ahmetb/kubectx",
+      "description": "Faster way to switch between clusters and namespaces in kubectl",
+      "language": "Go",
+      "stars": 0,
+      "forks": 502,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "jenkins-x",
+      "name": "jx",
+      "href": "https://github.com/jenkins-x/jx",
+      "description": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm",
+      "language": "Go",
+      "stars": 0,
+      "forks": 667,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "olivere",
+      "name": "elastic",
+      "href": "https://github.com/olivere/elastic",
+      "description": "Elasticsearch client for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 903,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "smartystreets",
+      "name": "goconvey",
+      "href": "https://github.com/smartystreets/goconvey",
+      "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 426,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes",
+      "name": "enhancements",
+      "href": "https://github.com/kubernetes/enhancements",
+      "description": "Enhancements tracking repo for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 678,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "href": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": 0,
+      "forks": 661,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 23829,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 620,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "patrickmn",
+      "name": "go-cache",
+      "href": "https://github.com/patrickmn/go-cache",
+      "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 511,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "href": "https://github.com/kubernetes/ingress-nginx",
+      "description": "NGINX Ingress Controller for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3672,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2452,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Zero Trust Access to Infrastructure and Applications",
+      "language": "Go",
+      "stars": 0,
+      "forks": 624,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "href": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1192,
+      "starsInPeriod": 4
+    }
+  ]
+}
