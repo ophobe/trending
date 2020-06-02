@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7344,
+      "starsInPeriod": 129
+    },
+    {
+      "author": "p4gefau1t",
+      "name": "trojan-go",
+      "href": "https://github.com/p4gefau1t/trojan-go",
+      "description": "Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+      "language": "Go",
+      "stars": 0,
+      "forks": 176,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4340,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "href": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 62,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "href": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": 0,
+      "forks": 380,
+      "starsInPeriod": 177
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "href": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~",
+      "language": "Go",
+      "stars": 0,
+      "forks": 548,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10493,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "href": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 982,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "douyu",
+      "name": "jupiter",
+      "href": "https://github.com/douyu/jupiter",
+      "description": "Jupiter是douyu开源的面向服务治理的Golang微服务框架",
+      "language": "Go",
+      "stars": 0,
+      "forks": 64,
+      "starsInPeriod": 213
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1083,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "concourse",
+      "name": "concourse",
+      "href": "https://github.com/concourse/concourse",
+      "description": "Concourse is a container-based continuous thing-doer written in Go and Elm.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 612,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "pkg",
+      "name": "errors",
+      "href": "https://github.com/pkg/errors",
+      "description": "Simple error handling primitives",
+      "language": "Go",
+      "stars": 0,
+      "forks": 422,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "senghoo",
+      "name": "golang-design-pattern",
+      "href": "https://github.com/senghoo/golang-design-pattern",
+      "description": "设计模式 Golang实现－《研磨设计模式》读书笔记",
+      "language": "Go",
+      "stars": 0,
+      "forks": 773,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "shomali11",
+      "name": "go-interview",
+      "href": "https://github.com/shomali11/go-interview",
+      "description": "Collection of Technical Interview Questions solved with Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 199,
+      "starsInPeriod": 231
+    },
+    {
+      "author": "shadowsocks",
+      "name": "v2ray-plugin",
+      "href": "https://github.com/shadowsocks/v2ray-plugin",
+      "description": "A SIP003 plugin based on v2ray",
+      "language": "Go",
+      "stars": 0,
+      "forks": 322,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "alexellis",
+      "name": "k3sup",
+      "href": "https://github.com/alexellis/k3sup",
+      "description": "bootstrap Kubernetes with k3s over SSH < 1 min 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 131,
+      "starsInPeriod": 86
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "href": "https://github.com/gorilla/mux",
+      "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1210,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "href": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics - fast, cost-effective and scalable time series database",
+      "language": "Go",
+      "stars": 0,
+      "forks": 178,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 0,
+      "forks": 481,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 532,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "valyala",
+      "name": "fasthttp",
+      "href": "https://github.com/valyala/fasthttp",
+      "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1044,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "href": "https://github.com/minio/minio",
+      "description": "MinIO is a high performance object storage server compatible with Amazon S3 APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2276,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4450,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 797,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1149,
+      "starsInPeriod": 5
+    }
+  ]
+}
