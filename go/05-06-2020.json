@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "href": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1685,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4003,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3511,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "github",
+      "name": "gh-ost",
+      "href": "https://github.com/github/gh-ost",
+      "description": "GitHub's Online Schema Migrations for MySQL",
+      "language": "Go",
+      "stars": 0,
+      "forks": 770,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "statping",
+      "name": "statping",
+      "href": "https://github.com/statping/statping",
+      "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 235,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5779,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1483,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "apache",
+      "name": "dubbo-go",
+      "href": "https://github.com/apache/dubbo-go",
+      "description": "Go Implementation For Apache Dubbo",
+      "language": "Go",
+      "stars": 0,
+      "forks": 304,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "pion",
+      "name": "ion",
+      "href": "https://github.com/pion/ion",
+      "description": "Distributed RTC System by pure Go and Flutter",
+      "language": "Go",
+      "stars": 0,
+      "forks": 221,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "volcano-sh",
+      "name": "volcano",
+      "href": "https://github.com/volcano-sh/volcano",
+      "description": "A Kubernetes Native Batch System (Project under CNCF)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 209,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2413,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "pkg",
+      "name": "errors",
+      "href": "https://github.com/pkg/errors",
+      "description": "Simple error handling primitives",
+      "language": "Go",
+      "stars": 0,
+      "forks": 423,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 444,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "getgauge",
+      "name": "gauge",
+      "href": "https://github.com/getgauge/gauge",
+      "description": "Light weight cross-platform test automation",
+      "language": "Go",
+      "stars": 0,
+      "forks": 267,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-incubator",
+      "name": "external-storage",
+      "href": "https://github.com/kubernetes-incubator/external-storage",
+      "description": "External storage plugins, provisioners, and helper libraries",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1217,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5969,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "velero",
+      "href": "https://github.com/vmware-tanzu/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 622,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "cortexproject",
+      "name": "cortex",
+      "href": "https://github.com/cortexproject/cortex",
+      "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 358,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "aws",
+      "name": "aws-lambda-go",
+      "href": "https://github.com/aws/aws-lambda-go",
+      "description": "Libraries, samples and tools to help Go developers develop AWS Lambda functions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 332,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "href": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 0,
+      "forks": 485,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6564,
+      "starsInPeriod": 31
+    },
+    {
+      "author": "gomodule",
+      "name": "redigo",
+      "href": "https://github.com/gomodule/redigo",
+      "description": "Go client for Redis",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1070,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1084,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "href": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1029,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 938,
+      "starsInPeriod": 10
+    }
+  ]
+}
