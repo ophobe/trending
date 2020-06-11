@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "cloudflare",
+      "name": "utahfs",
+      "href": "https://github.com/cloudflare/utahfs",
+      "description": "UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13,
+      "starsInPeriod": 95
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "href": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 743,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1134,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "chai2010",
+      "name": "go-ast-book",
+      "href": "https://github.com/chai2010/go-ast-book",
+      "description": "📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 117,
+      "starsInPeriod": 158
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 14952,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1703,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "docker",
+      "name": "distribution",
+      "href": "https://github.com/docker/distribution",
+      "description": "The Docker toolset to pack, ship, store, and deliver content",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1775,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "API-aware Networking and Security using eBPF and XDP",
+      "language": "Go",
+      "stars": 0,
+      "forks": 634,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "href": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1495,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4772,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 549,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "href": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 455,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "astaxie",
+      "name": "build-web-application-with-golang",
+      "href": "https://github.com/astaxie/build-web-application-with-golang",
+      "description": "A golang ebook intro how to build a web with golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9546,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 24030,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "href": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1006,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "href": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": 0,
+      "forks": 906,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2131,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1260,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "gogo",
+      "name": "protobuf",
+      "href": "https://github.com/gogo/protobuf",
+      "description": "Protocol Buffers for Go with Gadgets",
+      "language": "Go",
+      "stars": 0,
+      "forks": 502,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "operator-framework",
+      "name": "operator-sdk",
+      "href": "https://github.com/operator-framework/operator-sdk",
+      "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1019,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "google",
+      "name": "exposure-notifications-server",
+      "href": "https://github.com/google/exposure-notifications-server",
+      "description": "Exposure Notification Reference Server | Covid-19 Exposure Notifications",
+      "language": "Go",
+      "stars": 0,
+      "forks": 170,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1011,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1682,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "Images for OpenShift 3 and 4 - see openshift/okd for more",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4310,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "controller-runtime",
+      "href": "https://github.com/kubernetes-sigs/controller-runtime",
+      "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 350,
+      "starsInPeriod": 6
+    }
+  ]
+}
