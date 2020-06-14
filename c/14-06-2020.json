@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "href": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's OpenWrt source",
+      "language": "C",
+      "stars": 0,
+      "forks": 10190,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "esp8266",
+      "name": "Arduino",
+      "href": "https://github.com/esp8266/Arduino",
+      "description": "ESP8266 core for Arduino",
+      "language": "C",
+      "stars": 0,
+      "forks": 9754,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "href": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 0,
+      "forks": 4038,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "href": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": 0,
+      "forks": 517,
+      "starsInPeriod": 53
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Configurations",
+      "href": "https://github.com/MarlinFirmware/Configurations",
+      "description": "Configurations for Marlin Firmware",
+      "language": "C",
+      "stars": 0,
+      "forks": 390,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "zxystd",
+      "name": "itlwm",
+      "href": "https://github.com/zxystd/itlwm",
+      "description": "IntelWifi",
+      "language": "C",
+      "stars": 0,
+      "forks": 137,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "href": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": 0,
+      "forks": 397,
+      "starsInPeriod": 88
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "href": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": 0,
+      "forks": 2212,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "sandboxie",
+      "name": "sandboxie",
+      "href": "https://github.com/sandboxie/sandboxie",
+      "description": "The Sandboxie application",
+      "language": "C",
+      "stars": 0,
+      "forks": 228,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "bigtreetech",
+      "name": "BIGTREETECH-TouchScreenFirmware",
+      "href": "https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware",
+      "description": "support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1",
+      "language": "C",
+      "stars": 0,
+      "forks": 422,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "href": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": 0,
+      "forks": 2095,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "wine-mirror",
+      "name": "wine",
+      "href": "https://github.com/wine-mirror/wine",
+      "description": null,
+      "language": "C",
+      "stars": 0,
+      "forks": 622,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "KevinOConnor",
+      "name": "klipper",
+      "href": "https://github.com/KevinOConnor/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": 0,
+      "forks": 1163,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "grbl",
+      "name": "grbl",
+      "href": "https://github.com/grbl/grbl",
+      "description": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+      "language": "C",
+      "stars": 0,
+      "forks": 2230,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "google",
+      "name": "oss-fuzz",
+      "href": "https://github.com/google/oss-fuzz",
+      "description": "OSS-Fuzz - continuous fuzzing of open source software.",
+      "language": "C",
+      "stars": 0,
+      "forks": 1010,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "href": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 0,
+      "forks": 1391,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "lsds",
+      "name": "sgx-lkl",
+      "href": "https://github.com/lsds/sgx-lkl",
+      "description": "SGX-LKL Library OS for running Linux applications inside of Intel SGX enclaves",
+      "language": "C",
+      "stars": 0,
+      "forks": 49,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "SecWiki",
+      "name": "windows-kernel-exploits",
+      "href": "https://github.com/SecWiki/windows-kernel-exploits",
+      "description": "windows-kernel-exploits Windows平台提权漏洞集合",
+      "language": "C",
+      "stars": 0,
+      "forks": 1991,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "href": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": 0,
+      "forks": 2100,
+      "starsInPeriod": 33
+    },
+    {
+      "author": "QSCTech",
+      "name": "zju-icicles",
+      "href": "https://github.com/QSCTech/zju-icicles",
+      "description": "浙江大学课程攻略共享计划",
+      "language": "C",
+      "stars": 0,
+      "forks": 5479,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "href": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": 0,
+      "forks": 1679,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "u-boot",
+      "name": "u-boot",
+      "href": "https://github.com/u-boot/u-boot",
+      "description": "\"Das U-Boot\" Source Tree",
+      "language": "C",
+      "stars": 0,
+      "forks": 1431,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "href": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 0,
+      "forks": 3220,
+      "starsInPeriod": 122
+    },
+    {
+      "author": "Screetsec",
+      "name": "TheFatRat",
+      "href": "https://github.com/Screetsec/TheFatRat",
+      "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+      "language": "C",
+      "stars": 0,
+      "forks": 1461,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "href": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": 0,
+      "forks": 616,
+      "starsInPeriod": 6
+    }
+  ]
+}
