@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "golang",
+      "name": "pkgsite",
+      "href": "https://github.com/golang/pkgsite",
+      "description": "[mirror] Home of the pkg.go.dev website",
+      "language": "Go",
+      "stars": 0,
+      "forks": 18,
+      "starsInPeriod": 116
+    },
+    {
+      "author": "douyu",
+      "name": "jupiter",
+      "href": "https://github.com/douyu/jupiter",
+      "description": "Jupiter是douyu开源的面向服务治理的Golang微服务框架",
+      "language": "Go",
+      "stars": 0,
+      "forks": 159,
+      "starsInPeriod": 60
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "href": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 402,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2491,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "fluxcd",
+      "name": "helm-operator",
+      "href": "https://github.com/fluxcd/helm-operator",
+      "description": "The Flux Helm Operator, for declarative Helming",
+      "language": "Go",
+      "stars": 0,
+      "forks": 139,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "nlpodyssey",
+      "name": "spago",
+      "href": "https://github.com/nlpodyssey/spago",
+      "description": "spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks",
+      "language": "Go",
+      "stars": 0,
+      "forks": 17,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 24124,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "link1st",
+      "name": "gowebsocket",
+      "href": "https://github.com/link1st/gowebsocket",
+      "description": "golang基于websocket单台机器支持百万连接分布式聊天(IM)系统",
+      "language": "Go",
+      "stars": 0,
+      "forks": 125,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hashicorp",
+      "name": "memberlist",
+      "href": "https://github.com/hashicorp/memberlist",
+      "description": "Golang package for gossip based membership and failure detection",
+      "language": "Go",
+      "stars": 0,
+      "forks": 296,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "href": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": 0,
+      "forks": 682,
+      "starsInPeriod": 41
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15028,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "href": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 371,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "href": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1491,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "appleboy",
+      "name": "gorush",
+      "href": "https://github.com/appleboy/gorush",
+      "description": "A push notification server written in Go (Golang).",
+      "language": "Go",
+      "stars": 0,
+      "forks": 521,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux",
+      "href": "https://github.com/fluxcd/flux",
+      "description": "The GitOps Kubernetes operator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 879,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 836,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10582,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "href": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea, painless self-hosted git service",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2377,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "elastic",
+      "name": "cloud-on-k8s",
+      "href": "https://github.com/elastic/cloud-on-k8s",
+      "description": "Elastic Cloud on Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 212,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "google",
+      "name": "gopacket",
+      "href": "https://github.com/google/gopacket",
+      "description": "Provides packet processing capabilities for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 696,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 640,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "peterq",
+      "name": "pan-light",
+      "href": "https://github.com/peterq/pan-light",
+      "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2363,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "eddycjy",
+      "name": "go-gin-example",
+      "href": "https://github.com/eddycjy/go-gin-example",
+      "description": "An example of gin",
+      "language": "Go",
+      "stars": 0,
+      "forks": 745,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "jetstack",
+      "name": "cert-manager",
+      "href": "https://github.com/jetstack/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1015,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "urfave",
+      "name": "cli",
+      "href": "https://github.com/urfave/cli",
+      "description": "A simple, fast, and fun package for building command line apps in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1170,
+      "starsInPeriod": 12
+    }
+  ]
+}
