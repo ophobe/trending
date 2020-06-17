@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "extrawurst",
+      "name": "gitui",
+      "href": "https://github.com/extrawurst/gitui",
+      "description": "blazing fast terminal-ui for git written in rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 43,
+      "starsInPeriod": 69
+    },
+    {
+      "author": "willcrichton",
+      "name": "tyrade",
+      "href": "https://github.com/willcrichton/tyrade",
+      "description": "A pure functional language for type-level programming in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 2,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "href": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 63,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "amethyst",
+      "name": "amethyst",
+      "href": "https://github.com/amethyst/amethyst",
+      "description": "Data-oriented and data-driven game engine written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 626,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "rust-embedded",
+      "name": "rust-raspberrypi-OS-tutorials",
+      "href": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+      "description": "📚 Learn to write an embedded OS in Rust 🦀",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 116,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "href": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1111,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "theryangeary",
+      "name": "choose",
+      "href": "https://github.com/theryangeary/choose",
+      "description": "A human-friendly and fast alternative to cut and (sometimes) awk",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 12,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 685,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1062,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "href": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of libp2p networking stack.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 245,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "MaterializeInc",
+      "name": "materialize",
+      "href": "https://github.com/MaterializeInc/materialize",
+      "description": "The Streaming SQL Database powered by Timely Dataflow",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 73,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "actix",
+      "name": "actix",
+      "href": "https://github.com/actix/actix",
+      "description": "Actor framework for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 486,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1050,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu-rs",
+      "href": "https://github.com/gfx-rs/wgpu-rs",
+      "description": "Rust bindings to wgpu native library",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 107,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustup",
+      "href": "https://github.com/rust-lang/rustup",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 512,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "ggez",
+      "name": "ggez",
+      "href": "https://github.com/ggez/ggez",
+      "description": "Rust library to create a Good Game Easily",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 291,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 75,
+      "starsInPeriod": 110
+    },
+    {
+      "author": "Amanieu",
+      "name": "parking_lot",
+      "href": "https://github.com/Amanieu/parking_lot",
+      "description": "Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 81,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "stjepang",
+      "name": "async-channel",
+      "href": "https://github.com/stjepang/async-channel",
+      "description": "Async multi-producer multi-consumer channel",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "crossbeam-rs",
+      "name": "crossbeam",
+      "href": "https://github.com/crossbeam-rs/crossbeam",
+      "description": "Tools for concurrent programming in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 204,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "flamegraph-rs",
+      "name": "flamegraph",
+      "href": "https://github.com/flamegraph-rs/flamegraph",
+      "description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 43,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "wez",
+      "name": "wezterm",
+      "href": "https://github.com/wez/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 23,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 261,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rust-secure-code",
+      "name": "cargo-geiger",
+      "href": "https://github.com/rust-secure-code/cargo-geiger",
+      "description": "Detects usage of unsafe Rust in a Rust crate and its dependencies.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 18,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "meilisearch",
+      "name": "MeiliSearch",
+      "href": "https://github.com/meilisearch/MeiliSearch",
+      "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 166,
+      "starsInPeriod": 25
+    }
+  ]
+}
