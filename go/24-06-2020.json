@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "evanw",
+      "name": "esbuild",
+      "href": "https://github.com/evanw/esbuild",
+      "description": "An extremely fast JavaScript bundler and minifier",
+      "language": "Go",
+      "stars": 0,
+      "forks": 190,
+      "starsInPeriod": 104
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4077,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1795,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1141,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "href": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，更多功能正在开发中，欢迎issue和pr~",
+      "language": "Go",
+      "stars": 0,
+      "forks": 657,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "golang",
+      "name": "protobuf",
+      "href": "https://github.com/golang/protobuf",
+      "description": "Go support for Google's protocol buffers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1269,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "rancher",
+      "name": "rke",
+      "href": "https://github.com/rancher/rke",
+      "description": "Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 357,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "href": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3277,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "href": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 519,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "sourcegraph",
+      "name": "sourcegraph",
+      "href": "https://github.com/sourcegraph/sourcegraph",
+      "description": "Universal code search (self-hosted)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 382,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1492,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1170,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "href": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+      "language": "Go",
+      "stars": 0,
+      "forks": 950,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "OpenDiablo2",
+      "name": "OpenDiablo2",
+      "href": "https://github.com/OpenDiablo2/OpenDiablo2",
+      "description": "An open source re-implementation of Diablo 2",
+      "language": "Go",
+      "stars": 0,
+      "forks": 433,
+      "starsInPeriod": 926
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5841,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kubernetes",
+      "name": "kube-state-metrics",
+      "href": "https://github.com/kubernetes/kube-state-metrics",
+      "description": "Add-on agent to generate and expose cluster-level metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 766,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "containous",
+      "name": "traefik",
+      "href": "https://github.com/containous/traefik",
+      "description": "The Cloud Native Edge Router",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3239,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 813,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "velero",
+      "href": "https://github.com/vmware-tanzu/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 642,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "wrouesnel",
+      "name": "postgres_exporter",
+      "href": "https://github.com/wrouesnel/postgres_exporter",
+      "description": "A PostgresSQL metric exporter for Prometheus",
+      "language": "Go",
+      "stars": 0,
+      "forks": 350,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15122,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "shirou",
+      "name": "gopsutil",
+      "href": "https://github.com/shirou/gopsutil",
+      "description": "psutil for golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 889,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "tealeg",
+      "name": "xlsx",
+      "href": "https://github.com/tealeg/xlsx",
+      "description": "Go (golang) library for reading and writing XLSX files.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 689,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "tmrts",
+      "name": "go-patterns",
+      "href": "https://github.com/tmrts/go-patterns",
+      "description": "Curated list of Go design patterns, recipes and idioms",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1214,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "Netflix",
+      "name": "chaosmonkey",
+      "href": "https://github.com/Netflix/chaosmonkey",
+      "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 637,
+      "starsInPeriod": 7
+    }
+  ]
+}
