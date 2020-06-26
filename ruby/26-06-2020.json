@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "href": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language [mirror]",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 4526,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "urbanadventurer",
+      "name": "WhatWeb",
+      "href": "https://github.com/urbanadventurer/WhatWeb",
+      "description": "Next generation web scanner",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 596,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "thoughtbot",
+      "name": "factory_bot",
+      "href": "https://github.com/thoughtbot/factory_bot",
+      "description": "A library for setting up Ruby objects as test data.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 2128,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "mperham",
+      "name": "sidekiq",
+      "href": "https://github.com/mperham/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 1823,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "faker-ruby",
+      "name": "faker",
+      "href": "https://github.com/faker-ruby/faker",
+      "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 2403,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "heartcombo",
+      "name": "simple_form",
+      "href": "https://github.com/heartcombo/simple_form",
+      "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 1275,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rails",
+      "name": "webpacker",
+      "href": "https://github.com/rails/webpacker",
+      "description": "Use Webpack to manage app-like JavaScript modules in Rails",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 1231,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "solidusio",
+      "name": "solidus",
+      "href": "https://github.com/solidusio/solidus",
+      "description": "🛒Solidus, Rails eCommerce System",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 923,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "doorkeeper-gem",
+      "name": "doorkeeper",
+      "href": "https://github.com/doorkeeper-gem/doorkeeper",
+      "description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 938,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "href": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 3965,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "href": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 5152,
+      "starsInPeriod": 61
+    },
+    {
+      "author": "rack",
+      "name": "rack",
+      "href": "https://github.com/rack/rack",
+      "description": "A modular Ruby web server interface.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 1455,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "lewagon",
+      "name": "rails-k8s-demo",
+      "href": "https://github.com/lewagon/rails-k8s-demo",
+      "description": "\"Classic stack\" Rails/Sidekiq/ActionCable PostgreSQL/Redis/Puma app to demonstrate Digital Ocean Kubernetes deployment with Helm 3 and local Docker dev environment with docker-compose and dip (https://github.com/bibendi/dip)",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 7,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "thoughtbot",
+      "name": "shoulda-matchers",
+      "href": "https://github.com/thoughtbot/shoulda-matchers",
+      "description": "Simple one-liner tests for common Rails functionality",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 803,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "luggit",
+      "name": "react-native-config",
+      "href": "https://github.com/luggit/react-native-config",
+      "description": "Bring some 12 factor love to your mobile apps!",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 520,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "varvet",
+      "name": "pundit",
+      "href": "https://github.com/varvet/pundit",
+      "description": "Minimal authorization through OO design and pure Ruby classes",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 533,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "norman",
+      "name": "friendly_id",
+      "href": "https://github.com/norman/friendly_id",
+      "description": "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 570,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "kaminari",
+      "name": "kaminari",
+      "href": "https://github.com/kaminari/kaminari",
+      "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 1021,
+      "starsInPeriod": 0
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "href": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 18541,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "sinatra",
+      "name": "sinatra",
+      "href": "https://github.com/sinatra/sinatra",
+      "description": "Classy web-development dressed in a DSL (official / canonical repo)",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 1985,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "jsonapi-serializer",
+      "name": "jsonapi-serializer",
+      "href": "https://github.com/jsonapi-serializer/jsonapi-serializer",
+      "description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 29,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "paper-trail-gem",
+      "name": "paper_trail",
+      "href": "https://github.com/paper-trail-gem/paper_trail",
+      "description": "Track changes to your rails models",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 767,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "wpscanteam",
+      "name": "wpscan",
+      "href": "https://github.com/wpscanteam/wpscan",
+      "description": "WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 907,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "colszowka",
+      "name": "simplecov",
+      "href": "https://github.com/colszowka/simplecov",
+      "description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 459,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "wardencommunity",
+      "name": "warden",
+      "href": "https://github.com/wardencommunity/warden",
+      "description": "General Rack Authentication Framework",
+      "language": "Ruby",
+      "stars": 0,
+      "forks": 184,
+      "starsInPeriod": 1
+    }
+  ]
+}
