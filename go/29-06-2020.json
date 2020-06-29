@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "href": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4536,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "greyireland",
+      "name": "algorithm-pattern",
+      "href": "https://github.com/greyireland/algorithm-pattern",
+      "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+      "language": "Go",
+      "stars": 0,
+      "forks": 774,
+      "starsInPeriod": 311
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "href": "https://github.com/ethereum/go-ethereum",
+      "description": "Official Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 9563,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+      "language": "Go",
+      "stars": 0,
+      "forks": 680,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "filecoin-project",
+      "name": "lotus",
+      "href": "https://github.com/filecoin-project/lotus",
+      "description": "Implementation of the Filecoin protocol, written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 215,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "apex",
+      "name": "rpc",
+      "href": "https://github.com/apex/rpc",
+      "description": "Simple RPC style APIs with generated clients & servers.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "FiloSottile",
+      "name": "age",
+      "href": "https://github.com/FiloSottile/age",
+      "description": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 121,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7606,
+      "starsInPeriod": 95
+    },
+    {
+      "author": "chromedp",
+      "name": "chromedp",
+      "href": "https://github.com/chromedp/chromedp",
+      "description": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 426,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "href": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7005,
+      "starsInPeriod": 38
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6035,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "authelia",
+      "name": "authelia",
+      "href": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps",
+      "language": "Go",
+      "stars": 0,
+      "forks": 117,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "GoesToEleven",
+      "name": "GolangTraining",
+      "href": "https://github.com/GoesToEleven/GolangTraining",
+      "description": "Training for Golang (go language)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2363,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "chrislusf",
+      "name": "seaweedfs",
+      "href": "https://github.com/chrislusf/seaweedfs",
+      "description": "SeaweedFS is a simple and highly scalable distributed file system to store and serve billions of files fast! SeaweedFS object store has O(1) disk seek, transparent cloud integration, and SeaweedFS Filer supporting POSIX, S3 API, AES256 encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, Kubernetes PV, WebDAV.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1299,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "go-telegram-bot-api",
+      "name": "telegram-bot-api",
+      "href": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+      "description": "Golang bindings for the Telegram Bot API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 375,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "wenjianzhang",
+      "name": "go-admin",
+      "href": "https://github.com/wenjianzhang/go-admin",
+      "description": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login",
+      "language": "Go",
+      "stars": 0,
+      "forks": 303,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6016,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "jckuester",
+      "name": "awsls",
+      "href": "https://github.com/jckuester/awsls",
+      "description": "A list command for AWS resources",
+      "language": "Go",
+      "stars": 0,
+      "forks": 13,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "statping",
+      "name": "statping",
+      "href": "https://github.com/statping/statping",
+      "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 246,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "eddycjy",
+      "name": "go-gin-example",
+      "href": "https://github.com/eddycjy/go-gin-example",
+      "description": "An example of gin",
+      "language": "Go",
+      "stars": 0,
+      "forks": 762,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "filecoin-project",
+      "name": "go-filecoin",
+      "href": "https://github.com/filecoin-project/go-filecoin",
+      "description": "Filecoin Full Node Implementation in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 299,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "AlecAivazis",
+      "name": "survey",
+      "href": "https://github.com/AlecAivazis/survey",
+      "description": "A golang library for building interactive prompts with full support for windows and posix terminals.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 160,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "docker",
+      "name": "distribution",
+      "href": "https://github.com/docker/distribution",
+      "description": "The Docker toolset to pack, ship, store, and deliver content",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1783,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4817,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5131,
+      "starsInPeriod": 34
+    }
+  ]
+}
