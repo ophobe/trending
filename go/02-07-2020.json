@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+      "language": "Go",
+      "stars": 0,
+      "forks": 703,
+      "starsInPeriod": 237
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide",
+      "language": "Go",
+      "stars": 0,
+      "forks": 814,
+      "starsInPeriod": 223
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Secure Access for Developers that doesn't get in the way.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 640,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "href": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
+      "language": "Go",
+      "stars": 0,
+      "forks": 236,
+      "starsInPeriod": 50
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "href": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 996,
+      "starsInPeriod": 47
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 569,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "go-redis",
+      "name": "redis",
+      "href": "https://github.com/go-redis/redis",
+      "description": "Type-safe Redis client for Golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1182,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "chai2010",
+      "name": "advanced-go-programming-book",
+      "href": "https://github.com/chai2010/advanced-go-programming-book",
+      "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2180,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "aws",
+      "name": "amazon-vpc-cni-k8s",
+      "href": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 340,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10640,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6049,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "href": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5188,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 24325,
+      "starsInPeriod": 52
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "href": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1515,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "bfenetworks",
+      "name": "bfe",
+      "href": "https://github.com/bfenetworks/bfe",
+      "description": "A modern layer 7 load balancer from baidu",
+      "language": "Go",
+      "stars": 0,
+      "forks": 622,
+      "starsInPeriod": 66
+    },
+    {
+      "author": "go-yaml",
+      "name": "yaml",
+      "href": "https://github.com/go-yaml/yaml",
+      "description": "YAML support for the Go language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 695,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-google",
+      "href": "https://github.com/terraform-providers/terraform-provider-google",
+      "description": "Terraform Google Cloud Platform provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 813,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "patrickmn",
+      "name": "go-cache",
+      "href": "https://github.com/patrickmn/go-cache",
+      "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 525,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "href": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6033,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "href": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 103,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "href": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 200,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "openshift",
+      "name": "origin",
+      "href": "https://github.com/openshift/origin",
+      "description": "Images for OpenShift 3 and 4 - see openshift/okd for more",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4334,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "miekg",
+      "name": "dns",
+      "href": "https://github.com/miekg/dns",
+      "description": "DNS library in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 766,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "kubernetes",
+      "name": "dashboard",
+      "href": "https://github.com/kubernetes/dashboard",
+      "description": "General-purpose web UI for Kubernetes clusters",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2312,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1363,
+      "starsInPeriod": 31
+    }
+  ]
+}
