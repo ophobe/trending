@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "WeiYe-Jing",
+      "name": "datax-web",
+      "href": "https://github.com/WeiYe-Jing/datax-web",
+      "description": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 415,
+      "starsInPeriod": 46
+    },
+    {
+      "author": "alibaba",
+      "name": "DataX",
+      "href": "https://github.com/alibaba/DataX",
+      "description": null,
+      "language": "Java",
+      "stars": 0,
+      "forks": 2311,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "didi",
+      "name": "DoraemonKit",
+      "href": "https://github.com/didi/DoraemonKit",
+      "description": "A full-featured App (iOS & Android) development assistant. You deserve it. 简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/",
+      "language": "Java",
+      "stars": 0,
+      "forks": 2039,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "alibaba",
+      "name": "arthas",
+      "href": "https://github.com/alibaba/arthas",
+      "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+      "language": "Java",
+      "stars": 0,
+      "forks": 4741,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "apache",
+      "name": "nifi",
+      "href": "https://github.com/apache/nifi",
+      "description": "Apache NiFi",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1755,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "pentaho",
+      "name": "pentaho-kettle",
+      "href": "https://github.com/pentaho/pentaho-kettle",
+      "description": "Pentaho Data Integration ( ETL ) a.k.a Kettle",
+      "language": "Java",
+      "stars": 0,
+      "forks": 2334,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "macrozheng",
+      "name": "mall",
+      "href": "https://github.com/macrozheng/mall",
+      "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 15822,
+      "starsInPeriod": 77
+    },
+    {
+      "author": "YunaiV",
+      "name": "SpringBoot-Labs",
+      "href": "https://github.com/YunaiV/SpringBoot-Labs",
+      "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1386,
+      "starsInPeriod": 70
+    },
+    {
+      "author": "Anuken",
+      "name": "Mindustry",
+      "href": "https://github.com/Anuken/Mindustry",
+      "description": "A sandbox tower defense game",
+      "language": "Java",
+      "stars": 0,
+      "forks": 943,
+      "starsInPeriod": 171
+    },
+    {
+      "author": "Netflix",
+      "name": "conductor",
+      "href": "https://github.com/Netflix/conductor",
+      "description": "Conductor is a microservices orchestration engine - https://netflix.github.io/conductor/",
+      "language": "Java",
+      "stars": 0,
+      "forks": 845,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "ctripcorp",
+      "name": "apollo",
+      "href": "https://github.com/ctripcorp/apollo",
+      "description": "Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 7760,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "Snailclimb",
+      "name": "JavaGuide",
+      "href": "https://github.com/Snailclimb/JavaGuide",
+      "description": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 28576,
+      "starsInPeriod": 136
+    },
+    {
+      "author": "zhangdaiscott",
+      "name": "jeecg-boot",
+      "href": "https://github.com/zhangdaiscott/jeecg-boot",
+      "description": "基于代码生成器的低代码平台，无代码开发、超越传统商业平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。",
+      "language": "Java",
+      "stars": 0,
+      "forks": 5248,
+      "starsInPeriod": 25
+    },
+    {
+      "author": "doocs",
+      "name": "advanced-java",
+      "href": "https://github.com/doocs/advanced-java",
+      "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+      "language": "Java",
+      "stars": 0,
+      "forks": 12587,
+      "starsInPeriod": 109
+    },
+    {
+      "author": "trebleshot",
+      "name": "android",
+      "href": "https://github.com/trebleshot/android",
+      "description": "An Open-Source Android application that allows you to send and receive files over available connections, and offers unique features like sharing over HTTP, pausing and resuming transfers",
+      "language": "Java",
+      "stars": 0,
+      "forks": 104,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "2227324689",
+      "name": "gpmall",
+      "href": "https://github.com/2227324689/gpmall",
+      "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1430,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "react-native-community",
+      "name": "react-native-video",
+      "href": "https://github.com/react-native-community/react-native-video",
+      "description": "A <Video /> component for react-native",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1790,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "looly",
+      "name": "hutool",
+      "href": "https://github.com/looly/hutool",
+      "description": "A set of tools that keep Java sweet.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 4195,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "lingochamp",
+      "name": "FileDownloader",
+      "href": "https://github.com/lingochamp/FileDownloader",
+      "description": "Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1971,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "confluentinc",
+      "name": "ksql",
+      "href": "https://github.com/confluentinc/ksql",
+      "description": "The event streaming database purpose-built for stream processing applications",
+      "language": "Java",
+      "stars": 0,
+      "forks": 648,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "naver",
+      "name": "pinpoint",
+      "href": "https://github.com/naver/pinpoint",
+      "description": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 3187,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "apache",
+      "name": "dubbo",
+      "href": "https://github.com/apache/dubbo",
+      "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+      "language": "Java",
+      "stars": 0,
+      "forks": 21414,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "MyCATApache",
+      "name": "Mycat-Server",
+      "href": "https://github.com/MyCATApache/Mycat-Server",
+      "description": null,
+      "language": "Java",
+      "stars": 0,
+      "forks": 3702,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "LuckSiege",
+      "name": "PictureSelector",
+      "href": "https://github.com/LuckSiege/PictureSelector",
+      "description": "Picture Selector Library for Android or 图片选择器",
+      "language": "Java",
+      "stars": 0,
+      "forks": 1882,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-security",
+      "href": "https://github.com/spring-projects/spring-security",
+      "description": "Spring Security",
+      "language": "Java",
+      "stars": 0,
+      "forks": 4002,
+      "starsInPeriod": 9
+    }
+  ]
+}
