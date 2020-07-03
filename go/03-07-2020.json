@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "tinode",
+      "name": "chat",
+      "href": "https://github.com/tinode/chat",
+      "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+      "language": "Go",
+      "stars": 0,
+      "forks": 708,
+      "starsInPeriod": 188
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "href": "https://github.com/influxdata/telegraf",
+      "description": "The plugin-driven server agent for collecting & reporting metrics.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3575,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "hoanhan101",
+      "name": "ultimate-go",
+      "href": "https://github.com/hoanhan101/ultimate-go",
+      "description": "Ultimate Go study guide",
+      "language": "Go",
+      "stars": 0,
+      "forks": 829,
+      "starsInPeriod": 279
+    },
+    {
+      "author": "wenjianzhang",
+      "name": "go-admin",
+      "href": "https://github.com/wenjianzhang/go-admin",
+      "description": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login",
+      "language": "Go",
+      "stars": 0,
+      "forks": 323,
+      "starsInPeriod": 36
+    },
+    {
+      "author": "99designs",
+      "name": "aws-vault",
+      "href": "https://github.com/99designs/aws-vault",
+      "description": "A vault for securely storing and accessing AWS credentials in development environments",
+      "language": "Go",
+      "stars": 0,
+      "forks": 318,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "aws",
+      "name": "amazon-vpc-cni-k8s",
+      "href": "https://github.com/aws/amazon-vpc-cni-k8s",
+      "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 341,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 569,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "href": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 327,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "href": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 646,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "containers",
+      "name": "libpod",
+      "href": "https://github.com/containers/libpod",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 571,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4838,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "href": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": 0,
+      "forks": 805,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2516,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4462,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "unknwon",
+      "name": "the-way-to-go_ZH_CN",
+      "href": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6051,
+      "starsInPeriod": 23
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 0,
+      "forks": 481,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "href": "https://github.com/pingcap/tidb",
+      "description": "TiDB is an open source distributed HTAP database compatible with the MySQL protocol",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3673,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "git-lfs",
+      "name": "git-lfs",
+      "href": "https://github.com/git-lfs/git-lfs",
+      "description": "Git extension for versioning large files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1585,
+      "starsInPeriod": 1
+    },
+    {
+      "author": "mattermost",
+      "name": "mattermost-server",
+      "href": "https://github.com/mattermost/mattermost-server",
+      "description": "Open source Slack-alternative in Golang and React - Mattermost",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4245,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "rancher",
+      "name": "k3d",
+      "href": "https://github.com/rancher/k3d",
+      "description": "Little helper to run Rancher Lab's k3s in Docker",
+      "language": "Go",
+      "stars": 0,
+      "forks": 142,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 966,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "href": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 201,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "href": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2843,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15238,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "href": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 104,
+      "starsInPeriod": 13
+    }
+  ]
+}
