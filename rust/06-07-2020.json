@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "yewstack",
+      "name": "yew",
+      "href": "https://github.com/yewstack/yew",
+      "description": "Rust / Wasm framework for building client web apps",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 539,
+      "starsInPeriod": 99
+    },
+    {
+      "author": "timberio",
+      "name": "vector",
+      "href": "https://github.com/timberio/vector",
+      "description": "A lightweight and ultra-fast tool for building observability pipelines",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 256,
+      "starsInPeriod": 45
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "href": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 811,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "href": "https://github.com/actix/actix-web",
+      "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1064,
+      "starsInPeriod": 16
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "href": "https://github.com/tauri-apps/tauri",
+      "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 83,
+      "starsInPeriod": 172
+    },
+    {
+      "author": "autozimu",
+      "name": "LanguageClient-neovim",
+      "href": "https://github.com/autozimu/LanguageClient-neovim",
+      "description": "Language Server Protocol (LSP) support for vim and neovim.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 239,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "rust-embedded",
+      "name": "rust-raspberrypi-OS-tutorials",
+      "href": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+      "description": "📚 Learn to write an embedded OS in Rust 🦀",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 126,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "samtay",
+      "name": "so",
+      "href": "https://github.com/samtay/so",
+      "description": "A terminal interface for Stack Overflow",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 6,
+      "starsInPeriod": 40
+    },
+    {
+      "author": "SergioBenitez",
+      "name": "Rocket",
+      "href": "https://github.com/SergioBenitez/Rocket",
+      "description": "A web framework for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 686,
+      "starsInPeriod": 15
+    },
+    {
+      "author": "RustPython",
+      "name": "RustPython",
+      "href": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 395,
+      "starsInPeriod": 86
+    },
+    {
+      "author": "hecrj",
+      "name": "iced",
+      "href": "https://github.com/hecrj/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 215,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "huggingface",
+      "name": "tokenizers",
+      "href": "https://github.com/huggingface/tokenizers",
+      "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 216,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "bodil",
+      "name": "smartstring",
+      "href": "https://github.com/bodil/smartstring",
+      "description": "Compact inlined strings for Rust.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 4,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "href": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 267,
+      "starsInPeriod": 78
+    },
+    {
+      "author": "stjepang",
+      "name": "smol",
+      "href": "https://github.com/stjepang/smol",
+      "description": "A small and fast async runtime for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 77,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "Spotifyd",
+      "name": "spotifyd",
+      "href": "https://github.com/Spotifyd/spotifyd",
+      "description": "A spotify daemon",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 192,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "href": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 323,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "href": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 547,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "href": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 387,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "href": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 217,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "async-rs",
+      "name": "async-std",
+      "href": "https://github.com/async-rs/async-std",
+      "description": "Async version of the Rust standard library",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 221,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "href": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 177,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "dani-garcia",
+      "name": "bitwarden_rs",
+      "href": "https://github.com/dani-garcia/bitwarden_rs",
+      "description": "Unofficial Bitwarden compatible server written in Rust",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 288,
+      "starsInPeriod": 30
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "href": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 632,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "href": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 1075,
+      "starsInPeriod": 56
+    }
+  ]
+}
