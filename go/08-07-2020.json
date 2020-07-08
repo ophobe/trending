@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-aws",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws",
+      "description": "Terraform AWS provider",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4148,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "href": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": 0,
+      "forks": 175,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2484,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "dgrijalva",
+      "name": "jwt-go",
+      "href": "https://github.com/dgrijalva/jwt-go",
+      "description": "Golang implementation of JSON Web Tokens (JWT)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 726,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "href": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1156,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5886,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "href": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3622,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "go-swagger",
+      "name": "go-swagger",
+      "href": "https://github.com/go-swagger/go-swagger",
+      "description": "Swagger 2.0 implementation for go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 843,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "terraform-providers",
+      "name": "terraform-provider-azurerm",
+      "href": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1750,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1497,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "href": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 439,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "href": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1731,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "href": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": 0,
+      "forks": 531,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "href": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1202,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "vmware",
+      "name": "govmomi",
+      "href": "https://github.com/vmware/govmomi",
+      "description": "Go library for the VMware vSphere API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 553,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "argoproj",
+      "name": "argo",
+      "href": "https://github.com/argoproj/argo",
+      "description": "Argo Workflows: Get stuff done with Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 975,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "href": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 461,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "slack-go",
+      "name": "slack",
+      "href": "https://github.com/slack-go/slack",
+      "description": "Slack API in Go - community-maintained fork created by the original author, @nlopes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 745,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "LyricTian",
+      "name": "gin-admin",
+      "href": "https://github.com/LyricTian/gin-admin",
+      "description": "RBAC scaffolding based on Gin + Gorm/Mongo + Casbin + Wire",
+      "language": "Go",
+      "stars": 0,
+      "forks": 283,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "href": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1496,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "href": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6677,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "href": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10681,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "href": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON parser for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 432,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "goplus",
+      "name": "gop",
+      "href": "https://github.com/goplus/gop",
+      "description": "GoPlus - The Go+ language for data science",
+      "language": "Go",
+      "stars": 0,
+      "forks": 250,
+      "starsInPeriod": 130
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15295,
+      "starsInPeriod": 11
+    }
+  ]
+}
