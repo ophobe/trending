@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16631,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "aws",
+      "name": "copilot-cli",
+      "href": "https://github.com/aws/copilot-cli",
+      "description": "The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 63,
+      "starsInPeriod": 86
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3061,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1498,
+      "starsInPeriod": 2
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "href": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5892,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "ahmetb",
+      "name": "kubectx",
+      "href": "https://github.com/ahmetb/kubectx",
+      "description": "Faster way to switch between clusters and namespaces in kubectl",
+      "language": "Go",
+      "stars": 0,
+      "forks": 527,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "mosn",
+      "name": "mosn",
+      "href": "https://github.com/mosn/mosn",
+      "description": "MOSN is a cloud native proxy for edge or service mesh. https://mosn.io",
+      "language": "Go",
+      "stars": 0,
+      "forks": 468,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "jakekgrog",
+      "name": "GhostDB",
+      "href": "https://github.com/jakekgrog/GhostDB",
+      "description": "GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 11,
+      "starsInPeriod": 119
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "href": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 707,
+      "starsInPeriod": 5
+    },
+    {
+      "author": "talkgo",
+      "name": "night",
+      "href": "https://github.com/talkgo/night",
+      "description": "Weekly Go Online Meetup via Zoom and Bilibili｜Go 夜读｜由 SIG 成员维护｜通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。",
+      "language": "Go",
+      "stars": 0,
+      "forks": 742,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "href": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters Runner for Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 509,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "Shopify",
+      "name": "sarama",
+      "href": "https://github.com/Shopify/sarama",
+      "description": "Sarama is a Go library for Apache Kafka 0.8, and up.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1076,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1821,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Secure Access for Developers that doesn't get in the way.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 644,
+      "starsInPeriod": 27
+    },
+    {
+      "author": "future-architect",
+      "name": "vuls",
+      "href": "https://github.com/future-architect/vuls",
+      "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices",
+      "language": "Go",
+      "stars": 0,
+      "forks": 845,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "cortexlabs",
+      "name": "cortex",
+      "href": "https://github.com/cortexlabs/cortex",
+      "description": "Build machine learning APIs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 435,
+      "starsInPeriod": 18
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4850,
+      "starsInPeriod": 26
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "href": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2212,
+      "starsInPeriod": 24
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 24432,
+      "starsInPeriod": 42
+    },
+    {
+      "author": "helm",
+      "name": "charts",
+      "href": "https://github.com/helm/charts",
+      "description": "Curated applications for Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 15321,
+      "starsInPeriod": 12
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo-go-driver",
+      "href": "https://github.com/mongodb/mongo-go-driver",
+      "description": "The Go driver for MongoDB",
+      "language": "Go",
+      "stars": 0,
+      "forks": 513,
+      "starsInPeriod": 6
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "href": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": 0,
+      "forks": 521,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2488,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "shirou",
+      "name": "gopsutil",
+      "href": "https://github.com/shirou/gopsutil",
+      "description": "psutil for golang",
+      "language": "Go",
+      "stars": 0,
+      "forks": 894,
+      "starsInPeriod": 4
+    },
+    {
+      "author": "kubevirt",
+      "name": "kubevirt",
+      "href": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 448,
+      "starsInPeriod": 4
+    }
+  ]
+}
