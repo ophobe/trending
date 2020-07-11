@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16636,
+      "starsInPeriod": 20
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4855,
+      "starsInPeriod": 34
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": 0,
+      "forks": 657,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "href": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": 0,
+      "forks": 173,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "href": "https://github.com/caddyserver/caddy",
+      "description": "Fast, multi-platform web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2383,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "href": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2216,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "href": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2490,
+      "starsInPeriod": 21
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "href": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1823,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "docker",
+      "name": "ecs-plugin",
+      "href": "https://github.com/docker/ecs-plugin",
+      "description": "CLI plugin for using Fargate/ECS with Docker CLI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 8,
+      "starsInPeriod": 55
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "href": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 24443,
+      "starsInPeriod": 49
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "href": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4494,
+      "starsInPeriod": 19
+    },
+    {
+      "author": "cockroachdb",
+      "name": "copyist",
+      "href": "https://github.com/cockroachdb/copyist",
+      "description": "Mocking your SQL database in Go tests has never been easier.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3,
+      "starsInPeriod": 120
+    },
+    {
+      "author": "aws",
+      "name": "copilot-cli",
+      "href": "https://github.com/aws/copilot-cli",
+      "description": "The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 64,
+      "starsInPeriod": 122
+    },
+    {
+      "author": "reviewdog",
+      "name": "reviewdog",
+      "href": "https://github.com/reviewdog/reviewdog",
+      "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+      "language": "Go",
+      "stars": 0,
+      "forks": 122,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "derailed",
+      "name": "popeye",
+      "href": "https://github.com/derailed/popeye",
+      "description": "👀 A Kubernetes cluster resource sanitizer",
+      "language": "Go",
+      "stars": 0,
+      "forks": 105,
+      "starsInPeriod": 7
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "href": "https://github.com/kubesphere/kubesphere",
+      "description": "Easy-to-use Production Ready Container Platform",
+      "language": "Go",
+      "stars": 0,
+      "forks": 571,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "href": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative continuous deployment for Kubernetes.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 688,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go",
+      "href": "https://github.com/aws/aws-sdk-go",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1498,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "chai2010",
+      "name": "go-ast-book",
+      "href": "https://github.com/chai2010/go-ast-book",
+      "description": "📚 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)",
+      "language": "Go",
+      "stars": 0,
+      "forks": 211,
+      "starsInPeriod": 29
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Secure Access for Developers that doesn't get in the way.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 646,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "href": "https://github.com/containers/podman",
+      "description": "libpod is a library used to create container pods. Home of Podman.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 575,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "href": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": 0,
+      "forks": 3062,
+      "starsInPeriod": 28
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "href": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1111,
+      "starsInPeriod": 3
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "href": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 0,
+      "forks": 2527,
+      "starsInPeriod": 9
+    },
+    {
+      "author": "zalando",
+      "name": "postgres-operator",
+      "href": "https://github.com/zalando/postgres-operator",
+      "description": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
+      "language": "Go",
+      "stars": 0,
+      "forks": 277,
+      "starsInPeriod": 4
+    }
+  ]
+}
