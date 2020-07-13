@@ -1,0 +1,254 @@
+{
+  "repositories": [
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "href": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~",
+      "language": "Go",
+      "stars": 0,
+      "forks": 777,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "href": "https://github.com/moby/moby",
+      "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16639,
+      "starsInPeriod": 81
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "href": "https://github.com/gravitational/teleport",
+      "description": "Secure Access for Developers that doesn't get in the way.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 648,
+      "starsInPeriod": 54
+    },
+    {
+      "author": "bfenetworks",
+      "name": "bfe",
+      "href": "https://github.com/bfenetworks/bfe",
+      "description": "A modern layer 7 load balancer from baidu",
+      "language": "Go",
+      "stars": 0,
+      "forks": 641,
+      "starsInPeriod": 67
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "href": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1851,
+      "starsInPeriod": 51
+    },
+    {
+      "author": "docker",
+      "name": "ecs-plugin",
+      "href": "https://github.com/docker/ecs-plugin",
+      "description": "CLI plugin for using Fargate/ECS with Docker CLI",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10,
+      "starsInPeriod": 72
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "href": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": 0,
+      "forks": 657,
+      "starsInPeriod": 76
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "href": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 4863,
+      "starsInPeriod": 128
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "href": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI in Go based on Material Design",
+      "language": "Go",
+      "stars": 0,
+      "forks": 488,
+      "starsInPeriod": 22
+    },
+    {
+      "author": "google",
+      "name": "go-safeweb",
+      "href": "https://github.com/google/go-safeweb",
+      "description": "Secure-by-default HTTP servers in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 6,
+      "starsInPeriod": 84
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "href": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS, the cloud native messaging system.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 778,
+      "starsInPeriod": 17
+    },
+    {
+      "author": "getlantern",
+      "name": "lantern",
+      "href": "https://github.com/getlantern/lantern",
+      "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator",
+      "language": "Go",
+      "stars": 0,
+      "forks": 10708,
+      "starsInPeriod": 39
+    },
+    {
+      "author": "go-telegram-bot-api",
+      "name": "telegram-bot-api",
+      "href": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+      "description": "Golang bindings for the Telegram Bot API",
+      "language": "Go",
+      "stars": 0,
+      "forks": 381,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "kelseyhightower",
+      "name": "envconfig",
+      "href": "https://github.com/kelseyhightower/envconfig",
+      "description": "Golang library for managing configuration data from environment variables",
+      "language": "Go",
+      "stars": 0,
+      "forks": 258,
+      "starsInPeriod": 14
+    },
+    {
+      "author": "OJ",
+      "name": "gobuster",
+      "href": "https://github.com/OJ/gobuster",
+      "description": "Directory/File, DNS and VHost busting tool written in Go",
+      "language": "Go",
+      "stars": 0,
+      "forks": 577,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "SoMuchForSubtlety",
+      "name": "f1viewer",
+      "href": "https://github.com/SoMuchForSubtlety/f1viewer",
+      "description": "🏎️ TUI for F1TV",
+      "language": "Go",
+      "stars": 0,
+      "forks": 16,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "href": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 7717,
+      "starsInPeriod": 91
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "href": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "language": "Go",
+      "stars": 0,
+      "forks": 745,
+      "starsInPeriod": 10
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "href": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 311,
+      "starsInPeriod": 13
+    },
+    {
+      "author": "p4gefau1t",
+      "name": "trojan-go",
+      "href": "https://github.com/p4gefau1t/trojan-go",
+      "description": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+      "language": "Go",
+      "stars": 0,
+      "forks": 304,
+      "starsInPeriod": 11
+    },
+    {
+      "author": "bxcodec",
+      "name": "go-clean-arch",
+      "href": "https://github.com/bxcodec/go-clean-arch",
+      "description": "Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture",
+      "language": "Go",
+      "stars": 0,
+      "forks": 483,
+      "starsInPeriod": 8
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "href": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": 0,
+      "forks": 165,
+      "starsInPeriod": 80
+    },
+    {
+      "author": "Dreamacro",
+      "name": "clash",
+      "href": "https://github.com/Dreamacro/clash",
+      "description": "A rule-based tunnel in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 1400,
+      "starsInPeriod": 72
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "href": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 5161,
+      "starsInPeriod": 65
+    },
+    {
+      "author": "lovoo",
+      "name": "goka",
+      "href": "https://github.com/lovoo/goka",
+      "description": "Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.",
+      "language": "Go",
+      "stars": 0,
+      "forks": 98,
+      "starsInPeriod": 52
+    }
+  ]
+}
